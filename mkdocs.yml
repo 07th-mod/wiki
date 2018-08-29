@@ -1,0 +1,26 @@
+site_name: 07th-Mod - User Wiki
+site_url: https://07th-mod.com
+repo_url: https://github.com/07th-mod
+repo_name: 07th-Mod (Organization)
+copyright: All Nipahs Reserved
+site_dir: wiki
+edit_uri: null
+nav:
+    - Home: index.md
+    - Rules: Rules.md
+    - Donations: Donations.md
+    - Reporting Issues: Support.md
+    - Contribution Guide: Beginners-guide.md
+    - <b>Higurashi</b>:
+        - Intro: Higurashi/Higurashi-Getting-started.md
+        - Voice and Graphics Patch: Higurashi/Higurashi-Part-1---Voice-and-Graphics-Patch.md
+        - Configuration and keyboard shortcuts: Higurashi/Higurashi-Part-2---Patch-configuration-and-keyboard-shortcuts.md
+        - Voices-only Patch: Higurashi/Higurashi-Part-1.1---Voices-only-Patch.md
+        - FAQ: Higurashi/FAQ.md
+    - <b>Umineko</b>:
+        - Intro: Umineko/Umineko-Getting-started.md
+        - Voice and Graphics Patch: Umineko/Umineko-Part-1---Voice-and-Graphics-Patch.md
+        - Voices-only Patch: Umineko/Umineko-Part-1.1---Voices-only-Patch.md
+        - Troubleshooting: Umineko/Umineko-Part-0-TroubleShooting-and-FAQ.md
+        - Other Install Configurations: Umineko/Umineko-Part-2-Other-Install-Configurations.md
+theme: material

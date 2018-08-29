@@ -5,7 +5,7 @@ This wiki was created to substitute our current wiki at
 the source needed to test, edit and compile the wiki.
 
 ## Dependencies
-* Python 2.7
+* Python 2.7 or 3.4 and above
 * [mkdocs](https://www.mkdocs.org/)
 * [mkdocs-material](https://github.com/squidfunk/mkdocs-material)
 

@@ -8,14 +8,54 @@ Beware that some bugs and features might be missing in these patches, and we off
 
 # Downloads
 
-| Chapter | Patch | Voices | HD Ryukishi Sprites (optional) |
-|:---------------------:|:-----------------------------------------------------------------------------------:|:----------------------------------------------------------------:|:------------------------------------------------------------:|
-| Ch.1 - Onikakushi | [Download](https://github.com/07th-mod/onikakushi/releases/tag/v0.9.0) (unofficial) | [Download](https://07th-mod.com/nipah/Onikakushi-Voices.zip) | [Download](https://07th-mod.com/nipah/Onikakushi-HD.zip) |
-| Ch.2 - Watanagashi | [Download](https://github.com/07th-mod/watanagashi/archive/master.zip) | [Download](https://07th-mod.com/nipah/Watanagashi-Voices.zip) |  [Download](https://07th-mod.com/nipah/Watanagashi-HD.zip) |
-| Ch.3 - Tatarigoroshi | [Download](https://github.com/07th-mod/tatarigoroshi/releases/tag/v0.5.2) | [Download](https://07th-mod.com/nipah/Tatarigoroshi-Voices.zip) |  [Download](https://07th-mod.com/nipah/Tatarigoroshi-HD.zip) |
-| Ch.4 - Himatsubushi | [Download](https://github.com/07th-mod/himatsubushi/releases/tag/v0.5.1) | [Download](https://07th-mod.com/nipah/Himatsubushi-Voices.zip) | [Download](https://07th-mod.com/nipah/Himatsubushi-HD.zip) |
-| Ch.5 - Meakashi | [Download](https://github.com/07th-mod/meakashi/releases/tag/v0.5.0) | [Download](https://07th-mod.com/nipah/Meakashi-Voices.zip) | [Download](https://07th-mod.com/nipah/Meakashi-HD.zip) |
-| Ch.6 - Tsumihoroboshi | [Download](https://github.com/07th-mod/tsumihoroboshi/releases/tag/v0.1.0) | [Download](https://07th-mod.com/nipah/Tsumihoroboshi-Voices.zip) | [Download](https://07th-mod.com/nipah/Tsumihoroboshi-HD.zip) |
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: center;">Chapter</th>
+<th style="text-align: center;">Patch</th>
+<th style="text-align: center;">Voices</th>
+<th style="text-align: center;">HD Ryukishi Sprites (optional)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">Ch.1 - Onikakushi</td>
+<td style="text-align: center;"><a href="https://github.com/07th-mod/onikakushi/releases/tag/v0.9.0">Download</a> (unofficial)</td>
+<td style="text-align: center;"><a href="https://07th-mod.com/nipah/Onikakushi-Voices.zip">Download</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/nipah/Onikakushi-HD.zip">Download</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">Ch.2 - Watanagashi</td>
+<td style="text-align: center;"><a href="https://github.com/07th-mod/watanagashi/archive/master.zip">Download</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/nipah/Watanagashi-Voices.zip">Download</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/nipah/Watanagashi-HD.zip">Download</a></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">Ch.3 - Tatarigoroshi</td>
+<td style="text-align: center;"><a href="https://github.com/07th-mod/tatarigoroshi/releases/tag/v0.5.2">Download</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/nipah/Tatarigoroshi-Voices.zip">Download</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/nipah/Tatarigoroshi-HD.zip">Download</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">Ch.4 - Himatsubushi</td>
+<td style="text-align: center;"><a href="https://github.com/07th-mod/himatsubushi/releases/tag/v0.5.1">Download</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/nipah/Himatsubushi-Voices.zip">Download</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/nipah/Himatsubushi-HD.zip">Download</a></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">Ch.5 - Meakashi</td>
+<td style="text-align: center;"><a href="https://github.com/07th-mod/meakashi/releases/tag/v0.5.0">Download</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/nipah/Meakashi-Voices.zip">Download</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/nipah/Meakashi-HD.zip">Download</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">Ch.6 - Tsumihoroboshi</td>
+<td style="text-align: center;"><a href="https://github.com/07th-mod/tsumihoroboshi/releases/tag/v0.1.0">Download</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/nipah/Tsumihoroboshi-Voices.zip">Download</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/nipah/Tsumihoroboshi-HD.zip">Download</a></td>
+</tr>
+</tbody>
+</table>
 
 > Ch.2 Watanagashi voice patch is inside ``/dev/Update (voice only)``
 

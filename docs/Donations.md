@@ -16,7 +16,7 @@ Starting from July 2018, we started accepting donations to host our own server. 
 
 ## Why donations?
 
-Since the group started, with Higurashi (Ch.1 - Onikakushi) back in May 2015, our work has grown about three times in size, and the number of supported games is getting bigger every year, with not only patches but also full translations from console exclusive content. Consequently, we had to optimize our patches as much as we could so they would fit inside Github's limitations. This was extremely difficult because Github is not meant for storing big releases like we needed.
+Since the group started, with Higurashi (Ch.1 - Onikakushi) back in May 2015, our work has grown about three times in size, and the number of supported games is getting bigger every year, with not only patches but also full translations from console exclusive content. Consequently, we had to optimize our patches as much as we could so they would fit inside Github's limitations. This was extremely difficult because Github is not meant for storing big releases as we needed.
 
 With that in mind, we wanted to keep a friendly relationship with Github and avoid abusing the system, so we decided to start accepting donations to cover our server expenses.
 
@@ -51,11 +51,11 @@ Donators should also not get any special Discord perks, but this is up for discu
 
 In this section we have a small summary of the total donations received, but in the end, it is all about how much you trust us.
 
-> **Last updated: August 18, 2018**
+> **Last updated: November 11, 2018**
 > 
 > **Goal**: $200 <br>
-> **Donations total**: $133.55 (after Paypal donations tax) <br>
-> **$84.87** remaining to meet our goal <br>
+> **Donations total**: **$280.47** (after Paypal donations tax) <br>
+> **We reached our goal! Thank you for all the donations!**<br>
 
 ## What if you get way over your goal?
 

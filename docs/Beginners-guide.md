@@ -14,16 +14,25 @@ We review every pull request before merging them, so please make sure you are co
 
 ##### A few things you can help with
 There are lots of things you can help us do and most of them don't even require you to know a programming language in the first place. Check some below:
+
 * Help we solve open issues
     * Most of them are just people having trouble setting up their game to work with our patch. If you are good with computers, you should be able to help them.
+
+
 * Fix script typos, provide translations or add missing voices
     * Fixing typos isn't that hard at all. All you need is a good editor ([I like this one](https://code.visualstudio.com/). [This one is also very popular](https://www.sublimetext.com/). [And this one should be really good overall](https://atom.io/)). The learning curve shouldn't be that long, and you'll thank me later for learning it. But if you want to fix just *an type* (this was deliberate), the web interface should be enough.
     * Sometimes we want to add new scenes to the patch that are only available in Japanese. Do you know Japanese? If yes, awesome! We try our best to translate but if you ask me, I doubt we can actually pass as translators. If you are good at it, we really need your help!
     * Missing voices is actually a big issue in the game. Sometimes we just can't find the right voice because of censorship or script changes. But if you find something that is a perfect fit (or maybe even really close), add that to the game!
+
+
 * Add new features to the game
     * We're always trying to make the patches closer and closer to their consoles counterparts. If you have a pretty good knowledge of the engines and programming, maybe you can help us get even closer to it. Hop in the issues section and open something with the *enhancement* label. We will love it the most when you already have something to show, but if you are a computer monster you can even make a pull request directly. Just don't forget to properly document it so we know what you did there.
+
+
 * Squish all the bugs
     * Sometimes we just forget to put the brackets in the right place. If you find something like that when playing, how about trying to fix it? Check the editors a few lines above. Sometimes when the issue is too messy or you just don't know exactly how to fix it, just report it. Reporting is good and encouraged.
+
+
 * Improve the graphics
     * It's not a voice **and** graphics patch without the graphics. If you are good at Photoshop, Illustrator or anything that can improve the patch, let us know.
 

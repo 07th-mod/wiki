@@ -3,29 +3,68 @@ To get started, see the table below and pick the game and the kind of patch you 
 
 #### Supported Installation Options:
 
-| |**Question Arcs Ch.1~4**|**Answer Arcs Ch.5~8**
-:-----:|:-----:|:-----:
-Voice + Graphics, ADV Mode (Full Patch)*|No|[Automatic Installer + adv zip + adv script](https://07th-mod.com/wiki/Umineko/Umineko-Part-1---Voice-and-Graphics-Patch) 
-Voice + Graphics (Full Patch)|[Automatic Installer](https://07th-mod.com/wiki/Umineko/Umineko-Part-1---Voice-and-Graphics-Patch)|[Automatic Installer](https://07th-mod.com/wiki/Umineko/Umineko-Part-1---Voice-and-Graphics-Patch) 
-Voice Only|[Manual Install](https://07th-mod.com/wiki/Umineko/Umineko-Part-1.1---Voices-only-Patch)|[Manual Install](https://07th-mod.com/wiki/Umineko/Umineko-Part-1.1---Voices-only-Patch)
-Full Patch With Old Sprites | [Automatic Installer + Manual Modifications](https://07th-mod.com/wiki/Umineko/Umineko-Part-2-Other-Install-Configurations) | [Automatic Installer + Manual Modifications](https://07th-mod.com/wiki/Umineko/Umineko-Part-2-Other-Install-Configurations)
-Japanese Language Support|[Not Maintained/<br>Not Recommended](https://07th-mod.com/wiki/Umineko/Umineko-Part-2-Other-Install-Configurations) |No
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th><strong>Question Arcs Ch.1~4</strong></th>
+<th><strong>Answer Arcs Ch.5~8</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Voice + Graphics, ADV Mode (Full Patch)*</td>
+<td>No (Being worked on…)</td>
+<td><a href="https://07th-mod.com/wiki/Umineko/Umineko-Part-1---Voice-and-Graphics-Patch">Automatic Installer + adv zip + adv script</a></td>
+</tr>
+<tr class="even">
+<td>Voice + Graphics (Full Patch)</td>
+<td><a href="https://07th-mod.com/wiki/Umineko/Umineko-Part-1---Voice-and-Graphics-Patch">Automatic Installer</a></td>
+<td><a href="https://07th-mod.com/wiki/Umineko/Umineko-Part-1---Voice-and-Graphics-Patch">Automatic Installer</a></td>
+</tr>
+<tr class="odd">
+<td>Voice Only</td>
+<td><a href="https://07th-mod.com/wiki/Umineko/Umineko-Part-1.1---Voices-only-Patch">Manual Install</a></td>
+<td><a href="https://07th-mod.com/wiki/Umineko/Umineko-Part-1.1---Voices-only-Patch">Manual Install</a></td>
+</tr>
+<tr class="even">
+<td>Full Patch With Old Sprites</td>
+<td><a href="https://07th-mod.com/wiki/Umineko/Umineko-Part-2-Other-Install-Configurations">Automatic Installer + Manual Modifications</a></td>
+<td><a href="https://07th-mod.com/wiki/Umineko/Umineko-Part-2-Other-Install-Configurations">Automatic Installer + Manual Modifications</a></td>
+</tr>
+<tr class="odd">
+<td>Japanese Language Support</td>
+<td>Press 'Tab' In-game<br> (NOTE: doesn’t work in voice only mode)</td>
+<td>Press 'Tab' In-game<br> (NOTE: doesn’t work in ADV or voice only mode)</td>
+</tr>
+</tbody>
+</table>
 
 Quick Rundown of modes:
+
 - ADV Mode is where text appears in a textbox at the bottom of the screen, instead of convering the entire screen. [Click Here](https://07th-mod.com/wiki/Umineko/Umineko-Part-1---Voice-and-Graphics-Patch#adv--textbox-mode-for-chiru-only) for screenshots. The original PS3 game shipped with this mode.
-- Voice: All the voices from the PS3 game
 - Graphics: Graphics from the PS3 game, including sprites, CGs, backgrounds, etc. Certain features like shader effects and lipsync from the PS3 game aren't available.
 - Old Sprites: Sprites from the original game (Ryushiki Sprites) or Steam Sprites (Pachinko Sprites)
-- Japanese: Japanese mode isn't supported by us at the moment. There exists a script for the Question Arcs but it has not been maintained.
+- Voice Only: The 'Voice Only' patches only include the PS3 voices and no other changes.
 
 ## FAQ / Troubleshooting
 
 See the [Troubleshooting](https://07th-mod.com/wiki/Umineko/Umineko-Part-0-TroubleShooting-and-FAQ) page.
 
 ## Known Issues
+- Steam Sync is disabled (See [the "Steam Sync doesn't work!" FAQ](https://07th-mod.com/wiki/Umineko/Umineko-Part-0-TroubleShooting-and-FAQ#steam-sync-doesnt-work) if you wish to re-enable it)
 - For the Question Arcs, the voice quality near the start of the game is poor for some characters (sounds like a phasing effect). The raw PS3 audio files have this problem as well, so I don't think we can fix this. 
 
 ## News
+17-11-18: Add beta version of 1080p Question Arcs (previously resolution was 960p, resulting in some blurriness). You can install it via the installer or manually. Add ability to toggle language with 'Tab' button.
+
+2-10-18: Add Japanese Language mode (thanks Naoki!). Note: currently doesn't work for "Voice Only" or answer arcs "ADV mode", due to those versions using a different script.
+
 15-07-18: Some small changes to both arcs (to update you need both the latest script file and the latest update zip)
 - For Question arcs only, add the option to view the original game's videos since some consider the PS3 openings too spoilery. (Question arcs issue #101)
 - Use English title logo for Question arcs (Question arcs issue #100)

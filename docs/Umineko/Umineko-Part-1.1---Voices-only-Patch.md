@@ -2,10 +2,33 @@ So, you like the Ryukishi art. I get it, I also like it a lot. In that case, we 
 
 Beware that some bugs and features might be missing in these patches, and we offer absolutely no support for it. You're on your own!
 
-|        Chapter        |                                                                                             Patch<br>(Right-Click Save As...)                                                                                           |                                              Voices                                              |                                                                                                                                Executable                                                                                                                                |
-|:---------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Question Arcs  Ch.1~4 |                                        [Download](https://github.com/07th-mod/umineko-question/raw/voice_only/InDevelopment/ManualUpdates/0.utf)                                        |   [Download](https://07th-mod.com/Beato/Umineko-Voices.7z)   | [Windows](https://07th-mod.com/Beato-voice/Umineko1to4.exe) <br> [Mac](https://07th-mod.com/Beato-voice/Umineko1to4.app.zip) <br> [Linux](https://07th-mod.com/Beato-voice/Umineko1to4)  |
-|   Answer Arcs Ch.5~8  | [Download](https://github.com/07th-mod/umineko-answer/raw/master/voices-only/0.utf) <br> [Update 1](https://07th-mod.com/Bern/UminekoChiruVO-Update1.zip) | [Download](https://07th-mod.com/Bern/UminekoChiru-Voices.7z) |  [Windows](https://07th-mod.com/Bern-voice/Umineko5to8.exe) <br> [Mac](https://07th-mod.com/Bern-voice/Umineko5to8.app.zip) <br> [Linux](https://07th-mod.com/Bern-voice/Umineko5to8) |
+<table>
+<thead>
+<tr class="header">
+<th>Chapter</th>
+<th>Script (0.utf)<br>(Right-Click Save As…)</th>
+<th>Voices</th>
+<th>Executable</th>
+<th>Update</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Question Arcs Ch.1~4</td>
+<td><a href="https://github.com/07th-mod/umineko-question/raw/voice_only/InDevelopment/ManualUpdates/0.utf">Download</a></td>
+<td><a href="https://07th-mod.com/Beato/Umineko-Voices.7z">Download</a></td>
+<td><a href="https://07th-mod.com/Beato-voice/Umineko1to4.exe">Windows</a> <br> <a href="https://07th-mod.com/Beato-voice/Umineko1to4.app.zip">Mac</a> <br> <a href="https://07th-mod.com/Beato-voice/Umineko1to4">Linux</a></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Answer Arcs Ch.5~8</td>
+<td><a href="https://github.com/07th-mod/umineko-answer/raw/master/voices-only/0.utf">Download</a></td>
+<td><a href="https://07th-mod.com/Bern/UminekoChiru-Voices.7z">Download</a></td>
+<td><a href="https://07th-mod.com/Bern-voice/Umineko5to8.exe">Windows</a> <br> <a href="https://07th-mod.com/Bern-voice/Umineko5to8.app.zip">Mac</a> <br> <a href="https://07th-mod.com/Bern-voice/Umineko5to8">Linux</a></td>
+<td><a href="https://07th-mod.com/Bern/UminekoChiruVO-Update1.zip">Update 1</a></td>
+</tr>
+</tbody>
+</table>
 
 ## Regarding Saves (Please Read)
 
@@ -34,4 +57,4 @@ You can easily tweak the volume of the voices and music/sfx by changing some par
 
 ## Troubleshooting
 
-See the general [Troubleshooting](https://07th-mod/wiki/Umineko-Part-1---Voice-and-Graphics-Patch#troubleshooting) section on the 'full patch instructions' page.
+See the [Troubleshooting Page](https://07th-mod.com/wiki/Umineko/Umineko-Part-0-TroubleShooting-and-FAQ).

@@ -10,6 +10,7 @@ Rename your folder ``saves`` to ``mysav``, this should restore your progress whe
 #### My saves are all broken/shifted backwards/forwards in the game!
 
 The following can cause your saves to break:
+
 - Updating to a new script. If you need to update, finish a chapter first before updating the script.
 - Transferring your game from Windows 7 to Windows 10 (Or between operating systems)
 - Editing the script file, and adding/removing lines (editing existing lines is OK)
@@ -25,7 +26,7 @@ You forgot to rename the script file `0.utf` to `0.u` (located in the root game 
 
 #### I want to play with the original sprites/ryushi sprites/adv mode etc.
 
-See the [Other Install Configurations](https://07th-mod/wiki/Umineko-Part-2-Other-Install-Configurations) page.
+See the [Other Install Configurations](https://07th-mod.com/wiki/Umineko/Umineko-Part-2-Other-Install-Configurations) page.
 
 #### Linux/MacOSX - Missing libpng.so libraries when launching game outside Steam
 
@@ -58,12 +59,12 @@ That said, if you find there is some spoken dialogue which **never plays a voice
 
 #### Steam Sync doesn't work!
 
-Previously we had some issues with steam updating the game and loading 'patched' saves into the 'unpatched' script, which could potentially skip you forward in the game. To prevent this, we hid the save folder from Steam, as 'mysav'. Unfortunately, this also breaks Steam Sync.
+Previously we had some issues with steam updating the game and loading 'patched' saves into the 'unpatched' script, which could potentially skip you forward in the game. To prevent this, we hid the save folder from Steam, as `mysav`. Unfortunately, this also breaks Steam Sync.
 
 If you want to re-enable steam sync, you can do the following:
-- rename the 'saves' folder to 'saves_old' (if it exists)
-- double click the "EnableSteamSync.bat" (if you don't have it, [download this and rename it as a .bat file](https://github.com/07th-mod/resources/raw/master/umineko-question/utilities/EnableSteamSync.bat))
-- if successful, you should see a shortcut called "saves" appear in the game folder (might need to refresh the folder). If you double click it, you will see the contents of the "mysav" folder. This tricks steam into syncing the mysav folder.
+- rename the `saves` folder to `saves_old` (if it exists)
+- double click `EnableSteamSync.bat` (if you don't have it, [download this and rename it as a .bat file](https://github.com/07th-mod/resources/raw/master/umineko-question/utilities/EnableSteamSync.bat))
+- if successful, you should see a shortcut called `saves` appear in the game folder (might need to refresh the folder). If you double click it, you will see the contents of the `mysav` folder. This tricks steam into syncing the mysav folder.
 
 Please note that even if you move the game folder, your save files will still go into `...\Steam\steamapps\common\Umineko\mysav`, no matter where you place the game folder.
 
@@ -73,9 +74,11 @@ Please note that even if you move the game folder, your save files will still go
 If you have an issue with the game itself crashing or behaving very badly, please start the game in Debug mode by double clicking `Umineko5to8_DebugMode.bat` (if you don't have it, [download this and rename it as a .bat file](https://github.com/07th-mod/resources/raw/master/umineko-question/utilities/StartUminekoInDebugMode.bat)). Once you make game crash, submit the stdout.txt and stderr.txt text files to us. On Linux you can view errors by launching the game from a console window.
 
 You can send them to us on our Discord server: 
-- `#umi_support` @ https://discord.gg/acSbBtD. **Please do not post any spoilers there.**
 
-You can also submit them on our Github Issues page: 
+- `#umi_support` @ [https://discord.gg/acSbBtD](https://discord.gg/acSbBtD). **Please do not post any spoilers there.**
+
+You can also submit them on our Github Issues page:
+
 - [Question Arcs Issues Page](https://github.com/07th-mod/umineko-question/issues)
 - [Answer Arcs Issues Page](https://github.com/07th-mod/umineko-answer/issues)
 

@@ -3,7 +3,8 @@ Hello and welcome to 07th-Mod! This little guide should help you get around cont
 First things first, we hope you have already checked our [rules](https://github.com/07th-mod/guide/wiki/Rules). It's only a few of them and they should be pretty easy to follow.
 This article should let you know a few points about joining and collaborating with us. We really hope you stick around and help us as much as you can!
 
-# How do I start collaborating?
+## How do I start collaborating?
+
 We hope you are already familiarized with *git*. In case you have never used Git before, [this little interactive tutorial](https://try.github.io/levels/1/challenges/1) should get you up and running in 15 minutes.
 
 You can also make changes through the Github web interface, and that is welcome too! This won't require any extra software or command line knowledge and it is pretty straightforward like editing a document.
@@ -12,7 +13,8 @@ If you are doing changes directly related to our code (scripts, .dll and even pl
 
 We review every pull request before merging them, so please make sure you are committing the right changes. We will most likely accept your changes, but if you made a mistake that should take some time to fix, we will request you to revise your commits and submit it again. In case it's just incompatible, we will have no choice other than denying it.
 
-# A few things you can help with
+## A few things you can help with
+
 There are lots of things you can help us do and most of them don't even require you to know a programming language in the first place. Check some below:
 
 * Help we solve open issues
@@ -36,14 +38,18 @@ There are lots of things you can help us do and most of them don't even require 
 * Improve the graphics
     * It's not a voice **and** graphics patch without the graphics. If you are good at Photoshop, Illustrator or anything that can improve the patch, let us know.
 
-# Adding translations to the project
+## Adding translations to the project
+
 We directly endorse and want to help translations get the spotlight. Unfortunately, we can't bundle them in our project to avoid incompatibility, so we're sticking to English and Japanese *always*. But if you made a translation to [insert language here], please let us know. We can feature it on our wiki at the [Getting started](https://github.com/07th-mod/guide/wiki/Higurashi-Getting-started) section for Higurashi or Umineko. It doesn't even need to be finished to be added, as long as it is active we will add it.
 
-#### Can you feature my fork?
+## Can you feature my fork?
+
 If you made a fork that is different from our project and feel like more people should know about it, please let us know. We'll take a look at the fork and make sure it gets some love. It will be really helpful if your fork has proper documentation (just a well-written readme will do).
 
-#### I want the *member* tag, how and when will I get it?
+## I want the *member* tag, how and when will I get it?
+
 Well, we don't exactly give writing permissions *for free*. At first, everyone currently holding this tag had to work towards getting it. This tag means we trust you to make changes in the repository and make sure you will not break it or do anything that should hurt the project. For that reason, we always ask collaborators to be active in the community, help solving issues and further developing the patch. After some time, you should receive an invite to officially join the group.
 
-#### Will my work be credited?
+## Will my work be credited?
+
 Yes, it will. Any contributions will be credited, though we have a hard time keeping track of every contribution. In case you do a collaboration that you feel you deserve to be credited for, it will help a lot to just make the change in the readme yourself. 

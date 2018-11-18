@@ -3,7 +3,7 @@ Hello and welcome to 07th-Mod! This little guide should help you get around cont
 First things first, we hope you have already checked our [rules](https://github.com/07th-mod/guide/wiki/Rules). It's only a few of them and they should be pretty easy to follow.
 This article should let you know a few points about joining and collaborating with us. We really hope you stick around and help us as much as you can!
 
-#### How do I start collaborating?
+# How do I start collaborating?
 We hope you are already familiarized with *git*. In case you have never used Git before, [this little interactive tutorial](https://try.github.io/levels/1/challenges/1) should get you up and running in 15 minutes.
 
 You can also make changes through the Github web interface, and that is welcome too! This won't require any extra software or command line knowledge and it is pretty straightforward like editing a document.
@@ -12,7 +12,7 @@ If you are doing changes directly related to our code (scripts, .dll and even pl
 
 We review every pull request before merging them, so please make sure you are committing the right changes. We will most likely accept your changes, but if you made a mistake that should take some time to fix, we will request you to revise your commits and submit it again. In case it's just incompatible, we will have no choice other than denying it.
 
-##### A few things you can help with
+# A few things you can help with
 There are lots of things you can help us do and most of them don't even require you to know a programming language in the first place. Check some below:
 
 * Help we solve open issues
@@ -36,7 +36,7 @@ There are lots of things you can help us do and most of them don't even require 
 * Improve the graphics
     * It's not a voice **and** graphics patch without the graphics. If you are good at Photoshop, Illustrator or anything that can improve the patch, let us know.
 
-#### Adding translations to the project
+# Adding translations to the project
 We directly endorse and want to help translations get the spotlight. Unfortunately, we can't bundle them in our project to avoid incompatibility, so we're sticking to English and Japanese *always*. But if you made a translation to [insert language here], please let us know. We can feature it on our wiki at the [Getting started](https://github.com/07th-mod/guide/wiki/Higurashi-Getting-started) section for Higurashi or Umineko. It doesn't even need to be finished to be added, as long as it is active we will add it.
 
 #### Can you feature my fork?

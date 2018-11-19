@@ -20,12 +20,12 @@ To get started, see the table below and pick the game and the kind of patch you 
 <tr class="odd">
 <td>Voice + Graphics, ADV Mode (Full Patch)*</td>
 <td>No (Being worked on…)</td>
-<td><a href="https://07th-mod.com/wiki/Umineko/Umineko-Part-1---Voice-and-Graphics-Patch">Automatic Installer + adv zip + adv script</a></td>
+<td><a href="https://07th-mod.com/wiki/Umineko/Umineko-Part-1---Voice-and-Graphics-Patch">Adv Addon to base game</a></td>
 </tr>
 <tr class="even">
 <td>Voice + Graphics (Full Patch)</td>
-<td><a href="https://07th-mod.com/wiki/Umineko/Umineko-Part-1---Voice-and-Graphics-Patch">Automatic Installer</a></td>
-<td><a href="https://07th-mod.com/wiki/Umineko/Umineko-Part-1---Voice-and-Graphics-Patch">Automatic Installer</a></td>
+<td><a href="https://07th-mod.com/wiki/Umineko/Umineko-Part-1---Voice-and-Graphics-Patch">Automatic Installer or Manually</a></td>
+<td><a href="https://07th-mod.com/wiki/Umineko/Umineko-Part-1---Voice-and-Graphics-Patch">Automatic Installer or Manually</a></td>
 </tr>
 <tr class="odd">
 <td>Voice Only</td>
@@ -34,8 +34,8 @@ To get started, see the table below and pick the game and the kind of patch you 
 </tr>
 <tr class="even">
 <td>Full Patch With Old Sprites</td>
-<td><a href="https://07th-mod.com/wiki/Umineko/Umineko-Part-2-Other-Install-Configurations">Automatic Installer + Manual Modifications</a></td>
-<td><a href="https://07th-mod.com/wiki/Umineko/Umineko-Part-2-Other-Install-Configurations">Automatic Installer + Manual Modifications</a></td>
+<td><a href="https://07th-mod.com/wiki/Umineko/Umineko-Part-2-Other-Install-Configurations">Automatic Installer or Manually + Manual Modifications</a></td>
+<td><a href="https://07th-mod.com/wiki/Umineko/Umineko-Part-2-Other-Install-Configurations">Automatic Installer or Manually + Manual Modifications</a></td>
 </tr>
 <tr class="odd">
 <td>Japanese Language Support</td>

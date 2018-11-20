@@ -9,4 +9,4 @@
 
 This wiki should help you clear any doubts about installation, common issues and where to get the resources to patch your game.
 
-<small>his is a super secret message. If you see this in our wiki, that means updates are being deployed automatically.</small>
+<small>This is a super secret message. If you see this in our wiki, that means updates are being deployed automatically.</small>

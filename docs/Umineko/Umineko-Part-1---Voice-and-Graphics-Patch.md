@@ -144,7 +144,7 @@ Follow the table below to download all the pieces to install the patch:
 <tbody>
 <tr class="odd">
 <td>Question Arcs (Ch.1~4)</td>
-<td><a href="https://github.com/07th-mod/umineko-question/raw/master/InDevelopment/ManualUpdates/0.utf">Download<br>(Right Click,<br>Save As)</a></td>
+<td><a href="http://07th-mod.com/download.php?repository=umineko-question&file=master/InDevelopment/ManualUpdates/0.utf">Download 0.u</a></td>
 <td><a href="https://07th-mod.com/Beato/Umineko-Voices.7z">Download</a></td>
 <td><a href="https://07th-mod.com/Beato/Umineko-Graphics.zip.001">Part 1</a> <br> <a href="https://07th-mod.com/Beato/Umineko-Graphics.zip.002">Part 2</a> <br> <a href="https://07th-mod.com/Beato/Umineko-Graphics.zip.003">Part 3</a></td>
 <td><a href="https://07th-mod.com/Beato/Umineko1to4.exe">Windows</a> <br> <a href="https://07th-mod.com/Beato/0utf_umineko1to4.app.zip">Mac</a> <br> <a href="https://07th-mod.com/Beato/Umineko1to4">Linux</a></td>
@@ -152,7 +152,7 @@ Follow the table below to download all the pieces to install the patch:
 </tr>
 <tr class="even">
 <td>Question Arcs 1080p <strong>Beta</strong></td>
-<td><a href="https://github.com/07th-mod/umineko-question/raw/1080p/InDevelopment/ManualUpdates/0.utf">Download<br>(Right Click,<br>Save As)</a></td>
+<td><a href="http://07th-mod.com/download.php?repository=umineko-question&file=1080p/InDevelopment/ManualUpdates/0.utf">Download 0.u</a></td>
 <td><a href="https://07th-mod.com/Beato/Umineko-Voices.7z">Download</a></td>
 <td><a href="https://07th-mod.com/Beato/1080p/Umineko-Graphics-1080p.7z">1080p Graphics</a></td>
 <td><a href="https://07th-mod.com/Beato/1080p/Umineko1to4.exe">Windows</a> <br> <a href="https://07th-mod.com/Beato/1080p/0utf_umineko1to4_1080p.zip">Mac</a> <br> <a href="https://07th-mod.com/Beato/1080p/Umineko1to4">Linux</a></td>
@@ -177,7 +177,7 @@ Follow the table below to download all the pieces to install the patch:
 <tbody>
 <tr class="odd">
 <td>Answer Arcs (Ch.5~8)</td>
-<td><a href="https://github.com/07th-mod/umineko-answer/raw/master/0.utf">Download<br>(Right Click,<br>Save As)</a></td>
+<td><a href="http://07th-mod.com/download.php?repository=umineko-answer&file=master/0.utf">Download 0.u</td>
 <td><a href="https://07th-mod.com/Bern/UminekoChiru-Voices.7z">Download</a></td>
 <td><a href="https://07th-mod.com/Bern/UminekoChiru-Graphics.7z.001">Part 1</a> <br> <a href="https://07th-mod.com/Bern/UminekoChiru-Graphics.7z.002">Part 2</a> <br> <a href="https://07th-mod.com/Bern/UminekoChiru-Graphics.7z.003">Part 3</a></td>
 <td><a href="https://07th-mod.com/Bern/Umineko5to8.exe">Windows</a> <br> <a href="https://07th-mod.com/Bern/0utf_Umineko5to8.app.zip">Mac</a> <br> <a href="https://07th-mod.com/Bern/Umineko5to8">Linux</a></td>
@@ -185,7 +185,7 @@ Follow the table below to download all the pieces to install the patch:
 </tr>
 <tr class="even">
 <td>Answer Arcs ADV Mode Addon (instructions at end of page)</td>
-<td><a href="https://github.com/07th-mod/umineko-answer/raw/adv_mode/0.utf">Download<br>(Right Click,<br>Save As)</a></td>
+<td><a href="http://07th-mod.com/download.php?repository=umineko-answer&file=adv_mode/0.utf">Download 0.u</td>
 <td></td>
 <td></td>
 <td></td>
@@ -212,18 +212,18 @@ Common steps are the same for all platforms. The remaining steps are **different
 
 ### Windows
 
-6. Put the patched ``0.utf`` file inside the folder **and** rename it to ``0.u`` (yes, ``.u`` instead of ``.utf``)
+6. Put the patched ``0.u`` file inside the game folder.
 7. Backup the old .exe. For the **Question Arcs**, rename `Umineko1to4.exe` to `Umineko1to4_old.exe`. For the **Answer Arcs**, rename `Umineko5to8.exe` to `Umineko5to8_old.exe`.
 8. Install the new .exe (the one you downloaded from this page). For the **Question arcs**, put the patched `Umineko1to4.exe` in the game folder. For the **Answer Arcs**, put the patched `Umineko5to8.exe` inside the folder.
 
 
 ### Linux
-6. Put the patched ``0.utf`` file inside the folder **and** rename it to ``0.u`` (yes, ``.u`` instead of ``.utf``)
+6. Put the patched ``0.u`` file inside the game folder.
 7. Backup the old .exe. For the **Question Arcs**, rename `Umineko1to4` to `Umineko1to4_old`. For the **Answer Arcs**, rename `Umineko5to8` to `Umineko5to8_old`.
 8. Install the new .exe (the one you downloaded from this page). For the **Question arcs**, put the patched `Umineko1to4` in the game folder. For the **Answer Arcs**, put the patched `Umineko5to8` inside the folder.
 
 ### Mac
-6. Put the patched ``0.utf`` file inside the folder. DO NOT RENAME IT.
+6. Put the patched ``0.u`` file inside the folder **and** rename it to ``0.utf``
 7. Backup the old .exe. This is the file with a character image on it (.app file), but the `.app` part may be hidden. For the **Question Arcs**, rename `Umineko1to4.app` to `Umineko1to4_old.app`. For the **Answer Arcs**, rename `Umineko5to8.app` to `Umineko5to8_old.app`.
 8. **IMPORTANT**: MacOSX will try to prevent you from extracting the new, patched `.app` into the game folder! To get around this, you must extract it **outside the game folder** (preferably to your desktop or another personal folder). After you have extracted the .app file, you can then copy it to the root of the game folder (where the old one used to be). Extract  ``Umineko1to4.app.zip`` for the **Question Arcs** and ``Umineko5to8.app.zip`` for the **Answer Arcs**. 
 

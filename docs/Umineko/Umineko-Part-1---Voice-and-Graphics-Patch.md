@@ -179,7 +179,7 @@ Follow the table below to download all the pieces to install the patch:
 <td>Answer Arcs (Ch.5~8)</td>
 <td><a href="http://07th-mod.com/download.php?repository=umineko-answer&file=master/0.utf">Download 0.u</td>
 <td><a href="https://07th-mod.com/Bern/UminekoChiru-Voices.7z">Download</a></td>
-<td><a href="https://07th-mod.com/Bern/UminekoChiru-Graphics.7z.001">Part 1</a> <br> <a href="https://07th-mod.com/Bern/UminekoChiru-Graphics.7z.002">Part 2</a> <br> <a href="https://07th-mod.com/Bern/UminekoChiru-Graphics.7z.003">Part 3</a></td>
+<td><a href="https://07th-mod.com/Bern/UminekoChiru-Graphics.7z">Download</a></td>
 <td><a href="https://07th-mod.com/Bern/Umineko5to8.exe">Windows</a> <br> <a href="https://07th-mod.com/Bern/0utf_Umineko5to8.app.zip">Mac</a> <br> <a href="https://07th-mod.com/Bern/Umineko5to8">Linux</a></td>
 <td><a href="https://07th-mod.com/Bern/UminekoChiru-Update-v3_2018_07_15.zip">Update v3 (2018-07-15)</a></td>
 </tr>

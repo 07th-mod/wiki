@@ -181,7 +181,7 @@ Follow the table below to download all the pieces to install the patch:
 <td><a href="https://07th-mod.com/Bern/UminekoChiru-Voices.7z">Download</a></td>
 <td><a href="https://07th-mod.com/Bern/UminekoChiru-Graphics.7z">Download</a></td>
 <td><a href="https://07th-mod.com/Bern/Umineko5to8.exe">Windows</a> <br> <a href="https://07th-mod.com/Bern/0utf_Umineko5to8.app.zip">Mac</a> <br> <a href="https://07th-mod.com/Bern/Umineko5to8">Linux</a></td>
-<td><a href="https://07th-mod.com/Bern/UminekoChiru-Update-v3_2018_07_15.zip">Update v3 (2018-07-15)</a></td>
+<td>No Updates</td>
 </tr>
 <tr class="even">
 <td>Answer Arcs ADV Mode Addon (instructions at end of page)</td>
@@ -204,7 +204,7 @@ Common steps are the same for all platforms. The remaining steps are **different
 
 2. Extract the voices archive  inside the game folder. The archive is called ``Umineko-Voices.zip`` for the **Question Arcs** and ``UminekoChiru-Voices.7z`` for the **Answer Arcs**
 
-3. Extract the latest update archive (`Update V[number].zip`) inside the game folder. Overwrite all files if asked.
+3. Extract the latest update archive, if available, (`Update V[number].zip`) inside the game folder. Overwrite all files if asked.
 
 4. Rename the file ``0.utf`` inside your Umineko folder to ``0_old.utf`` (Backup the original script)
 

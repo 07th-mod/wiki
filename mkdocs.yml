@@ -21,6 +21,6 @@ nav:
         - Intro: Umineko/Umineko-Getting-started.md
         - Voice and Graphics Patch: Umineko/Umineko-Part-1---Voice-and-Graphics-Patch.md
         - Voices-only Patch: Umineko/Umineko-Part-1.1---Voices-only-Patch.md
-        - Troubleshooting: Umineko/Umineko-Part-0-TroubleShooting-and-FAQ.md
+        - FAQ/Troubleshooting: Umineko/Umineko-Part-0-TroubleShooting-and-FAQ.md
         - Other Install Configurations: Umineko/Umineko-Part-2-Other-Install-Configurations.md
 theme: material

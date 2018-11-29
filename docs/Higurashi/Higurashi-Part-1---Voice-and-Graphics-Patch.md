@@ -167,11 +167,28 @@ Follow the table below to download all the pieces to install the patch:
 > * On Linux: ``p7zip`` in your package manager
 > * On Mac: [Keka](https://www.keka.io)
 
+
+**On Windows or Linux (any distro):**
 1. Find and open your game folder 
     * On Steam: open your Steam library, choose the game from the list, right click on it and click on ``Properties``. Switch to the ``LOCAL FILES`` tab and click on ``Browse local files...``)
 2. After downloading all the files needed for your version of the game, place them in the root folder (where the game ``.exe`` is)
 3. Navigate inside ``HigurashiEp0*_Data/StreamingAssets`` (where ``*`` is the chapter number) and **delete** the folders ``CG`` and ``CGAlt``
-    * This is not a requirement but we recommend to delete the mentioned folders to save disk space and avoid any random issues.
+    * This is not a requirement but we recommend to delete the mentioned folders to save disk space and avoid any random issues
 4. Select all the downloaded files placed in the root directory **EXCEPT** the file called ``[CHAPTER TITLE].Voice.and.Graphics.Patch.[VERSION NUMBER].zip`` and extract them (protip: use ``Extract Here`` from the context menu)
-    * Extract the mentioned file after extracting all the others. Overwrite all files if asked.
+    * Extract the mentioned file after extracting all the others. Overwrite all files if asked
 5. Delete all the downloaded files after ensuring the game is working as expected
+
+**On Mac OSX:**
+> Mac users can normally follow the Windows instructions, but if the slightly different folders confuse you, try these steps:
+
+1. Find and open your game folder 
+    * On Steam: open your Steam library, choose the game from the list, right click on it and click on ``Properties``. Switch to the ``LOCAL FILES`` tab and click on ``Browse local files...``)
+2. After downloading all the files needed for your version of the game, place them in ``Resources/Data``
+3. Navigate inside ``Resources/Data/StreamingAssets`` and **delete** the folders ``CG`` and ``CGAlt``
+    * This is not a requirement but we recommend to delete the mentioned folders to save disk space and avoid any random issues
+4. Navigate back to ``Resources/Data`` and extract the downloaded files in any oder **EXCEPT** the file called ``[CHAPTER TITLE].Voice.and.Graphics.Patch.[VERSION NUMBER].zip``
+    * Extract the mentioned file after extracting all the others. Overwrite all files if asked
+5. Open a **terminal window** in the``Data`` folder. [Follow these steps if you don't know how to do it](https://stackoverflow.com/a/7054045).
+    1. In the terminal window, type: ``rsync -avP HigurashiEp*/* .`` and hit enter
+    2. Wait until the files are copied to the right place
+6. Delete all the downloaded files and any leftover ``HigurashiEp**_Data`` folders after ensuring the game is working as expected

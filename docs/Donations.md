@@ -23,8 +23,8 @@ With that in mind, we wanted to keep a friendly relationship with Github and avo
 ## What are the advantages of hosting our own server?
 
 * **For you, the user:**
-    1. Downloads will be a lot more stable and faster (say goodbye to broken installations using our installer).
-    2. Patches can now go beyond 2gb without being split into multiple files (Umineko has five 2gb parts in Github, in our server it will have only one).
+    1. Downloads will be a lot more stable and faster (say goodbye to broken installations because of connection timeouts).
+    2. Patches can now go beyond 2gb without being split into multiple files (Umineko had five 2gb parts in Github, in our server it has only one).
     3. A central hub (https://07th-mod.com - already available!) with all the important information about our patches easily accessible.
     4. Patch structure remake will make the installation take fewer steps if you are installing it manually.
 

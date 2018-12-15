@@ -156,7 +156,10 @@ Follow the table below to download all the pieces to install the patch:
 <td><a href="https://07th-mod.com/Beato/Umineko-Voices.7z">Download</a></td>
 <td><a href="https://07th-mod.com/Beato/1080p/Umineko-Graphics-1080p.7z">1080p Graphics</a></td>
 <td><a href="https://07th-mod.com/Beato/1080p/Umineko1to4.exe">Windows</a> <br> <a href="https://07th-mod.com/Beato/1080p/0utf_umineko1to4_1080p.zip">Mac</a> <br> <a href="https://07th-mod.com/Beato/1080p/Umineko1to4">Linux</a></td>
-<td>Choose <strong>one</strong> <br> <a href="https://07th-mod.com/Beato/1080p/Umineko-Update-1080p-v1_2018_11_05_WINDOWS.7z">1080p Update WINDOWS</a> <br> <a href="https://07th-mod.com/Beato/1080p/Umineko-Update-1080p-v1_2018_11_05_MAC_LINUX.7z">1080p Update LINUX/MAC</a></td>
+<td>Choose <strong>one</strong>
+    <br> <a href="https://07th-mod.com/Beato/1080p/Umineko-Update-1080p-v2_2018_12_15_WINDOWS.7z">1080p Update WINDOWS</a>
+    <br> <a href="https://07th-mod.com/Beato/1080p/Umineko-Update-1080p-v2_2018_12_15_MAC_LINUX.7z">1080p Update LINUX/MAC</a>
+</td>
 </tr>
 </tbody>
 </table>

@@ -1,8 +1,10 @@
 # 07th-Mod Wiki
 
-This wiki was created to substitute our current wiki at 
-[guide/wiki](https://github.com/07th-mod/guide/wiki). It uses mkdocs to build and serve the files, this is 
-the source needed to test, edit and compile the wiki.
+This wiki was created to substitute the old Github wiki. It uses mkdocs to build and serve the files.
+This repository contains the source needed to test, edit and compile the wiki.
+
+The compiled wiki is hosted on our website, at http://07th-mod.com/wiki/ . The website will periodically
+update according to the changes made in this repository (it may be some time before the changes are seen).
 
 ## Dependencies
 * Python 2.7 or 3.4 and above
@@ -28,3 +30,8 @@ website
 2. Translate all the files and edit ``mkdocs.yml`` with your changes.
 3. **Do not send a pull request with translations!** We recommend letting us know of your fork, we will 
 build from the source and add it to our wiki.
+
+### Old Github Wiki
+
+The old github wiki can be found at https://github.com/07th-mod/guide/wiki (**OLD/DEPRECIATED**).
+However the content there is out of date, and **should not be used for to install the mods**.

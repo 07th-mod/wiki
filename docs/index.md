@@ -8,3 +8,5 @@
 07th-mod is a group created with the purpose of modding all 07th-Expansion games released officially on Steam (and outside too) with PS3 graphics or any alternatives available.
 
 This wiki should help you clear any doubts about installation, common issues and where to get the resources to patch your game.
+
+<small>Are you seeing this message? Lucky you! That means our servers are doing a good job.</small>

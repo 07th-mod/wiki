@@ -241,7 +241,9 @@ Try step 8 again if you get this error.
 ----
 ### All Platforms - Folder Verification
 
-Your folder structure should be something like this after you are finished. If it is not, you probably extracted to a subfolder by accident - To fix this, move the files out of the subfolder and into the root directory.
+Your folder structure should be something like this after you are finished. If it doesn't, you probably extracted to a subfolder by accident - To fix this, move the files out of the subfolder and into the root directory.
+
+For the Question arcs:
 
 ```
 BGM
@@ -256,6 +258,26 @@ SE
 sys_se
 voice   //important - voices
 ```
+
+For the Answer arcs:
+
+```
+bg      //important - backgrounds
+cg      //important - special/cutscene images
+BGM
+big     //important - graphics
+bmp     //important - graphics
+en      //important - graphics
+fonts
+ME
+movie
+(mysav) //generated when you run the game
+SE
+sprites //important - character sprites
+sys_se
+voice   //important - voices
+```
+
 ### All Platforms - File Verification
 
 Ensure that you have your `0.u` or `0.utf` (depending on your platform), and your patched `Umineko1to4.exe`, `Umineko1to4`, or `Umineko1to4.app` is present in the root of the game folder.

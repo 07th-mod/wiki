@@ -187,12 +187,12 @@ Follow the table below to download all the pieces to install the patch:
 <td>No Updates</td>
 </tr>
 <tr class="even">
-<td>Answer Arcs ADV Mode Addon (instructions at end of page)</td>
-<td><a href="http://07th-mod.com/download.php?repository=umineko-answer&file=adv_mode/0.utf">Download 0.u</td>
+<td>Answer Arcs ADV Mode Addon</td>
+<td>See bottom of page</td>
 <td></td>
 <td></td>
 <td></td>
-<td><a href="https://07th-mod.com/Bern/UminekoChiru-ADV_Mode.7z">ADV Assets</a></td>
+<td>See bottom of page</td>
 </tr>
 </tbody>
 </table>
@@ -200,6 +200,8 @@ Follow the table below to download all the pieces to install the patch:
 ### How to install the patch manually 
 
 Common steps are the same for all platforms. The remaining steps are **different** - please be aware of this!
+
+**WARNING**: Make sure you extract any archives directly, without creating a subfolder! If your extraction tool has created an extra subfolder (probably with the same name as the archive), please manually move the files out of the subfolder and into the root game directory, **otherwise the game won't be able to detect the files!**  
 
 #### Common Steps (Windows, Linux, and Mac)
 
@@ -306,8 +308,25 @@ If you don't want to use the installer, you can (in most cases) update the game 
 
 ## ADV Mode (Chiru/Answer arcs ONLY)
 
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th>Script</th>
+<th>Updates</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ADV Mode Addon</td>
+<td><a href="http://07th-mod.com/download.php?repository=umineko-answer&file=adv_mode/0.utf">0.u Script</td>
+<td><a href="https://07th-mod.com/Bern/UminekoChiru-ADV_Mode.7z">ADV Assets</a></td>
+</tr>
+</tbody>
+</table>
+
 ADV Mode (textbox at bottom of screen like in the PS3 Game) is for Chiru/Answer arcs ONLY! Do not attempt to install it for the question arcs!
 
-1. Ensure that you have a working release of the full graphics patch of the Chiru Answer Arcs (Scroll back to top of this page to install it). There is currently no ADV mode for the question arcs.
-2. Download the ADV mode 0.utf: [Right-Click this link to download 0.utf](https://github.com/07th-mod/umineko-answer/raw/adv_mode/0.utf). Replace the existing 0.u with the adv-mode 0.utf (rename it as 0.u).
-3. Download and Unzip the assets: [ADV Assets download](https://07th-mod.com/Bern/UminekoChiru-ADV_Mode.7z) into the game folder (should replace existing fonts and add textbox folder).
+1. Ensure that you have a working release of the full graphics patch of the Chiru Answer Arcs (Scroll back up this page to install it). There is currently no ADV mode for the question arcs.
+2. Download the ADV mode **0.u Script** listed above and **replace** the existing 0.u file
+3. Download and Unzip the **ADV Assets** archive listed above into the game folder (Check that it creates the following folders: `fonts_adv`, `textbox`, `textbox_black`).

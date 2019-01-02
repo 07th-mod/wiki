@@ -36,7 +36,7 @@ The new method makes the installation process very fast and painless.
 
 Follow the table below to download all the pieces to install the patch:
 
-> **Downloads that can be skipped**: Steam sprites patch,  UI Mod and. For the full experience, download all the packs.
+> **Downloads that can be skipped**: Steam sprites patch,  UI Mod and opening video. For the full experience, download all the packs.
 
 #### Console Arcs
 

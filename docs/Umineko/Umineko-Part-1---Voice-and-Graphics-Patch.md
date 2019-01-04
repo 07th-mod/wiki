@@ -138,7 +138,8 @@ Follow the table below to download all the pieces to install the patch:
 <th>Voices</th>
 <th>Graphics</th>
 <th>Executable</th>
-<th>Updates</th>
+<th>Update 1</th>
+<th>Update 2</th>
 </tr>
 </thead>
 <tbody>
@@ -149,6 +150,7 @@ Follow the table below to download all the pieces to install the patch:
 <td><a href="https://07th-mod.com/Beato/Umineko-Graphics.zip.001">Part 1</a> <br> <a href="https://07th-mod.com/Beato/Umineko-Graphics.zip.002">Part 2</a> <br> <a href="https://07th-mod.com/Beato/Umineko-Graphics.zip.003">Part 3</a></td>
 <td><a href="https://07th-mod.com/Beato/Umineko1to4.exe">Windows</a> <br> <a href="https://07th-mod.com/Beato/0utf_umineko1to4.app.zip">Mac</a> <br> <a href="https://07th-mod.com/Beato/Umineko1to4">Linux</a></td>
 <td><a href="https://07th-mod.com/Beato/Umineko-Update-v5_2018_07_15.zip">Update v5 (2018-07-15)</a></td>
+<td>N/A</td>
 </tr>
 <tr class="even">
 <td>Question Arcs 1080p <strong>Beta</strong></td>
@@ -156,9 +158,11 @@ Follow the table below to download all the pieces to install the patch:
 <td><a href="https://07th-mod.com/Beato/Umineko-Voices.7z">Download</a></td>
 <td><a href="https://07th-mod.com/Beato/1080p/Umineko-Graphics-1080p.7z">1080p Graphics</a></td>
 <td><a href="https://07th-mod.com/Beato/1080p/Umineko1to4.exe">Windows</a> <br> <a href="https://07th-mod.com/Beato/1080p/0utf_umineko1to4_1080p.zip">Mac</a> <br> <a href="https://07th-mod.com/Beato/1080p/Umineko1to4">Linux</a></td>
-<td>Choose <strong>one</strong>
-    <br> <a href="https://07th-mod.com/Beato/1080p/Umineko-Update-1080p-v2_2018_12_15_WINDOWS.7z">1080p Update WINDOWS</a>
-    <br> <a href="https://07th-mod.com/Beato/1080p/Umineko-Update-1080p-v2_2018_12_15_MAC_LINUX.7z">1080p Update LINUX/MAC</a>
+<td><a href="https://07th-mod.com/Beato/1080p/Umineko-Update-1080p-Rolling-ALL-OS.7z">1080p Rolling Update</a></td>
+<td>
+Choose <strong>one</strong>:
+    <br> <a href="https://07th-mod.com/Beato/1080p/Umineko-Update-1080p-v3_2019_01_03_WINDOWS.7z">-WINDOWS</a>
+    <br> <a href="https://07th-mod.com/Beato/1080p/Umineko-Update-1080p-v3_2019_01_03_MAC_LINUX.7z">-LINUX/MAC</a>
 </td>
 </tr>
 </tbody>

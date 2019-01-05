@@ -138,8 +138,8 @@ Follow the table below to download all the pieces to install the patch:
 <th>Voices</th>
 <th>Graphics</th>
 <th>Executable</th>
-<th>Update 1</th>
-<th>Update 2</th>
+<th>Updates (DL all)</th>
+<th>Update (OS Specific)</th>
 </tr>
 </thead>
 <tbody>
@@ -158,7 +158,11 @@ Follow the table below to download all the pieces to install the patch:
 <td><a href="https://07th-mod.com/Beato/Umineko-Voices.7z">Download</a></td>
 <td><a href="https://07th-mod.com/Beato/1080p/Umineko-Graphics-1080p.7z">1080p Graphics</a></td>
 <td><a href="https://07th-mod.com/Beato/1080p/Umineko1to4.exe">Windows</a> <br> <a href="https://07th-mod.com/Beato/1080p/0utf_umineko1to4_1080p.zip">Mac</a> <br> <a href="https://07th-mod.com/Beato/1080p/Umineko1to4">Linux</a></td>
-<td><a href="https://07th-mod.com/Beato/1080p/Umineko-Update-1080p-Rolling-ALL-OS.7z">1080p Rolling Update</a></td>
+<td>
+<a href="https://07th-mod.com/Beato/1080p/Umineko-Update-1080p-Rolling-ALL-OS.7z">-1080p Rolling Update</a>
+<br>
+<a href="https://07th-mod.com/Bern/UminekoChiru-ADV_Mode.7z">-ADV Files</a>
+</td>
 <td>
 Choose <strong>one</strong>:
     <br> <a href="https://07th-mod.com/Beato/1080p/Umineko-Update-1080p-v3_2019_01_03_WINDOWS.7z">-WINDOWS</a>

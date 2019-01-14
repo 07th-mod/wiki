@@ -16,8 +16,9 @@ NOTE: If your operating system is 32-bit, you can use the [32-bit version of the
 ## Mac
 
 1. Download the [Mac Installer .zip file](http://07th-mod.com/installer/python/higu_mac_installer.zip).
-2. Extract the zip file to a folder of your choice
-3. Run the file called `install.command`
+2. Double-click on the zip to extract it (your browser may automatically do this after downloading)
+3. Right click on the file called `install` and choose `Open`
+4. If prompted with a security prompt, choose `Open`
 
 ## Linux
 

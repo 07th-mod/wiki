@@ -23,4 +23,5 @@ nav:
         - Voices-only Patch: Umineko/Umineko-Part-1.1---Voices-only-Patch.md
         - FAQ/Troubleshooting: Umineko/Umineko-Part-0-TroubleShooting-and-FAQ.md
         - Other Install Configurations: Umineko/Umineko-Part-2-Other-Install-Configurations.md
+    - Beta Cross-Platform Installer: Mod-Installer.md
 theme: material

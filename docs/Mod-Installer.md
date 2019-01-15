@@ -22,11 +22,18 @@ NOTE: If your operating system is 32-bit, you can use the [32-bit version of the
 
 ## Linux
 
-In short, you must have Python (2 or 3), 7zip, and Aria2 installed on your computer. Then, run `higurashiInstaller.py`.
+1. Download the [Linux Installer .tar.gz file](http://07th-mod.com/installer/python/higu_linux64_installer.tar.gz).
+2. Extract the .tar.gz file
+3. Run the shell script called `install`
 
-1. Install Python (Python 2 and 3 are both supported)
-2. Install 7zip (7z or 7za)
-3. Install Aria2 (aria2c)
-4. Download and run [higurashiInstaller.py](https://raw.githubusercontent.com/07th-mod/resources/master/higurashiInstaller.py) . If you cannot double click the file, please run `python higurashiInstaller.py`
+### Linux Alternate Method
+
+1. Install the following using your distribution's package manager
+    - python (python 2 or 3 will both work)
+    - python-tk
+    - 7zip
+    - aria2
+
+2. Download and run [higurashiInstaller.py](https://raw.githubusercontent.com/07th-mod/resources/master/higurashiInstaller.py) . If you cannot double click the file, please run `python higurashiInstaller.py`
 
 For guidance on installing packages, please refer to your distribution's documentation.

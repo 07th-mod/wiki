@@ -53,8 +53,8 @@ This installer is an alternative to the method above, however fully multiplatfor
 #### Linux
 
 1. Install the following using your distribution's package manager:
-    * Install Python (2 or 3)
-    * Install Python Tkinter
+    * Python (2 or 3)
+    * Python Tkinter
         * **Ubuntu**: `sudo apt-get install python-tk`
         * **Arch Linux**: `sudo pacman -S tk`
         * **Fedora**: `sudo dnf install python2-tkinter` or <br> `sudo dnf install python3-tkinter`

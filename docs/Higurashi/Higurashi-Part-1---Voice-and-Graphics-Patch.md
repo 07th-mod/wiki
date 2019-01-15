@@ -60,8 +60,8 @@ This installer is an alternative to the method above, however fully multiplatfor
         * **Ubuntu**: `sudo apt-get install python-tk`
         * **Arch Linux**: `sudo pacman -S tk`
         * **Fedora**: `sudo dnf install python2-tkinter` or <br> `sudo dnf install python3-tkinter`
-        * If your distribution is not listed, you may need to lookup how to install tkinter on your particular distribution.
-2. Download and extract the [Linux Installer](http://07th-mod.com/installer/python/higu_linux64_installer.tar.gz).
+        * If your distribution is not listed, you may need to lookup how to install tkinter on your particular distribution
+2. Download and extract the [Linux Installer](http://07th-mod.com/installer/python/higu_linux64_installer.tar.gz)
 3. Run the shell script called `install`
 
 **Alternatively,** you can also download and run this Python file: [higurashiInstaller.py](https://raw.githubusercontent.com/07th-mod/resources/master/higurashiInstaller.py)
@@ -230,9 +230,9 @@ Follow the table below to download all the pieces to install the patch:
 2. After downloading all the files needed for your version of the game, place them in ``Resources/Data``
 3. Navigate inside ``Resources/Data/StreamingAssets`` and **delete** the folders ``CG`` and ``CGAlt``
     * This is not a requirement but we recommend to delete the mentioned folders to save disk space and avoid any random issues
-4. Navigate back to ``Resources/Data`` and extract the downloaded files in any oder **EXCEPT** the file called ``[CHAPTER TITLE].Voice.and.Graphics.Patch.[VERSION NUMBER].zip``
+4. Navigate back to ``Resources/Data`` and extract the downloaded files in any order **EXCEPT** the file called ``[CHAPTER TITLE].Voice.and.Graphics.Patch.[VERSION NUMBER].zip``
     * Extract the mentioned file after extracting all the others. Overwrite all files if asked
-5. Open a **terminal window** in the``Data`` folder. [Follow these steps if you don't know how to do it](https://stackoverflow.com/a/7054045).
+5. Open a **terminal window** in the``Data`` folder. [Follow these steps if you don't know how to do it](https://stackoverflow.com/a/7054045)
     1. In the terminal window, type: ``rsync -avP HigurashiEp*/* .`` and hit enter
     2. Wait until the files are copied to the right place
 6. Delete all the downloaded files and any leftover ``HigurashiEp**_Data`` folders after ensuring the game is working as expected

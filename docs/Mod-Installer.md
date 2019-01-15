@@ -11,7 +11,7 @@ The following page provides instructions on running the mod installer. Once the 
     - If you're not sure which folder to use, your `Downloads` folder will probably work fine, assuming it's on the same drive as the game.
 3. Run the file called `install.bat`
 
-NOTE: If your operating system is 32-bit, you can use the [32-bit version of the installer](http://07th-mod.com/installer/python/higu_win_installer.zip)
+NOTE: If your operating system is 32-bit, you can use the [32-bit version of the installer](http://07th-mod.com/installer/python/higu_win_installer_32.zip)
 
 ## Mac
 

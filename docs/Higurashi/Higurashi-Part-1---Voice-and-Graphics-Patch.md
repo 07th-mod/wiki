@@ -36,11 +36,11 @@ This installer is an alternative to the method above, however fully multiplatfor
 #### Windows
 
 1. Download the [Windows Installer (64-bit)](http://07th-mod.com/installer/python/higu_win_installer.zip)
-   * If you are running a 32-bit Windows or do not know which version you currently have, download the [Windows Installer (32-bit)](http://07th-mod.com/installer/python/higu_win_installer_32.zip)
+      * If you are running a 32-bit Windows or do not know which version you currently have, download the [Windows Installer (32-bit)](http://07th-mod.com/installer/python/higu_win_installer_32.zip)
 2. Extract the zip file to any folder, with the following requirements:
-   * The folder must be on the  **same drive** (eg C: drive) as the game
-   * The folder must not require any special permissions for write access
-   * If you're not sure which folder to use, your `Downloads` folder will probably work fine, assuming it's on the same drive as the game
+      * The folder must be on the  **same drive** (eg C: drive) as the game
+      * The folder must not require any special permissions for write access
+      * If you're not sure which folder to use, your `Downloads` folder will probably work fine, assuming it's on the same drive as the game
 3. Run the file called `install.bat`
 
 #### Mac

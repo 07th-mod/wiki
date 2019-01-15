@@ -22,17 +22,24 @@ NOTE: If your operating system is 32-bit, you can use the [32-bit version of the
 
 ## Linux
 
-1. Download the [Linux Installer .tar.gz file](http://07th-mod.com/installer/python/higu_linux64_installer.tar.gz).
-2. Extract the .tar.gz file
+1. Install the following using your distribution's package manager
+    - Install Python (2 or 3)
+    - Install Python Tkinter
+        - **Ubuntu**: `sudo apt-get install python-tk`
+        - **Arch Linux**: `sudo pacman -S tk`
+        - **Fedora**: `sudo dnf install python2-tkinter` or <br> `sudo dnf install python3-tkinter`
+        - If your distribution is not listed, you may need to lookup how to install tkinter on your particular distribution.
+2. Download and extract the [Linux Installer .tar.gz file](http://07th-mod.com/installer/python/higu_linux64_installer.tar.gz).
 3. Run the shell script called `install`
 
 ### Linux Alternate Method
 
+If you have trouble with the normal method, you can try the steps below:
+
 1. Install the following using your distribution's package manager
-    - python (python 2 or 3 will both work)
-    - python-tk
-    - 7zip
-    - aria2
+    - Follow the normal instructions above to install Python and Python Tkinter
+    - Install 7zip (as `7z` or `7za`)
+    - Install Aria2 (as `aria2c`)
 
 2. Download and run [higurashiInstaller.py](https://raw.githubusercontent.com/07th-mod/resources/master/higurashiInstaller.py) . If you cannot double click the file, please run `python higurashiInstaller.py`
 

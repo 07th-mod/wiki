@@ -4,7 +4,7 @@ repo_url: https://github.com/07th-mod
 repo_name: 07th-Mod (Organization)
 copyright: All Nipahs Reserved
 site_dir: wiki
-edit_uri: null
+edit_uri: 'wiki/edit/master/docs'
 nav:
     - Home: index.md
     - Rules: Rules.md

@@ -103,7 +103,9 @@ Follow the table below to download all the pieces to install the patch:
 <th style="text-align: center;">Voices</th>
 <th style="text-align: center;">BGM</th>
 <th style="text-align: center;">Sound effects</th>
+<th style="text-align: center;">Movies</th>
 <th style="text-align: center;">UI Mod</th>
+<th style="text-align: center;">System files</th>
 </tr>
 </thead>
 <tbody>
@@ -114,7 +116,9 @@ Follow the table below to download all the pieces to install the patch:
 <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/ConsoleArcs-Voices.7z">Download</a></td>
 <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/ConsoleArcs-BGM.7z">Download</a></td>
 <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/ConsoleArcs-SE.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/ConsoleArcs-Movie.7z">Windows</a> <br> <a href="https://07th-mod.com/rikachama/ConsoleArcs-Movie_UNIX.7z">Mac/Linux</a></td>
 <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/Himatsubushi-UI.7z">Windows</a> <br> <a href="https://07th-mod.com/rikachama/Himatsubushi-UI_UNIX.7z">Mac/Linux</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/ConsoleArcs-System.7z">Download</a></td>
 </tr>
 </tbody>
 </table>

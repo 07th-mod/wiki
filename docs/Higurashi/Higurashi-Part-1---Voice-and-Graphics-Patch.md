@@ -79,8 +79,6 @@ It requires the following dependencies:
 
 Follow the table below to download all the pieces to install the patch:
 
-> **Downloads that can be skipped**: Steam sprites patch,  UI Mod and opening video. For the full experience, download all packs.
-
 #### Console Arcs
 
 > **The console arcs requires Ch.4 Himatsubushi to be played.** Installing it in your Himatsubushi installation will overwrite the game with the console arcs. We recommend to make a copy of the folder and install the console arcs there.

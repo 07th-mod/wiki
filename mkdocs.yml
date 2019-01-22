@@ -25,3 +25,6 @@ nav:
         - Other Install Configurations: Umineko/Umineko-Part-2-Other-Install-Configurations.md
     - Beta Cross-Platform Installer: Mod-Installer.md
 theme: material
+plugins:
+   - search
+   - minify-plugin

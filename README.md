@@ -10,7 +10,6 @@ update according to the changes made in this repository (it may be some time bef
 * Python 2.7 or 3.4 and above
 * [mkdocs](https://www.mkdocs.org/)
 * [mkdocs-material](https://github.com/squidfunk/mkdocs-material)
-* [mkdocs-bootstrap-tables-plugin](https://github.com/byrnereese/mkdocs-bootstrap-tables-plugin)
 * [mkdocs-minify-plugin](https://github.com/byrnereese/mkdocs-minify-plugin)
 
 ## How to install
@@ -23,8 +22,7 @@ update according to the changes made in this repository (it may be some time bef
     - On Mac, run `sudo easy_install pip` to install pip (assuming you're using Mac's built-in python distribution).
 2. Install `mkdocs` with `pip install mkdocs`
 3. Install `mkdocs-material` with `pip install mkdocs-material`
-4. Install `mkdocs-bootstrap-tables-plugin` with `pip install mkdocs-bootstrap-tables-plugin`
-5. Install `mkdocs-minify-plugin` with `pip install mkdocs-minify-plugin`
+4. Install `mkdocs-minify-plugin` with `pip install mkdocs-minify-plugin`
 
 ### Preparing the repository
 

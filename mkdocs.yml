@@ -27,4 +27,4 @@ nav:
 theme: material
 plugins:
    - search
-   - minify-plugin
+   - minify

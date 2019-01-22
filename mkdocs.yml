@@ -28,3 +28,4 @@ theme: material
 plugins:
    - search
    - minify
+   - bootstrap-tables

@@ -161,7 +161,7 @@ Follow the table below to download all the pieces to install the patch:
 <td>
 <a href="https://07th-mod.com/Beato/1080p/Umineko-Update-1080p-Rolling-ALL-OS.7z">-1080p Rolling Update</a>
 <br>
-<a href="https://07th-mod.com/Bern/UminekoChiru-ADV_Mode.7z">-ADV Files</a>
+<a href="https://07th-mod.com/Bern/Umineko-ADV_Mode.7z">-ADV Files</a>
 </td>
 <td>
 Choose <strong>one</strong>:

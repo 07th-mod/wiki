@@ -24,6 +24,7 @@ nav:
         - FAQ/Troubleshooting: Umineko/Umineko-Part-0-TroubleShooting-and-FAQ.md
         - Other Install Configurations: Umineko/Umineko-Part-2-Other-Install-Configurations.md
     - Beta Cross-Platform Installer: Mod-Installer.md
+    - <b>Developer wiki</b>: https://07th-mod.com/wiki/developer
 theme: material
 plugins:
    - search

@@ -31,3 +31,10 @@ theme: material
 plugins:
    - search
    - minify
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+  - pymdownx.mark

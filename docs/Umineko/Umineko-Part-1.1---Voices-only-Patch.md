@@ -1,6 +1,18 @@
+## This page is for manual install only. To install automatically, please go back to the [introduction page](Umineko-Getting-started.md), and follow the instructions.
+
+----
+
 So, you like the Ryukishi art. I get it, I also like it a lot. In that case, we got you covered.
 
-Beware that some bugs and features might be missing in these patches, as compared to the 'full patch'.
+Beware that some bugs and features might be missing in the voice-only patch, as compared to the 'full patch'.
+
+#### Manual Install Instructions (not recommended)
+
+Manually installing the game is not recommended unless you have problems with the automatic installer. 
+
+#### MAC USERS ONLY - Various Gotchas
+- When overwriting one folder with another on Mac, it by default **entirely replaces** the folder rather than merging. To fix this see the instructions for "Merge two folders with the same name" here: https://support.apple.com/kb/PH25633?locale=en_US
+- MacOSX has some security features which can prevent the game running correctly. Please follow the install instructions closesly so this doesn't happen.
 
 <table>
 <thead>
@@ -30,9 +42,6 @@ Beware that some bugs and features might be missing in these patches, as compare
 </tbody>
 </table>
 
-## Regarding Saves (Please Read)
-
-Saves are NOT compatible between the stock game and the patched game. Saves between different versions of the patched game may or may not be compatible - they might skip you forwards / backwards in the script. For this reason, if you are 'updating' your script, you should do so after completing an episode. You could also load a very old save to determine if there is any offset in the script, but please be careful not to spoiler yourself by loading an incompatible save. 
 
 ## Installing the patch
 
@@ -46,14 +55,3 @@ Saves are NOT compatible between the stock game and the patched game. Saves betw
 
 6. **Answer Arcs only:** Extract the file ``UminekoChiruVO-Update1.zip`` the game folder. Overwrite if asked.
 
-## Lost your saves? Fix here.
-
-Rename your folder ``saves`` to ``mysav``, this should restore your progress when using the new executable.
-
-## Mod Settings
-
-You can change some settings from the in-game mod menu. While playing the game and the text is not animating, right click to bring up the menu. Click the right hand side options/menu button. This shows the options allowing you to change the music and voice volume.
-
-## Troubleshooting
-
-See the [Troubleshooting Page](https://07th-mod.com/wiki/Umineko/Umineko-Part-0-TroubleShooting-and-FAQ).

@@ -18,12 +18,14 @@ nav:
         - Voices-only Patch: Higurashi/Higurashi-Part-1.1---Voices-only-Patch.md
         - FAQ: Higurashi/FAQ.md
     - <b>Umineko</b>:
-        - Intro: Umineko/Umineko-Getting-started.md
-        - Voice and Graphics Patch: Umineko/Umineko-Part-1---Voice-and-Graphics-Patch.md
-        - Voices-only Patch: Umineko/Umineko-Part-1.1---Voices-only-Patch.md
-        - FAQ/Troubleshooting: Umineko/Umineko-Part-0-TroubleShooting-and-FAQ.md
-        - Other Install Configurations: Umineko/Umineko-Part-2-Other-Install-Configurations.md
-    - Beta Cross-Platform Installer: Mod-Installer.md
+        - 1. Intro (START HERE): Umineko/Umineko-Getting-started.md
+        - 2. Mod Options: Umineko/Umineko-Mod-Options.md
+        - 3a. Cross-Platform Installer: Mod-Installer.md
+        - 3b. Windows Installer: Umineko/Umineko-Legacy-Installer.md
+        - 3c. Manual Voice and Graphics : Umineko/Umineko-Full-Manual-Install.md
+        - 3d. Manual Voices-only : Umineko/Umineko-Part-1.1---Voices-only-Patch.md
+        - 4. FAQ/Troubleshooting: Umineko/Umineko-Part-0-TroubleShooting-and-FAQ.md
+        - 5. Other Install Configurations: Umineko/Umineko-Part-2-Other-Install-Configurations.md
     - <b>Developer Wiki</b>: https://07th-mod.com/wiki/developer
 theme: material
 plugins:

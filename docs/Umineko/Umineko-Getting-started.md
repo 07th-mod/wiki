@@ -1,83 +1,54 @@
-## Install Options
-To get started, see the table below and pick the game and the kind of patch you are looking for
+We highly recommend reading this entire page. But here is the summary version:
 
-#### Supported Installation Options:
+- If you have problems, check the [Troubleshooting](Umineko-Part-0-TroubleShooting-and-FAQ.md) page
+- If you have any existing save slots, and you **mod** or **upgrade** the game, your Save Slots WILL **randomly jump you somewhere in the game**. This can cause spoilers. Therefore, don't modify the game while you're in the middle of a chapter (read below for more details).
+- There is a mod settings menu in-game that you should look at at least once.
+- Updating the mod is not properly supported.
+- Steam Sync is disabled. To enable it, run `enable steam sync.bat' in the game folder (see 'Known Issues' for reasoning).
+- The old ryushiki sprites are not properly supported (see below)
 
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th></th>
-<th><strong>Question Arcs Ch.1~4</strong></th>
-<th><strong>Answer Arcs Ch.5~8</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Voice + Graphics, ADV Mode (Full Patch)*</td>
-<td>No (Being worked on…)</td>
-<td><a href="https://07th-mod.com/wiki/Umineko/Umineko-Part-1---Voice-and-Graphics-Patch">Adv Addon to base game</a></td>
-</tr>
-<tr class="even">
-<td>Voice + Graphics (Full Patch)</td>
-<td><a href="https://07th-mod.com/wiki/Umineko/Umineko-Part-1---Voice-and-Graphics-Patch">Automatic Installer or Manually</a></td>
-<td><a href="https://07th-mod.com/wiki/Umineko/Umineko-Part-1---Voice-and-Graphics-Patch">Automatic Installer or Manually</a></td>
-</tr>
-<tr class="odd">
-<td>Voice Only</td>
-<td><a href="https://07th-mod.com/wiki/Umineko/Umineko-Part-1.1---Voices-only-Patch">Manual Install</a></td>
-<td><a href="https://07th-mod.com/wiki/Umineko/Umineko-Part-1.1---Voices-only-Patch">Manual Install</a></td>
-</tr>
-<tr class="even">
-<td>Full Patch With Old Sprites</td>
-<td><a href="https://07th-mod.com/wiki/Umineko/Umineko-Part-2-Other-Install-Configurations">Automatic Installer or Manually + Manual Modifications</a></td>
-<td><a href="https://07th-mod.com/wiki/Umineko/Umineko-Part-2-Other-Install-Configurations">Automatic Installer or Manually + Manual Modifications</a></td>
-</tr>
-<tr class="odd">
-<td>Japanese Language Support</td>
-<td>Press 'Tab' In-game<br> (NOTE: doesn’t work in voice only mode)</td>
-<td>Press 'Tab' In-game<br> (NOTE: doesn’t work in ADV or voice only mode)</td>
-</tr>
-</tbody>
-</table>
+You've read the page, right? Please proceed to [Part 2: Mod Options](Umineko-Mod-Options.md)
 
-Quick Rundown of modes:
+----
 
-- ADV Mode is where text appears in a textbox at the bottom of the screen, instead of convering the entire screen. [Click Here](https://07th-mod.com/wiki/Umineko/Umineko-Part-1---Voice-and-Graphics-Patch#adv--textbox-mode-for-chiru-only) for screenshots. The original PS3 game shipped with this mode.
-- Graphics: Graphics from the PS3 game, including sprites, CGs, backgrounds, etc. Certain features like shader effects and lipsync from the PS3 game aren't available.
-- Old Sprites: Sprites from the original game (Ryushiki Sprites) or Steam Sprites (Pachinko Sprites)
-- Voice Only: The 'Voice Only' patches only include the PS3 voices and no other changes.
+## Regarding Saves and Chapter Progress (Please Read)
 
-## FAQ / Troubleshooting
+Saves Slots are NOT compatible between the stock game and the patched game. Save slots between different versions of the patched game may not be compatible - they might skip you forwards / backwards in the script (the `0.u` file). For this reason,  **you should only update your script after completing an episode**.
 
-See the [Troubleshooting](https://07th-mod.com/wiki/Umineko/Umineko-Part-0-TroubleShooting-and-FAQ) page.
+Chapter Progress (whether you have completed a particular chapter or not) IS compatible between the stock and patched game. If you lose your chapter progress, use the 'Unlock' button next to each chapter to unlock it. Make sure not to miss out on the tea-parties or ???? if you use the unlock button.
+
+## Updating from older versions
+
+We don't properly support updating the game, but you can do it by re-installing the game over an existing installation (either manually or automatically). If you chose to keep your 
+
+As per the above, save files are not compatible when we update the game. Therefore, **you should only update your script after completing an episode**. If you update your game while in the middle of a chapter, you risk your save files to stop working, or your save files randomly jumping you forward in the game!
+
+You can check for major updates in the [Mod Options - News](Umineko-Mod-Options.md#news) section.
+
+## Mod Settings
+
+You can change some settings from the in-game mod menu. While playing the game and the text is not animating, right click to bring up the menu. Click the right hand side options/menu button. This shows the options allowing you to change the music and voice volume.
+
+[insert mod menu picture here]
 
 ## Known Issues
-- Steam Sync is disabled (See [the "Steam Sync doesn't work!" FAQ](https://07th-mod.com/wiki/Umineko/Umineko-Part-0-TroubleShooting-and-FAQ#steam-sync-doesnt-work) if you wish to re-enable it)
+- Steam Sync is disabled (See [the "Steam Sync doesn't work!" FAQ](Umineko-Part-0-TroubleShooting-and-FAQ.md#steam-sync-doesnt-work) if you wish to re-enable it)
 - For the Question Arcs, the voice quality near the start of the game is poor for some characters (sounds like a phasing effect). The raw PS3 audio files have this problem as well, so I don't think we can fix this. 
 
-## News
-17-11-18: Add beta version of 1080p Question Arcs (previously resolution was 960p, resulting in some blurriness). You can install it via the installer or manually. Add ability to toggle language with 'Tab' button.
+## Disclaimer about old 'Ryushiki' sprites 
 
-2-10-18: Add Japanese Language mode (thanks Naoki!). Note: currently doesn't work for "Voice Only" or answer arcs "ADV mode", due to those versions using a different script.
+The old 'Ryushiki' sprites are not *fully* supported, as described below:
 
-15-07-18: Some small changes to both arcs (to update you need both the latest script file and the latest update zip)
-- For Question arcs only, add the option to view the original game's videos since some consider the PS3 openings too spoilery. (Question arcs issue #101)
-- Use English title logo for Question arcs (Question arcs issue #100)
-- Fix transparency of images for one scene for Answer arcs (use alphablend mode images)
+- For the Question Arcs, you toggle sprites via the right-click menu. 
+- The Answer arcs CANNOT do this. 
+- There may be some bugs when the old sprites are used
 
-06-06-18: For Chiru Arcs only, minor update to script and assets (see issue [#47](https://github.com/07th-mod/umineko-answer/issues/47))
+If you really want to play with old sprites, you have the following options:
 
-05-05-18: For Question Arcs only, fix some missing voice delays.
+- Play Question and Answer arcs using the 'Voice only' option
+- Play Question arcs with the 1080p patch, and Answer arcs with the 'voice only' option (and try to ignore the background art style changes)
+- I have attempted to make a special script which allows you to use old sprites on the Answer Arcs, but it is not properly supported. It is listed in the 'Unsupported Options' on the 'Mod Options' page.
 
-01-05-18: Update all .exes to give a reminder if you forget to rename the `0.utf` to `0.u` instead of the generic/incorrect error message. Backup of the old .exes can be found [here](https://github.com/07th-mod/resources/releases/download/Beato/umineko_exe_backup_2018-05-01.7z).
+----
 
-13-04-18: Add [missing Maria/Rosa Alternate Sprites](https://github.com/07th-mod/umineko-question/issues/93) to the merged update pack (pack v4 cumulative) for Question Arcs only.
-
-02-04-18: Question arc script was updated to fix voice/unvoiced delay bugs.
-
-17-02-18: **Did Steam update your game, breaking your patch?** Follow the [Question Arc Instructions](https://github.com/07th-mod/umineko-question#warning---steam-updates) or the [Answer Arc Instructions](https://github.com/07th-mod/umineko-answer#warning---steam-updates). 
+##**Please proceed to [Part 2: Mod Options](Umineko-Mod-Options.md)**

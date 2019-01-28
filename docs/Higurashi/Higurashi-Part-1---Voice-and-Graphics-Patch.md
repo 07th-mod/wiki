@@ -1,6 +1,7 @@
 # Installing the patch
 
-> PSA: Don't forget to check ["Patch configuration and extras"](https://07th-mod.com/wiki/Higurashi/Higurashi-Part-2---Patch-configuration-and-keyboard-shortcuts) after installing the patch manually or using the installer.
+!!! note
+    Don't forget to check ["Patch configuration and extras"](https://07th-mod.com/wiki/Higurashi/Higurashi-Part-2---Patch-configuration-and-keyboard-shortcuts) after installing the patch manually or using the installer.
 
 ## Installer (Windows only)
 
@@ -24,12 +25,13 @@ To use the installer, follow the guide below:
 6. If the directory is correct, the software will validate the path and let you proceed with the installation
 7. A progress bar and text will show the status of the installation
 
-> **PSA**: as reported, some antivirus software might warn you about the installer. **This is a false positive**, and it happens because the installer is either new or not verified by the antivirus databases yet. The installer code can be freely accessed in our Github organization and will be only compiled from a trusted source.
+!!! warning
+    As reported, some antivirus software might warn you about the installer. **This is a false positive**, and it happens because the installer is either new or not verified by the antivirus databases yet. The installer code can be freely accessed in our Github organization and will be only compiled from a trusted source.
 
 ## Multiplatform installer (Windows, Mac and Linux)
 
-> **This installer is currently in active development.** Bugs might happen and things might not work. 
-> If you are running Windows, we recommend using the solution **above**.
+!!! bug
+    **This installer is currently in active development.** Bugs might happen and things might not work. If you are running Windows, we recommend using the solution **above**.
 
 This installer is an alternative to the method above, however fully multiplatform. That means you can automatically install the patch on Linux and Mac from now on, with the small downside of an uglier interface. We promise the plan is to make it look just like the native Windows installer, these things take time to develop.
 
@@ -81,7 +83,8 @@ Follow the table below to download all the pieces to install the patch:
 
 #### Console Arcs
 
-> **The console arcs requires Ch.4 Himatsubushi to be played.** Installing it in your Himatsubushi installation will overwrite the game with the console arcs. We recommend to make a copy of the folder and install the console arcs there.
+!!! warning "The console arcs requires Ch.4 Himatsubushi to be played"
+    Installing it in your Himatsubushi installation will overwrite the game with the console arcs. We recommend to make a copy of the folder and install the console arcs there.
 
 <table>
 <colgroup>
@@ -206,7 +209,8 @@ Follow the table below to download all the pieces to install the patch:
 
 ### How to install the patch manually (for Windows, Linux, and Mac)
 
-> Newer graphics patches requires an extraction software compatible with ``.7z``.
+!!! hint
+    Newer graphics patches requires an extraction software compatible with ``.7z``.
 
 > * On Windows: [WinRAR (paid)](https://www.win-rar.com/start.html?&L=0) or [7-zip (free)](http://7-zip.org/)
 > * On Linux: ``p7zip`` in your package manager
@@ -225,7 +229,8 @@ Follow the table below to download all the pieces to install the patch:
 5. Delete all the downloaded files after ensuring the game is working as expected
 
 **On Mac OSX:**
-> Mac users can normally follow the Windows instructions, but if the slightly different folders confuse you, try these steps:
+!!! tip
+    Mac users can normally follow the Windows instructions, but if the slightly different folders confuse you, try these steps:
 
 1. Find and open your game folder 
     * On Steam: open your Steam library, choose the game from the list, right click on it and click on ``Properties``. Switch to the ``LOCAL FILES`` tab and click on ``Browse local files...``)

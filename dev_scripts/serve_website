@@ -1,2 +1,2 @@
 #!/bin/sh
-mkdocs serve
+mkdocs serve -f ../mkdocs.yml

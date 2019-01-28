@@ -20,9 +20,11 @@ update according to the changes made in this repository (it may be some time bef
     - On Windows, download the Python installer from the Python website, which will install python and pip
     - On Linux, use your native package manager to install Python and pip (they are separate packages)
     - On Mac, run `sudo easy_install pip` to install pip (assuming you're using Mac's built-in python distribution).
-2. Install `mkdocs` with `pip install mkdocs`
-3. Install `mkdocs-material` with `pip install mkdocs-material`
-4. Install `mkdocs-minify-plugin` with `pip install mkdocs-minify-plugin`
+2. Install mkdocs and its plugins as below, or alternatively run the install_mkdocs_and_plugins script
+    - Install `mkdocs` with `pip install mkdocs`
+    - Install `mkdocs-material` with `pip install mkdocs-material`
+    - Install `mkdocs-minify-plugin` with `pip install mkdocs-minify-plugin`
+    - Install `pymdown-extensions` (might be already installed)
 
 ### Preparing the repository
 

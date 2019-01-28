@@ -14,6 +14,8 @@ The installer combines all the patches available to create the best experience p
 * Upgraded user interface
 * Opening videos
 
+### How to use the Windows installer
+
 To use the installer, follow the guide below:
 
 1. Download the latest installer from [the Installer Releases page](https://github.com/07th-mod/Higurashi_Installer_WPF/releases/latest)
@@ -37,6 +39,8 @@ This installer is an alternative to the method above, however fully multiplatfor
 
 **Using this installer should install the exact same features as the Windows installer.** Check above for more information on what the installer does.
 
+### How to use the cross-platform installer
+
 ??? example "Windows"
     1. Download the [Windows Installer (64-bit)](http://07th-mod.com/installer/python/higu_win_installer.zip)
           * If you are running a 32-bit Windows or do not know which version you currently have, download the [Windows Installer (32-bit)](http://07th-mod.com/installer/python/higu_win_installer_32.zip)
@@ -46,24 +50,22 @@ This installer is an alternative to the method above, however fully multiplatfor
           * If you're not sure which folder to use, your `Downloads` folder will probably work fine, assuming it's on the same drive as the game
     3. Run the file called `install.bat`
 
-#### Mac
+??? example "Mac"
+    1. Download the [Mac Installer](http://07th-mod.com/installer/python/higu_mac_installer.zip)
+    2. Double-click on the zip to extract it (your browser may automatically do this after downloading)
+    3. Right click on the file called `install` and choose `Open`
+    4. If prompted with a security prompt, choose `Open`
 
-1. Download the [Mac Installer](http://07th-mod.com/installer/python/higu_mac_installer.zip)
-2. Double-click on the zip to extract it (your browser may automatically do this after downloading)
-3. Right click on the file called `install` and choose `Open`
-4. If prompted with a security prompt, choose `Open`
-
-#### Linux
-
-1. Install the following using your distribution's package manager:
-    * Python (2 or 3)
-    * Python Tkinter
-        * **Ubuntu**: `sudo apt-get install python-tk`
-        * **Arch Linux**: `sudo pacman -S tk`
-        * **Fedora**: `sudo dnf install python2-tkinter` or <br> `sudo dnf install python3-tkinter`
-        * If your distribution is not listed, you may need to lookup how to install tkinter on your particular distribution
-2. Download and extract the [Linux Installer](http://07th-mod.com/installer/python/higu_linux64_installer.tar.gz)
-3. Run the shell script called `install`
+??? example "Linux"
+    1. Install the following using your distribution's package manager:
+        * Python (2 or 3)
+        * Python Tkinter
+            * **Ubuntu**: `sudo apt-get install python-tk`
+            * **Arch Linux**: `sudo pacman -S tk`
+            * **Fedora**: `sudo dnf install python2-tkinter` or <br> `sudo dnf install python3-tkinter`
+            * If your distribution is not listed, you may need to lookup how to install tkinter on your particular distribution
+    2. Download and extract the [Linux Installer](http://07th-mod.com/installer/python/higu_linux64_installer.tar.gz)
+    3. Run the shell script called `install`
 
 !!! info "You can also download and run this Python file: [higurashiInstaller.py](https://raw.githubusercontent.com/07th-mod/resources/master/higurashiInstaller.py)"
     It requires the following dependencies:

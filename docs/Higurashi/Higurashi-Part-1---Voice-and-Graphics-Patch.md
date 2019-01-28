@@ -16,8 +16,6 @@ The installer combines all the patches available to create the best experience p
 
 ### How to use the Windows installer
 
-To use the installer, follow the guide below:
-
 1. Download the latest installer from [the Installer Releases page](https://github.com/07th-mod/Higurashi_Installer_WPF/releases/latest)
 2. Open the software
 3. You will be given the choice of Higurashi or Umineko - select the Higurashi dropdown

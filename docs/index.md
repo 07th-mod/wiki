@@ -4,7 +4,7 @@
 ***
 
 !!! info
-    **[Join our Discord server for support, discussion and a lot of fun!](https://discord.gg/pf5VhF9)**
+    **[Join our Discord server for support, discussion and a lot of fun!](https://discord.gg/pf5VhF9)**<br></br>
     **[We need your help to keep our servers running! Click here to contribute.](https://07th-mod.com/wiki/Donations)**
     
 ***

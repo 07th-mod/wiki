@@ -6,6 +6,8 @@ This repository contains the source needed to test, edit and compile the wiki.
 The compiled wiki is hosted on our website, at http://07th-mod.com/wiki/ . The website will periodically
 update according to the changes made in this repository (it may be some time before the changes are seen - try refreshing your browser).
 
+**Note**: there are some handy scripts for installation and running the server in the `dev_scripts` folder.
+
 ## Dependencies
 * Python 2.7 or 3.4 and above
 * [mkdocs](https://www.mkdocs.org/)

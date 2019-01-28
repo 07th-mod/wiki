@@ -41,6 +41,8 @@ This installer is an alternative to the method above, however fully multiplatfor
 
 ### How to use the cross-platform installer
 
+Click on any of the blocks for the operating system of your choice to see the instructions:
+
 ??? example "Windows"
     1. Download the [Windows Installer (64-bit)](http://07th-mod.com/installer/python/higu_win_installer.zip)
           * If you are running a 32-bit Windows or do not know which version you currently have, download the [Windows Installer (32-bit)](http://07th-mod.com/installer/python/higu_win_installer_32.zip)
@@ -67,7 +69,7 @@ This installer is an alternative to the method above, however fully multiplatfor
     2. Download and extract the [Linux Installer](http://07th-mod.com/installer/python/higu_linux64_installer.tar.gz)
     3. Run the shell script called `install`
 
-!!! info "You can also download and run this Python file: [higurashiInstaller.py](https://raw.githubusercontent.com/07th-mod/resources/master/higurashiInstaller.py)"
+!!! info "Power users can also download and run this Python file: [higurashiInstaller.py](https://raw.githubusercontent.com/07th-mod/resources/master/higurashiInstaller.py)"
     It requires the following dependencies:
     
     * Python (2 or 3)

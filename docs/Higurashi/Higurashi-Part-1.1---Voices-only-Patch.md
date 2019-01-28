@@ -4,7 +4,8 @@ There's no problem at all, starting from Watanagashi we started making voices on
 
 Beware that some bugs and features might be missing in these patches, and we offer absolutely no support for it. You're on your own!
 
-> Did you know you can install the voices only patch with little to no effort using our custom-created installer? Yep, you read it right. [Click here and check it out!](https://github.com/07th-mod/Higurashi_Installer_WPF/releases/latest)
+!!! tip
+    Did you know you can install the voices only patch with little to no effort using our custom-created installer? Yep, you read it right. [Click here and check it out!](https://github.com/07th-mod/Higurashi_Installer_WPF/releases/latest)
 
 # Downloads
 
@@ -57,7 +58,8 @@ Beware that some bugs and features might be missing in these patches, and we off
 </tbody>
 </table>
 
-> Ch.2 Watanagashi voice patch is inside ``/dev/Update (voice only)``
+!!! tip
+    Ch.2 Watanagashi voice patch is inside ``/dev/Update (voice only)``
 
 # Installing the patch
 

@@ -39,3 +39,4 @@ markdown_extensions:
   - toc:
       permalink: true
   - pymdownx.mark
+  - pymdownx.details

@@ -37,7 +37,7 @@ This installer is an alternative to the method above, however fully multiplatfor
 
 **Using this installer should install the exact same features as the Windows installer.** Check above for more information on what the installer does.
 
-### How to use the cross-platform installer
+### How to use the multiplatform installer
 
 Click on any of the blocks for the operating system of your choice to see the instructions:
 

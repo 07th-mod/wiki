@@ -68,6 +68,7 @@ This installer is an alternative to the method above, however fully multiplatfor
 
 !!! info "You can also download and run this Python file: [higurashiInstaller.py](https://raw.githubusercontent.com/07th-mod/resources/master/higurashiInstaller.py)"
     It requires the following dependencies:
+    
     * Python (2 or 3)
     * Python Tkinter
     * 7-zip

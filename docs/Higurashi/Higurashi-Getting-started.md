@@ -75,5 +75,10 @@ To get started, see the table below and pick the game and the kind of patch you 
 <td style="text-align: center;"><a href="https://07th-mod.com/wiki/Higurashi/Higurashi-Part-1---Voice-and-Graphics-Patch">Yes</a></td>
 <td style="text-align: center;">No</td>
 </tr>
+<tr class="odd">
+<td style="text-align: center;">Yoigoshi</td>
+<td style="text-align: center;"><a href="https://07th-mod.com/wiki/Higurashi/Higurashi-Part-1---Voice-and-Graphics-Patch">Yes</a></td>
+<td style="text-align: center;">No</td>
+</tr>
 </tbody>
 </table>

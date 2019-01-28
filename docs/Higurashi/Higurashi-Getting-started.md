@@ -1,3 +1,10 @@
+# Introduction
+
+!!! info
+    The links below will take you to the section **2a. Installer**. This is currently the best method to install the patch in any operating system.
+    
+    However, if you prefer to install the patch manually, go to section **2b. Manual Installation** instead.
+
 ## Main story arcs
 
 <table>

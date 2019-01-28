@@ -1,4 +1,4 @@
-To get started, see the table below and pick the game and the kind of patch you are looking for
+## Main story arcs
 
 <table>
 <thead>
@@ -49,7 +49,7 @@ To get started, see the table below and pick the game and the kind of patch you 
 </tbody>
 </table>
 
-# Console Arcs (extra chapters)
+## Console Arcs (extra chapters)
 
 <table>
 <thead>

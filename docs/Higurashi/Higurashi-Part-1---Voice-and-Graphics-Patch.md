@@ -66,11 +66,9 @@ This installer is an alternative to the method above, however fully multiplatfor
 2. Download and extract the [Linux Installer](http://07th-mod.com/installer/python/higu_linux64_installer.tar.gz)
 3. Run the shell script called `install`
 
-**Alternatively,** you can also download and run this Python file: [higurashiInstaller.py](https://raw.githubusercontent.com/07th-mod/resources/master/higurashiInstaller.py)
-
-It requires the following dependencies:
-
-* Python (2 or 3)
-* Python Tkinter
-* 7-zip
-* Aria2
+!!! info "You can also download and run this Python file: [higurashiInstaller.py](https://raw.githubusercontent.com/07th-mod/resources/master/higurashiInstaller.py)"
+    It requires the following dependencies:
+    * Python (2 or 3)
+    * Python Tkinter
+    * 7-zip
+    * Aria2

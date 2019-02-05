@@ -32,20 +32,20 @@ Some install options below refer to ADV mode. The normal mode for the Umineko ga
 
 There are two main install options for the question arcs - the full patch, and the voice only patch. We highly recommend using the **installers**, as installing manually is very error-prone.
 
-#### Question Arcs - 1080p full patch (~5GB Download)
+#### Question Arcs - 1080p full patch (~5GB Download, ~20GB free space required)
 
 - NEW: Has **ADV mode** which can be toggled on or off at any time
 - NEW: Playing with Japanese Text is supported
 - Adds PS3 voices, sprites, CGs (event images), backgrounds, to the base game. DOES NOT add shader effects or lipsync.
 - Install Methods: [Cross Platform Installer](../Mod-Installer.md) || [Windows Installer](Umineko-Legacy-Installer.md) || [Install Manually](Umineko-Part-1---Voice-and-Graphics-Patch.md)
 
-#### Question Arcs - Voice only (~1.9GB Download)
+#### Question Arcs - Voice only (~1.9GB Download, ~5GB free space required)
 
 - Mainly adds voices to the base game
 - Playing with Japanese text is NOT supported
 - Install Methods:  [Cross Platform Installer](../Mod-Installer.md) || [Install Manually](Umineko-Part-1.1---Voices-only-Patch.md)
 
-#### Question Arcs - 'Legacy' full patch (~5GB Download)
+#### Question Arcs - 'Legacy' full patch (~5GB Download, ~20GB free space required)
 
 - Not actively updated anymore. Mostly made redundant by 1080p version
 - Same as 1080p version except
@@ -59,20 +59,20 @@ There are two main install options for the question arcs - the full patch, and t
 
 There are two main install options for the question arcs - the full patch, and the voice only patch. There is also an addon to the full patch, which adds ADV mode.
 
-#### Answer Arcs - Full Patch (~8GB Download)
+#### Answer Arcs - Full Patch (~8GB Download, ~30GB free space required)
 
 - NEW: Playing with Japanese Text is supported
 - Adds PS3 voices, sprites, CGs (event images), backgrounds, to the base game. DOES NOT add shader effects or lipsync.
 - Install Methods:  [Cross Platform Installer](../Mod-Installer.md) || [Windows Installer](Umineko-Legacy-Installer.md) || [Install Manually](Umineko-Part-1---Voice-and-Graphics-Patch.md)
 
-#### Answer Arcs - ADV Mode Addon (~8GB Download, if downloaded together with full patch)
+#### Answer Arcs - ADV Mode Addon (~8GB DL, ~30GB free space - Same as Full Patch)
 
 - This is an add on to the full patch which adds ADV mode (but in the installer, you just select "ADV Mode")
 - No in-game option to disable ADV mode
 - Playing with Japanese Text is NOT supported
 - Install Methods:  [Cross Platform Installer](../Mod-Installer.md) || [Install Manually](Umineko-Part-1---Voice-and-Graphics-Patch.md)
 
-#### Answer Arcs - Voice only (~1.5GB Download)
+#### Answer Arcs - Voice only (~1.5GB Download, ~5GB free space required)
 
 - Mainly adds voices to the base game
 - Playing with Japanese text is NOT supported

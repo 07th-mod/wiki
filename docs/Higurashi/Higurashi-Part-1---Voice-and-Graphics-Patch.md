@@ -53,8 +53,10 @@ Click on any of the blocks for the operating system of your choice to see the in
 ??? example "Mac"
     1. Download the [Mac Installer](http://07th-mod.com/installer/python/higu_mac_installer.zip)
     2. Double-click on the zip to extract it (your browser may automatically do this after downloading)
+    
         !!! warning
             The zip contains two hidden files that are required by the installer.  If you try to move the `install` file out of the folder, it won't be able to find them.  If you really want to move the `install` file out of the folder, press ⇧⌘. (Shift-Command-Period) to temporarily enable showing of hidden files and copy the `.7za` and `.aria2c` files to the same folder.
+            
     3. Right click on the file called `install` and choose `Open`
     4. If prompted with a security prompt, choose `Open`
 

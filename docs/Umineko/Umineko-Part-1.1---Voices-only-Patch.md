@@ -1,4 +1,4 @@
-## This page is for manual install only. To install automatically, please go back to the [introduction page](Umineko-Getting-started.md), and follow the instructions.
+!!! warning "This page is for manual install only. To install automatically, please go back to the [introduction page](Umineko-Getting-started.md), and follow the instructions"
 
 ----
 

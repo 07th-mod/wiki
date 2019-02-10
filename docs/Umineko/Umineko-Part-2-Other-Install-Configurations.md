@@ -19,4 +19,14 @@ Make sure you didn't download a .html file by mistake - download by right clicki
 - [Full patch as base (sprites, graphics, voices)](https://07th-mod.com/wiki/Umineko/Umineko-Part-1---Voice-and-Graphics-Patch) - tries to be as similar to the PS3 release as possible. 
     - Full patch with Ryushiki sprites or Pachinko Sprites - To use this mode, you need replace your script with this one: [RIGHT CLICK here and SAVE AS](https://github.com/07th-mod/umineko-answer/raw/old_sprites/0.utf). Once you have replaced your game script, use the "To Orig." button in the top left of the right click menu if you want the "Old Old" ryushiki sprites". Note that this mode hasn't been well tested. ** THIS MODE MAY HAVE SPRITES ENTIRELY MISSING SOMETIMES. IT IS NOT WELL TESTED **
 
+----
 
+#### Question Arcs - 'Legacy' full patch (~5GB Download, ~20GB free space required)
+
+There is no reason to use this anymore, but I will leave the links here anyway.
+
+- Not actively updated anymore. Mostly made redundant by 1080p version
+- Same as 1080p version except
+    - No ADV mode
+    - Resolution of 1707 x 960 (960p)
+- Install Methods:  [Cross Platform Installer](../Mod-Installer.md) || [Windows Installer](Umineko-Legacy-Installer.md) || [Install Manually](Umineko-Part-1---Voice-and-Graphics-Patch.md)

@@ -1,10 +1,11 @@
+# 2. Mod Options
+
 This page describes each mod option, so you can decide which mod to install.
 
 ----
 
-#### What is ADV Mode?
-
-Some install options below refer to ADV mode. The normal mode for the Umineko games is 'NVL' (Novel mode), where the text occupies the entire screen. 'ADV' mode (Adventure Mode)  is where the text only occupies the bottom of the screen.
+!!! tip "What is ADV Mode?"
+    Some install options below refer to ADV mode. The normal mode for the Umineko games is 'NVL' (Novel mode), where the text occupies the entire screen. 'ADV' mode (Adventure Mode)  is where the text only occupies the bottom of the screen.
 
 <table>
 <thead>
@@ -20,11 +21,8 @@ Some install options below refer to ADV mode. The normal mode for the Umineko ga
 </table>
 
 ----
-#### Which Installer type should I get?
-
-**Windows Installer**: Use this installer on Windows. Will eventually be replaced by the Cross Platform Installer.
-
-**Cross Platform Installer**: Use when the Windows installer can't be used, such as on Mac and Linux, and for the Voice Only mod option.
+!!! tip "Should I get the Windows or Cross Platform Installer?"
+    Use the **Windows Installer** installer on Windows. Use the **Cross Platform Installer** when the Windows installer can't be used, such as on Mac and Linux, and for the Voice Only mod option.
 
 ----
 
@@ -44,14 +42,6 @@ There are two main install options for the question arcs - the full patch, and t
 - Mainly adds voices to the base game
 - Playing with Japanese text is NOT supported
 - Install Methods:  [Cross Platform Installer](../Mod-Installer.md) || [Install Manually](Umineko-Part-1.1---Voices-only-Patch.md)
-
-#### Question Arcs - 'Legacy' full patch (~5GB Download, ~20GB free space required)
-
-- Not actively updated anymore. Mostly made redundant by 1080p version
-- Same as 1080p version except
-    - No ADV mode
-    - Resolution of 1707 x 960 (960p)
-- Install Methods:  [Cross Platform Installer](../Mod-Installer.md) || [Windows Installer](Umineko-Legacy-Installer.md) || [Install Manually](Umineko-Part-1---Voice-and-Graphics-Patch.md)
 
 ----
 
@@ -79,7 +69,7 @@ There are two main install options for the question arcs - the full patch, and t
 - Install Methods:  [Cross Platform Installer](../Mod-Installer.md) || [Install Manually](Umineko-Part-1.1---Voices-only-Patch.md)
 ----
 
-#### Unsupported Options
+## Unsupported/Legacy Options
 
 There are some other options which are not well supported by us. See the [Other Install Configurations](Umineko-Part-2-Other-Install-Configurations.md) page.
 

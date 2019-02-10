@@ -1,6 +1,3 @@
-# Troubleshooting/FAQ
-
-
 ## Install Problems
 
 #### Steam updated and now my saves are missing! 

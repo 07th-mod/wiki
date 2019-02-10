@@ -1,11 +1,14 @@
-We highly recommend reading this entire page. But here is the summary version:
+# 1. Umineko Mod Information - Please Read
 
-- If you have problems, check the [Troubleshooting](Umineko-Part-0-TroubleShooting-and-FAQ.md) page
-- If you have any existing save slots, and you **mod** or **upgrade** the game, your Save Slots WILL **randomly jump you somewhere in the game**. This can cause spoilers. Therefore, don't modify the game while you're in the middle of a chapter (read below for more details).
-- There is a mod settings menu in-game that you should look at at least once.
-- Updating the mod is not properly supported.
-- Steam Sync is disabled. To enable it, run `enable steam sync.bat' in the game folder (see 'Known Issues' for reasoning).
-- The old ryushiki sprites are not properly supported (see below)
+This patch modifies the newest release of Umineko by MangaGamer, attempting to replicate the PS3 version of the game. It is compatible with both the Steam and DRM-free versions of the game.
+
+!!! warning "This page contains important information you should read before installing. But here is the summary:"
+    - If you have problems, check the [Troubleshooting](Umineko-Part-0-TroubleShooting-and-FAQ.md) page
+    - If you have any existing save slots, and you **mod** or **upgrade** the game, your Save Slots WILL **randomly jump you somewhere in the game**. This can cause spoilers. Therefore, don't modify the game while you're in the middle of a chapter (read below for more details).
+    - There is a mod settings menu in-game that you should look at at least once.
+    - Updating the mod is only supported by re-installing (overwriting it)
+    - Steam Sync is disabled by default. To enable it, run the `EnableSteamSync.bat` located in the game folder. See the 'Known Issues' section of this page for reasoning.
+    - The old ryushiki sprites are not properly supported (see below)
 
 You've read the page, right? Please proceed to [Part 2: Mod Options](Umineko-Mod-Options.md)
 
@@ -19,7 +22,7 @@ Chapter Progress (whether you have completed a particular chapter or not) IS com
 
 ## Updating from older versions
 
-We don't properly support updating the game, but you can do it by re-installing the game over an existing installation (either manually or automatically). If you chose to keep your 
+We don't properly support updating the game, but you can do it by re-installing the game over an existing installation (either manually or automatically). You can speed up re-installation by keeping your installer temp files, shown at the end of the installation.
 
 As per the above, save files are not compatible when we update the game. Therefore, **you should only update your script after completing an episode**. If you update your game while in the middle of a chapter, you risk your save files to stop working, or your save files randomly jumping you forward in the game!
 
@@ -32,15 +35,16 @@ You can change some settings from the in-game mod menu. While playing the game a
 [insert mod menu picture here]
 
 ## Known Issues
-- Steam Sync is disabled (See [the "Steam Sync doesn't work!" FAQ](Umineko-Part-0-TroubleShooting-and-FAQ.md#steam-sync-doesnt-work) if you wish to re-enable it)
-- For the Question Arcs, the voice quality near the start of the game is poor for some characters (sounds like a phasing effect). The raw PS3 audio files have this problem as well, so I don't think we can fix this. 
 
-## Disclaimer about old 'Ryushiki' sprites 
+- Steam Sync is disabled (See [the "Steam Sync doesn't work!" FAQ](Umineko-Part-0-TroubleShooting-and-FAQ.md#steam-sync-doesnt-work) if you wish to re-enable it)
+- For the Question Arcs, the voice quality near the start of the game is poor for some characters (sounds like a phasing effect). The raw PS3 audio files have this problem as well, so I don't think we can fix this.
+
+## Disclaimer about old 'Ryushiki' sprites
 
 The old 'Ryushiki' sprites are not *fully* supported, as described below:
 
-- For the Question Arcs, you toggle sprites via the right-click menu. 
-- The Answer arcs CANNOT do this. 
+- For the Question Arcs, you can toggle sprites via the right-click menu
+- The Answer arcs CANNOT do this
 - There may be some bugs when the old sprites are used
 
 If you really want to play with old sprites, you have the following options:
@@ -51,4 +55,4 @@ If you really want to play with old sprites, you have the following options:
 
 ----
 
-##**Please proceed to [Part 2: Mod Options](Umineko-Mod-Options.md)**
+## **Please proceed to [Part 2: Mod Options](Umineko-Mod-Options.md)**

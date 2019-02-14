@@ -3,10 +3,12 @@
 This patch modifies the newest release of Umineko by MangaGamer, attempting to replicate the PS3 version of the game. It is compatible with both the Steam and DRM-free versions of the game.
 
 !!! tip "Just looking for the Downloads?"
-    I **highly recommend** you follow the wiki, so that you are prepared for any problems you may face. Below are links to the the downloads - **but don't say I didn't warn you**!
+    I **highly recommend** you read this wiki, so that you are prepared for any problems you may face. However if you wish to skip straight to the downloads, they are listed here:
 
     - Windows users: Use the [Windows Installer](Umineko-Legacy-Installer.md). **Choose the "1080p Beta" option for Question arcs**.
     - Mac/Linux users: Use the [Cross Platform Installer](../Mod-Installer.md).
+
+    Please continue reading below for the "full" instructions and information on the Umineko Mod.
 
 !!! warning "This page contains important information you should read before installing. But here is the summary:"
     - If you have problems, check the [Troubleshooting](Umineko-Part-0-TroubleShooting-and-FAQ.md) page

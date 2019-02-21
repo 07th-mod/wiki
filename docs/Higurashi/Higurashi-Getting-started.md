@@ -58,7 +58,7 @@
 ## Console Arcs (extra chapters)
 
 !!! warning "The console arcs requires Ch.4 Himatsubushi to be played"
-    Installing it in over your Himatsubushi installation will overwrite the game with the console arcs. We recommend to make a copy of the folder and install the console arcs there. **It is not required to install the Himatsubushi patch before installing the Console Arcs.**
+    Installing it over your Himatsubushi installation will overwrite the game with the console arcs. We recommend to make a copy of the folder and install the console arcs there. **It is not required to install the Himatsubushi patch before installing the Console Arcs.**
 
 <table>
 <thead>

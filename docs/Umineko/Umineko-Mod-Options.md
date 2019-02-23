@@ -76,6 +76,8 @@ There are some other options which are not well supported by us. See the [Other 
 ----
 
 ## News
+23/02/2019: On the 05/02/2019 a change was made to the manual mac install instructions which would prevent you from starting the game. It has now been reverted (sorry abou that). 
+
 28-01-2019: Cross Platform Installer is now suggested in install instructions. Wiki has been refactored.
 
 28-01-2019: Add ADV mode to 1080p Question Arcs

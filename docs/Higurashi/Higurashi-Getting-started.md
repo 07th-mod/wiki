@@ -4,6 +4,9 @@
     The links below will take you to the section **2a. Installer**. This is currently the best method to install the patch in any operating system.<br></br>
     However, if you prefer to install the patch manually, go to section **2b. Manual Installation** instead.
 
+!!! warning "Careful about old save files!"
+    Save files from older versions of the patch **or** the vanilla game are not expected to work properly with our patch. They might look fine sometimes, but you will hit a roadblock eventually. We recommend to start fresh from the beggining or use the "Chapter Select" function to start at the current chapter you were playing before. You can also hold ``ctrl`` to skip the game in high speed mode.
+
 ## Main story arcs
 
 <table>

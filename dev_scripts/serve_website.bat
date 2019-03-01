@@ -1,1 +1,2 @@
-mkdocs serve -f ../mkdocs.yml
+cd ..
+mkdocs serve -f mkdocs.yml

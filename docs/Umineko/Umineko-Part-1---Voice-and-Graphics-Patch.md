@@ -29,15 +29,6 @@ Instructions on installing the Answer Arcs ADV Addon are at the bottom of the pa
 </tr>
 </thead>
 <tbody>
-<tr bgcolor="#AAAAAA" class="odd">
-<td>Question Arcs LEGACY</td>
-<td><a href="http://07th-mod.com/download.php?repository=umineko-question&file=master/InDevelopment/ManualUpdates/0.utf">Download 0.u</a></td>
-<td><a href="https://07th-mod.com/Beato/Umineko-Voices.7z">Download</a></td>
-<td><a href="https://07th-mod.com/Beato/Umineko-Graphics.zip.001">Part 1</a> <br> <a href="https://07th-mod.com/Beato/Umineko-Graphics.zip.002">Part 2</a> <br> <a href="https://07th-mod.com/Beato/Umineko-Graphics.zip.003">Part 3</a></td>
-<td><a href="https://07th-mod.com/Beato/Umineko1to4.exe">Windows</a> <br> <a href="https://07th-mod.com/Beato/0utf_umineko1to4.app.zip">Mac</a> <br> <a href="https://07th-mod.com/Beato/Umineko1to4">Linux</a></td>
-<td><a href="https://07th-mod.com/Beato/Umineko-Update-v5_2018_07_15.zip">Update v5 (2018-07-15)</a></td>
-<td>N/A</td>
-</tr>
 <tr class="even">
 <td>Question Arcs 1080p</td>
 <td><a href="http://07th-mod.com/download.php?repository=umineko-question&file=1080p/InDevelopment/ManualUpdates/0.utf">Download 0.u</a></td>

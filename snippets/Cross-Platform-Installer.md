@@ -1,27 +1,24 @@
 ## Multiplatform installer (Windows, Mac and Linux)
 
 !!! bug
-    **This installer is currently in active development.** Bugs might happen and things might not work. If you are running Windows, we recommend using the solution **above**.
+    **This installer is currently in active development.** You might find bugs, and things might not always work - We would be grateful if you report bugs on github or our discord server. If you are running Windows, we recommend using the Windows Installer.
 
-This installer is an alternative to the method above, however fully multiplatform. That means you can automatically install the patch on Linux and Mac from now on, with the small downside of an uglier interface. We promise the plan is to make it look just like the native Windows installer, these things take time to develop.
-
-**Using this installer should install the exact same features as the Windows installer.** Check above for more information on what the installer does.
+This installer is compatible with Windows, Linux, and Mac. The interface is uglier, but we plan to make it look just like the native Windows installer. **Using this installer should install the exact same features as the Windows installer**
 
 ### How to use the multiplatform installer
 
 Click on any of the blocks for the operating system of your choice to see the instructions:
 
 ??? example "Windows"
-    1. Download the [Windows Installer (64-bit)](http://07th-mod.com/installer/python/higu_win_installer.zip)
-          * If you are running a 32-bit Windows or do not know which version you currently have, download the [Windows Installer (32-bit)](http://07th-mod.com/installer/python/higu_win_installer_32.zip)
-    2. Extract the zip file to any folder, with the following requirements:
-          * The folder must be on the  **same drive** (eg C: drive) as the game
-          * The folder must not require any special permissions for write access
-          * If you're not sure which folder to use, your `Downloads` folder will probably work fine, assuming it's on the same drive as the game
+    1. Download the [Windows Installer (64-bit)](https://github.com/07th-mod/python-patcher/releases/latest)
+          * If you are running a 32-bit Windows or do not know which version you currently have, download the [Windows Installer (32-bit)](https://github.com/07th-mod/python-patcher/releases/latest)
+    2. Extract the zip file to your normal `Downloads` folder (assuming your `Downloads` folder is on the same drive as your game). If you need to extract to a different location:
+          * Make sure the folder is on the  **same drive** (eg C: drive) as the game
+          * Make sure the folder doesn't require any special permissions
     3. Run the file called `install.bat`
 
 ??? example "Mac"
-    1. Download the [Mac Installer](http://07th-mod.com/installer/python/higu_mac_installer.zip)
+    1. Download the [Mac Installer](https://github.com/07th-mod/python-patcher/releases/latest)
     2. Double-click on the zip to extract it (your browser may automatically do this after downloading)
 
         !!! warning
@@ -38,13 +35,17 @@ Click on any of the blocks for the operating system of your choice to see the in
             * **Arch Linux**: `sudo pacman -S tk`
             * **Fedora**: `sudo dnf install python2-tkinter` or <br> `sudo dnf install python3-tkinter`
             * If your distribution is not listed, you may need to lookup how to install tkinter on your particular distribution
-    2. Download and extract the [Linux Installer](http://07th-mod.com/installer/python/higu_linux64_installer.tar.gz)
+    2. Download and extract the [Linux Installer](https://github.com/07th-mod/python-patcher/releases/latest)
     3. Run the shell script called `install`
 
-!!! info "Power users can also download and run this Python file: [higurashiInstaller.py](https://raw.githubusercontent.com/07th-mod/resources/master/higurashiInstaller.py)"
-    It requires the following dependencies:
+??? info "(Power Users Only) Install from Source"
+    1. Install these dependencies:
 
-    * Python (2 or 3)
-    * Python Tkinter
-    * 7-zip
-    * Aria2
+        * Python (2 or 3)
+        * Python Tkinter
+        * 7-zip
+        * Aria2
+        * git
+
+    2. Clone our git repository: `git clone https://github.com/07th-mod/python-patcher.git`
+    3. Run `python main.py` or the equivalent command on your system

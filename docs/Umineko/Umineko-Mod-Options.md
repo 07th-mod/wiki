@@ -35,13 +35,13 @@ There are two main install options for the question arcs - the full patch, and t
 - NEW: Has **ADV mode** which can be toggled on or off at any time
 - NEW: Playing with Japanese Text is supported
 - Adds PS3 voices, sprites, CGs (event images), backgrounds, to the base game. DOES NOT add shader effects or lipsync.
-- Install Methods: [Cross Platform Installer](../Mod-Installer.md) || [Windows Installer](Umineko-Legacy-Installer.md) || [Install Manually](Umineko-Part-1---Voice-and-Graphics-Patch.md)
+- Install Methods: [Cross Platform Installer](Umineko-Part-3a-Cross-Platform-Installer.md) || [Windows Installer](Umineko-Legacy-Installer.md) || [Install Manually](Umineko-Part-1---Voice-and-Graphics-Patch.md)
 
 #### Question Arcs - Voice only (~1.9GB Download, ~5GB free space required)
 
 - Mainly adds voices to the base game
 - Playing with Japanese text is NOT supported
-- Install Methods:  [Cross Platform Installer](../Mod-Installer.md) || [Install Manually](Umineko-Part-1.1---Voices-only-Patch.md)
+- Install Methods:  [Cross Platform Installer](Umineko-Part-3a-Cross-Platform-Installer.md) || [Install Manually](Umineko-Part-1.1---Voices-only-Patch.md)
 
 ----
 
@@ -53,20 +53,20 @@ There are two main install options for the question arcs - the full patch, and t
 
 - NEW: Playing with Japanese Text is supported
 - Adds PS3 voices, sprites, CGs (event images), backgrounds, to the base game. DOES NOT add shader effects or lipsync.
-- Install Methods:  [Cross Platform Installer](../Mod-Installer.md) || [Windows Installer](Umineko-Legacy-Installer.md) || [Install Manually](Umineko-Part-1---Voice-and-Graphics-Patch.md)
+- Install Methods:  [Cross Platform Installer](Umineko-Part-3a-Cross-Platform-Installer.md) || [Windows Installer](Umineko-Legacy-Installer.md) || [Install Manually](Umineko-Part-1---Voice-and-Graphics-Patch.md)
 
 #### Answer Arcs - ADV Mode Addon (~8GB DL, ~30GB free space - Same as Full Patch)
 
 - This is an add on to the full patch which adds ADV mode (but in the installer, you just select "ADV Mode")
 - No in-game option to disable ADV mode
 - Playing with Japanese Text is NOT supported
-- Install Methods:  [Cross Platform Installer](../Mod-Installer.md) || [Install Manually](Umineko-Part-1---Voice-and-Graphics-Patch.md)
+- Install Methods:  [Cross Platform Installer](Umineko-Part-3a-Cross-Platform-Installer.md) || [Install Manually](Umineko-Part-1---Voice-and-Graphics-Patch.md)
 
 #### Answer Arcs - Voice only (~1.5GB Download, ~5GB free space required)
 
 - Mainly adds voices to the base game
 - Playing with Japanese text is NOT supported
-- Install Methods:  [Cross Platform Installer](../Mod-Installer.md) || [Install Manually](Umineko-Part-1.1---Voices-only-Patch.md)
+- Install Methods:  [Cross Platform Installer](Umineko-Part-3a-Cross-Platform-Installer.md) || [Install Manually](Umineko-Part-1.1---Voices-only-Patch.md)
 ----
 
 ## Unsupported/Legacy Options

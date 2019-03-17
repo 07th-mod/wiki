@@ -6,7 +6,7 @@ This patch modifies the newest release of Umineko by MangaGamer, attempting to r
     I **highly recommend** you read this wiki, so that you are prepared for any problems you may face. However if you wish to skip straight to the downloads, they are listed here:
 
     - Windows users: Use the [Windows Installer](Umineko-Legacy-Installer.md). **Choose the "1080p Beta" option for Question arcs**.
-    - Mac/Linux users: Use the [Cross Platform Installer](../Mod-Installer.md).
+    - Mac/Linux users: Use the [Cross Platform Installer](Umineko-Part-3a-Cross-Platform-Installer.md).
 
     Please continue reading below for the "full" instructions and information on the Umineko Mod.
 

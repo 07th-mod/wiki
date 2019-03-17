@@ -29,4 +29,4 @@ There is no reason to use this anymore, but I will leave the links here anyway.
 - Same as 1080p version except
     - No ADV mode
     - Resolution of 1707 x 960 (960p)
-- Install Methods:  [Cross Platform Installer](../Mod-Installer.md) || [Windows Installer](Umineko-Legacy-Installer.md) || [Install Manually](Umineko-Part-1---Voice-and-Graphics-Patch.md)
+- Install Methods:  [Cross Platform Installer](Umineko-Part-3a-Cross-Platform-Installer.md) || [Windows Installer](Umineko-Legacy-Installer.md) || [Install Manually](Umineko-Part-1---Voice-and-Graphics-Patch.md)

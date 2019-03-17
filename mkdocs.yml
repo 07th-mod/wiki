@@ -41,5 +41,5 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.details
   - pymdownx.snippets:
-      base_path: snippets
+      base_path: docs/Snippets
       check_paths: true

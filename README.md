@@ -49,3 +49,22 @@ explanation on how to use it.
 2. Translate all the files and edit ``mkdocs.yml`` with your changes.
 3. **Do not send a pull request with translations!** We recommend letting us know of your fork, we will 
 build from the source and add it to our wiki.
+
+## Using Markdown Extensions
+
+The markdown extensions are configured in the `mkdocs.yml` file.
+Extensions starting with `pymdownx` are part of the PyMdown Extensions
+package. [Click here](https://facelessuser.github.io/pymdown-extensions/extensions/arithmatex/)
+to see the full list of extensions. Note that each individual extension must
+be enabled in the `mkdcos.yml` file before it can be used.
+
+### Using the Pymdownx Snippets extension
+
+The [pymdownx.snippets](https://facelessuser.github.io/pymdown-extensions/extensions/snippets/) extension is setup to serve the files in the `snippets` folder.
+
+You can use the following syntax to include a file called `Cross-Platform-Installer.md`
+located in the snippets folder:
+
+`--8<-- "Cross-Platform-Installer.md"`
+
+If the file can't be found, the page won't be displayed and an error will be printed on the console.

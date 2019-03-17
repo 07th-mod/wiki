@@ -21,7 +21,7 @@ nav:
     - <b>Umineko</b>:
         - 1. Intro (START HERE): Umineko/Umineko-Getting-started.md
         - 2. Mod Options: Umineko/Umineko-Mod-Options.md
-        - 3a. Cross-Platform Installer: Mod-Installer.md
+        - 3a. Cross-Platform Installer: Umineko-Part-3a-Cross-Platform-Installer.md
         - 3b. Windows Installer: Umineko/Umineko-Legacy-Installer.md
         - 3c. Manual Voice and Graphics : Umineko/Umineko-Part-1---Voice-and-Graphics-Patch.md
         - 3d. Manual Voices-only : Umineko/Umineko-Part-1.1---Voices-only-Patch.md
@@ -40,3 +40,6 @@ markdown_extensions:
       permalink: true
   - pymdownx.mark
   - pymdownx.details
+  - pymdownx.snippets:
+      base_path: snippets
+      check_paths: true

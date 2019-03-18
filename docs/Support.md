@@ -17,22 +17,22 @@ If you don't know how to open an issue, create an account at Github [here](https
 Below is a list of common repositories separated by category:
 
 * Umineko
-  * [Question Arcs](https://github.com/07th-mod/umineko-question/issues)
-  * [Answer Arcs](https://github.com/07th-mod/umineko-answer/issues)
+    * [Question Arcs](https://github.com/07th-mod/umineko-question/issues)
+    * [Answer Arcs](https://github.com/07th-mod/umineko-answer/issues)
 * Higurashi
-  * [Console Arcs](https://github.com/07th-mod/higurashi-console-arcs/issues)
-  * [Ch.1 Onikakushi](https://github.com/07th-mod/onikakushi/issues)
-  * [Ch.2 Watanagashi](https://github.com/07th-mod/watanagashi/issues)
-  * [Ch.3 Tatarigoroshi](https://github.com/07th-mod/tatarigoroshi/issues)
-  * [Ch.4 Himatsubushi](https://github.com/07th-mod/himatsubushi/issues)
-  * [Ch.5 Meakashi](https://github.com/07th-mod/meakashi/issues)
-  * [Ch.6 Tsumihoroboshi](https://github.com/07th-mod/tsumihoroboshi/issues)
+    * [Console Arcs](https://github.com/07th-mod/higurashi-console-arcs/issues)
+    * [Ch.1 Onikakushi](https://github.com/07th-mod/onikakushi/issues)
+    * [Ch.2 Watanagashi](https://github.com/07th-mod/watanagashi/issues)
+    * [Ch.3 Tatarigoroshi](https://github.com/07th-mod/tatarigoroshi/issues)
+    * [Ch.4 Himatsubushi](https://github.com/07th-mod/himatsubushi/issues)
+    * [Ch.5 Meakashi](https://github.com/07th-mod/meakashi/issues)
+    * [Ch.6 Tsumihoroboshi](https://github.com/07th-mod/tsumihoroboshi/issues)
 * General
-  * [Wiki (mistakes, improvements)](https://github.com/07th-mod/wiki/issues)
-  * [Website (07th-mod.com)](https://github.com/07th-mod/website/issues)
+    * [Wiki (mistakes, improvements)](https://github.com/07th-mod/wiki/issues)
+    * [Website (07th-mod.com)](https://github.com/07th-mod/website/issues)
 * Automatic installer
-  * [Python installer](https://github.com/07th-mod/python-patcher)
-  * [Windows installer](https://github.com/07th-mod/Higurashi_Installer_WPF)
+    * [Python installer](https://github.com/07th-mod/python-patcher)
+    * [Windows installer](https://github.com/07th-mod/Higurashi_Installer_WPF)
   
 You can find more repositories (mainly for developers) in our [Github organization](https://github.com/07th-mod/).
 

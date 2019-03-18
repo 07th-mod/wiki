@@ -61,7 +61,7 @@ If you are experiencing issues in-game, you might also want to add some files th
 
 Please understand that these files might collect some information about your computer, such as:
 
-* Where the game is installed (full path to .exe)
+* Where the game is installed (full path to game.exe)
 * Your system username
 * Your system specs (CPU, GPU, RAM and OS)
 

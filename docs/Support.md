@@ -6,7 +6,7 @@ This page is dedicated to compile a list of resources in case you need help to i
 
 # Getting support on Discord
 
-If you are a [Discord](https://discordapp.com/) user, we highly recommend [joining our server](https://discord.gg/pf5VhF9) (click here to join) to get support for simple issues. Usually, issues are solved faster there than on Github. Our Discord server has support pages for Higurashi, Umineko and also developer channels where you can ask more broader questions about the patch. All channels are fine for installation issues, reporting bugs and general improvement of the patches (translation changes, graphical improvements, etc).
+If you are a [Discord](https://discordapp.com/) user, we highly recommend [joining our server](https://discord.gg/pf5VhF9) (click here to join) to get support for simple issues. Usually, issues are solved faster there than on Github. Our Discord server has support channels for Higurashi, Umineko and also developer channels where you can ask broader questions about the patch. All channels are fine for installation issues, reporting bugs and general improvement of the patches (translation changes, graphical improvements, etc).
 
 # Reporting issues on Github
 

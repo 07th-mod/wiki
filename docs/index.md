@@ -1,5 +1,5 @@
 !!! tip
-    **To start, pick a game in the sidebar in your left.**
+    **To start, pick a game in the sidebar in your left**
    
 ***
 

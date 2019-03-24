@@ -54,7 +54,7 @@ In this section we have a small summary of the total donations received, but in 
 > **Last updated: March 23, 2019**
 > 
 > **Goal**: $200 <br>
-> **Donations total**: **$17.82** (after Paypal donations tax) <br>
+> **Donations total**: **$26.88** (after Paypal donations tax) <br>
 
 ## What if you get way over your goal?
 

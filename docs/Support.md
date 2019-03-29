@@ -60,7 +60,7 @@ If you are experiencing issues in-game, you might also want to add some files th
 * Umineko
     1. Double click the "Umineko1to4_DebugMode.bat" file to start the game in debug mode. This file is located inside the game folder.
     2. Once you have started the game in debug mode, just play until the game crashes or behaves badly, then submit the stderr.txt and stdout.txt to us.
-           * When game is started in debug mode, a folder will appear showing stderr.txt and stdout.txt
+    3. When game is started in debug mode, a folder will appear showing stderr.txt and stdout.txt
 
 Please understand that these files might collect some information about your computer, such as:
 

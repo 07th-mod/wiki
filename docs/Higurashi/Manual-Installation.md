@@ -150,6 +150,7 @@ Follow the table below to download all the pieces to install the patch:
 5. Delete all the downloaded files after ensuring the game is working as expected
 
 **On Mac OSX:**
+
 !!! tip
     Mac users can normally follow the Windows instructions, but if the slightly different folders confuse you, try these steps:
 

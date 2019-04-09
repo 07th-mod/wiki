@@ -3,12 +3,20 @@
    
 ***
 
-!!! info
-    #### [Join our Discord server for support, discussion and a lot of fun!](https://discord.gg/pf5VhF9)<br></br>
-    #### [We need your help to keep our servers running! Click here to contribute.](https://07th-mod.com/wiki/Donations)
+!!! note "Help us stay online!"
+    ### [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SP5S4ZDV9BNZQ)!
     
+    We really need your help to keep our servers running. If you want to know more about donations, [click here](https://07th-mod.com/wiki/Donations).
+
+
+    This year's progress:<br>
+    <progress value="22" max="100"></progress>
+
+    Server time remaining: until <b>June 2019</b>
+
 ***
 
-07th-mod is a group created with the purpose of modding all 07th-Expansion games released officially on Steam (and outside too) with PS3 graphics or any alternatives available.
+!!! info
+    ### Join us on [Discord](https://discord.gg/pf5VhF9)
 
-This wiki should help you clear any doubts about installation, common issues and where to get the resources to patch your game.
+    Join our server for support, discussion and a lot of fun!

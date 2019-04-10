@@ -12,7 +12,7 @@
     This year's progress:<br>
     <progress value="22" max="100"></progress>
 
-    Server time remaining: until <b>June 2019</b>
+    Server time remaining: <b>3 months</b>
 
 ***
 

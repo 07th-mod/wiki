@@ -27,7 +27,7 @@ nav:
         - 3d. Manual Voices-only : Umineko/Umineko-Part-1.1---Voices-only-Patch.md
         - 4. FAQ/Troubleshooting: Umineko/Umineko-Part-0-TroubleShooting-and-FAQ.md
         - 5. Other Install Configurations: Umineko/Umineko-Part-2-Other-Install-Configurations.md
-    - <b>Developer Wiki</b>: https://07th-mod.com/wiki/developer
+    - <b>Developer Wiki</b>: https://07th-mod.com/dev-wiki
 theme: material
 plugins:
    - search

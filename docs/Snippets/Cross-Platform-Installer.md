@@ -10,15 +10,15 @@ This installer is compatible with Windows, Linux, and Mac. The interface is ugli
 Click on any of the blocks for the operating system of your choice to see the instructions:
 
 ??? example "Windows"
-    1. Download the [Windows Installer (64-bit)](https://github.com/07th-mod/python-patcher/releases/latest)
-          * If you are running a 32-bit Windows or do not know which version you currently have, download the [Windows Installer (32-bit)](https://github.com/07th-mod/python-patcher/releases/latest)
+    1. Download the [Windows Installer (64-bit)](https://github.com/07th-mod/python-patcher/releases)
+          * If you are running a 32-bit Windows or do not know which version you currently have, download the [Windows Installer (32-bit)](https://github.com/07th-mod/python-patcher/releases)
     2. Extract the zip file to your normal `Downloads` folder (assuming your `Downloads` folder is on the same drive as your game). If you need to extract to a different location:
           * Make sure the folder is on the  **same drive** (eg C: drive) as the game
           * Make sure the folder doesn't require any special permissions
     3. Run the file called `install.bat`
 
 ??? example "Mac"
-    1. Download the [Mac Installer](https://github.com/07th-mod/python-patcher/releases/latest)
+    1. Download the [Mac Installer](https://github.com/07th-mod/python-patcher/releases)
     2. Double-click on the zip to extract it (your browser may automatically do this after downloading)
 
         !!! warning
@@ -35,7 +35,7 @@ Click on any of the blocks for the operating system of your choice to see the in
             * **Arch Linux**: `sudo pacman -S tk`
             * **Fedora**: `sudo dnf install python2-tkinter` or <br> `sudo dnf install python3-tkinter`
             * If your distribution is not listed, you may need to lookup how to install tkinter on your particular distribution
-    2. Download and extract the [Linux Installer](https://github.com/07th-mod/python-patcher/releases/latest)
+    2. Download and extract the [Linux Installer](https://github.com/07th-mod/python-patcher/releases)
     3. Run the shell script called `install`
 
 ??? info "(Power Users Only) Install from Source"

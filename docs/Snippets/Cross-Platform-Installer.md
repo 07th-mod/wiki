@@ -1,7 +1,7 @@
 ## Multiplatform installer (Windows, Mac and Linux)
 
 !!! bug
-    **This installer is currently in active development.** You might find bugs, and things might not always work - We would be grateful if you report bugs on github or our discord server. If you are running Windows, we recommend using the Windows Installer.
+    **This installer is currently in active development.** You might find bugs, and things might not always work - We would be grateful if you report bugs on Github or our Discord server.
 
 ### How to use the multiplatform installer
 

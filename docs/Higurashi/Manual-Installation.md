@@ -34,13 +34,13 @@ Follow the table below to download all the pieces to install the patch:
 <tr class="odd">
 <td style="text-align: center;">Console Arcs (all)</td>
 <td style="text-align: center;"><a href="https://github.com/07th-mod/higurashi-console-arcs/releases/latest">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/ConsoleArcs-CG.7z">1440p</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/ConsoleArcs-Voices.7z">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/ConsoleArcs-BGM.7z">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/ConsoleArcs-SE.7z">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/ConsoleArcs-Movie.7z">Windows</a> <br> <a href="https://07th-mod.com/rikachama/ConsoleArcs-Movie_UNIX.7z">Mac/Linux</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/Himatsubushi-UI.7z">Windows</a> <br> <a href="https://07th-mod.com/rikachama/Himatsubushi-UI_UNIX.7z">Mac/Linux</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/ConsoleArcs-System.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/ConsoleArcs-CG.7z">1440p</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voice/ConsoleArcs-Voices.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/ConsoleArcs-BGM.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/ConsoleArcs-SE.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/video/ConsoleArcs-Movie.7z">Windows</a> <br> <a href="https://07th-mod.com/rikachama/video/ConsoleArcs-Movie_UNIX.7z">Mac/Linux</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/ui/Himatsubushi-UI_steam_win.7z">Windows</a> <br> <a href="https://07th-mod.com/rikachama/ui/Himatsubushi-UI_steam_unix.7z">Mac/Linux</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/misc/ConsoleArcs-System.7z">Download</a></td>
 </tr>
 </tbody>
 </table>
@@ -72,59 +72,94 @@ Follow the table below to download all the pieces to install the patch:
 <tr class="odd">
 <td style="text-align: center;">Ch.1 - Onikakushi</td>
 <td style="text-align: center;"><a href="https://github.com/07th-mod/onikakushi/releases/latest">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/Onikakushi-CG.7z">1440p</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/Onikakushi-CGAlt.7z">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/Onikakushi-Voices.7z">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/Onikakushi-UI.7z">Windows</a> <br> <a href="https://07th-mod.com/rikachama/Onikakushi-UI_UNIX.7z">Mac/Linux</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/Onikakushi-Movie.7z">Windows</a> <br> <a href="https://07th-mod.com/rikachama/Onikakushi-Movie_UNIX.7z">Mac/Linux</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Onikakushi-CG.7z">1440p</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Onikakushi-CGAlt.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voice/Onikakushi-Voices.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/ui/Onikakushi-UI_steam_win.7z">Windows</a> <br> <a href="https://07th-mod.com/rikachama/ui/Onikakushi-UI_steam_unix.7z">Mac/Linux</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/video/Onikakushi-Movie.7z">Windows</a> <br> <a href="https://07th-mod.com/rikachama/video/Onikakushi-Movie_UNIX.7z">Mac/Linux</a></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;">Ch.2 - Watanagashi</td>
 <td style="text-align: center;"><a href="https://github.com/07th-mod/watanagashi/releases/latest">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/Watanagashi-CG.7z">1440p</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/Watanagashi-CGAlt.7z">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/Watanagashi-Voices.7z">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/Watanagashi-UI.7z">Windows</a> <br> <a href="https://07th-mod.com/rikachama/Watanagashi-UI_UNIX.7z">Mac/Linux</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/Watanagashi-Movie.7z">Windows</a> <br> <a href="https://07th-mod.com/rikachama/Watanagashi-Movie_UNIX.7z">Mac/Linux</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Watanagashi-CG.7z">1440p</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Watanagashi-CGAlt.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voice/Watanagashi-Voices.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/ui/Watanagashi-UI_steam_win.7z">Windows</a> <br> <a href="https://07th-mod.com/rikachama/ui/Watanagashi-UI_steam_unix.7z">Mac/Linux</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/video/Watanagashi-Movie.7z">Windows</a> <br> <a href="https://07th-mod.com/rikachama/video/Watanagashi-Movie_UNIX.7z">Mac/Linux</a></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;">Ch.3 - Tatarigoroshi</td>
 <td style="text-align: center;"><a href="https://github.com/07th-mod/tatarigoroshi/releases/latest">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/Tatarigoroshi-CG.7z">1440p</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/Tatarigoroshi-CGAlt.7z">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/Tatarigoroshi-Voices.7z">Download</a></td>
-<td style="text-align: center;">Windows <a href="https://07th-mod.com/rikachama/Tatarigoroshi-UI.7z">Steam</a> / <a href="https://07th-mod.com/rikachama/Tatarigoroshi-UI_MG.7z">DRM-Free</a> <br> Mac/Linux <a href="https://07th-mod.com/rikachama/Tatarigoroshi-UI_UNIX.7z">Steam</a> / <a href="https://07th-mod.com/rikachama/Tatarigoroshi-UI_UNIX-MG.7z">DRM-Free</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/Tatarigoroshi-Movie.7z">Windows</a> <br> <a href="https://07th-mod.com/rikachama/Tatarigoroshi-Movie_UNIX.7z">Mac/Linux</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Tatarigoroshi-CG.7z">1440p</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Tatarigoroshi-CGAlt.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voice/Tatarigoroshi-Voices.7z">Download</a></td>
+<td style="text-align: center;">Windows <a href="https://07th-mod.com/rikachama/ui/Tatarigoroshi-UI_steam_win.7z">Steam</a> / <a href="https://07th-mod.com/rikachama/ui/Tatarigoroshi-UI_mg_win.7z">DRM-Free</a> <br> Mac/Linux <a href="https://07th-mod.com/rikachama/ui/Tatarigoroshi-UI_steam_unix.7z">Steam</a> / <a href="https://07th-mod.com/rikachama/ui/Tatarigoroshi-UI_mg_unix.7z">DRM-Free</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/video/Tatarigoroshi-Movie.7z">Windows</a> <br> <a href="https://07th-mod.com/rikachama/video/Tatarigoroshi-Movie_UNIX.7z">Mac/Linux</a></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;">Ch.4 - Himatsubushi</td>
 <td style="text-align: center;"><a href="https://github.com/07th-mod/himatsubushi/releases/latest">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/Himatsubushi-CG.7z">1440p</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/Himatsubushi-CGAlt.7z">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/Himatsubushi-Voices.7z">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/Himatsubushi-UI.7z">Windows</a> <br> <a href="https://07th-mod.com/rikachama/Himatsubushi-UI_UNIX.7z">Mac/Linux</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/Himatsubushi-Movie.7z">Windows</a> <br> <a href="https://07th-mod.com/rikachama/Himatsubushi-Movie_UNIX.7z">Mac/Linux</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Himatsubushi-CG.7z">1440p</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Himatsubushi-CGAlt.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voice/Himatsubushi-Voices.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/ui/Himatsubushi-UI_steam_win.7z">Windows</a> <br> <a href="https://07th-mod.com/rikachama/ui/Himatsubushi-UI_steam_unix.7z">Mac/Linux</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/video/Himatsubushi-Movie.7z">Windows</a> <br> <a href="https://07th-mod.com/rikachama/video/Himatsubushi-Movie_UNIX.7z">Mac/Linux</a></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;">Ch.5 - Meakashi</td>
 <td style="text-align: center;"><a href="https://github.com/07th-mod/meakashi/releases/latest">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/Meakashi-CG.7z">1440p</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/Meakashi-CGAlt.7z">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/Meakashi-Voices.7z">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/Meakashi-UI.7z">Windows</a> <br> <a href="https://07th-mod.com/rikachama/Meakashi-UI_UNIX.7z">Mac/Linux</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/Meakashi-Movie.7z">Windows</a> <br> <a href="https://07th-mod.com/rikachama/Meakashi-Movie_UNIX.7z">Mac/Linux</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Meakashi-CG.7z">1440p</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Meakashi-CGAlt.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voice/Meakashi-Voices.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/ui/Meakashi-UI_steam_win.7z">Windows</a> <br> <a href="https://07th-mod.com/rikachama/ui/Meakashi-UI_steam_unix.7z">Mac/Linux</a> <br> <a href="https://07th-mod.com/rikachama/ui/Meakashi-UI_gog_win.7z">Windows (GOG)</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/video/Meakashi-Movie.7z">Windows</a> <br> <a href="https://07th-mod.com/rikachama/video/Meakashi-Movie_UNIX.7z">Mac/Linux</a></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;">Ch. 6 - Tsumihoroboshi</td>
 <td style="text-align: center;"><a href="https://github.com/07th-mod/tsumihoroboshi/releases/latest">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/Tsumihoroboshi-CG.7z">1440p</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/Tsumihoroboshi-CGAlt.7z">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/Tsumihoroboshi-Voices.7z">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/Tsumihoroboshi-UI.7z">Windows</a> <br> <a href="https://07th-mod.com/rikachama/Tsumihoroboshi-UI_UNIX.7z">Mac/Linux</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/Tsumihoroboshi-Movie.7z">Windows</a> <br> <a href="https://07th-mod.com/rikachama/Tsumihoroboshi-Movie_UNIX.7z">Mac/Linux</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Tsumihoroboshi-CG.7z">1440p</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Tsumihoroboshi-CGAlt.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voice/Tsumihoroboshi-Voices.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/ui/Tsumihoroboshi-UI_steam_win.7z">Windows</a> <br> <a href="https://07th-mod.com/rikachama/ui/Tsumihoroboshi-UI_steam_unix.7z">Mac/Linux</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/video/Tsumihoroboshi-Movie.7z">Windows</a> <br> <a href="https://07th-mod.com/rikachama/video/Tsumihoroboshi-Movie_UNIX.7z">Mac/Linux</a></td>
 </tr>
 </tbody>
 </table>
+
+### Optional downloads
+
+<table>
+<colgroup>
+<col style="width: 4%" />
+<col style="width: 24%" />
+<col style="width: 27%" />
+<col style="width: 43%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;">Chapter</th>
+<th style="text-align: center;">BGM</th>
+<th style="text-align: center;">Sound Effects</th>
+<th style="text-align: center;">Extras</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">Question Arcs (all)</td>
+<td style="text-align: center;"><a href="http://07th-mod.com/rikachama/audio/Higurashi-OldBGM.7z">Classic BGM</a> <br> Restores the old BGM (pre-2019 update)</td>
+<td style="text-align: center;"><a href="http://07th-mod.com/rikachama/audio/Higurashi-OldSE.7z">Classic Sound Effects</a> <br> Restores the old sound effects (pre-2019 update)</td>
+<td style="text-align: center;"><a href="http://07th-mod.com/misc/Higurashi.OST.Remake.zip">Higurashi OST Remake</a> <br> Handmade remakes of nerve's music. <b>Can be installed over Classic BGM.</b> <br> <a href="https://radiataalice.bandcamp.com/album/hinamizawa-syndrome-vol-1">(listen online)</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">Answer Arcs (all)</td>
+<td style="text-align: center;"><a href="http://07th-mod.com/rikachama/audio/HigurashiKai-OldBGM.7z">Classic BGM</a> <br> Restores the old BGM (pre-2019 update)</td>
+<td style="text-align: center;"><a href="http://07th-mod.com/rikachama/audio/HigurashiKai-OldSE.7z">Classic Sound Effects</a> <br> Restores the old sound effects (pre-2019 update)</td>
+<td style="text-align: center;">None yet</td>
+</tr>
+</tbody>
+</table>
+
+**Note:** These files need to be extracted inside ``StreamingAssets`` to work. Overwrite all files if asked.
 
 ***
 

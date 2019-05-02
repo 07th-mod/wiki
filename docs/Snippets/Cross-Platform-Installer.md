@@ -3,8 +3,6 @@
 !!! bug
     **This installer is currently in active development.** You might find bugs, and things might not always work - We would be grateful if you report bugs on github or our discord server. If you are running Windows, we recommend using the Windows Installer.
 
-This installer is compatible with Windows, Linux, and Mac. The interface is uglier, but we plan to make it look just like the native Windows installer. **Using this installer should install the exact same features as the Windows installer**
-
 ### How to use the multiplatform installer
 
 Click on any of the blocks for the operating system of your choice to see the instructions:

@@ -31,7 +31,7 @@ If you try to launch the Steam version of the game directly through the executab
 
 #### Linux/MacOSX - I can't launch the game (No Execute Permissions)
 
-You may need to do `chmod 777 umineko1to4` or `chmod 777 umineko5to8` to give execute permissions if your executable doesn't launch.
+You may need to do `chmod +x Umineko1to4` or `chmod +x Umineko5to8` to give execute permissions if your executable doesn't launch.
 
 
 ## Gameplay Problems

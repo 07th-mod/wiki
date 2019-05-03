@@ -33,16 +33,15 @@ If you try to launch the Steam version of the game directly through the executab
 
 You may need to do `chmod +x Umineko1to4` or `chmod +x Umineko5to8` to give execute permissions if your executable doesn't launch.
 
-
 ## Gameplay Problems
 
 #### Suddenly all my sound has stopped working!
 
 In this game engine, pressing 'm' mutes all sound. Press 'm' again to unmute.
 
-#### The sound quality is bad at the start of the Question Arcs
+#### The voices at the start of the Question Arcs have some minor distortion
 
-This seems to be inherent to the audio files of the PS3 game (either when they were recorded, or during mixdown). However the quality seems to improve as you progress through the game, it's mainly during the start of Episode 1 when it is noticeable.
+This seems to be inherent to the audio files of the PS3 game (either when they were recorded, or during mixdown). However the quality seems to improve as you progress through the game - it's mainly during the start of Episode 1 when it is noticeable.
 
 #### Text advances too slowly/quickly
 
@@ -78,5 +77,3 @@ You can also submit them on our Github Issues page:
 
 - [Question Arcs Issues Page](https://github.com/07th-mod/umineko-question/issues)
 - [Answer Arcs Issues Page](https://github.com/07th-mod/umineko-answer/issues)
-
-

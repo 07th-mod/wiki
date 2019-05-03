@@ -35,6 +35,18 @@ You may need to do `chmod +x Umineko1to4` or `chmod +x Umineko5to8` to give exec
 
 ## Gameplay Problems
 
+#### The game has poor performance, even on high end systems
+
+We're currently investigating some reports of poor performance, especially on the Umineko Answer arcs.
+
+Please note that the Umineko game engine heavily relies on single threaded CPU performance. This may mean that, even if you have a great GPU, an older CPU may cause you to lag or drop frames. On very underpowered machines (like netbooks with Atom processors, or old laptops), performance won't be very good - we recommend using a different machine to play if possible.
+
+Having many programs running in the background can also affect performance, especially on low end systems. Please close other programs (including your browser) before running the game.
+
+The game also seems to perform worse as your screen resolution increases (especially on integrated graphics). You can test this by playing in windowed mode, and reducing the window size - the performance should improve. If this is your problem, try reducing your desktop resolution to 1080p (the resolution the game runs at).
+
+We have had a couple reports of high end systems having performance problems - we are currently investigating this issue.
+
 #### Suddenly all my sound has stopped working!
 
 In this game engine, pressing 'm' mutes all sound. Press 'm' again to unmute.

@@ -10,9 +10,9 @@
 
 
     This year's progress:<br>
-    <progress value="40" max="100"></progress>
+    <progress value="60" max="100"></progress>
 
-    Server time remaining: <b>3 months</b>
+    Server time remaining: <b>6 months</b>
 
 ***
 

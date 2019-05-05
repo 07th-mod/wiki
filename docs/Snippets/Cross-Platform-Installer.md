@@ -8,8 +8,7 @@
 Click on any of the blocks for the operating system of your choice to see the instructions:
 
 ??? example "Windows"
-    1. Download the [Windows Installer (64-bit)](https://github.com/07th-mod/python-patcher/releases)
-          * If you are running a 32-bit Windows or do not know which version you currently have, download the [Windows Installer (32-bit)](https://github.com/07th-mod/python-patcher/releases)
+    1. Download the [Windows Installer](https://github.com/07th-mod/python-patcher/releases)
     2. Extract the zip file to your normal `Downloads` folder (assuming your `Downloads` folder is on the same drive as your game). If you need to extract to a different location:
           * Make sure the folder is on the  **same drive** (eg C: drive) as the game
           * Make sure the folder doesn't require any special permissions

@@ -6,24 +6,7 @@
 
 !!! warning "Careful about old save files!"
     Save files from older versions of the patch **or** the vanilla game are not expected to work properly with our patch. They might look fine sometimes, but you will hit a roadblock eventually. We recommend to start fresh from the beggining or use the "Chapter Select" function to start at the current chapter you were playing before. You can also hold ``ctrl`` to skip the game in high speed mode.
-
-## Console Arcs (extra chapters)
-
-!!! warning "The console arcs requires Ch.4 Himatsubushi to be played"
-    Installing it over your Himatsubushi installation will overwrite the game with the console arcs. We recommend to make a copy of the folder and install the console arcs there. **It is not required to install the Himatsubushi patch before installing the Console Arcs.**
-
-Supported chapters:
-
-* Someutsushi
-* Kageboushi
-* Tsukiotoshi
-* Taraimawashi
-* Tokihogushi
-
-[**Click here to install the patch**](https://07th-mod.com/wiki/Higurashi/Higurashi-Part-1---Voice-and-Graphics-Patch)
-
-[Click here](https://ibb.co/dTRmmb) to see a flowchart with all Higurashi chapters and where each console arcs fit in the storyline.
-
+    
 ## Main story arcs
 
 <table>
@@ -74,3 +57,20 @@ Supported chapters:
 </tr>
 </tbody>
 </table>
+
+## Console Arcs (extra chapters)
+
+!!! warning "The console arcs requires Ch.4 Himatsubushi to be played"
+    Installing it over your Himatsubushi installation will overwrite the game with the console arcs. We recommend to make a copy of the folder and install the console arcs there. **It is not required to install the Himatsubushi patch before installing the Console Arcs.**
+
+Supported chapters:
+
+* Someutsushi
+* Kageboushi
+* Tsukiotoshi
+* Taraimawashi
+* Tokihogushi
+
+[**Click here to install the patch**](https://07th-mod.com/wiki/Higurashi/Higurashi-Part-1---Voice-and-Graphics-Patch)
+
+[Click here](https://ibb.co/dTRmmb) to see a flowchart with all Higurashi chapters and where each console arcs fit in the storyline.

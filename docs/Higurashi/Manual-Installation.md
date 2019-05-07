@@ -79,10 +79,10 @@ Follow the table below to download all the pieces to install the patch:
 </tr>
 <tr class="odd">
 <td style="text-align: center;">Steam graphics patch</td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voice/Onikakushi-CGAlt.7z">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voice/Watanagashi-CGAlt.7z">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voice/Tatarigoroshi-CGAlt.7z">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voice/Himatsubushi-CGAlt.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Onikakushi-CGAlt.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Watanagashi-CGAlt.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Tatarigoroshi-CGAlt.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Himatsubushi-CGAlt.7z">Download</a></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;">Voices</td>
@@ -144,8 +144,8 @@ Follow the table below to download all the pieces to install the patch:
 </tr>
 <tr class="odd">
 <td style="text-align: center;">Steam graphics patch</td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voice/Meakashi-CGAlt.7z">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voice/Tsumihoroboshi-CGAlt.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Meakashi-CGAlt.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Tsumihoroboshi-CGAlt.7z">Download</a></td>
 <td style="text-align: center;">None yet</td>
 <td style="text-align: center;">None yet</td>
 </tr>

@@ -54,7 +54,7 @@ In this section we have a small summary of the total donations received, but in 
 > **Last updated: May 02, 2019**
 > 
 > **Goal**: $200 <br>
-> **Donations total**: **$130.49** (after Paypal donations tax) <br>
+> **Donations total**: **$133.93** (after Paypal donations tax) <br>
 > **Hosting time left**: **6 months** <br>
 
 ## What if you get way over your goal?

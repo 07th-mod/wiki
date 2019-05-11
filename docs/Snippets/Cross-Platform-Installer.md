@@ -46,3 +46,11 @@ Click on any of the blocks for the operating system of your choice to see the in
 
     2. Clone our git repository: `git clone https://github.com/07th-mod/python-patcher.git`
     3. Run `python main.py` or the equivalent command on your system
+
+### Installer FAQ and Troubleshooting
+
+#### Can't launch installer - I get a `http.client.UnknownProtocol: HTTP/2.0` error when using a VPN or proxy
+
+Please try running the installer without going through a VPN or proxy. Some company/school networks may also cause the same error, as they act as a proxy.
+
+Specifically, UltraSurf is known to cause this problem.

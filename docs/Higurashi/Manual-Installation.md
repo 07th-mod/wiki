@@ -182,6 +182,9 @@ Follow the table below to download all the pieces to install the patch:
 
 ## Optional downloads
 
+!!! warning "Different BGM and Sound Effects extraction location!"
+    Unlike the other archives, **these files need to be extracted inside the ``StreamingAssets`` folder to work**. Overwrite all files if asked.
+
 <table>
 <colgroup>
 <col style="width: 4%" />
@@ -212,8 +215,6 @@ Follow the table below to download all the pieces to install the patch:
 </tr>
 </tbody>
 </table>
-
-**Note:** These files need to be extracted inside ``StreamingAssets`` to work. Overwrite all files if asked.
 
 ***
 

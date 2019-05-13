@@ -222,7 +222,7 @@ Follow the table below to download all the pieces to install the patch:
 !!! hint
     Newer graphics patches requires an extraction software compatible with ``.7z``.
 
-> * On Windows: [WinRAR (paid)](https://www.win-rar.com/start.html?&L=0) or [7-zip (free)](http://7-zip.org/)
+> * On Windows: [7-zip](http://7-zip.org/) (WinRAR is also acceptable)
 > * On Linux: ``p7zip`` in your package manager
 > * On Mac: [Keka](https://www.keka.io)
 

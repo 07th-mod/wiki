@@ -24,6 +24,8 @@ Click on any of the blocks for the operating system of your choice to see the in
     3. Right click on the file called `install` and choose `Open`
     4. If prompted with a security prompt, choose `Open`
 
+--8<-- "gnome-crash-warning.md"
+
 ??? example "Linux"
     1. Install the following using your distribution's package manager:
         * Python (2 or 3)

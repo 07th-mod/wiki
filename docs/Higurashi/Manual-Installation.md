@@ -230,6 +230,8 @@ Follow the table below to download all the pieces to install the patch:
 
 **On Windows or Linux (any distro):**
 
+--8<-- "gnome-crash-warning.md"
+
 1. Find and open your game folder 
     * On Steam: open your Steam library, choose the game from the list, right click on it and click on ``Properties``. Switch to the ``LOCAL FILES`` tab and click on ``Browse local files...``)
 2. After downloading all the files needed for your version of the game, place them in the root folder (where the game ``.exe`` is)

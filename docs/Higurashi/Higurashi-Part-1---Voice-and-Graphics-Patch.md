@@ -1,8 +1,5 @@
 # Installing the patch
 
-!!! note
-    Don't forget to check ["Patch configuration and extras"](https://07th-mod.com/wiki/Higurashi/Higurashi-Part-2---Patch-configuration-and-keyboard-shortcuts) after installing the patch manually or using the installer.
-
 !!! warning "News: Windows-only installer end-of-life announcement"
     As of May 2019, we dropped support for the old Windows-only installer. The new installer has much better compatibility, works on Windows, Linux and Mac, and has an entirely new UI.
 

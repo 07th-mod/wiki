@@ -11,13 +11,13 @@ nav:
     - Donations: Donations.md
     - Support and Reporting Issues: Support.md
     - Contribution Guide: Beginners-guide.md
+    - Credits: Credits.md
     - <b>Higurashi</b>:
         - 1. Intro: Higurashi/Higurashi-Getting-started.md
         - 2a. Installer: Higurashi/Higurashi-Part-1---Voice-and-Graphics-Patch.md
         - 2b. Manual Installation: Higurashi/Manual-Installation.md
-        - 3. Configuration and keyboard shortcuts: Higurashi/Higurashi-Part-2---Patch-configuration-and-keyboard-shortcuts.md
-        - 4. Voices-only Patch: Higurashi/Higurashi-Part-1.1---Voices-only-Patch.md
-        - 5. FAQ: Higurashi/FAQ.md
+        - 3. Voices-only Patch: Higurashi/Higurashi-Part-1.1---Voices-only-Patch.md
+        - 4. FAQ: Higurashi/FAQ.md
     - <b>Umineko</b>:
         - 1. Intro (START HERE): Umineko/Umineko-Getting-started.md
         - 2. Mod Options: Umineko/Umineko-Mod-Options.md

@@ -45,7 +45,7 @@ Follow the table below to download all the pieces to install the patch:
 </tr>
 <tr class="even">
 <td>UI Mod</td>
-<td><a href="https://07th-mod.com/rikachama/ui/Himatsubushi-UI_steam_win.7z">Windows</a><br><a href="https://07th-mod.com/rikachama/ui/Himatsubushi-UI_steam_unix.7z">Mac/Linux</a></td>
+<td><a href="https://07th-mod.com/ui.php?chapter=himatsubushi&os=win&unity=5.4.1f1">Windows</a><br><a href="https://07th-mod.com/ui.php?chapter=himatsubushi&os=unix&unity=5.4.1f1">Mac/Linux</a></td>
 </tr>
 </tbody>
 </table>
@@ -100,17 +100,17 @@ Follow the table below to download all the pieces to install the patch:
 </tr>
 <tr class="even">
 <td style="text-align: center;">UI Mod (Windows)</td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/ui/Onikakushi-UI_steam_win.7z">Steam</a><br><a href="https://07th-mod.com/rikachama/ui/Onikakushi-UI_steam_win.7z">MangaGamer</a><br><a href="https://07th-mod.com/rikachama/ui/Onikakushi-UI_steam_win.7z">GOG</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/ui/Watanagashi-UI_steam_win.7z">Steam</a><br><a href="https://07th-mod.com/rikachama/ui/Watanagashi-UI_steam_win.7z">MangaGamer</a><br><a href="https://07th-mod.com/rikachama/ui/Watanagashi-UI_steam_win.7z">GOG</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/ui/Tatarigoroshi-UI_steam_win.7z">Steam</a><br><a href="https://07th-mod.com/rikachama/ui/Tatarigoroshi%20-UI_mg_win.7z">MangaGamer</a><br><a href="https://07th-mod.com/rikachama/ui/Tatarigoroshi%20-UI_steam_win.7z">GOG</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/ui/Himatsubushi-UI_steam_win.7z">Steam</a><br><a href="https://07th-mod.com/rikachama/ui/Himatsubushi-UI_steam_win.7z">MangaGamer</a><br><a href="https://07th-mod.com/rikachama/ui/Himatsubushi-UI_steam_win.7z">GOG</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=onikakushi&os=win&unity=5.2.2f1">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=onikakushi&os=win&unity=5.2.2f1">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=onikakushi&os=win&unity=5.2.2f1">GOG</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=watanagashi&os=win&unity=5.2.2f1">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=watanagashi&os=win&unity=5.2.2f1">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=watanagashi&os=win&unity=5.2.2f1">GOG</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=tatarigoroshi&os=win&unity=5.4.0f1">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=tatarigoroshi&os=win&unity=5.3.5f1">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=tatarigoroshi&os=win&unity=5.4.0f1">GOG</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=himatsubushi&os=win&unity=5.4.1f1">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=himatsubushi&os=win&unity=5.4.1f1">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=himatsubushi&os=win&unity=5.4.1f1">GOG</a></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;">UI Mod (Mac/Linux)</td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/ui/Onikakushi-UI_steam_unix.7z">Steam</a><br><a href="https://07th-mod.com/rikachama/ui/Onikakushi-UI_steam_unix.7z">MangaGamer</a><br><a href="https://07th-mod.com/rikachama/ui/Onikakushi-UI_steam_unix.7z">GOG</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/ui/Watanagashi-UI_steam_unix.7z">Steam</a><br><a href="https://07th-mod.com/rikachama/ui/Watanagashi-UI_steam_unix.7z">MangaGamer</a><br><a href="https://07th-mod.com/rikachama/ui/Watanagashi-UI_steam_unix.7z">GOG</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/ui/Tatarigoroshi-UI_steam_unix.7z">Steam</a><br><a href="https://07th-mod.com/rikachama/ui/Tatarigoroshi%20-UI_mg_unix.7z">MangaGamer</a><br><a href="https://07th-mod.com/rikachama/ui/Tatarigoroshi%20-UI_steam_unix.7z">GOG</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/ui/Himatsubushi-UI_steam_unix.7z">Steam</a><br><a href="https://07th-mod.com/rikachama/ui/Himatsubushi-UI_steam_unix.7z">MangaGamer</a><br><a href="https://07th-mod.com/rikachama/ui/Himatsubushi-UI_steam_unix.7z">GOG</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=onikakushi&os=unix&unity=5.2.2f1">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=onikakushi&os=unix&unity=5.2.2f1">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=onikakushi&os=unix&unity=5.2.2f1">GOG</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=watanagashi&os=unix&unity=5.2.2f1">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=watanagashi&os=unix&unity=5.2.2f1">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=watanagashi&os=unix&unity=5.2.2f1">GOG</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=tatarigoroshi&os=unix&unity=5.4.0f1">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=tatarigoroshi&os=unix&unity=5.3.4p1">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=tatarigoroshi&os=unix&unity=5.4.0f1">GOG</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=himatsubushi&os=unix&unity=5.4.1f1">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=himatsubushi&os=unix&unity=5.4.1f1">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=himatsubushi&os=unix&unity=5.4.1f1">GOG</a></td>
 </tr>
 </tbody>
 </table>
@@ -165,15 +165,15 @@ Follow the table below to download all the pieces to install the patch:
 </tr>
 <tr class="even">
 <td style="text-align: center;">UI Mod (Windows)</td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/ui/Meakashi-UI_steam_win.7z">Steam</a><br><a href="https://07th-mod.com/rikachama/ui/Meakashi-UI_steam_win.7z">MangaGamer</a><br><a href="https://07th-mod.com/rikachama/ui/Meakashi-UI_gog_win.7z">GOG</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/ui/Tsumihoroboshi-UI_steam_win.7z">Steam</a><br><a href="https://07th-mod.com/rikachama/ui/Tsumihoroboshi-UI_steam_win.7z">MangaGamer</a><br><a href="https://07th-mod.com/rikachama/ui/Tsumihoroboshi-UI_steam_win.7z">GOG</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=meakashi&os=win&unity=5.5.3p3">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=meakashi&os=win&unity=5.5.3p3">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=meakashi&os=win&unity=5.5.3p1">GOG</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=tsumihoroboshi&os=win&unity=5.5.3p3">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=tsumihoroboshi&os=win&unity=5.5.3p3">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=tsumihoroboshi&os=win&unity=5.5.3p3">GOG</a></td>
 <td style="text-align: center;">None yet</td>
 <td style="text-align: center;">None yet</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;">UI Mod (Mac/Linux)</td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/ui/Meakashi-UI_steam_unix.7z">Steam</a><br><a href="https://07th-mod.com/rikachama/ui/Meakashi-UI_steam_unix.7z">MangaGamer</a><br><a href="https://07th-mod.com/rikachama/ui/Meakashi-UI_steam_unix.7z">GOG</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/ui/Tsumihoroboshi-UI_steam_unix.7z">Steam</a><br><a href="https://07th-mod.com/rikachama/ui/Tsumihoroboshi-UI_steam_unix.7z">MangaGamer</a><br><a href="https://07th-mod.com/rikachama/ui/Tsumihoroboshi-UI_steam_unix.7z">GOG</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=meakashi&os=unix&unity=5.5.3p3">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=meakashi&os=unix&unity=5.5.3p3">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=meakashi&os=unix&unity=5.5.3p1">GOG</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=tsumihoroboshi&os=unix&unity=5.5.3p3">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=tsumihoroboshi&os=unix&unity=5.5.3p3">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=tsumihoroboshi&os=unix&unity=5.5.3p3">GOG</a></td>
 <td style="text-align: center;">None yet</td>
 <td style="text-align: center;">None yet</td>
 </tr>

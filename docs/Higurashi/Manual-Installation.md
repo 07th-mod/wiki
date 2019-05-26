@@ -41,7 +41,7 @@ Follow the table below to download all the pieces to install the patch:
 </tr>
 <tr class="odd">
 <td>System files</td>
-<td><a href="https://07th-mod.com/rikachama/misc/ConsoleArcs-System.7z">Download</a></td>
+<td><a href="https://07th-mod.com/rikachama/misc/ConsoleArcs-System_win.7z">Windows</a><br><a href="https://07th-mod.com/rikachama/misc/ConsoleArcs-System_unix.7z">Mac/Linux</a></td>
 </tr>
 <tr class="even">
 <td>UI Mod</td>

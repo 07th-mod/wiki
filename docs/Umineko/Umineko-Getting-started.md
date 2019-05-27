@@ -14,7 +14,7 @@ This patch modifies the newest release of Umineko by MangaGamer, attempting to r
     - There is a mod settings menu in-game that you should look at at least once.
     - Updating the mod is only supported by re-installing (overwriting it)
     - Steam Sync is disabled by default. To enable it, run the `EnableSteamSync.bat` located in the game folder. See the 'Known Issues' section of this page for reasoning.
-    - The old ryushiki sprites are not properly supported (see below)
+    - The old Ryukishi sprites are not properly supported (see below)
 
 You've read the page, right? Please proceed to [Part 2: Mod Options](Umineko-Mod-Options.md)
 

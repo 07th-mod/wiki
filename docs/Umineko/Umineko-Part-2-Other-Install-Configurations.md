@@ -13,7 +13,7 @@ Make sure you didn't download a .html file by mistake - download by right clicki
 ### Question Arc Modes
 
 - [Full patch as base (sprites, graphics, voices)](https://07th-mod.com/wiki/Umineko/Umineko-Part-1---Voice-and-Graphics-Patch) - tries to be as similar to the PS3 release as possible.
-  - Full patch with "Old Old" ryushiki sprites - To use this mode, install the full patch. Start a new game. Once you can open the right click menu, click "system", then click the "To Orig." button on the top left hand corner. **THIS MODE MAY HAVE SPRITES ENTIRELY MISSING SOMETIMES, when characters change to their alternate outfits (until we fix it)**
+  - Full patch with "Old Old" Ryukishi sprites - To use this mode, install the full patch. Start a new game. Once you can open the right click menu, click "system", then click the "To Orig." button on the top left hand corner. **THIS MODE MAY HAVE SPRITES ENTIRELY MISSING SOMETIMES, when characters change to their alternate outfits (until we fix it)**
   - Full patch with Pachinko/Steam/MangaGamer sprites - To use this mode, install the full patch. Then, rename the 'tati' folder (located at `Umineko\big\bmp\tati`) to 'tati_old' (or you can just delete it). Since the game can't find the PS3 sprites, it will revert to 'default' pachinko sprites **THIS MODE MAY HAVE SPRITES ENTIRELY MISSING SOMETIMES, when characters change to their alternate outfits (until we fix it)**
 
 ### Answer Arc Modes

@@ -45,9 +45,9 @@ You can change some settings from the in-game mod menu. While playing the game a
 - Steam Sync is disabled (See [the "Steam Sync doesn't work!" FAQ](Umineko-Part-0-TroubleShooting-and-FAQ.md#steam-sync-doesnt-work) if you wish to re-enable it)
 - For the Question Arcs, the voice quality near the start of the game is poor for some characters (sounds like a phasing effect). The raw PS3 audio files have this problem as well, so I don't think we can fix this.
 
-## Disclaimer about old 'Ryushiki' sprites
+## Disclaimer about old 'Ryukishi' sprites
 
-The old 'Ryushiki' sprites are not *fully* supported, as described below:
+The old 'Ryukishi' sprites are not *fully* supported, as described below:
 
 - For the Question Arcs, you can toggle sprites via the right-click menu
 - The Answer arcs CANNOT do this

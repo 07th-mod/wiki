@@ -2,6 +2,10 @@
     **To start, pick a game in the sidebar in your left**
    
 ***
+!!! info "Announcements"
+    We are currently looking for developers with C# experience to help us reverse engineer the Unity engine to add more features to Higurashi. If this looks like the right job for you, join our [Discord channel](https://discord.gg/pf5VhF9) and come talk with us in #higurashi_dev.
+
+***
 
 !!! note "Help us stay online!"
     ### [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SP5S4ZDV9BNZQ)!

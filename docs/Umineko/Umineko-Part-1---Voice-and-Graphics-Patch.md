@@ -69,7 +69,7 @@ Choose <strong>one</strong>:
 <td><a href="https://07th-mod.com/Bern/UminekoChiru-Voices.7z">Download</a></td>
 <td><a href="https://07th-mod.com/Bern/UminekoChiru-Graphics.7z">Download</a></td>
 <td><a href="https://07th-mod.com/Bern/Umineko5to8.exe">Windows</a> <br> <a href="https://07th-mod.com/Bern/Umineko5to8.app.zip">Mac</a> <br> <a href="https://07th-mod.com/Bern/Umineko5to8">Linux</a></td>
-<td>No Updates</td>
+<td><a href="https://07th-mod.com/Bern/Umineko-Answer-Update-Full-Rolling-ALL-OS.7z">Rolling Update</a></td>
 </tr>
 <tr class="even">
 <td>Answer Arcs ADV Mode Addon</td>

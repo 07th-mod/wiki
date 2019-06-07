@@ -1,3 +1,7 @@
+## Known Issues
+
+- You can navigate the menu with directional arrow keys on the Question arcs, but not on the Answer arcs. To fix this, you *can* copy the Umineko Question .exe into the Answer Arcs and run it instead, BUT this may silently break things in the Answer arcs - do so at your own risk.
+
 ## Install Problems
 
 #### Steam updated and now my saves are missing! 
@@ -76,6 +80,9 @@ If you want to re-enable steam sync, you can do the following:
 
 Please note that even if you move the game folder, your save files will still go into `...\Steam\steamapps\common\Umineko\mysav`, no matter where you place the game folder.
 
+#### How do I make the game launch in fullscreen automatically
+
+Launch the game with the `--fullscreen` option. You can do this by creating a shortcut, then changing the 'Target' to `"path\to\game\Umineko1to4.exe" --fullscreen`
 
 ## I have some other problem!
 

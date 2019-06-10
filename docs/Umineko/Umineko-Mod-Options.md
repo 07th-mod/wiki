@@ -27,10 +27,10 @@ This page describes each mod option, so you can decide which mod to install.
 
 There are two main install options for the question arcs - the full patch, and the voice only patch. We highly recommend using the **installers**, as installing manually is very error-prone.
 
-#### Question Arcs - 1080p full patch (~5GB Download, ~20GB free space required)
+#### Question Arcs - Full patch (~5GB Download, ~20GB free space required)
 
-- NEW: Has **ADV mode** which can be toggled on or off at any time
-- NEW: Playing with Japanese Text is supported
+- Has **ADV mode** which can be toggled on or off at any time.
+- Playing with Japanese Text is supported
 - Adds PS3 voices, sprites, CGs (event images), backgrounds, to the base game. DOES NOT add shader effects or lipsync.
 - Install Methods: [Cross Platform Installer](Umineko-Part-3a-Cross-Platform-Installer.md) || [Install Manually](Umineko-Part-1---Voice-and-Graphics-Patch.md)
 
@@ -48,14 +48,15 @@ There are two main install options for the question arcs - the full patch, and t
 
 #### Answer Arcs - Full Patch (~8GB Download, ~30GB free space required)
 
-- NEW: Playing with Japanese Text is supported
+- Playing with Japanese Text is supported
+- **No ADV mode built in**, unlike the Question Arcs! You must install "ADV Mode" for ADV mode.
 - Adds PS3 voices, sprites, CGs (event images), backgrounds, to the base game. DOES NOT add shader effects or lipsync.
 - Install Methods:  [Cross Platform Installer](Umineko-Part-3a-Cross-Platform-Installer.md) || [Install Manually](Umineko-Part-1---Voice-and-Graphics-Patch.md)
 
-#### Answer Arcs - ADV Mode Addon (~8GB DL, ~30GB free space - Same as Full Patch)
+#### Answer Arcs - ADV Mode (~8GB DL, ~30GB free space - Same as Full Patch)
 
 - This is an add on to the full patch which adds ADV mode (but in the installer, you just select "ADV Mode")
-- No in-game option to disable ADV mode
+- **No option to toggle ADV mode**, unlike the Question Arcs! If you want NOVEL mode, you must install the "Full Patch" option.
 - Playing with Japanese Text is NOT supported
 - Install Methods:  [Cross Platform Installer](Umineko-Part-3a-Cross-Platform-Installer.md) || [Install Manually](Umineko-Part-1---Voice-and-Graphics-Patch.md)
 
@@ -77,9 +78,9 @@ There are some other options which are not well supported by us. See the [Other 
 
 28-01-2019: Cross Platform Installer is now suggested in install instructions. Wiki has been refactored.
 
-28-01-2019: Add ADV mode to 1080p Question Arcs
+28-01-2019: Add ADV mode to Full Patch of Question Arcs
 
-17-11-18: Add beta version of 1080p Question Arcs (previously resolution was 960p, resulting in some blurriness). You can install it via the installer or manually. Add ability to toggle language with 'Tab' button.
+17-11-18: Add beta version of Question Arcs in 1080p resolution (previously resolution was 960p, resulting in some blurriness). You can install it via the installer or manually. Add ability to toggle language with 'Tab' button.
 
 2-10-18: Add Japanese Language mode (thanks Naoki!). Note: currently doesn't work for "Voice Only" or answer arcs "ADV mode", due to those versions using a different script.
 

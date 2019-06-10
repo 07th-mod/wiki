@@ -30,7 +30,7 @@ Instructions on installing the Answer Arcs ADV Addon are at the bottom of the pa
 </thead>
 <tbody>
 <tr class="even">
-<td>Question Arcs 1080p</td>
+<td>Question Arcs Full</td>
 <td><a href="http://07th-mod.com/download.php?repository=umineko-question&file=master/InDevelopment/ManualUpdates/0.utf">Download 0.u</a></td>
 <td><a href="https://07th-mod.com/Beato/Umineko-Voices-nsa.7z">Download</a></td>
 <td><a href="https://07th-mod.com/Beato/1080p/Umineko-Graphics-1080p.7z">1080p Graphics</a></td>
@@ -208,7 +208,7 @@ Ensure that you have your `0.u` or `0.utf` (depending on your platform), and you
 </tbody>
 </table>
 
-This ADV Mode addon is only for the Answer arcs. For the Question arcs, the 1080p full patch already contains ADV mode.
+This ADV Mode addon is only for the Answer arcs. For the Question arcs, the Full patch already contains ADV mode.
 
 1. Ensure that you have a working release of the full graphics patch of the Chiru Answer Arcs (Scroll back up this page to install it).
 2. Download the ADV mode **0.u Script** listed above and **replace** the existing 0.u file

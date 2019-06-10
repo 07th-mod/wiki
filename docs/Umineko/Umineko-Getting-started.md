@@ -47,6 +47,9 @@ You can change some settings from the in-game mod menu. While playing the game a
 
 ## Disclaimer about old 'Ryukishi' sprites
 
+A proper ryukishi/pachinko sprites option is currently in development.
+We'll try to add it as an option in the installer for the 'full' patch.
+
 The old 'Ryukishi' sprites are not *fully* supported, as described below:
 
 - For the Question Arcs, you can toggle sprites via the right-click menu
@@ -56,7 +59,7 @@ The old 'Ryukishi' sprites are not *fully* supported, as described below:
 If you really want to play with old sprites, you have the following options:
 
 - Play Question and Answer arcs using the 'Voice only' option
-- Play Question arcs with the 1080p patch, and Answer arcs with the 'voice only' option (and try to ignore the background art style changes)
+- Play Question arcs with the Full patch, and Answer arcs with the 'voice only' option (and try to ignore the background art style changes)
 - I have attempted to make a special script which allows you to use old sprites on the Answer Arcs, but it is not properly supported. It is listed in the 'Unsupported Options' on the 'Mod Options' page.
 
 ----

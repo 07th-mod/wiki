@@ -32,7 +32,7 @@ Instructions on installing the Answer Arcs ADV Addon are at the bottom of the pa
 <tr class="even">
 <td>Question Arcs Full</td>
 <td><a href="http://07th-mod.com/download.php?repository=umineko-question&file=master/InDevelopment/ManualUpdates/0.utf">Download 0.u</a></td>
-<td><a href="https://07th-mod.com/Beato/Umineko-Voices-nsa.7z">Download</a></td>
+<td><a href="https://07th-mod.com/Beato/Umineko-Voices.7z">Download</a></td>
 <td><a href="https://07th-mod.com/Beato/1080p/Umineko-Graphics-1080p.7z">1080p Graphics</a></td>
 <td><a href="https://07th-mod.com/Beato/1080p/Umineko1to4.exe">Windows</a> <br> <a href="https://07th-mod.com/Beato/1080p/Umineko1to4.app.zip">Mac</a> <br> <a href="https://07th-mod.com/Beato/1080p/Umineko1to4">Linux</a></td>
 <td>
@@ -66,7 +66,7 @@ Choose <strong>one</strong>:
 <tr class="odd">
 <td>Answer Arcs (Ch.5~8)</td>
 <td><a href="http://07th-mod.com/download.php?repository=umineko-answer&file=master/0.utf">Download 0.u</td>
-<td><a href="https://07th-mod.com/Bern/UminekoChiru-Voices-nsa.7z">Download</a></td>
+<td><a href="https://07th-mod.com/Bern/UminekoChiru-Voices.7z">Download</a></td>
 <td><a href="https://07th-mod.com/Bern/UminekoChiru-Graphics.7z">Download</a></td>
 <td><a href="https://07th-mod.com/Bern/Umineko5to8.exe">Windows</a> <br> <a href="https://07th-mod.com/Bern/Umineko5to8.app.zip">Mac</a> <br> <a href="https://07th-mod.com/Bern/Umineko5to8">Linux</a></td>
 <td><a href="https://07th-mod.com/Bern/Umineko-Answer-Update-Full-Rolling-ALL-OS.7z">Rolling Update</a></td>
@@ -102,10 +102,6 @@ Common steps are the same for all platforms. The remaining steps are **different
            - the ADV files
            - the Rolling update
         - For the Answer arcs, the Rolling Update
-
-3. When you extracted the voice archive, it should have generated an `arc4.nsa` file.
-If you have the MangaGamer release, you must rename this file to `arc1.nsa` so the game will detect it (otherwise you will get no voices).
-Steam users can skip this step (they should already have an `arc1.nsa`, `arc2.nsa`, and `arc3.nsa` in their game folder).
 
 4. Rename the file ``0.utf`` inside your Umineko folder to ``0_old.utf`` (Backup the original script)
 

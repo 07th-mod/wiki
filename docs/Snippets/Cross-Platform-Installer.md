@@ -1,17 +1,18 @@
 ## Multiplatform installer (Windows, Mac and Linux)
 
-!!! bug
-    **This installer is currently in active development.** You might find bugs, and things might not always work - We would be grateful if you report bugs on Github or our Discord server.
-
 ### How to use the multiplatform installer
 
-Click on any of the blocks for the operating system of your choice to see the instructions:
+Opening the installer will launch a page in your browser. **Do not close this page** - you use the page to choose install options and start the installation.
+
+The web page is hosted locally on your computer by the installer. When you wish to exit, close the web page and the terminal window. Be aware that this will **stop any installation which is in progress**.
+
+### Downloading and Running the installer
+
+Click on your operating system to get started:
 
 ??? example "Windows"
     1. Download the [Windows Installer](https://github.com/07th-mod/python-patcher/releases)
-    2. Extract the zip file to your normal `Downloads` folder (assuming your `Downloads` folder is on the same drive as your game). If you need to extract to a different location:
-          * Make sure the folder is on the  **same drive** (eg C: drive) as the game
-          * Make sure the folder doesn't require any special permissions
+    2. Extract the zip file to a folder of your choice
     3. Run the file called `install.bat`
 
 ??? example "Mac"
@@ -24,9 +25,9 @@ Click on any of the blocks for the operating system of your choice to see the in
     3. Right click on the file called `install` and choose `Open`
     4. If prompted with a security prompt, choose `Open`
 
---8<-- "gnome-crash-warning.md"
-
 ??? example "Linux"
+    --8<-- "gnome-crash-warning.md"
+
     1. Install the following using your distribution's package manager:
         * Python (2 or 3)
         * Python Tkinter
@@ -56,3 +57,8 @@ Click on any of the blocks for the operating system of your choice to see the in
 Please try running the installer without going through a VPN or proxy. Some company/school networks may also cause the same error, as they act as a proxy.
 
 Specifically, UltraSurf is known to cause this problem.
+
+----
+
+!!! bug
+    **This installer is currently in development.** You might find bugs, and things might not always work - We would be grateful if you report bugs on Github or our Discord server.

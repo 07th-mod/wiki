@@ -35,6 +35,22 @@
 2. Opening the installer will launch a page in your browser. **Do not close this page**.
 3. On the web page that was just launched, click on the game you want to mod.
 4. Fill in your game path, and mod options as applicable, then start the installation.
+
+    ??? example "Mac - If path auto-detection fails - Finding Game Path Manually"
+        If game path auto-detection fails, you can follow these instructions to find the game path:
+
+        1. Click the big green "Select Application (.app file) Manually (Open File Dialog)" button, just below the path entry textbox.
+        2. A Finder window entitled "Please choose a game to install to" will open. We will leave it for now, but need it later so don't close it
+        3. Open Steam, and navigate to your game list
+        4. Right-click on the game you want to mod in the game list, and select "Properties"
+        5. Navigate to the "LOCAL FILES" tab of the window that popped up
+        6. Click "Browse Local Files". Another finder window will pop up, showing the game files.
+        7. Locate the "Umineko1to4"/"HigurashiEp0X" file, which should visually have a proper game icon. Ignore the other files without a proper icon. These files have the ".app" extension, but the extension may be hidden.
+        8. Drag and drop the file onto the previously opened "Please choose a game to install to" Finder Window
+        9. Click the "Choose" button
+
+        For reference, the default steam folder is `~/Library/Application Support/Steam/steamapps/common/`, but yours may be different.
+
 5. To stop an install that is in progress, you MUST close the terminal window (the black box with lots of text).
 6. Carefully read the information that appears once the install has finished.
 

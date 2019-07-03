@@ -4,10 +4,10 @@
 
 - You can navigate the menu with directional arrow keys on the Question arcs, but not on the Answer arcs. To fix this, you *can* copy the Umineko Question .exe into the Answer Arcs and run it instead, BUT this may silently break things in the Answer arcs - do so at your own risk.
 
-### Mod Menu
+### Mod Menu - Question Arcs
 
-- When you open, then close the mod menu, any text previously on the screen will be re-displayed with incorrect formatting.
-- If you right click while in the mod menu, the menu will disappear instead of exiting. Right-clicking a second time will show the menu so you can click the "Exit" button to exit.
+- Changing any ADV related setting will clear the text currently on the screen. You can still view the cleared text on the backlog.
+- There are certain parts of the game which are always displayed in NVL mode (text over the whole screen). If you enable ADV mode during these sections, the ADV textbox won't appear until the NVL section ends.
 
 ## Install Problems
 

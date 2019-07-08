@@ -16,7 +16,7 @@
     This year's progress:<br>
     <progress value="100" max="100"></progress>
 
-    **Goal reached! Thanks for donating!** New donations will carry over to the next year and/or server upgrades if needed.
+    **Goal reached! Thanks for donating!** <br> New donations will carry over to the next year and/or server upgrades if needed.
 
 ***
 

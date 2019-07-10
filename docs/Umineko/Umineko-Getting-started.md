@@ -31,7 +31,7 @@ We don't properly support updating the game, but you can do it by re-installing 
 
 As per the above, save files are not compatible when we update the game. Therefore, **you should only update your script after completing an episode**. If you update your game while in the middle of a chapter, you risk your save files to stop working, or your save files randomly jumping you forward in the game!
 
-You can check for major updates in the [Mod Options - News](Umineko-Mod-Options.md#news) section.
+You can check for major updates in the [Mod Options - News](Umineko-Mod-Options.md#news) section, but it may not always be kept up-to-date.
 
 ## Mod Settings
 

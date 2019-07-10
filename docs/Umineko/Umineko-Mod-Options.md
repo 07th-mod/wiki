@@ -20,6 +20,23 @@ This page describes each mod option, so you can decide which mod to install.
 </tbody>
 </table>
 
+<table>
+    <thead>
+        <tr>
+            <th>PS3 sprites</th>
+            <th>Pachinko sprites</th>
+            <th>Ryukishi sprites</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><img src="https://07th-mod.com/wiki/Umineko/img/sprite_alchemist.png"></td>
+            <td><img src="https://07th-mod.com/wiki/Umineko/img/sprite_pachinko.png"></td>
+            <td><img src="https://07th-mod.com/wiki/Umineko/img/sprite_potato.png"></td>
+        </tr>
+    </tbody>
+</table>
+
 !!! warning "News: Windows-only installer end-of-life announcement"
     As of May 2019, we dropped support for the old Windows-only installer. The new installer has much better compatibility, works on Windows, Linux and Mac, and has an entirely new UI.
 

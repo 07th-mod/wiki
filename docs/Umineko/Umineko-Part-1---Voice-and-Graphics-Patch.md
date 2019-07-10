@@ -114,8 +114,8 @@ Common steps are the same for all platforms. The remaining steps are **different
         - For the Answer arcs, the Rolling Update
 
 3. When you extracted the voice archive, it should have generated an `arc4.nsa` and `arc5.nsa` file.
-If you have the MangaGamer release, you MUST rename this file to `arc1.nsa` and `arc2.nsa` so the game will detect it (otherwise you will get no voices).
-**Steam users can skip this step** (they should already have an `arc1.nsa`, `arc2.nsa`, and `arc3.nsa` in their game folder).
+If you have the MangaGamer release, you MUST rename these files to `arc1.nsa` and `arc2.nsa` for the game to detect them (otherwise you will get no voices).
+**Steam users must skip this step** (they should already have an `arc1.nsa`, `arc2.nsa`, and `arc3.nsa` in their game folder).
 
 4. Rename the file ``0.utf`` inside your Umineko folder to ``0_old.utf`` (Backup the original script)
 
@@ -171,7 +171,6 @@ movie
 (mysav) //generated when you run the game
 SE
 sys_se
-voice   //important - voices
 ```
 
 For the Answer arcs:
@@ -190,7 +189,6 @@ movie
 SE
 sprites //important - character sprites
 sys_se
-voice   //important - voices
 ```
 
 ### All Platforms - File Verification

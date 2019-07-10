@@ -34,7 +34,7 @@ You forgot to rename the script file `0.utf` to `0.u` (located in the root game 
 
 #### I want to play with the original sprites/ryushi sprites/adv mode etc.
 
-See the [Other Install Configurations](https://07th-mod.com/wiki/Umineko/Umineko-Part-2-Other-Install-Configurations) page.
+See the [Mod Options](Umineko-Mod-Options.md) page.
 
 #### Linux/MacOSX - Missing libpng.so libraries when launching game outside Steam
 

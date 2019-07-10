@@ -33,6 +33,7 @@ There are two main install options for the question arcs - the full patch, and t
 - Playing with Japanese Text is supported
 - Adds PS3 voices, sprites, CGs (event images), backgrounds, to the base game. DOES NOT add shader effects or lipsync.
 - Install Methods: [Cross Platform Installer](Umineko-Part-3a-Cross-Platform-Installer.md) || [Install Manually](Umineko-Part-1---Voice-and-Graphics-Patch.md)
+- Optional packs if you want Pachinko or Ryukishi sprites - See below.
 
 #### Question Arcs - Voice only (~1.9GB Download, ~5GB free space required)
 
@@ -52,6 +53,7 @@ There are two main install options for the question arcs - the full patch, and t
 - **No ADV mode built in**, unlike the Question Arcs! You must install "ADV Mode" for ADV mode.
 - Adds PS3 voices, sprites, CGs (event images), backgrounds, to the base game. DOES NOT add shader effects or lipsync.
 - Install Methods:  [Cross Platform Installer](Umineko-Part-3a-Cross-Platform-Installer.md) || [Install Manually](Umineko-Part-1---Voice-and-Graphics-Patch.md)
+- Optional packs if you want Pachinko or Ryukishi sprites - See below.
 
 #### Answer Arcs - ADV Mode (~8GB DL, ~30GB free space - Same as Full Patch)
 
@@ -59,17 +61,27 @@ There are two main install options for the question arcs - the full patch, and t
 - **No option to toggle ADV mode**, unlike the Question Arcs! If you want NOVEL mode, you must install the "Full Patch" option.
 - Playing with Japanese Text is NOT supported
 - Install Methods:  [Cross Platform Installer](Umineko-Part-3a-Cross-Platform-Installer.md) || [Install Manually](Umineko-Part-1---Voice-and-Graphics-Patch.md)
+- Optional packs if you want Pachinko or Ryukishi sprites - See below.
 
 #### Answer Arcs - Voice only (~1.5GB Download, ~5GB free space required)
 
 - Mainly adds voices to the base game
 - Playing with Japanese text is NOT supported
 - Install Methods:  [Cross Platform Installer](Umineko-Part-3a-Cross-Platform-Installer.md) || [Install Manually](Umineko-Part-1.1---Voices-only-Patch.md)
+
 ----
 
-## Unsupported/Legacy Options
+## Pachinko or Old Ryukishi Sprites
 
-There are some other options which are not well supported by us. See the [Other Install Configurations](Umineko-Part-2-Other-Install-Configurations.md) page.
+We have recently added options in the installer and manual download packs for the Pachinko and Ryukishi sprites. Note that you can only have ONE pack installed at a time - you CANNOT toggle PS3/Pachinko/Ryukishi while the game is running. Installing these packs will do the following:
+
+- Overwrite most* of the PS3 sprites, causing Pachinko/Ryukishi sprites to be shown
+- PS3 CGs and special effects will still be shown unchanged
+- The PS3 backgrounds will also remain the same
+
+\* The Pachinko sprites are missing a few characters who don't appear very often. The missing characters are substituted with PS3 sprites.
+
+You must still install the base "PS3" graphics pack for each game, even if you only want Pachinko or Ryukishi sprites - these sprite packs do not replace the main graphics pack.
 
 ----
 

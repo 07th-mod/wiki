@@ -14,7 +14,6 @@ This patch modifies the newest release of Umineko by MangaGamer, attempting to r
     - There is a mod settings menu in-game that you should look at at least once.
     - Updating the mod is only supported by re-installing (overwriting it)
     - Steam Sync is disabled by default. To enable it, run the `EnableSteamSync.bat` located in the game folder. See the 'Known Issues' section of this page for reasoning.
-    - The old Ryukishi sprites are not properly supported (see below)
 
 You've read the page, right? Please proceed to [Part 2: Mod Options](Umineko-Mod-Options.md)
 
@@ -44,23 +43,6 @@ You can change some settings from the in-game mod menu. While playing the game a
 
 - Steam Sync is disabled (See [the "Steam Sync doesn't work!" FAQ](Umineko-Part-0-TroubleShooting-and-FAQ.md#steam-sync-doesnt-work) if you wish to re-enable it)
 - For the Question Arcs, the voice quality near the start of the game is poor for some characters (sounds like a phasing effect). The raw PS3 audio files have this problem as well, so I don't think we can fix this.
-
-## Disclaimer about old 'Ryukishi' sprites
-
-A proper ryukishi/pachinko sprites option is currently in development.
-We'll try to add it as an option in the installer for the 'full' patch.
-
-The old 'Ryukishi' sprites are not *fully* supported, as described below:
-
-- For the Question Arcs, you can toggle sprites via the right-click menu
-- The Answer arcs CANNOT do this
-- There may be some bugs when the old sprites are used
-
-If you really want to play with old sprites, you have the following options:
-
-- Play Question and Answer arcs using the 'Voice only' option
-- Play Question arcs with the Full patch, and Answer arcs with the 'voice only' option (and try to ignore the background art style changes)
-- I have attempted to make a special script which allows you to use old sprites on the Answer Arcs, but it is not properly supported. It is listed in the 'Unsupported Options' on the 'Mod Options' page.
 
 ----
 

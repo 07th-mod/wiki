@@ -82,6 +82,16 @@ Choose <strong>one</strong>:
 </tbody>
 </table>
 
+### Pachinko/Ryukishi Sprite Packs
+
+Extract these packs to the root of the game directory, AFTER applying all other archives (extracting should overwrite many files).
+
+- [Pachinko Question Arcs Sprites Pack](https://07th-mod.com/Beato/Umineko-Upscaled-Pachinko.7z)
+- [Pachinko Answer Arcs NVL/ADV Sprites Pack](https://07th-mod.com/Bern/UminekoChiru-Upscaled-Pachinko.7z)
+
+- [Ryukishi (Potato) Question Arcs Sprites Pack](https://07th-mod.com/Beato/Umineko-Upscaled-Potato.7z)
+- [Ryukishi (Potato) Answer Arcs NVL/ADV Sprites Pack](https://07th-mod.com/Bern/UminekoChiru-Upscaled-Potato.7z)
+
 ### How to install the patch manually 
 
 Common steps are the same for all platforms. The remaining steps are **different** - please be aware of this!

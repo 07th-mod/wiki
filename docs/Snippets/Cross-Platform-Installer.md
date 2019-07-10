@@ -5,11 +5,11 @@
 1. Click on your operating system below for instructions on downloading and launching the installer.
 
     ??? example "Windows"
-        1. Download the [Windows Installer](https://github.com/07th-mod/python-patcher/releases)
-        2. Double-click the `07th-Mod.Installer.win.exe` file.
-        3. Accept the UAC popup, then click the "Extract" button.
-        4. This will extract a folder called `07th-Mod_Installer_Windows`. Open the folder.
-        5. Run the file called `install.bat`, then continue with the instructions below
+        1. Download and Run the `07th-Mod.Installer.Windows.exe` file from the [Download Page](https://github.com/07th-mod/python-patcher/releases)
+        2. A console window will popup. DO NOT CLOSE THIS WINDOW until you are finished using the installer.
+        3. Wait while the installer extracts to the folder `07th-mod_installer`.
+        4. When extraction is finished, the installer GUI (a web page) will open. DO NOT CLOSE THIS PAGE.
+        5. Continue with the instructions below.
 
     ??? example "Mac"
         1. Download the [Mac Installer](https://github.com/07th-mod/python-patcher/releases)

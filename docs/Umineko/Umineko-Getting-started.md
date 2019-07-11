@@ -37,7 +37,7 @@ You can check for major updates in the [Mod Options - News](Umineko-Mod-Options.
 
 You can change some settings from the in-game mod menu. While playing the game and the text is not animating, right click to bring up the menu. Click the right hand side options/menu button. This shows the options allowing you to change the music and voice volume.
 
-[insert mod menu picture here]
+<img src="https://07th-mod.com/wiki/Umineko/img/modmenu.png">
 
 ## Known Issues
 

@@ -12,7 +12,7 @@ This page is dedicated to credit all collaborators who helped us along the way. 
 * Console Arcs implementation
 * Graphics implementation (Higurashi main arcs)
 
-### - [drojf](www.drojf.com)
+### - [drojf](https://www.drojf.com)
 
 * Installer
 * Umineko script porting
@@ -59,6 +59,13 @@ This page is dedicated to credit all collaborators who helped us along the way. 
 ### - [orian34](https://github.com/orian34)
 
 * Script editing
+
+### - O\[A\]
+
+* Umineko Hane and Tsubasa patches
+* Script Editing
+* Bugfixing
+* Support
 
 ### - [Petsnew](https://github.com/Petsnew)
 

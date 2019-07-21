@@ -6,10 +6,11 @@
 
     ??? example "Windows"
         1. Download and Run the `07th-Mod.Installer.Windows.exe` file from the [Download Page](https://github.com/07th-mod/python-patcher/releases)
-        2. A console window will popup. DO NOT CLOSE THIS WINDOW until you are finished using the installer.
-        3. Wait while the installer extracts to the folder `07th-mod_installer`.
-        4. When extraction is finished, the installer GUI (a web page) will open. DO NOT CLOSE THIS PAGE.
-        5. Continue with the instructions below.
+        2. A Windows SmartScreen warning may appear. If it does, click "More info", then choose "Run anyway".
+        3. A console window will popup. DO NOT CLOSE THIS WINDOW until you are finished using the installer.
+        4. Wait while the installer extracts to the folder `07th-mod_installer`.
+        5. When extraction is finished, the installer GUI (a web page) will open. DO NOT CLOSE THIS PAGE.
+        6. Continue with the instructions below.
 
     ??? example "Mac"
         1. Download the [Mac Installer](https://github.com/07th-mod/python-patcher/releases)

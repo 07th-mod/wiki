@@ -91,6 +91,23 @@ Please note that even if you move the game folder, your save files will still go
 
 Launch the game with the `--fullscreen` option. You can do this by creating a shortcut, then changing the 'Target' to `"path\to\game\Umineko1to4.exe" --fullscreen`
 
+#### My save files have disappeared or changed unexpectedly
+
+If you have the Steam version of Umineko, and you move or copy the game outside of the default folder, **the save folder location will change if Steam is not running**:
+
+- If **steam is not running**, the (modded) game will use the `mysav` folder next to the game executable
+- If **steam is running**, the (modded) game will use the `mysav` folder **located wherever steam thinks it's installed**. Probably this is your `Steam/steamapps/common/[Umineko/Umineko Chiru]/mysav` folder
+
+Please be aware of this if you want to move the game. Steamless/Mangagamer versions of the game probably are unaffected by this.
+
+Also to note is that the base game will save to the `saves` folder, and the modded game will save to the `mysav` folder. But please note that **the base and modded game saves are not compatible!**
+
+#### I've finished the game, but some Steam achievements are missing
+
+If you do not have steam running, the game will not register achievements. If you think you've wrongly missed an achievement, don't worry - once you've finished the game,  we've added a button on the Mod Menu to forcibly unlock all achievements (right click while in-game, then click "Options", then "Unlock All Achievements").
+
+There is also one achievement for the Question Arcs which is difficult to unlock, "Trumpet Blues". I suggest googling it if that is the one you are missing.
+
 ## I have some other problem!
 
 If you have an issue with the game itself crashing or behaving very badly, please start the game in Debug mode by double clicking `Umineko5to8_DebugMode.bat` (if you don't have it, [download this and rename it as a .bat file](https://github.com/07th-mod/resources/raw/master/umineko-question/utilities/StartUminekoInDebugMode.bat)). Once you make game crash, submit the stdout.txt and stderr.txt text files to us. On Linux you can view errors by launching the game from a console window.

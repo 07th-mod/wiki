@@ -45,7 +45,7 @@ This page is dedicated to credit all collaborators who helped us along the way. 
 * Translation
 * Console features porting
 
-### - [ItaloKnox](https://italobruno.me)
+### - [ItaloKnox](https://italoknox.github.io/site/)
 
 * Supervision
 * Audio

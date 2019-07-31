@@ -24,7 +24,7 @@ After the installation finishes, read how to [run the mod](#running-the-modded-v
 
 ## Manual installation
 
-If, for whatever reason, the manual installation does not work or you do not wish to use our automated installer, you may install the modification manually. To do this, first download the mod archive for your game from the table below.
+If, for whatever reason, the automatic installation does not work or you do not wish to use our automated installer, you may install the modification manually. To do this, first download the mod archive for your game from the table below.
 
 |Tsubasa|Hane|
 |-|-|

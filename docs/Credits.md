@@ -60,7 +60,7 @@ This page is dedicated to credit all collaborators who helped us along the way. 
 
 * Script editing
 
-### - O\[A\]
+### - [O\[A\]](https://github.com/ooa113y)
 
 * Umineko Hane and Tsubasa patches
 * Script Editing

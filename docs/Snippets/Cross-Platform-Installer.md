@@ -65,6 +65,18 @@ Please try running the installer without going through a VPN or proxy. Some comp
 
 Specifically, UltraSurf is known to cause this problem.
 
+#### Download stage of installer fails - I get a SSL/TLS handshake failure from Aria2c
+
+Some users have reported getting the following error (will appear in the log):
+
+`SSL/TLS handshake failure: Error: The revocation function was unable to check revocation because the revocation server was offline.`
+
+The following may help you fix this issue:
+
+- Disable any VPN or proxy you are using, or try a different internet connection if you are at a school/hotel/business etc.
+- If you have any Windows updates in-progress, let them fully complete before running the installer (including required restarts)
+- Reboot your computer, then try running the installer again
+
 ----
 
 !!! bug

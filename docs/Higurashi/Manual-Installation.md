@@ -160,7 +160,7 @@ Follow the table below to download all the pieces to install the patch:
 <td style="text-align: center;">Movies</td>
 <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/video/Meakashi-Movie.7z">Windows</a><br><a href="https://07th-mod.com/rikachama/video/Meakashi-Movie_UNIX.7z">Mac/Linux</a></td>
 <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/video/Tsumihoroboshi-Movie.7z">Windows</a><br><a href="https://07th-mod.com/rikachama/video/Tsumihoroboshi-Movie_UNIX.7z">Mac/Linux</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/video/Tsumihoroboshi-Movie.7z">Windows</a><br><a href="https://07th-mod.com/rikachama/video/Tsumihoroboshi-Movie_UNIX.7z">Mac/Linux</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/video/Minagoroshi-Movie.7z">Windows</a><br><a href="https://07th-mod.com/rikachama/video/Minagoroshi-Movie_UNIX.7z">Mac/Linux</a></td>
 <td style="text-align: center;">None yet</td>
 </tr>
 <tr class="even">

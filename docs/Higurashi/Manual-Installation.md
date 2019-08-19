@@ -146,7 +146,7 @@ Follow the table below to download all the pieces to install the patch:
 <td style="text-align: center;">Steam graphics patch</td>
 <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Meakashi-CGAlt.7z">Download</a></td>
 <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Tsumihoroboshi-CGAlt.7z">Download</a></td>
-<td style="text-align: center;">None yet</td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Minagoroshi-CGAlt.7z">Download</a></td>
 <td style="text-align: center;">None yet</td>
 </tr>
 <tr class="even">

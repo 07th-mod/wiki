@@ -63,7 +63,15 @@
 
 Please try running the installer without going through a VPN or proxy. Some company/school networks may also cause the same error, as they act as a proxy.
 
-Specifically, UltraSurf is known to cause this problem.
+Specifically, "UltraSurf VPN" is known to cause this problem.
+
+#### Installer crashes on launch - The log has a "TimeoutError: [WinError 10060] A connection attempt failed ..."
+
+Please check if any antivirus/firewall software is blocking the installer. "Comodo Firewall" is known to cause this issue.
+
+#### Windows - Installer crashes on launch - A Python-related error is raised
+
+Please move the installer .exe to a fresh subfolder and run it from there. This forces a fresh re-extraction of the installer files.
 
 #### Download stage of installer fails - I get a SSL/TLS handshake failure from Aria2c
 

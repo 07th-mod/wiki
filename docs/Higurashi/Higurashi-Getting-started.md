@@ -57,6 +57,12 @@
 <td style="text-align: center;"><a href="https://07th-mod.com/wiki/Higurashi/Higurashi-Part-1.1---Voices-only-Patch">Yes</a></td>
 <td style="text-align: center;"></td>
 </tr>
+<tr class="even">
+<td style="text-align: center;">Ch. 7 - Minagoroshi</td>
+<td style="text-align: center;"><a href="https://07th-mod.com/wiki/Higurashi/Higurashi-Part-1---Voice-and-Graphics-Patch">Yes</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/wiki/Higurashi/Higurashi-Part-1.1---Voices-only-Patch">Yes</a></td>
+<td style="text-align: center;"></td>
+</tr>
 </tbody>
 </table>
 

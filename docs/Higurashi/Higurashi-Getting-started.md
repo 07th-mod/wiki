@@ -84,5 +84,3 @@ Supported chapters:
 * Yoigoshi
 
 [**Click here to install the patch**](https://07th-mod.com/wiki/Higurashi/Higurashi-Part-1---Voice-and-Graphics-Patch)
-
-[Click here](https://ibb.co/dTRmmb) to see a flowchart with all Higurashi chapters and where each console arcs fit in the storyline.

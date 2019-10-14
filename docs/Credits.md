@@ -51,6 +51,10 @@ This page is dedicated to credit all collaborators who helped us along the way. 
 * Audio
 * Sysadmin (07th-mod.com)
 
+### - [MeeraMalhotra](https://www.youtube.com/channel/UCISQ1SA3YWOUtXjwxU146RA)
+
+* Translation
+
 ### - [Norgus](https://github.com/Norgus)
 
 * Script Editing

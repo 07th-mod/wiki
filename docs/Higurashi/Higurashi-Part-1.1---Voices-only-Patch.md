@@ -55,6 +55,12 @@ Beware that some bugs and features might be missing in these patches, and we off
 <td style="text-align: center;"><a href="https://07th-mod.com/nipah/Tsumihoroboshi-Voices.zip">Download</a></td>
 <td style="text-align: center;"><a href="https://07th-mod.com/nipah/Tsumihoroboshi-HD.zip">Download</a></td>
 </tr>
+<tr class="odd">
+<td style="text-align: center;">Ch.7 - Minagoroshi</td>
+<td style="text-align: center;"><a href="https://github.com/07th-mod/minagoroshi/releases/tag/v0.0.2">Download</a></td>
+<td style="text-align: center;"><a href="http://07th-mod.com/rikachama/voices-only/Minagoroshi-Voices.7z">Download</a></td>
+<td style="text-align: center;">Not yet available</td>
+</tr>
 </tbody>
 </table>
 

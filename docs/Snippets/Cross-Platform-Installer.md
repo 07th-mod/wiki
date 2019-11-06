@@ -104,7 +104,6 @@ The following may help you fix this issue:
     2. Clone our git repository: `git clone https://github.com/07th-mod/python-patcher.git`
     3. Run `python main.py` or the equivalent command on your system
 
-The web page is hosted entirely locally (and only on the loopback interface) on your computer by the installer - it is not hosted on a remote web page.
 
 ??? info "Command line interface"
     The installer also ships with an alternative command line interface for advanced users, in the form of the `cli.py` script. It can be executed by passing several arguments to it. The following arguments are required:
@@ -119,3 +118,6 @@ The web page is hosted entirely locally (and only on the loopback interface) on 
     - `-o MOD_OPTION` -- used to install optional mod options, e.g. `bgm-fix` or `ryukishi-sprites`.
     Can be repeated several times to include multiple options, e.g. `-o bgm-fix -o se-fix`.
     - `--non-steam` -- this should be specified if patching a non-Steam version of a game.
+
+
+The web page is hosted entirely locally (and only on the loopback interface) on your computer by the installer - it is not hosted on a remote web page.

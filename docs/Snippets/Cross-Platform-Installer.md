@@ -65,6 +65,12 @@ Please try running the installer without going through a VPN or proxy. Some comp
 
 Specifically, "UltraSurf VPN" is known to cause this problem.
 
+### While using anti-censorship software (eg. Psiphon), the installer fails to download files, but my browser can download the same files just fine
+
+Please enable the "VPN mode" of your anti-censorship (if it has it). This ensures the installer passes through the anti-censorship software.
+
+This is known to affect the anti-censorship software "Psiphon" (see ["Does Psiphon for Windows proxy all of my Internet traffic?"](https://psiphon.ca/en/faq.html))).
+
 #### Installer crashes on launch - The log has a "TimeoutError: [WinError 10060] A connection attempt failed ..."
 
 Please check if any antivirus/firewall software is blocking the installer. "Comodo Firewall" is known to cause this issue.

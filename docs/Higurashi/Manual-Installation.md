@@ -72,17 +72,10 @@ Follow the table below to download all the pieces to install the patch:
 </tr>
 <tr class="even">
 <td style="text-align: center;">Graphics patch</td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Onikakushi-CG.7z">1440p</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Watanagashi-CG.7z">1440p</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Tatarigoroshi-CG.7z">1440p</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Himatsubushi-CG.7z">1440p</a></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">Steam graphics patch</td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Onikakushi-CGAlt.7z">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Watanagashi-CGAlt.7z">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Tatarigoroshi-CGAlt.7z">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Himatsubushi-CGAlt.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Onikakushi-Graphics.7z">1440p</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Watanagashi-Graphics.7z">1440p</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Tatarigoroshi-Graphics.7z">1440p</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Himatsubushi-Graphics.7z">1440p</a></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;">Voices</td>
@@ -137,16 +130,9 @@ Follow the table below to download all the pieces to install the patch:
 </tr>
 <tr class="even">
 <td style="text-align: center;">Graphics patch</td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Meakashi-CG.7z">1440p</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Tsumihoroboshi-CG.7z">1440p</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Minagoroshi-CG.7z">1440p</a></td>
-<td style="text-align: center;">None yet</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">Steam graphics patch</td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Meakashi-CGAlt.7z">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Tsumihoroboshi-CGAlt.7z">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Minagoroshi-CGAlt.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Meakashi-Graphics.7z">1440p</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Tsumihoroboshi-Graphics.7z">1440p</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Minagoroshi-Graphics.7z">1440p</a></td>
 <td style="text-align: center;">None yet</td>
 </tr>
 <tr class="even">

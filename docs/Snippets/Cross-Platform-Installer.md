@@ -59,6 +59,30 @@
 
 ### Installer FAQ and Troubleshooting
 
+#### Connection Troubleshooting
+
+First, double check you can access BOTH the following websites in your browser without error:
+
+http://07th-mod.com/
+
+https://raw.githubusercontent.com/07th-mod/python-patcher/master/installData.json
+
+If you cannot open these websites in your browser, you may have a problem with:
+
+- a local antivirus's firewall blocking access to the above websites. You may need to set an exception for the above websites.
+- a company/government firewall blocking access to the above websites.
+- being in Japan (we currently don't allow downloads from Japan for legal reasons). You can technically use a VPN to bypass this problem.
+- a VPN or proxy interfering with access to the above websites (unlikely). You may need to disable the VPN or proxy.
+
+NOTE: You may be able to bypass most of these issues by using a VPN, such as https://protonvpn.com/ (do not use with P2P software) or https://www.vpngate.net/en/download.aspx .
+But please try using without a VPN first, as using a VPN may cause other problems.
+
+If you can open these websites in your browser, but the installer has a problem accessing these websites, you may have a problem with:
+
+- an antivirus program blocking our installer specifically (blocking the .exe). You may need to add an exception for our installer.
+- an antivirus or ad-blocker program (or pi-hole) blocking those websites specifically. You may need to add an exception for those websites.
+- your anti-censorship software or VPN software not routing our installer's connection. You may need to enable VPN mode in your software (see below about anti-censorship software).
+
 #### Can't launch installer - I get a `http.client.UnknownProtocol: HTTP/2.0` error when using a VPN or proxy
 
 Please try running the installer without going through a VPN or proxy. Some company/school networks may also cause the same error, as they act as a proxy.

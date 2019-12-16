@@ -46,6 +46,36 @@ You may need to do `chmod +x Umineko1to4` or `chmod +x Umineko5to8` to give exec
 
 ## Gameplay Problems
 
+#### Inputs don't work correctly, or the game constantly skips / Controller Support
+
+If you have this problem, try unplugging any controllers you have connected to the computer, and use only the mouse and keyboard to play.
+
+The game actually has controller support, even though it's not advertised.
+
+The main issue is that, if a controller is plugged in, it will always be active, even if you're using the mouse and keyboard. The default keybinding for "skip" is right trigger, which is easy to hold down by putting the controller down or having a sticky right trigger - if this happens and you don't realize it, the game will constantly skip.
+
+Here is a list of the controls (on a generic controller):
+
+##### Often used controls
+
+- "a" - Equivalent to pressing the "Esc" key on your keyboard, use to exit menus
+- "y" - Right click (open/close game menu)
+- "b" - Left click
+- "up/down on the dpad/left thumbstick" - Up and Down only are used to navigate the menus. **Don't try to use left and right** as it doesn't actually move to the left or right item, and can cause the menu to close (see below).
+
+##### Less used controls
+
+- "left/right on the dpad/left thumbstick" - Equivalent to mousewheel up and down, used for accessing the backlog, but can also cause you to exit menus.
+- "start" - Enter Autoplay Mode
+- "right trigger/right button" - Enter Skip mode
+
+##### You probably don't want to press these
+
+- "back/select" - Cycles the text speed between low, medium, and high
+- "up/right on the right thumbstick" - Enter Autoplay Mode
+- "down/left on the right thumbstick" - Exit Autoplay Mode
+- other buttons - I couldn't figure out if any of the other buttons do anything.
+
 #### The game has poor performance, even on high end systems
 
 We're currently investigating some reports of poor performance, especially on the Umineko Answer arcs.

@@ -27,11 +27,20 @@ Chapter Progress (whether you have completed a particular chapter or not) IS com
 
 ## Updating from older versions
 
-We don't properly support updating the game, but you can do it by re-installing the game over an existing installation (either manually or automatically). You can speed up re-installation by keeping your installer temp files, shown at the end of the installation.
+The installer now supports updating. To update a game:
+
+- Select the game you want to update
+- Select an existing installation
+- The installer will show if any updates are available for that installation
 
 As per the above, save files are not compatible when we update the game. Therefore, **you should only update your script after completing an episode**. If you update your game while in the middle of a chapter, you risk your save files to stop working, or your save files randomly jumping you forward in the game!
 
-You can check for major updates in the [Mod Options - News](Umineko-Mod-Options.md#news) section, but it may not always be kept up-to-date.
+You can check for new updates on the Github releases page for each game:
+
+- [Umineko Question Updates](https://github.com/07th-mod/umineko-question/releases)
+- [Umineko Answer Updates](https://github.com/07th-mod/umineko-answer/releases)
+- [Umineko Hane Updates](https://github.com/07th-mod/umineko-hane-ons/releases)
+- [Umineko Tsubasa Updates](https://github.com/07th-mod/umineko-tsubasa-ons/releases)
 
 ## Mod Settings
 

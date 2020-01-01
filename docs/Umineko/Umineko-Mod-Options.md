@@ -99,19 +99,3 @@ We have recently added options in the installer and manual download packs for th
 \* The Pachinko sprites are missing a few characters who don't appear very often. The missing characters are substituted with PS3 sprites.
 
 You must still install the base "PS3" graphics pack for each game, even if you only want Pachinko or Ryukishi sprites - these sprite packs do not replace the main graphics pack.
-
-----
-
-## News
-
-Choose the game you wish to view news for:
-
-- [Umineko Question News](https://github.com/07th-mod/python-patcher/blob/master/news/Umineko%20Question%20(Ch.%201-4).md)
-- [Umineko Answer News](https://github.com/07th-mod/python-patcher/blob/master/news/Umineko%20Answer%20(Ch.%205-8).md)
-- [Umineko Hane News](https://github.com/07th-mod/python-patcher/blob/master/news/Umineko%20Hane.md)
-- [Umineko Tsubasa News](https://github.com/07th-mod/python-patcher/blob/master/news/Umineko%20Tsubasa.md)
-
-Please note:
-
-- It may take some time for us to update the news manually - the best way to check for an update is to run the installer again and see if files were updated. Again, **we only recommend doing this between chapters/before starting a new chapter**, as updating may break your saves.
-- Only major updates are recorded - minor fixes like a single-word typo is not recorded.

@@ -6,6 +6,11 @@ This page is dedicated to credit all collaborators who helped us along the way. 
 
 * Kickstarted the whole thing by sharing the files and scripts from the console game
 
+### [Darbury](https://github.com/Darbury)
+
+* Quality checking
+* Graphics editing
+
 ### [DoctorDiablo](https://github.com/DoctorDiablo)
 
 * Translation

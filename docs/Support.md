@@ -46,10 +46,11 @@ In case you are wondering how to report your issues, we suggest following this t
 - ``[a description of the issue]``
 - ``[pictures of the issue]`` (if applicable)
 - The bug occurs just after ``[text from when bug occurs]`` is shown on the screen
-- My operating system is ``[Windows, MacOS, Linux]``
+- My operating system is ``[Windows / MacOS / Linux]``
 - I installed the game ``[X Months ago]``
+- I bought the game at ``[Steam / GOG / MangaGamer]``
 - I am running the ``[Full Patch / Voice only patch]``
-- I installed the game ``[Manually / using the Automatic Installer]``
+- I installed the patch ``[Manually / using the Automatic Installer]``
 - My computer is a ``[Gaming Beast / Laptop with Integrated Graphics]``
 
 If you are experiencing issues in-game, you might also want to add some files the game generates to help us understand the issue better. Here are some common procedures for each game:

@@ -18,7 +18,7 @@
 
 ### Быстрый путь для гну линуксоидов
 ```bash
-curl https://github.com/07th-mod/wiki/tree/master/dev_scripts/install.sh | bash
+bash -c "$(curl -s https://raw.githubusercontent.com/Lenin1917/wiki/master/dev_scripts/install.sh)"
 ```
 
 Сперва клонируйте этот репозиторий что бы иметь все файлы для изменения вики. 

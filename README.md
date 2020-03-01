@@ -1,4 +1,4 @@
-# 07th-Mod Wiki
+# 07th-Mod Wiki [Русская версия](README_RU.md)
 
 This wiki was created to substitute the old Github wiki. It uses mkdocs to build and serve the files.
 This repository contains the source needed to test, edit and compile the wiki.

@@ -82,5 +82,6 @@ Supported chapters:
 * Taraimawashi
 * Tokihogushi
 * Yoigoshi
+* Miotsukushi Omote
 
 [**Click here to install the patch**](https://07th-mod.com/wiki/Higurashi/Higurashi-Part-1---Voice-and-Graphics-Patch)

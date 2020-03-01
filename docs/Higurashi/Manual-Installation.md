@@ -21,7 +21,7 @@ Follow the table below to download all the pieces to install the patch:
 </tr>
 <tr class="even">
 <td>Graphics patch</td>
-<td><a href="https://07th-mod.com/rikachama/graphics/ConsoleArcs-CG.7z">1440p</a></td>
+<td><a href="https://07th-mod.com/rikachama/graphics/ConsoleArcs-Graphics.7z">1440p</a></td>
 </tr>
 <tr class="odd">
 <td>Voices</td>

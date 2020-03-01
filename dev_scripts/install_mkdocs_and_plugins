@@ -1,2 +1,2 @@
-#!/bin/sh
+#!/bin/env sh
 pip install mkdocs mkdocs-material mkdocs-minify-plugin pymdown-extensions

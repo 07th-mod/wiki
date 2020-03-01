@@ -16,7 +16,13 @@ update according to the changes made in this repository (it may be some time bef
 * [mkdocs-material](https://github.com/squidfunk/mkdocs-material)
 * [mkdocs-minify-plugin](https://github.com/byrnereese/mkdocs-minify-plugin)
 
+### tl;dr if you are average GNU/Linux users
+``` bash
+curl https://github.com/07th-mod/wiki/tree/master/dev_scripts/install.sh | bash
+```
+
 ## How to install the wiki editing environment
+
 
 Firstly, please clone this repository so you have all the files needed to edit the wiki.
 

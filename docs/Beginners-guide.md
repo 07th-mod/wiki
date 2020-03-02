@@ -1,6 +1,6 @@
 Hello and welcome to 07th-Mod! This little guide should help you get around contributing to our project.
 
-First things first, we hope you have already checked our [rules](https://github.com/07th-mod/guide/wiki/Rules). It's only a few of them and they should be pretty easy to follow.
+First things first, we hope you have already checked our [rules](https://07th-mod.com/wiki/Rules/). It's only a few of them and they should be pretty easy to follow.
 This article should let you know a few points about joining and collaborating with us. We really hope you stick around and help us as much as you can!
 
 ## How do I start collaborating?
@@ -40,7 +40,7 @@ There are lots of things you can help us do and most of them don't even require 
 
 ## Adding translations to the project
 
-We directly endorse and want to help translations get the spotlight. Unfortunately, we can't bundle them in our project to avoid incompatibility, so we're sticking to English and Japanese *always*. But if you made a translation to [insert language here], please let us know. We can feature it on our wiki at the [Getting started](https://github.com/07th-mod/guide/wiki/Higurashi-Getting-started) section for Higurashi or Umineko. It doesn't even need to be finished to be added, as long as it is active we will add it.
+We directly endorse and want to help translations get the spotlight. Unfortunately, we can't bundle them in our project to avoid incompatibility, so we're sticking to English and Japanese *always*. But if you made a translation to [insert language here], please let us know. We can feature it on our wiki at the [Getting started](https://07th-mod.com/wiki/Higurashi/Higurashi-Getting-started/) section for Higurashi or Umineko. It doesn't even need to be finished to be added, as long as it is active we will add it.
 
 ## Can you feature my fork?
 

@@ -1,5 +1,5 @@
 !!! tip
-    **To start, pick a game in the sidebar in your left**
+    **[Click here to download the patch installer](https://github.com/07th-mod/python-patcher/releases/latest), or pick a game in the sidebar in your left for detailed instructions**
    
 ***
 !!! info "Announcements"

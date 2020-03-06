@@ -14,7 +14,7 @@
 
 
     This year's progress:<br>
-    <progress value="35" max="100" data-months-remaining="12"></progress>
+    <progress value="40" max="100" data-months-remaining="12"></progress>
 
 ***
 

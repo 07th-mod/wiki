@@ -106,7 +106,7 @@ Please check if any antivirus/firewall software is blocking the installer. "Como
 
 Please move the installer .exe to a fresh subfolder and run it from there. This forces a fresh re-extraction of the installer files.
 
-#### Download stage of installer fails - I get a SSL/TLS handshake failure from Aria2c
+#### Download stage fails - I get a SSL/TLS handshake failure from Aria2c
 
 Some users have reported getting the following error (will appear in the log):
 
@@ -117,6 +117,16 @@ The following may help you fix this issue:
 - Disable any VPN or proxy you are using, or try a different internet connection if you are at a school/hotel/business etc.
 - If you have any Windows updates in-progress, let them fully complete before running the installer (including required restarts)
 - Reboot your computer, then try running the installer again
+
+#### Linux - Download stage fails - Failed to load trusted CA certificates
+
+Some users on OpenSuse and Fedora Linux have reported a failure during download:
+
+`Failed to load trusted CA certificates from /etc/ssl/certs/ca-certificates.crt. Cause: error:02001002:system library:fopen:No such file or directory`
+
+This is because either the default location of the certificate is somewhere else, or there is no certificate present.
+
+We're not sure how to properly fix this issue, but a user reported copying or symlinking the `/etc/ssl/certs/ca-bundle.crt` to `/etc/ssl/certs/ca-certificates.crt` fixed the issue (NOTE: you may want to remove it after the install finishes, incase it causes issues with other programs). If you know how to fix this issue 'properly' please help us by commenting on this [GitHub issue](https://github.com/07th-mod/python-patcher/issues/80)
 
 ----
 

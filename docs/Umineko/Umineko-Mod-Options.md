@@ -37,6 +37,8 @@ This page describes each mod option, so you can decide which mod to install.
     </tbody>
 </table>
 
+A more detailed sprite comparison, with more characters, may be found [here](https://07th-mod.com/wiki/Umineko/img/umineko-sprite-comparison.png).
+
 !!! warning "News: Windows-only installer end-of-life announcement"
     As of May 2019, we dropped support for the old Windows-only installer. The new installer has much better compatibility, works on Windows, Linux and Mac, and has an entirely new UI.
 

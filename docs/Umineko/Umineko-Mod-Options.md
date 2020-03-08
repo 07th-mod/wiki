@@ -23,8 +23,8 @@ This page describes each mod option, so you can decide which mod to install.
 <table>
     <thead>
         <tr>
-            <th>Alchemist sprites</th>
-            <th>Mangagamer sprites</th>
+            <th>Alchemist/PS3 sprites</th>
+            <th>Mangagamer/Pachinko sprites</th>
             <th>Ryukishi sprites</th>
         </tr>
     </thead>

@@ -118,6 +118,36 @@ The following may help you fix this issue:
 - If you have any Windows updates in-progress, let them fully complete before running the installer (including required restarts)
 - Reboot your computer, then try running the installer again
 
+#### Extraction stage fails - I get an "Acess Denied" error when overwriting files
+
+During the extraction stage, the installer will fail with an error message similar to:
+
+`ERROR: Can not open output file : Access is denied. : c:\program files (x86)\steam\steamapps\common\Higurashi 03 - Tatarigoroshi\HigurashiEp03_Data\StreamingAssets\CG\sprite\normal\re2b_komaru_b1_1.png`
+
+You can try the following to fix the error. :
+
+1. **Move or copy the game folder out of Program Files so the installer can access it:**
+    - Move or copy the game folder to Desktop or My Documents - somewhere you know modifying and deleting files is allowed
+    - Retry the install. You can move the game folder back after the install is finished.
+
+2. **If you have additional antivirus software, check it is not blocking access to the folder**
+
+3. **Attempt the install as an Administrator user (not a "Standard User")**
+
+4. **Check you have permissions to delete the file (for Power Users):**
+    - Try manually deleting the file which fails to be overwritten as a test
+    - If you are unable to delete the file yourself
+        - [Download this batch file](https://github.com/drojf/windows-permission-fixer/raw/master/RUN_AS_ADMIN-grant_this_folder_admin.bat), and place it inside the game directory
+        - **Run the batch file as Administrator** to regain permissions
+        - The batch file will attempt to give access to Administrators for all files in the folder
+
+5. **Check the folder is not read-only:**
+    - Right click on the game folder. Under "Attributes:", examine the "Read-only" checkbox
+    - Untick the checkbox (if it is ticked, read only is definitely enabled. If it has a square, read-only *might* be enabled)
+    - Note that **even after disabling read-only, the checkbox will still have a square symbol**, please don't worry about that.
+
+If you manage to resolve this issue, please let us know what method worked on our [Discord server](https://discord.gg/pf5VhF9).
+
 #### Linux - Download stage fails - Failed to load trusted CA certificates
 
 Some users on OpenSuse and Fedora Linux have reported a failure during download:

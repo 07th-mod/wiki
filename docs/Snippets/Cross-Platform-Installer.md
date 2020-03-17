@@ -126,22 +126,27 @@ During the extraction stage, the installer will fail with an error message simil
 
 You can try the following to fix the error. :
 
-1. **Move or copy the game folder out of Program Files so the installer can access it:**
-    - Move or copy the game folder to Desktop or My Documents - somewhere you know modifying and deleting files is allowed
+1. **Close other programs which could interfere:**
+    - Close the game launcher (Steam or GOG Downloader/Galaxy)
+    - Close the game being patched (Umineko or Higurashi)
+    - Or just close everything except the installer, incase something is unexpectedly blocking write access.
+
+2. **Move or copy the game folder out of Program Files so the installer can access it:**
+    - Move or copy the game folder to `Desktop` or `My Documents` - somewhere you know modifying and deleting files is allowed
     - Retry the install. You can move the game folder back after the install is finished.
 
-2. **If you have additional antivirus software, check it is not blocking access to the folder**
+3. **If you have additional antivirus software, check it is not blocking access to the folder**
 
-3. **Attempt the install as an Administrator user (not a "Standard User")**
+4. **Attempt the install as an Administrator user (not a "Standard User")**
 
-4. **Check you have permissions to delete the file (for Power Users):**
+5. **Check you have permissions to delete the file (for Power Users):**
     - Try manually deleting the file which fails to be overwritten as a test
     - If you are unable to delete the file yourself
         - [Download this batch file](https://github.com/drojf/windows-permission-fixer/raw/master/RUN_AS_ADMIN-grant_this_folder_admin.bat), and place it inside the game directory
         - **Run the batch file as Administrator** to regain permissions
         - The batch file will attempt to give access to Administrators for all files in the folder
 
-5. **Check the folder is not read-only:**
+6. **Check the folder is not read-only:**
     - Right click on the game folder. Under "Attributes:", examine the "Read-only" checkbox
     - Untick the checkbox (if it is ticked, read only is definitely enabled. If it has a square, read-only *might* be enabled)
     - Note that **even after disabling read-only, the checkbox will still have a square symbol**, please don't worry about that.

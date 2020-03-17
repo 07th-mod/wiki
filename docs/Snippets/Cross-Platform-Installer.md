@@ -124,34 +124,37 @@ During the extraction stage, the installer will fail with an error message simil
 
 `ERROR: Can not open output file : Access is denied. : c:\program files (x86)\steam\steamapps\common\Higurashi 03 - Tatarigoroshi\HigurashiEp03_Data\StreamingAssets\CG\sprite\normal\re2b_komaru_b1_1.png`
 
-You can try the following to fix the error. :
+You can try the following solutions. Please try them in order.:
 
-1. **Close other programs which could interfere:**
-    - Close the game launcher (Steam or GOG Downloader/Galaxy)
-    - Close the game being patched (Umineko or Higurashi)
-    - Or just close everything except the installer, incase something is unexpectedly blocking write access.
+1. **Restart your computer / Close other programs which could interfere:**
+    - To make sure no programs are restricting file access:
+        - Disable **Steam / GOG Downloader/Galaxy** launching on startup
+        - Restart your computer, then wait for your computer to settle down
+        - Start the installer immediately, **without launching any other programs**
+    - In particular, make sure the game (Umineko or Higurashi) are closed, and also the launcher (Steam or GOG Downloader/Galaxy)
 
 2. **Move or copy the game folder out of Program Files so the installer can access it:**
     - Move or copy the game folder to `Desktop` or `My Documents` - somewhere you know modifying and deleting files is allowed
     - Retry the install. You can move the game folder back after the install is finished.
 
-3. **If you have additional antivirus software, check it is not blocking access to the folder**
+3. **Unblock the game folder/our installer from your Antivirus (AVG, Norton etc.)**
+    - Note that Windows Defender usually causes no issues besides the initial popup - if you just have Windows Defender then ignore this solution.
+    - Check your additional antivirus is not blocking the game folder access
+    - Check your additional antivirus is not blocking the installer
 
 4. **Attempt the install as an Administrator user (not a "Standard User")**
+    - I've tested installing to an administrator's installation as a Standard User and it worked just fine. But it's worth a try if the above doesn't work and you're a Standard User.
 
-5. **Check you have permissions to delete the file (for Power Users):**
-    - Try manually deleting the file which fails to be overwritten as a test
-    - If you are unable to delete the file yourself
+5. **Not recommended: Manually delete the problematic files**
+    - Open the installer log, and search for errors: `ERROR: Can not` or `Access is denied`
+    - Delete the files/folders which the installer couldn't overwrite, then retry the install
+    - You may need to repeat this multiple times, and you might accidentally delete the wrong file, so this method is not recommended.
+    - If you get an access denied message from Windows when you try to delete the files:
         - [Download this batch file](https://github.com/drojf/windows-permission-fixer/raw/master/RUN_AS_ADMIN-grant_this_folder_admin.bat), and place it inside the game directory
         - **Run the batch file as Administrator** to regain permissions
         - The batch file will attempt to give access to Administrators for all files in the folder
 
-6. **Check the folder is not read-only:**
-    - Right click on the game folder. Under "Attributes:", examine the "Read-only" checkbox
-    - Untick the checkbox (if it is ticked, read only is definitely enabled. If it has a square, read-only *might* be enabled)
-    - Note that **even after disabling read-only, the checkbox will still have a square symbol**, please don't worry about that.
-
-If you manage to resolve this issue, please let us know what method worked on our [Discord server](https://discord.gg/pf5VhF9).
+If you manage to resolve this issue, **please let us know what method worked** on our [Discord server](https://discord.gg/pf5VhF9).
 
 #### Linux - Download stage fails - Failed to load trusted CA certificates
 

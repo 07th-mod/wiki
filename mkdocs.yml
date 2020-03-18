@@ -26,6 +26,10 @@ nav:
         - 3c. Manual Voices-only : Umineko/Umineko-Part-1.1---Voices-only-Patch.md
         - 4. Umineko Tsubasa and Hane: Umineko/Tsubasa-Hane.md
         - 5. FAQ/Troubleshooting: Umineko/Umineko-Part-0-TroubleShooting-and-FAQ.md
+    - <b>Installer</b>:
+        - 1. FAQ: Installer/faq.md
+        - 2. Getting support: Installer/support.md
+        - Power User Installation: Installer/power-users.md
     - <b>Developer Wiki</b>: https://07th-mod.com/dev-wiki
 theme: material
 plugins:

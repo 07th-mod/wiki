@@ -2,10 +2,10 @@
 
 Support is currently available in our [Discord channel](https://discord.gg/pf5VhF9) and on [Github Issues](https://github.com/07th-mod/python-patcher/issues/new/choose).
 
-When looking for support, keep in hand the following:
+When asking for support, keep in mind the following:
 
-- a description, screenshots and/or error messages of the issue
-- the [installation log](#finding-the-installation-log)
+- A description, screenshots and/or error messages of the issue
+- The [installation log](#finding-the-installation-log)
 
 Having the [installation log](#finding-the-installation-log) is essential to troubleshoot issues, so don't forget to upload it as an attachment to your message.
 

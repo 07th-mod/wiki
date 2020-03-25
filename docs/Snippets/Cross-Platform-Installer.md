@@ -4,11 +4,12 @@
 
     ??? example "Windows"
         1. Download and Run the `07th-Mod.Installer.Windows.exe` file from the [Download Page](https://github.com/07th-mod/python-patcher/releases)
-        2. A Windows SmartScreen warning may appear. If it does, click "More info", then choose "Run anyway".
-        3. A console window will popup. DO NOT CLOSE THIS WINDOW until you are finished using the installer.
-        4. Wait while the installer extracts to the folder `07th-mod_installer`.
-        5. When extraction is finished, the installer GUI (a web page) will open. DO NOT CLOSE THIS PAGE.
-        6. Continue with the instructions below.
+            1. If a "Windows SmartScreen" warning appears, click "More info", then choose "Run anyway".
+        2. The installer launcher will appear and extract to `07th-mod_installer`.
+            1. **Do not close this window** until you are finished using the installer.
+        3. When extraction is finished, click "Run Installer".
+        4. The installer will open as a web page in your browser. **Do not close this web page**
+        5. Continue with the instructions below.
 
     ??? example "Mac"
         1. Download the [Mac Installer](https://github.com/07th-mod/python-patcher/releases)
@@ -52,7 +53,7 @@
 
         For reference, the default steam folder is `~/Library/Application Support/Steam/steamapps/common/`, but yours may be different.
 
-5. To stop an install that is in progress, you MUST close the terminal window (the black box with lots of text).
+5. To stop an install that is in progress, you MUST close the launcher (on Windows), or the terminal window (On Linux and Mac, the black box with lots of text). Closing only the webpage will have no effect.
 6. Carefully read the information that appears once the install has finished.
 
 (Power users can also try a few different ways of running the installer in [this page](../Installer/power-users.md))

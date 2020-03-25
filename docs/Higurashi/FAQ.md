@@ -67,3 +67,13 @@ Yes, there are but they can be unofficial (Onikakushi), severely outdated (Watan
 
 This OST remake effort was started before the April patch. It contains handmade remakes of several music tracks from the original release (pre-2019) - [Click here to listen to audio samples](https://radiataalice.bandcamp.com/album/hinamizawa-syndrome-vol-1)
 This patch was created as more of a side-project to see how the midis in the original 1999 soundtrack could be improved upon with modern instruments, and also to fix clipping and distortion issues in the original Steam release.
+
+## Save file locations
+
+Here are the save files locations for Higurashi, chapter 1:
+
+- Windows: `C:\Users\[YOUR_USERNAME]\AppData\Roaming\MangaGamer\higurashi01`
+- MacOS: `~/Library/Application Support/unity.MangaGamer.Higurashi When They Cry - Ch.1 Onikakushi/`
+- Linux: `~/.config/unity3d/Mangagamer/Higurashi When They Cry _ Ch_1 Onikakushi`
+
+The 'Troubleshooting' page of the installer also has a tool to view the save files any game with auto-detected path.

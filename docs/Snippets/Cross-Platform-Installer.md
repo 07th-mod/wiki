@@ -1,4 +1,4 @@
-## Multiplatform installer instructions
+## Multiplatform Installer Instructions
 
 1. Click on your operating system below for instructions on downloading and launching the installer.
 
@@ -55,8 +55,14 @@
 5. To stop an install that is in progress, you MUST close the terminal window (the black box with lots of text).
 6. Carefully read the information that appears once the install has finished.
 
-## The installer does not work - what next?
+(Power users can also try a few different ways of running the installer in [this page](../Installer/power-users.md))
 
-We have a list of common issues listed under our [FAQ](../Installer/faq.md). If your issue is not listed there, please proceed to our [Installer support](../Installer/support.md) page.
+## [❓] Installer Troubleshooting
 
-Power users can also try a few different ways of running the installer in [this page](../Installer/power-users.md).
+1. Firstly, [check our FAQ](../Installer/faq.md) to see if your problem has already been answered.
+2. If your issue is not resolved, please proceed to our [Installer support](../Installer/support.md) page.
+
+## [❓] Game Troubleshooting
+
+1. Check the [Higurashi FAQ](../Higurashi/FAQ.md) / [Umineko FAQ](../Umineko/Umineko-Part-0-TroubleShooting-and-FAQ.md)
+2. If your issue is not resolved, please proceed to our [Higurashi Support](../Higurashi/support.md) / [Umineko Support](../Umineko/support.md) page

@@ -140,13 +140,4 @@ There is also one achievement for the Question Arcs which is difficult to unlock
 
 ## I have some other problem!
 
-If you have an issue with the game itself crashing or behaving very badly, please start the game in Debug mode by double clicking `Umineko5to8_DebugMode.bat` (if you don't have it, [download this and rename it as a .bat file](https://github.com/07th-mod/resources/raw/master/umineko-question/utilities/StartUminekoInDebugMode.bat)). Once you make game crash, submit the stdout.txt and stderr.txt text files to us. On Linux you can view errors by launching the game from a console window.
-
-You can send them to us on our Discord server: 
-
-- `#umi_support` @ [https://discord.gg/acSbBtD](https://discord.gg/acSbBtD). **Please do not post any spoilers there.**
-
-You can also submit them on our Github Issues page:
-
-- [Question Arcs Issues Page](https://github.com/07th-mod/umineko-question/issues)
-- [Answer Arcs Issues Page](https://github.com/07th-mod/umineko-answer/issues)
+Please proceed to the [Umineko Support](support.md) page.

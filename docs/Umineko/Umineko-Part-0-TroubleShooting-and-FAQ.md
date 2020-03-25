@@ -1,3 +1,11 @@
+# 5. Umineko FAQ
+
+Welcome to the Umineko FAQ. You can find your question using the **instant search bar** at the top of the screen, or the **Table of Contents** on the right.
+
+## What if my issue is not listed below?
+
+Please proceed to [Umineko Support](../Umineko/support.md).
+
 ## Known Issues
 
 ### General Problems
@@ -137,7 +145,3 @@ Also to note is that the base game will save to the `saves` folder, and the modd
 If you do not have steam running, the game will not register achievements. If you think you've wrongly missed an achievement, don't worry - once you've finished the game,  we've added a button on the Mod Menu to forcibly unlock all achievements (right click while in-game, then click "Options", then "Unlock All Achievements").
 
 There is also one achievement for the Question Arcs which is difficult to unlock, "Trumpet Blues". I suggest googling it if that is the one you are missing.
-
-## I have some other problem!
-
-Please proceed to the [Umineko Support](support.md) page.

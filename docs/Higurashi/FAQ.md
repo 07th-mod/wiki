@@ -1,6 +1,10 @@
 # Higurashi FAQ
 
-Welcome to the Higurashi FAQ. You may wish to look at the Table of Contents at the top right of the screen to find your question.
+Welcome to the Higurashi FAQ. You can find your question using the **instant search bar** at the top of the screen, or the **Table of Contents** on the right.
+
+## What if my issue is not listed below?
+
+Please proceed to the [Higurashi Support](support.md) page
 
 ## Gameplay Problems
 
@@ -63,7 +67,3 @@ Yes, there are but they can be unofficial (Onikakushi), severely outdated (Watan
 
 This OST remake effort was started before the April patch. It contains handmade remakes of several music tracks from the original release (pre-2019) - [Click here to listen to audio samples](https://radiataalice.bandcamp.com/album/hinamizawa-syndrome-vol-1)
 This patch was created as more of a side-project to see how the midis in the original 1999 soundtrack could be improved upon with modern instruments, and also to fix clipping and distortion issues in the original Steam release.
-
-## I have some other problem!
-
-Please proceed to the [Higurashi Support](support.md) page

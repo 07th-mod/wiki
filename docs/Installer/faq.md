@@ -1,5 +1,7 @@
 # Installer FAQ and Troubleshooting
 
+Welcome to the Installer FAQ. You can find your question using the **instant search bar** at the top of the screen, or the **Table of Contents** on the right.
+
 ## What if my issue is not listed below?
 
 Please proceed to [How to get support](../Installer/support.md).

@@ -13,6 +13,8 @@ Please proceed to the [Higurashi Support](support.md) page
 Very often people download the newest voice patch and forget to update their graphics patch. When you leave the graphics patch outdated, the game will crash when the script tries to output a file that doesn't exist.
 E.g.: the game tries to show you an image that doesn't exist in your ``CG`` folder.
 
+We recommend using the installer's automatic update functionality to avoid this issue.
+
 ### The game is updated but some voices are not playing/some graphics are not showing!
 
 When this happens, the very first thing you need to do is to clean your ``CompiledUpdateScripts`` folder. Make sure your game is updated and the folder is empty, then run the game again. It should hang for a few seconds before playing the intro.

@@ -18,7 +18,9 @@
 
 ***
 
-!!! info
-    ### Join us on [Discord](https://discord.gg/pf5VhF9)
+!!! info "Discord Server"
+    <a href=https://discord.gg/pf5VhF9><img style="float: left" src="img/Discord-Logo-Color.png" width="100" height="100"/></a>
+
+    ###  Join us on [Discord](https://discord.gg/pf5VhF9)
 
     Join our server for support, discussion and a lot of fun!

@@ -58,6 +58,10 @@
 
 (Power users can also try a few different ways of running the installer in [this page](../Installer/power-users.md))
 
+## Updating Games
+
+To update your game, run the installer again for the game you want to update - **remember to repeat your mod option choices as before**. The installer should only re-install the updated components.
+
 ## [❓] Installer Troubleshooting
 
 1. Firstly, [check our FAQ](../Installer/faq.md) to see if your problem has already been answered.

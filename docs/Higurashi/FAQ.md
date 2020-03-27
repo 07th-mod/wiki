@@ -34,6 +34,16 @@ There is a known problem where having multiple network adapters can interfere wi
 
 A fragmented/very full HDD may be slow to load the assets - hence we recommend installing on an SSD.
 
+### Two of the same character's sprites appear on the screen (overlapping / duplicate sprite)
+
+We haven't been able to 'properly' fix this bug yet, but you can apply this workaround:
+
+- Save your game
+- Restart the game
+- Load your save
+
+After applying this workaround, you may need to play the game a little before the sprite fully disappears.
+
 ## Higurashi Music and Sound Effects Changes / April Update
 
 ### What was the April update?

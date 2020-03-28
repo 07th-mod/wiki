@@ -65,6 +65,25 @@ The following may help you fix this issue:
 - If you have any Windows updates in-progress, let them fully complete before running the installer (including required restarts)
 - Reboot your computer, then try running the installer again
 
+Also see next FAQ if you're on Linux.
+
+### Linux - Download stage fails - Failed to load trusted CA certificates
+
+Some users on OpenSuse and Fedora Linux have reported a failure during download:
+
+`Failed to load trusted CA certificates from /etc/ssl/certs/ca-certificates.crt. Cause: error:02001002:system library:fopen:No such file or directory`
+
+This is because either the default location of the certificate is somewhere else, or there is no certificate present.
+
+We're not sure how to properly fix this issue, but users have reported the following could fix the issue:
+
+- copying or symlinking `/etc/ssl/certs/ca-bundle.crt` -> `/etc/ssl/certs/ca-certificates.crt`
+- copying or symlinking `/var/lib/ca-certificates/ca-bundle.pem` -> `/etc/ssl/certs/ca-certificates.crt`
+
+NOTE: you may want to remove it after the install finishes, incase it causes issues with other programs. If you know how to fix this issue 'properly' please help us by commenting on this [GitHub issue](https://github.com/07th-mod/python-patcher/issues/80)
+
+## Other Installer Issues
+
 ### Extraction stage fails - I get an "Acess Denied" error when overwriting files
 
 During the extraction stage, the installer will fail with an error message similar to:
@@ -102,13 +121,3 @@ You can try the following solutions. Please try them in order.:
         - The batch file will attempt to give access to Administrators for all files in the folder
 
 If you manage to resolve this issue, **please let us know what method worked** on our [Discord server](https://discord.gg/pf5VhF9).
-
-### Linux - Download stage fails - Failed to load trusted CA certificates
-
-Some users on OpenSuse and Fedora Linux have reported a failure during download:
-
-`Failed to load trusted CA certificates from /etc/ssl/certs/ca-certificates.crt. Cause: error:02001002:system library:fopen:No such file or directory`
-
-This is because either the default location of the certificate is somewhere else, or there is no certificate present.
-
-We're not sure how to properly fix this issue, but a user reported copying or symlinking the `/etc/ssl/certs/ca-bundle.crt` to `/etc/ssl/certs/ca-certificates.crt` fixed the issue (NOTE: you may want to remove it after the install finishes, incase it causes issues with other programs). If you know how to fix this issue 'properly' please help us by commenting on this [GitHub issue](https://github.com/07th-mod/python-patcher/issues/80)

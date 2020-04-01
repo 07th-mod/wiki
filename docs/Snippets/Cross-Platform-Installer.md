@@ -9,6 +9,7 @@
             1. **Do not close this window** until you are finished using the installer.
         3. When extraction is finished, click "Run Installer".
         4. The installer will open as a web page in your browser. **Do not close this web page**
+            1. If you cannot get the web page to load, restart the installer launcher, and enable the `Run in Safe-Mode` checkbox to run the text-based installer.
         5. Continue with the instructions below.
 
     ??? example "Mac"
@@ -33,6 +34,7 @@
                 * If your distribution is not listed, you may need to lookup how to install tkinter on your particular distribution
         2. Download and extract the [Linux Installer](https://github.com/07th-mod/python-patcher/releases)
         3. Run the shell script called `install`
+            1. If you cannot get the web page to load, enter the `install_data` directory, then run `python ./cli_interactive.py` to run the text only, 'safe-mode' installer.
 
 2. Opening the installer will launch a page in your browser. **Do not close this page**.
 3. On the web page that was just launched, click on the game you want to mod.

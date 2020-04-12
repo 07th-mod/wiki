@@ -6,6 +6,10 @@ We offer the below patches so you can enjoy the vanilla game with voices if you 
 
 <div style="color:red;font-size:24px;">We do not offer end-user support for the voice-only patch.</div> If you encounter bugs or missing features, **we probably won't help you with it.**
 
+## Installing the patch automatically
+
+[Follow the instructions on this page to use the installer](Higurashi-Part-1---Voice-and-Graphics-Patch.md), but after selecting the game to patch, click the green <b style="background: green; color:white; padding: 10px; line-height: 40px">VOICE-ONLY</b> button in the installer.
+
 ## Installing the patch manually
 
 1. Download all the archives for the game you are patching (See the below "Downloads" table). For 'Patch', do not download the 'Source Code' file.

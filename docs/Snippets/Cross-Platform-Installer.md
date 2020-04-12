@@ -33,7 +33,7 @@
                 * **Fedora**: `sudo dnf install python2-tkinter` or <br> `sudo dnf install python3-tkinter`
                 * If your distribution is not listed, you may need to lookup how to install tkinter on your particular distribution
         2. Download and extract the [Linux Installer](https://github.com/07th-mod/python-patcher/releases)
-        3. Run the shell script called `install`
+        3. Run the shell script called `install`. The installer will open as a web page in your browser. 
             1. If you cannot get the web page to load, enter the `install_data` directory, then run `python ./cli_interactive.py` to run the text only, 'safe-mode' installer.
 
 2. Opening the installer will launch a page in your browser. **Do not close this page**.

@@ -13,10 +13,10 @@
 
 There are two patch variants for the main story arcs:
 
-- the "Full Patch": [**Click here to install and learn about the Full Patch**](../Higurashi-Part-1---Voice-and-Graphics-Patch)
+- the "Full Patch": [**Click here to install and learn about the Full Patch**](Higurashi-Part-1---Voice-and-Graphics-Patch.md)
 - the "Voices Only" patch, which we **do not offer support for**
     - When a new chapter comes out, we will do a quick voice-only patch for people to test and debug, followed by the full graphics path later. During this time period, we will offer support for the "beta-testing" Voices Only patch.
-    - If you really wish to install the voices-only patch, [Click here](../Higurashi-Part-1.1---Voices-only-Patch)
+    - If you really wish to install the voices-only patch, [Click here](Higurashi-Part-1.1---Voices-only-Patch.md)
 
 #### Patch Availability
 
@@ -51,4 +51,4 @@ Supported chapters:
 ![Higurashi Arcs Flowchart](img/flow.png)
 
 
-[**Click here to install the patch**](../Higurashi-Part-1---Voice-and-Graphics-Patch)
+[**Click here to install the patch**](Higurashi-Part-1---Voice-and-Graphics-Patch.md)

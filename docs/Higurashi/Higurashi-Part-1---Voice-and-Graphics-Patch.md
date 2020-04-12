@@ -1,8 +1,5 @@
 # Installing the patch
 
-!!! warning "News: Windows-only installer end-of-life announcement"
-    As of May 2019, we dropped support for the old Windows-only installer. The new installer has much better compatibility, works on Windows, Linux and Mac, and has an entirely new UI.
-
 The installer combines all the patches available to create the best experience possible. It will automatically download and install the following content:
 
 * Full voiceover

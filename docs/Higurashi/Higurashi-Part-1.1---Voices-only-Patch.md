@@ -1,4 +1,4 @@
-# Voices Only Patch (Unsupported)
+# Voice Only Patch (Unsupported)
 
 Sometimes you just want the voices and enjoy the beautiful original art, I get it. Yeah, that's no joke, I really like the original art.
 
@@ -8,7 +8,12 @@ We offer the below patches so you can enjoy the vanilla game with voices if you 
 
 ## Installing the patch automatically
 
-[Follow the instructions on this page to use the installer](Higurashi-Part-1---Voice-and-Graphics-Patch.md), but after selecting the game to patch, click the green <b style="background: green; color:white; padding: 10px; line-height: 40px">VOICE-ONLY</b> button in the installer.
+**We highly recommend using the installer**:
+
+- [Follow these instructions to use the installer](Higurashi-Part-1---Voice-and-Graphics-Patch.md)
+- After selecting the game to patch, click the green <b style="background: green; color:white; padding: 10px; line-height: 40px">VOICE-ONLY</b> button in the installer.
+
+The installer's "voice only" patch was updated on 12-04-2020. **If the installer's voice-only doesn't work, please let us know.**
 
 ## Installing the patch manually
 
@@ -27,7 +32,7 @@ Archives were updated 12-04-2020. **If the instructions don't seem to match the 
 <th style="text-align: center;">Chapter</th>
 <th style="text-align: center;">Patch</th>
 <th style="text-align: center;">Voices</th>
-<th style="text-align: center;">HD Ryukishi Sprites (optional)</th>
+<th style="text-align: center;">HD Ryukishi Sprites*<br>(optional)</th>
 </tr>
 </thead>
 <tbody>
@@ -75,3 +80,5 @@ Archives were updated 12-04-2020. **If the instructions don't seem to match the 
 </tr>
 </tbody>
 </table>
+
+*Replaces the original (640x480) sprites with upscaled HD versions (1280x960)

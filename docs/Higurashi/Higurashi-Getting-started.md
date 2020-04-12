@@ -13,10 +13,10 @@
 
 There are two patch variants for the main story arcs:
 
-- the "Full Patch": [**Click here to install and learn about the Full Patch**](Higurashi-Part-1---Voice-and-Graphics-Patch.md)
-- the "Voices Only" patch, which we **do not offer support for**
-    - When a new chapter comes out, we will do a quick voice-only patch for people to test and debug, followed by the full graphics path later. During this time period, we will offer support for the "beta-testing" Voices Only patch.
-    - If you really wish to install the voices-only patch, [Click here](Higurashi-Part-1.1---Voices-only-Patch.md)
+- The "Full Patch": [**Click here to install and learn about the Full Patch**](Higurashi-Part-1---Voice-and-Graphics-Patch.md)
+- The "Voice Only" patch, which we **do not offer support for**
+    - When a new chapter comes out, we will do a quick Voice Only patch for people to test and debug, followed by the full graphics patch later. During this time period, we will offer support for the "beta-testing" Voice Only patch.
+    - If you really wish to install the Voice Only patch, [Click here](Higurashi-Part-1.1---Voices-only-Patch.md)
 
 #### Patch Availability
 
@@ -30,7 +30,7 @@ There are two patch variants for the main story arcs:
 | Ch. 6 - Tsumihoroboshi | <div style="color:green;font-size:24px;line-height:16px">✔</div> | <div style="color:green;font-size:24px;line-height:16px">✔</div> |
 | Ch. 7 - Minagoroshi    | <div style="color:green;font-size:24px;line-height:16px">✔</div> | <div style="color:green;font-size:24px;line-height:16px">✔</div> |
 
-Community Forks: [Cnnctr's Ch.1 Voices Only Fork](https://github.com/Cnnctr/onikakushi)
+Community Forks: [Cnnctr's Ch.1 Voice Only Fork](https://github.com/Cnnctr/onikakushi)
 
 ## Console Arcs (extra chapters)
 

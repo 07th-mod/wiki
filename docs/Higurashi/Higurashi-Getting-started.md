@@ -11,68 +11,31 @@
 
 ## Main story arcs
 
-<table>
-<thead>
-<tr class="header">
-<th style="text-align: center;">Chapter</th>
-<th style="text-align: center;">Voice and graphics patch?</th>
-<th style="text-align: center;">Voices only patch?</th>
-<th style="text-align: center;">Community forks</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: center;">Ch.1 - Onikakushi</td>
-<td style="text-align: center;"><a href="https://07th-mod.com/wiki/Higurashi/Higurashi-Part-1---Voice-and-Graphics-Patch">Yes</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/wiki/Higurashi/Higurashi-Part-1.1---Voices-only-Patch">Yes</a></td>
-<td style="text-align: center;"><a href="https://github.com/Cnnctr/onikakushi">Voices only patch</a></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">Ch.2 - Watanagashi</td>
-<td style="text-align: center;"><a href="https://07th-mod.com/wiki/Higurashi/Higurashi-Part-1---Voice-and-Graphics-Patch">Yes</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/wiki/Higurashi/Higurashi-Part-1.1---Voices-only-Patch">Yes</a></td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">Ch.3 - Tatarigoroshi</td>
-<td style="text-align: center;"><a href="https://07th-mod.com/wiki/Higurashi/Higurashi-Part-1---Voice-and-Graphics-Patch">Yes</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/wiki/Higurashi/Higurashi-Part-1.1---Voices-only-Patch">Yes</a></td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">Ch.4 - Himatsubushi</td>
-<td style="text-align: center;"><a href="https://07th-mod.com/wiki/Higurashi/Higurashi-Part-1---Voice-and-Graphics-Patch">Yes</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/wiki/Higurashi/Higurashi-Part-1.1---Voices-only-Patch">Yes</a></td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">Ch.5 - Meakashi</td>
-<td style="text-align: center;"><a href="https://07th-mod.com/wiki/Higurashi/Higurashi-Part-1---Voice-and-Graphics-Patch">Yes</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/wiki/Higurashi/Higurashi-Part-1.1---Voices-only-Patch">Yes</a></td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">Ch. 6 - Tsumihoroboshi</td>
-<td style="text-align: center;"><a href="https://07th-mod.com/wiki/Higurashi/Higurashi-Part-1---Voice-and-Graphics-Patch">Yes</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/wiki/Higurashi/Higurashi-Part-1.1---Voices-only-Patch">Yes</a></td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">Ch. 7 - Minagoroshi</td>
-<td style="text-align: center;"><a href="https://07th-mod.com/wiki/Higurashi/Higurashi-Part-1---Voice-and-Graphics-Patch">Yes</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/wiki/Higurashi/Higurashi-Part-1.1---Voices-only-Patch">Yes</a></td>
-<td style="text-align: center;"></td>
-</tr>
-</tbody>
-</table>
+There are two patch variants for the main story arcs:
+
+- the "Full Patch": [**Click here to install and learn about the Full Patch**](../Higurashi-Part-1---Voice-and-Graphics-Patch)
+- the "Voices Only" patch, which we **do not offer support for**
+    - When a new chapter comes out, we will do a quick voice-only patch for people to test and debug, followed by the full graphics path later. During this time period, we will offer support for the "beta-testing" Voices Only patch.
+    - If you really wish to install the voices-only patch, [Click here](../Higurashi-Part-1.1---Voices-only-Patch)
+
+#### Patch Availability
+
+| Chapter                | Full Patch Available                                              | Voices Only Available                                             |
+| ---------------------- |:-------------------------------------------------------------- -: | :---------------------------------------------------------------:|
+| Ch.1 - Onikakushi      | <div style="color:green;font-size:24px;line-height:16px">✔</div> | <div style="color:green;font-size:24px;line-height:16px">✔</div> |
+| Ch.2 - Watanagashi     | <div style="color:green;font-size:24px;line-height:16px">✔</div> | <div style="color:green;font-size:24px;line-height:16px">✔</div> |
+| Ch.3 - Tatarigoroshi   | <div style="color:green;font-size:24px;line-height:16px">✔</div> | <div style="color:green;font-size:24px;line-height:16px">✔</div> |
+| Ch.4 - Himatsubushi    | <div style="color:green;font-size:24px;line-height:16px">✔</div> | <div style="color:green;font-size:24px;line-height:16px">✔</div> |
+| Ch.5 - Meakashi        | <div style="color:green;font-size:24px;line-height:16px">✔</div> | <div style="color:green;font-size:24px;line-height:16px">✔</div> |
+| Ch. 6 - Tsumihoroboshi | <div style="color:green;font-size:24px;line-height:16px">✔</div> | <div style="color:green;font-size:24px;line-height:16px">✔</div> |
+| Ch. 7 - Minagoroshi    | <div style="color:green;font-size:24px;line-height:16px">✔</div> | <div style="color:green;font-size:24px;line-height:16px">✔</div> |
+
+Community Forks: [Cnnctr's Ch.1 Voices Only Fork](https://github.com/Cnnctr/onikakushi)
 
 ## Console Arcs (extra chapters)
 
 !!! warning "The console arcs requires Ch.4 Himatsubushi to be played"
     Installing it over your Himatsubushi installation will overwrite the game with the console arcs. We recommend to make a copy of the folder and install the console arcs there. **It is not required to install the Himatsubushi patch before installing the Console Arcs.**
-
-The console arcs should be played at the points of the story and in the order indicated by the below flowchart.<br>
-<a href='/wiki/Higurashi/img/flow.png' target='_blank'><img src='/wiki/Higurashi/img/flow.png' width='400'></a><br><br>
 
 Supported chapters:
 
@@ -84,4 +47,8 @@ Supported chapters:
 * Yoigoshi
 * Miotsukushi Omote
 
-[**Click here to install the patch**](https://07th-mod.com/wiki/Higurashi/Higurashi-Part-1---Voice-and-Graphics-Patch)
+**The console arcs should be played at the points of the story and in the order indicated by the below flowchart.**
+![Higurashi Arcs Flowchart](img/flow.png)
+
+
+[**Click here to install the patch**](../Higurashi-Part-1---Voice-and-Graphics-Patch)

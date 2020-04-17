@@ -42,7 +42,7 @@ Manually installing the game is not recommended unless you have problems with th
 </tbody>
 </table>
 
-**Linux and Mac Only**: <a href="https://07th-mod.com/Beato/linux-libpng-libjpeg.7z">linux-libpng-libjpeg.7z</a>
+**Linux and Mac Only**: [`linux-libpng-libjpeg.7z`](https://07th-mod.com/Beato/linux-libpng-libjpeg.7z)
 
 ## Installing the patch
 

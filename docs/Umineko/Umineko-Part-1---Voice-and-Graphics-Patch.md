@@ -82,7 +82,7 @@ Choose <strong>one</strong>:
 </tbody>
 </table>
 
-**Linux and Mac Only**: <a href="https://07th-mod.com/Beato/linux-libpng-libjpeg.7z">linux-libpng-libjpeg.7z</a>
+**Linux and Mac Only**: [`linux-libpng-libjpeg.7z`](https://07th-mod.com/Beato/linux-libpng-libjpeg.7z)
 
 ### Pachinko/Ryukishi Sprite Packs
 
@@ -227,3 +227,14 @@ This ADV Mode addon is only for the Answer arcs. For the Question arcs, the Full
 1. Ensure that you have a working release of the full graphics patch of the Chiru Answer Arcs (Scroll back up this page to install it).
 2. Download the ADV mode **0.u Script** listed above and **replace** the existing 0.u file
 3. Download and Unzip the **ADV Assets** archive listed above into the game folder (Check that it creates the following folders: `fonts_adv`, `textbox`, `textbox_black`).
+
+## Legacy Question Arcs download links
+
+For most users, there is no reason to install the legacy version of the patch. However I've added the links here anyway. Installation Instructions:
+
+1. Extract the graphics archive: [Legacy Question Arcs Graphics](https://07th-mod.com/Beato/legacy/Umineko-Graphics-Legacy-2018.7z)
+2. Extract the voice archives which should generate a `arc4.nsa` and `arc5.nsa` file: [Normal Question Voices](https://07th-mod.com/Beato/Umineko-Voices-nsa.7z)
+    - If you have the MangaGamer release, you MUST rename these files to `arc1.nsa` and `arc2.nsa` for the game to detect them (otherwise you will get no voices).
+3. Extract the Exe: [Legacy Question Arcs Exe](https://07th-mod.com/Beato/legacy/Umineko-Question-Exes-legacy-1707x1280.7z)
+4. Extract the Update: [Legacy Question Update](https://07th-mod.com/Beato/legacy/Umineko-Update-legacy-v5_2018_07_15.7z)
+5. **Linux Mac Only** Extract the archive [`linux-libpng-libjpeg.7z`](https://07th-mod.com/Beato/linux-libpng-libjpeg.7z) to the game folder. Overwrite if asked. Both arcs use the same archive.

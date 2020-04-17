@@ -50,5 +50,9 @@ Supported chapters:
 **The console arcs should be played at the points of the story and in the order indicated by the below flowchart.**
 ![Higurashi Arcs Flowchart](img/flow.png)
 
+Here's a [walkthrough](http://07th-mod.com/wiki/Higurashi/img/walk-yoig.png) for anyone who wants to know which choices in Yoigoshi lead to which endings.
+
+And here's a [walkthrough](http://07th-mod.com/wiki/Higurashi/img/walk-omot.jpg) for Miotsukushi Omote.
+
 
 [**Click here to install the patch**](Higurashi-Part-1---Voice-and-Graphics-Patch.md)

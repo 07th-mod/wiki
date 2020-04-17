@@ -82,6 +82,8 @@ Choose <strong>one</strong>:
 </tbody>
 </table>
 
+**Linux and Mac Only**: <a href="https://07th-mod.com/Beato/linux-libpng-libjpeg.7z">linux-libpng-libjpeg.7z</a>
+
 ### Pachinko/Ryukishi Sprite Packs
 
 Extract these packs to the root of the game directory, AFTER applying all other archives (extracting should overwrite many files).
@@ -138,6 +140,8 @@ If you have the MangaGamer release, you MUST rename these files to `arc1.nsa` an
 
 9 . You might have to set the .exe to have executable permissions so you can run it.
 
+10 . Extract the archive `linux-libpng-libjpeg.7z` to the game folder. Overwrite if asked. Both arcs use the same archive.
+
 ### Mac
 
 7 . Backup the old .exe. This is the file with a character image on it (.app file), but the `.app` part may be hidden. For the **Question Arcs**, rename `Umineko1to4.app` to `Umineko1to4_old.app`. For the **Answer Arcs**, rename `Umineko5to8.app` to `Umineko5to8_old.app`.
@@ -151,6 +155,8 @@ If you have the MangaGamer release, you MUST rename these files to `arc1.nsa` an
 >Error (07th mod): The script file '0.utf' is missing from the game directory. https://discord.gg/acSbBtD.
 
 Try step 8 again if you get this error.
+
+10 . Extract the archive `linux-libpng-libjpeg.7z` to the game folder. Overwrite if asked. Both arcs use the same archive.
 
 ----
 

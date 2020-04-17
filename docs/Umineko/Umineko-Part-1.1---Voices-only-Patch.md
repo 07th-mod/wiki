@@ -11,7 +11,7 @@ Beware that some bugs and features might be missing in the voice-only patch, as 
 Manually installing the game is not recommended unless you have problems with the automatic installer. 
 
 #### MAC USERS ONLY - Various Gotchas
-- When overwriting one folder with another on Mac, it by default **entirely replaces** the folder rather than merging. To fix this see the instructions for "Merge two folders with the same name" here: https://support.apple.com/kb/PH25633?locale=en_US
+- When overwriting one folder with another on Mac, it by default **entirely replaces** the folder rather than merging. To fix this see the instructions for "Merge two folders with the same name" here: [https://support.apple.com/kb/PH25633?locale=en_US](https://support.apple.com/kb/PH25633?locale=en_US)
 - MacOSX has some security features which can prevent the game running correctly. Please follow the install instructions closesly so this doesn't happen.
 
 <table>
@@ -26,14 +26,14 @@ Manually installing the game is not recommended unless you have problems with th
 </thead>
 <tbody>
 <tr class="odd">
-<td>Question Arcs Ch.1~4</td>
+<td>Question Arcs<br>Ch.1~4</td>
 <td><a href="http://07th-mod.com/download.php?repository=umineko-question&file=voice_only/InDevelopment/ManualUpdates/0.utf">Download 0.u</a></td>
 <td><a href="https://07th-mod.com/Beato/Umineko-Voices-nsa.7z">Download</a></td>
 <td><a href="https://07th-mod.com/Beato-voice/Umineko1to4.exe">Windows</a> <br> <a href="https://07th-mod.com/Beato-voice/Umineko1to4.app.zip">Mac</a> <br> <a href="https://07th-mod.com/Beato-voice/Umineko1to4">Linux</a></td>
 <td></td>
 </tr>
 <tr class="even">
-<td>Answer Arcs Ch.5~8</td>
+<td>Answer Arcs<br>Ch.5~8</td>
 <td><a href="http://07th-mod.com/download.php?repository=umineko-answer&file=master/voices-only/0.utf">Download 0.u</a></td>
 <td><a href="https://07th-mod.com/Bern/UminekoChiru-Voices-nsa.7z">Download</a></td>
 <td><a href="https://07th-mod.com/Bern-voice/Umineko5to8.exe">Windows</a> <br> <a href="https://07th-mod.com/Bern-voice/Umineko5to8.app.zip">Mac</a> <br> <a href="https://07th-mod.com/Bern-voice/Umineko5to8">Linux</a></td>
@@ -41,6 +41,8 @@ Manually installing the game is not recommended unless you have problems with th
 </tr>
 </tbody>
 </table>
+
+**Linux and Mac Only**: <a href="https://07th-mod.com/Beato/linux-libpng-libjpeg.7z">linux-libpng-libjpeg.7z</a>
 
 ## Installing the patch
 
@@ -56,3 +58,4 @@ If you have the MangaGamer release, you MUST rename this file to `arc1.nsa` and 
     - **MacOSX**: Download the zip file, but extract it to a known good location like desktop/downloads/documents, OUTSIDE the game directory. This will give you a `.app` file. Only then, copy the `.app` file into the game directory. This is to avoid a MacOSX security feature which prevents the game from running correctly (will give you a 'script not found').  
 
 7. **Answer Arcs only:** Extract the file ``UminekoChiruVO-Update1.zip`` the game folder. Overwrite if asked.
+8. **Linux and Mac**: Extract the file `linux-libpng-libjpeg.7z` to the game folder. Overwrite if asked. Both arcs use the same archive.

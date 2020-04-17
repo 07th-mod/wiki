@@ -44,9 +44,11 @@ You forgot to rename the script file `0.utf` to `0.u` (located in the root game 
 
 See the [Mod Options](Umineko-Mod-Options.md) page.
 
-#### Linux/MacOSX - Missing libpng.so libraries when launching game outside Steam
+#### Linux/MacOSX - Missing libpng.so libraries when launching game outside Steam resulting in Black Screen
 
-If you try to launch the Steam version of the game directly through the executable, the game will complain about missing libpng libraries and will show a black screen. You must launch the game directly through steam to avoid this error. 
+To fix this issue, download and extract this archive to the game directory (it should overwrite the `lib64` folder): [https://07th-mod.com/Beato/linux-libpng-libjpeg.7z](https://07th-mod.com/Beato/linux-libpng-libjpeg.7z)
+
+The alternative way to fix this issue is to make sure Steam is installed, then run the game through Steam (not by clicking on the .exe).
 
 #### Linux/MacOSX - I can't launch the game (No Execute Permissions)
 

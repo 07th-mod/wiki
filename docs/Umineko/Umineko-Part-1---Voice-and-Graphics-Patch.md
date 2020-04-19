@@ -230,7 +230,9 @@ This ADV Mode addon is only for the Answer arcs. For the Question arcs, the Full
 
 ## Legacy Question Arcs download links
 
-For most users, there is no reason to install the legacy version of the patch. However I've added the links here anyway. Installation Instructions:
+Normally, there is no reason to install the legacy version of the Question Arcs. However, if you are using a translation (for example, the Korean Translation), which was based on the old version of our mod, you must install this version so it is compatible.
+
+Installation Instructions:
 
 1. Extract the graphics archive: [Legacy Question Arcs Graphics](https://07th-mod.com/Beato/legacy/Umineko-Graphics-Legacy-2018.7z)
 2. Extract the voice archives which should generate a `arc4.nsa` and `arc5.nsa` file: [Normal Question Voices](https://07th-mod.com/Beato/Umineko-Voices-nsa.7z)

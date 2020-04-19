@@ -6,19 +6,7 @@ Welcome to the Higurashi FAQ. You can find your question using the **instant sea
 
 Please proceed to the [Higurashi Support](support.md) page
 
-## Gameplay Problems
-
-### The game crashes
-
-Very often people download the newest voice patch and forget to update their graphics patch. When you leave the graphics patch outdated, the game will crash when the script tries to output a file that doesn't exist.
-E.g.: the game tries to show you an image that doesn't exist in your ``CG`` folder.
-
-We recommend using the installer's automatic update functionality to avoid this issue.
-
-### The game is updated but some voices are not playing/some graphics are not showing!
-
-When this happens, the very first thing you need to do is to clean your ``CompiledUpdateScripts`` folder. Make sure your game is updated and the folder is empty, then run the game again. It should hang for a few seconds before playing the intro.
-Always make sure to do these steps after updating your patch!
+## Known Issues
 
 ### The game lags during voice playback
 
@@ -32,7 +20,7 @@ Always make sure to do these steps after updating your patch!
 
 There is a known problem where having multiple network adapters can interfere with Unity's resource loading in the Higurashi games. See this issue for more details: [Unity may try to access the wrong network adapter](https://answers.unity.com/questions/623448/www-class-for-loading-local-texture-is-very-slow.html). It may also be possible other networking problems could cause lag.
 
-A fragmented/very full HDD may be slow to load the assets - hence we recommend installing on an SSD.
+As for the HDD issue - a fragmented or very full HDD may be slow to load the assets - hence we recommend installing on an SSD.
 
 ### Two of the same character's sprites appear on the screen (overlapping / duplicate sprite)
 
@@ -43,6 +31,34 @@ We haven't been able to 'properly' fix this bug yet, but you can apply this work
 - Load your save
 
 After applying this workaround, you may need to play the game a little before the sprite fully disappears.
+
+We would be thankful if you could send us your saves when you have this issue so we can fix it.
+
+### The game freezes on a white screen on startup
+
+The first time you start the game, the game will 'freeze' on a white screen for up to 2 minutes while scripts are compiling. This is normal, however if the game freezes on a black screen it's likely something went wrong - please contact us if this happens.
+
+### My saves don't work after updating
+
+Saves between different releases of our mod are not compatible.
+
+If you have made old saves, do not press 'continue' or load - please use the chapter jump menu or start a new game. You could get many kinds of wierd behaviour, for example being stuck on a black screen, or the game may crash.
+
+If you want to use the saves on multiple machines (for example, using steam sync), make sure they are all running exactly the same version of the mod.
+
+## Known Issues - Manual Install
+
+### The game crashes
+
+Very often people download the newest voice patch and forget to update their graphics patch. When you leave the graphics patch outdated, the game will crash when the script tries to output a file that doesn't exist.
+E.g.: the game tries to show you an image that doesn't exist in your ``CG`` folder.
+
+We recommend using the installer's automatic update functionality to avoid this issue.
+
+### The game is updated but some voices are not playing/some graphics are not showing!
+
+When this happens, the very first thing you need to do is to clean your ``CompiledUpdateScripts`` folder. Make sure your game is updated and the folder is empty, then run the game again. It should hang for a few seconds before playing the intro.
+Always make sure to do these steps after updating your patch!
 
 ## Higurashi Music and Sound Effects Changes / April Update
 

@@ -31,7 +31,7 @@ Instructions on installing the Answer Arcs ADV Addon are at the bottom of the pa
 <tbody>
 <tr class="even">
 <td>Question Arcs Full</td>
-<td><a href="http://07th-mod.com/download.php?repository=umineko-question&file=master/InDevelopment/ManualUpdates/0.utf">Download 0.u</a></td>
+<td><a href="https://07th-mod.com/download.php?repository=umineko-question&file=master/InDevelopment/ManualUpdates/0.utf">Download 0.u</a></td>
 <td><a href="https://07th-mod.com/Beato/Umineko-Voices-nsa.7z">Download</a></td>
 <td><a href="https://07th-mod.com/Beato/1080p/Umineko-Graphics-1080p-v3.7z">1080p Graphics</a></td>
 <td><a href="https://07th-mod.com/Beato/1080p/Umineko1to4.exe">Windows</a> <br> <a href="https://07th-mod.com/Beato/1080p/Umineko1to4.app.zip">Mac</a> <br> <a href="https://07th-mod.com/Beato/1080p/Umineko1to4">Linux</a></td>
@@ -65,7 +65,7 @@ Choose <strong>one</strong>:
 <tbody>
 <tr class="odd">
 <td>Answer Arcs (Ch.5~8)</td>
-<td><a href="http://07th-mod.com/download.php?repository=umineko-answer&file=master/0.utf">Download 0.u</td>
+<td><a href="https://07th-mod.com/download.php?repository=umineko-answer&file=master/0.utf">Download 0.u</td>
 <td><a href="https://07th-mod.com/Bern/UminekoChiru-Voices-nsa.7z">Download</a></td>
 <td><a href="https://07th-mod.com/Bern/UminekoChiru-Graphics-v2.7z">Download</a></td>
 <td><a href="https://07th-mod.com/Bern/Umineko5to8.exe">Windows</a> <br> <a href="https://07th-mod.com/Bern/Umineko5to8.app.zip">Mac</a> <br> <a href="https://07th-mod.com/Bern/Umineko5to8">Linux</a></td>
@@ -216,7 +216,7 @@ Ensure that you have your `0.u` or `0.utf` (depending on your platform), and you
 <tbody>
 <tr>
 <td>ADV Mode Addon</td>
-<td><a href="http://07th-mod.com/download.php?repository=umineko-answer&file=adv_mode/0.utf">0.u Script</td>
+<td><a href="https://07th-mod.com/download.php?repository=umineko-answer&file=adv_mode/0.utf">0.u Script</td>
 <td><a href="https://07th-mod.com/Bern/UminekoChiru-ADV_Mode.7z">ADV Assets</a></td>
 </tr>
 </tbody>

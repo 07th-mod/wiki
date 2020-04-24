@@ -32,7 +32,7 @@ nav:
         - 1. FAQ: Installer/faq.md
         - 2. Getting support: Installer/support.md
         - Power User Installation: Installer/power-users.md
-    - <b>Developer Wiki</b>: https://07th-mod.com/dev-wiki
+    - <b>Developer Wiki</b>: https://07th-mod.com/dev-wiki/
 theme: material
 plugins:
    - search

@@ -90,7 +90,7 @@ State anything "special" about your computer's setup: [School/Company Computer/O
     <h4>Save Files</h4>
     <ul>
         <li>First check the <code>mysav</code> folder inside the game folder: <code>C:\Program Files (x86)\Steam\steamapps\common\Umineko\mysav</code></li>
-        <li>Occasionally can be found at the steam folder, even if the game is not in the steam folder: <code>[PATH_TO_STEAM_FOLDER]\Steam\steamapps\common\Umineko\mysav</code> (<a href="http://07th-mod.com/wiki/Umineko/Umineko-Part-0-TroubleShooting-and-FAQ/#steam-sync-doesnt-work">See this FAQ</a>). </li>
+        <li>Occasionally can be found at the steam folder, even if the game is not in the steam folder: <code>[PATH_TO_STEAM_FOLDER]\Steam\steamapps\common\Umineko\mysav</code> (<a href="https://07th-mod.com/wiki/Umineko/Umineko-Part-0-TroubleShooting-and-FAQ/#steam-sync-doesnt-work">See this FAQ</a>). </li>
     </ul>
     <h4>Game Log</h4>
     <ol>

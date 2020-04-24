@@ -27,14 +27,14 @@ Manually installing the game is not recommended unless you have problems with th
 <tbody>
 <tr class="odd">
 <td>Question Arcs<br>Ch.1~4</td>
-<td><a href="http://07th-mod.com/download.php?repository=umineko-question&file=voice_only/InDevelopment/ManualUpdates/0.utf">Download 0.u</a></td>
+<td><a href="https://07th-mod.com/download.php?repository=umineko-question&file=voice_only/InDevelopment/ManualUpdates/0.utf">Download 0.u</a></td>
 <td><a href="https://07th-mod.com/Beato/Umineko-Voices-nsa.7z">Download</a></td>
 <td><a href="https://07th-mod.com/Beato-voice/Umineko1to4.exe">Windows</a> <br> <a href="https://07th-mod.com/Beato-voice/Umineko1to4.app.zip">Mac</a> <br> <a href="https://07th-mod.com/Beato-voice/Umineko1to4">Linux</a></td>
 <td></td>
 </tr>
 <tr class="even">
 <td>Answer Arcs<br>Ch.5~8</td>
-<td><a href="http://07th-mod.com/download.php?repository=umineko-answer&file=master/voices-only/0.utf">Download 0.u</a></td>
+<td><a href="https://07th-mod.com/download.php?repository=umineko-answer&file=master/voices-only/0.utf">Download 0.u</a></td>
 <td><a href="https://07th-mod.com/Bern/UminekoChiru-Voices-nsa.7z">Download</a></td>
 <td><a href="https://07th-mod.com/Bern-voice/Umineko5to8.exe">Windows</a> <br> <a href="https://07th-mod.com/Bern-voice/Umineko5to8.app.zip">Mac</a> <br> <a href="https://07th-mod.com/Bern-voice/Umineko5to8">Linux</a></td>
 <td><a href="https://07th-mod.com/Bern/UminekoChiruVO-Update1.zip">Update 1</a></td>

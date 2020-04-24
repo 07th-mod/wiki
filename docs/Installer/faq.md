@@ -10,7 +10,7 @@ Please proceed to [How to get support](../Installer/support.md).
 
 First, double check you can access BOTH the following websites in your browser without error:
 
-[http://07th-mod.com/](http://07th-mod.com/)
+[https://07th-mod.com/](https://07th-mod.com/)
 
 [https://raw.githubusercontent.com/07th-mod/python-patcher/master/installData.json](https://raw.githubusercontent.com/07th-mod/python-patcher/master/installData.json)
 

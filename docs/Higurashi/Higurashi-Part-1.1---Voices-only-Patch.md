@@ -75,7 +75,7 @@ Archives were updated 12-04-2020. **If the instructions don't seem to match the 
 <tr class="odd">
 <td style="text-align: center;">Ch.7 - Minagoroshi</td>
 <td style="text-align: center;"><a href="https://github.com/07th-mod/minagoroshi/releases/tag/v0.0.2">Download</a></td>
-<td style="text-align: center;"><a href="http://07th-mod.com/rikachama/voices-only/Minagoroshi-Voices.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voices-only/Minagoroshi-Voices.7z">Download</a></td>
 <td style="text-align: center;"><a href="https://07th-mod.com/nipah/Minagoroshi-HD.7z">Download</a></td>
 </tr>
 </tbody>

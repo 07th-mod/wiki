@@ -66,10 +66,10 @@ To update your game, run the installer again for the game you want to update - *
 
 ## [❓] Installer Troubleshooting
 
-1. Firstly, [check our FAQ](../Installer/faq.md) to see if your problem has already been answered.
-2. If your issue is not resolved, please proceed to our [Installer support](../Installer/support.md) page.
+1. Firstly, [check the Installer FAQ](../Installer/faq.md) to see if your problem has already been answered.
+2. If your issue is not resolved, please proceed to the [Support Checklist](../support-checklist.md)
 
 ## [❓] Game Troubleshooting
 
 1. Check the [Higurashi FAQ](../Higurashi/FAQ.md) / [Umineko FAQ](../Umineko/Umineko-Part-0-TroubleShooting-and-FAQ.md)
-2. If your issue is not resolved, please proceed to our [Higurashi Support](../Higurashi/support.md) / [Umineko Support](../Umineko/support.md) page
+2. If your issue is not resolved, please proceed to the [Support Checklist](../support-checklist.md)

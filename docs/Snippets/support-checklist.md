@@ -2,15 +2,16 @@
 
 First, check if your question is already answered in the following FAQs
 
-- [Installer FAQ](Installer/faq.md) (for download/installer related problems)
-- [Higurashi FAQ](Higurashi/FAQ.md)
-- [Umineko FAQ](Umineko/Umineko-Part-0-TroubleShooting-and-FAQ.md)
+- [Installer FAQ](https://07th-mod.com/wiki/Installer/faq/) (for download/installer related problems)
+- [Higurashi FAQ](https://07th-mod.com/wiki/Higurashi/FAQ/)
+- [Umineko FAQ](https://07th-mod.com/wiki/Umineko/Umineko-Part-0-TroubleShooting-and-FAQ/)
 
 If your question is not already answered, **please do the following**:
 
 <ol>
 <li>Please fill in the below template and copy and paste it into our <a href=https://discord.gg/pf5VhF9>Discord Server</a><br>
-Paste it into the <b>#higu_support</b> or <b>#umi_support</b> channel (accept the server rules to access)
+Paste it into the <b>#higu_support</b> or <b>#umi_support</b> channel (accept the server rules to access)<br>
+(You can also submit via Github Issues, see bottom of page)
 <textarea style="width:100%;height: 350px;font-family:Arial, Helvetica, sans-serif">
 The problem: [The game crashes on startup]
 
@@ -110,7 +111,7 @@ State anything "special" about your computer's setup: [School/Company Computer/O
 
 #### Submitting via Github Issues
 
-If you don't want to use Discord, you can submit to the appropriate Github Issues page.
+If you don't want to use Discord, you can submit to the appropriate Github Issues page. We prefer Github for complicated bug reports and feature requests so we can keep track of them easier.
 
 If you're unfamiliar with Github, [this handy guide](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue) will teach you how to create a Github issue. Note that a Github Account is required to submit issues.
 <table>

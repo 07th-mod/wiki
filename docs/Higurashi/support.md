@@ -28,10 +28,14 @@ Support is currently available:
 </tbody>
 </table>
 
-When asking for support, please provide the following:
+When asking for support, please provide the following (unless are sure it's not relevant):
 
 - A description, screenshots and/or error messages of the issue
 - The game log, called `output_log.txt`:
       - On Windows, the log is located in the `HigurashiEp0X_Data` folder, in the game folder. For example `C:\games\Steam\steamapps\common\Higurashi When They Cry\HigurashiEp01_Data\output_log.txt`.
       - On MacOS, the log is located at `/Users/<yourusername>/Library/Logs/Unity/Player.log`
       - On Linux (**TODO: fill out Linux log location**)
+- The game's save file:
+      - Windows: `C:\Users\[YOUR_USERNAME]\AppData\Roaming\MangaGamer\higurashi01`
+      - MacOS: `~/Library/Application Support/unity.MangaGamer.Higurashi When They Cry - Ch.1 Onikakushi/`
+      - Linux: `~/.config/unity3d/Mangagamer/Higurashi When They Cry _ Ch_1 Onikakushi`

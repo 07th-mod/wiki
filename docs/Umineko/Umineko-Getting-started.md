@@ -1,6 +1,6 @@
 # 1. Umineko Mod Information - Please Read
 
-This patch modifies the newest release of Umineko by MangaGamer, attempting to replicate the PS3 version of the game. It is compatible with both the Steam and DRM-free (from Mangagamer.com) versions of the game. It is **not** compatible with the old/original Japanese release of the game.
+This patch modifies the newest release of Umineko by MangaGamer, attempting to replicate the PS3 version of the game. It is compatible with both the [Steam](https://store.steampowered.com/bundle/5465/) and DRM-free (from [Mangagamer.com](https://www.mangagamer.com/product_list.php?opt=search&keyword=Umineko)) versions of the game. It is **not** compatible with the old/original Japanese release of the game.
 
 !!! tip "Just looking for the Downloads?"
     I **highly recommend** you read this wiki, so that you are prepared for any problems you may face. However if you wish to skip straight to the downloads, then use the [Cross Platform Installer](Umineko-Part-3a-Cross-Platform-Installer.md).

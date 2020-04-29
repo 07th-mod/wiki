@@ -1,5 +1,7 @@
 # Introduction
 
+This patch modifies the newest release of Higurashi by MangaGamer, attempting to replicate the PS3 version of the game. It is compatible with both the [Steam](https://store.steampowered.com/bundle/709/) and DRM-free (from [Mangagamer.com](https://www.mangagamer.com/product_list.php?opt=search&keyword=Higurashi)) versions of the game. It is **not** compatible with the old/original Japanese release of the game.
+
 !!! info
     The links below will take you to the section **2a. Installer**. This is currently the best method to install the patch in any operating system.<br></br>
     However, if you prefer to install the patch manually, go to section **2b. Manual Installation** instead.

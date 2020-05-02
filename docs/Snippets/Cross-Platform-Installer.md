@@ -64,12 +64,29 @@
 
 To update your game, run the installer again for the game you want to update - **remember to repeat your mod option choices as before**. The installer should only re-install the updated components.
 
-## [❓] Installer Troubleshooting
+## [❓] Game and Installer Troubleshooting
 
-1. Firstly, [check the Installer FAQ](../Installer/faq.md) to see if your problem has already been answered.
-2. If your issue is not resolved, please proceed to the [Support Checklist](../support-checklist.md)
+1. For Install Problems, check the [Installer FAQ](../Installer/faq.md) to see if your problem is already answered.
+2. For Game Problems, Check the [Higurashi FAQ](../Higurashi/FAQ.md) / [Umineko FAQ](../Umineko/Umineko-Part-0-TroubleShooting-and-FAQ.md)
+3. If your issue is not resolved, please proceed to the [Support Checklist](../support-checklist.md)
 
-## [❓] Game Troubleshooting
+## Uninstalling Games
 
-1. Check the [Higurashi FAQ](../Higurashi/FAQ.md) / [Umineko FAQ](../Umineko/Umineko-Part-0-TroubleShooting-and-FAQ.md)
-2. If your issue is not resolved, please proceed to the [Support Checklist](../support-checklist.md)
+To fully remove the game and mod files, you **must** follow the below instructions:
+
+1. Navigate to the game folder. In Steam, you can do the following to show the game folder:
+      1. Right click on the game in Steam, then click "Properties"
+      2. Change to the "Local Files" tab
+      3. Click "Browse Local Files..." and the folder should appear
+2. Remove the game "normally". You can use Windows "Add or Remove Programs", or use the Steam/GOG launcher (if you installed with Steam/GOG).
+3. **Manually delete the game folder** if it's not already deleted!
+
+    You **MUST** do this step to fully remove the mod files! If you do not do this, the installer may not work on future installs, and the mod files will take up space on your computer. Steam is known to keep mod files during uninstall.
+
+### Optional: Uninstall Save Files
+
+You may want to remove save files if you're having technical issues and want to start from scratch:
+
+   1. For Higurashi, save files are kept outside the game directory. See [FAQ: "Save File Locations"](../Higurashi/FAQ.md#save-file-locations) to find the save files, then delete them.
+   2. For Umineko, usually the save files are kept in the `mysav` folder of the game directory, so they would already be removed. But see [FAQ: "My save files have disappeared or changed unexpectedly"](../Umineko/Umineko-Part-0-TroubleShooting-and-FAQ.md#my-save-files-have-disappeared-or-changed-unexpectedly) for more details.
+

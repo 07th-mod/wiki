@@ -46,6 +46,10 @@ If you have made old saves, do not press 'continue' or load - please use the cha
 
 If you want to use the saves on multiple machines (for example, using steam sync), make sure they are all running exactly the same version of the mod.
 
+### There is no sound/audio/BGM/voices
+
+Press the **F10** button twice while not in a game menu to open the mod menu. Check if the BGM/voice volume is set to zero, and just it accordingly.
+
 ## Known Issues - Manual Install
 
 ### The game crashes

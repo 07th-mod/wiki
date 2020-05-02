@@ -98,9 +98,9 @@ The game also seems to perform worse as your screen resolution increases (especi
 
 We have had a couple reports of high end systems having performance problems - we are currently investigating this issue.
 
-#### Suddenly all my sound has stopped working!
+#### Suddenly all my sound/audio/voices/music has stopped working
 
-In this game engine, pressing 'm' mutes all sound. Press 'm' again to unmute.
+In this game engine, pressing 'm' mutes all sound - you probably pressed this by accident. Press 'm' again to unmute.
 
 #### The voices at the start of the Question Arcs have some minor distortion
 

@@ -60,6 +60,19 @@ There are two main install options for the question arcs - the full patch, and t
 - Playing with Japanese text is NOT supported
 - Install Methods:  [Cross Platform Installer](Umineko-Part-3a-Cross-Platform-Installer.md) || [Install Manually](Umineko-Part-1.1---Voices-only-Patch.md)
 
+#### CG Options
+
+- Restore Tsurupettan CG
+    - In one scene, the unmodded game replaces a CG of a Touhou character with another CG for copyright reasons. This option restores the orignal touhou CG.
+    - Note that the CG is the original Ryukishi CG, so it won't match the PS3 graphics, if that bothers you.
+
+#### BGM Options
+
+- Use SuiSui-SWEETS(^-^) BGM
+    - In one scene, the unmodded game replaces the Touhou song "SuiSui-SWEETS(^-^)" with another song for copyright reasons. This option restores the orignal touhou song.
+- Restore system0 BGM
+    - The unmodded game's "system0" BGM is missing a sample from Star Trek: Nemesis (removed for copyright reasons) - this option restores the missing sample.
+
 ----
 
 ## Mod Options for Answer Arcs Ch. 5~8
@@ -87,6 +100,12 @@ There are two main install options for the question arcs - the full patch, and t
 - Mainly adds voices to the base game
 - Playing with Japanese text is NOT supported
 - Install Methods:  [Cross Platform Installer](Umineko-Part-3a-Cross-Platform-Installer.md) || [Install Manually](Umineko-Part-1.1---Voices-only-Patch.md)
+
+#### BGM Options
+
+- Restore and Repair BGM
+    - The unmodded game's "system0" BGM is missing a sample from Star Trek: Nemesis (removed for copyright reasons) - this option restores the missing sample.
+    - The unmodded game's "kuina.ogg" was slightly corrupted at the 53 second mark - this option repairs the corruption.
 
 ----
 

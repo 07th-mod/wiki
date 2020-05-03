@@ -50,6 +50,8 @@ If you want to use the saves on multiple machines (for example, using steam sync
 
 Press the **F10** button twice while not in a game menu to open the mod menu. Check if the BGM/voice volume is set to zero, and just it accordingly.
 
+We have also had reports that people using Razer Synapse/HyperX/Logitech/G Hub/bluetooth headset software might interfere with the voice/audio playback of the game.
+
 ## Known Issues - Manual Install
 
 ### The game crashes

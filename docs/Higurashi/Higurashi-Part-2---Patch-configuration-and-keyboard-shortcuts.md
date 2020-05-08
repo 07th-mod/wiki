@@ -4,6 +4,16 @@ This section covers a few shortcuts and options available in the Flag Monitor me
 
 ## Keyboard shortcuts
 
+* LShift + F9 = Reset settings to default
+***
+* **P** = Change art style
+* **F** = Fullscreen
+* **Ctrl** = Skip text (fast)
+* **A** = Auto mode
+* **Space** = Hide text
+* **L** = Change language
+* **ESC** = Open menu
+***
 * **M** = Increase Voice Volume
 * **N** = Decrease Voice Volume
 * **Left Shift + M** = Voice Volume 100

@@ -40,29 +40,29 @@ The flag monitor is a developer debug screen where you can see certain parameter
 ### Left side panel: [MOD SETTINGS]
 
 * ADV-MODE = ON/OFF
-  * Changes the textbox mode. ADV-MODE ON will play with the textbox at the bottom, and ADV-MODE OFF will play with the textbox covering the whole screen like the original.
+    * Changes the textbox mode. ADV-MODE ON will play with the textbox at the bottom, and ADV-MODE OFF will play with the textbox covering the whole screen like the original.
 * Lip-Sync = ON/OFF
-  * Toggles the lipsync feature. When turned on, the character mouth will move when playing voice clips.
+    * Toggles the lipsync feature. When turned on, the character mouth will move when playing voice clips.
 * Alternative BGM = ON/OFF
-  * **This feature is unused**
+    * **This feature is unused**
 * Alternative BGM Flow = 0 (doesn't change)
-  * **This feature is unused**
+    * **This feature is unused**
 * Alternative SE = ON/OFF
-  * **This feature is unused**
+    * **This feature is unused**
 * Alternative SE Flow = 0 (doesn't change)
-  * **This feature is unused**
+    * **This feature is unused**
 * Alternative Voice = ON/OFF
-  * **This feature is unused**
+    * **This feature is unused**
 * Alternative Voice Priority = ON/OFF
-  * **This feature is unused**
+    * **This feature is unused**
 * Voice Matching Level = 0/1/2 (default)/3/4/5
-  * Changes the script censorship from PC (0) to console (5), with console being the most censored. The highest the number, the more voices you will get. Lower levels will have less voices at scenes cut from the console release.
-  * We recommend leaving at the default level (2), which should be the most balanced option with censorship being minimal (usually copyright changes, innuendos and a few word changes).
+    * Changes the script censorship from PC (0) to console (5), with console being the most censored. The highest the number, the more voices you will get. Lower levels will have less voices at scenes cut from the console release.
+    * We recommend leaving at the default level (2), which should be the most balanced option with censorship being minimal (usually copyright changes, innuendos and a few word changes).
 * Effect Level = 0
-  * **This feature is unused**
+    * **This feature is unused**
 * Voice Volume = 0 to 100 (in increments of 5)
-  * Changes the voice volume
+    * Changes the voice volume
 * OP Movies = 1/2/3
-  * Shows the your current opening video setting. This setting is set up at your first boot
+    * Shows the your current opening video setting. This setting is set up at your first boot
 * Art = Console/Remake/Original
-  * Changes the art style of the game
+    * Changes the art style of the game

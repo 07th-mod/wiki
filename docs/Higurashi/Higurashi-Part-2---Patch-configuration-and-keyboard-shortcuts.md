@@ -1,4 +1,4 @@
-This section covers a few specific shortcuts we added to the game. These are only available in the full patch.
+This section covers a few shortcuts and options available in the Flag Monitor menu. These are only available in the full patch.
 
 # Keyboard shortcuts
 
@@ -10,7 +10,7 @@ This section covers a few specific shortcuts we added to the game. These are onl
 * **7** = Enable/disable lipsync (only for PS3 sprites)
 ***
 * **F1** = Toggle NVL/ADV mode
-* **F2** = Change voice matching level (min 0, max 3)
+* **F2** = Change voice matching level (min 0, max 5)
     * Max = Full PS3 script fully voiced (might be censored at parts)
     * Min = Original PC script with voices where it fits (fully uncensored)
         * Default level (2) should be the most balanced option
@@ -18,22 +18,39 @@ This section covers a few specific shortcuts we added to the game. These are onl
 * **F7** = Quick Load
 ***
 * **F10** = Flag Monitor
-    * Advanced tool to monitor your settings and for debug purposes
+    * Developer tool to monitor your settings and for debug purposes
          * **Attention**: if you open the flag monitor in the main menu, it won't go away until you start the game and press F10 again!
 
-# ADV Mode configuration 
+# Flag Monitor
 
-The patch installation by default cannot change the game settings. To achieve the best results, open the game settings and configure it like the screenshot below:
+The flag monitor is a developer debug screen where you can see certain parameters that can be triggered by the shortcuts above. It can only be opened **and** closed in-game, meaning that menus will interfere with its functionality. This feature has no use other than checking keyboard shortcuts and checking flags.
 
-![firefox_2017-06-23_15-14-26](img/1.jpg)
+## Left side panel: [MOD SETTINGS]
 
-* Text box transparency on far right (max)
-* Auto-hide user interface: **ON**
-* Character Sprites: **Original** (optional)
-
-# Alternative clean ADV textbox
-
-In case you find our official textbox distracting, we have an alternative kindly provided by @Ascoat.
-[Click here](https://user-images.githubusercontent.com/20040718/31421264-ae4993b6-ae03-11e7-9eee-27422bc94a0e.png) and save the image as ``windo_filter_adv.png`` and put it inside the ``CG`` folder in ``StreamingAssets``. Overwrite the file and you should see the change next time you open the game.
-
-![clean textbox preview](img/2.jpg)
+* ADV-MODE = ON/OFF
+  * Changes the textbox mode. ADV-MODE ON will play with the textbox at the bottom, and ADV-MODE OFF will play with the textbox covering the whole screen like the original.
+* Lip-Sync = ON/OFF
+  * Toggles the lipsync feature. When turned on, the character mouth will move when playing voice clips.
+* Alternative BGM = ON/OFF
+  * **This feature is unused**
+* Alternative BGM Flow = 0 (doesn't change)
+  * **This feature is unused**
+* Alternative SE = ON/OFF
+  * **This feature is unused**
+* Alternative SE Flow = 0 (doesn't change)
+  * **This feature is unused**
+* Alternative Voice = ON/OFF
+  * **This feature is unused**
+* Alternative Voice Priority = ON/OFF
+  * **This feature is unused**
+* Voice Matching Level = 0/1/2 (default)/3/4/5
+  * Changes the script censorship from PC (0) to console (5), with console being the most censored. The highest the number, the more voices you will get. Lower levels will have less voices at scenes cut from the console release.
+  * We recommend leaving at the default level (2), which should be the most balanced option with censorship being minimal (usually copyright changes, innuendos and a few word changes).
+* Effect Level = 0
+  * **This feature is unused**
+* Voice Volume = 0 to 100 (in increments of 5)
+  * Changes the voice volume
+* OP Movies = 1/2/3
+  * Shows the your current opening video setting. This setting is set up at your first boot
+* Art = Console/Remake/Original
+  * Changes the art style of the game

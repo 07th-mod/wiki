@@ -4,7 +4,7 @@ This section covers a few shortcuts and options available in the Flag Monitor me
 
 ## Keyboard shortcuts
 
-* LShift + F9 = Reset settings to default
+* **LShift + F9** = Reset settings to default
 ***
 * **P** = Change art style
 * **F** = Fullscreen

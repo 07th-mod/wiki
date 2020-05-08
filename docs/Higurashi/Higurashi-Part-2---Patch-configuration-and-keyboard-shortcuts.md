@@ -1,6 +1,8 @@
+# Shortcuts and Settings
+
 This section covers a few shortcuts and options available in the Flag Monitor menu. These are only available in the full patch.
 
-# Keyboard shortcuts
+## Keyboard shortcuts
 
 * **M** = Increase Voice Volume
 * **N** = Decrease Voice Volume
@@ -21,11 +23,11 @@ This section covers a few shortcuts and options available in the Flag Monitor me
     * Developer tool to monitor your settings and for debug purposes
          * **Attention**: if you open the flag monitor in the main menu, it won't go away until you start the game and press F10 again!
 
-# Flag Monitor
+## Flag Monitor
 
 The flag monitor is a developer debug screen where you can see certain parameters that can be triggered by the shortcuts above. It can only be opened **and** closed in-game, meaning that menus will interfere with its functionality. This feature has no use other than checking keyboard shortcuts and checking flags.
 
-## Left side panel: [MOD SETTINGS]
+### Left side panel: [MOD SETTINGS]
 
 * ADV-MODE = ON/OFF
   * Changes the textbox mode. ADV-MODE ON will play with the textbox at the bottom, and ADV-MODE OFF will play with the textbox covering the whole screen like the original.

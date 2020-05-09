@@ -3,9 +3,9 @@
 1. Click on your operating system below for instructions on downloading and launching the installer.
 
     ??? example "Windows"
-        1. Download and Run the `07th-Mod.Installer.Windows.exe` file from the [Download Page](https://github.com/07th-mod/python-patcher/releases)
+        1. Download `07th-Mod.Installer.Windows.exe` to your computer from the [Download Page](https://github.com/07th-mod/python-patcher/releases). **Do not run it directly from your browser** - download it first.
             1. If a "Windows SmartScreen" warning appears, click "More info", then choose "Run anyway".
-        2. The installer launcher will appear and extract to `07th-mod_installer`.
+        2. Run the installer - the installer launcher will appear and extract to `07th-mod_installer`.
             1. **Do not close this window** until you are finished using the installer.
         3. When extraction is finished, click "Run Installer".
         4. The installer will open as a web page in your browser. **Do not close this web page**

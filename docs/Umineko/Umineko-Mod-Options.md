@@ -17,6 +17,7 @@ This page describes each mod option, so you can decide which mod to install.
 <tbody>
 <td height=200><img src="https://07th-mod.com/wiki/Umineko/img/3.jpg"></td>
 <td height=200><img src="https://07th-mod.com/wiki/Umineko/img/4.jpg"></td>
+<tr><td colspan="2">ADV mode can only be toggled in-game for the Question Arcs. For the Answer Arcs, ADV is an install option.</td></tr>
 </tbody>
 </table>
 
@@ -34,6 +35,7 @@ This page describes each mod option, so you can decide which mod to install.
             <td><img src="https://07th-mod.com/wiki/Umineko/img/sprite_pachinko.png"></td>
             <td><img src="https://07th-mod.com/wiki/Umineko/img/sprite_potato.png"></td>
         </tr>
+        <tr><td colspan="3">You can only have one type of sprite installed at a time (you cannot toggle sprites).</td></tr>
     </tbody>
 </table>
 

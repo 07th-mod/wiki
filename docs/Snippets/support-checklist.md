@@ -37,8 +37,8 @@ State anything "special" about your computer's setup: [School/Company Computer/O
     <summary>Installer Log Files</summary>
     <h2 style="margin-top: 10px;">Finding the install log</h2>
     You can use any of the methods below to get your log file.
-    <h3>Method 1: From the web interface</h3>
-    <p>After the install has started, click the green <b style="background: green; color:white; padding: 10px; line-height: 40px">DOWNLOAD LOG</b> button under the console ouptut. This will download a .zip file containing all the logs, which you can then submit to us.</p>
+    <h3>Method 1: In your browser downloads after an install</h3>
+    <p>The installer automatically downloads .zip file containing your logs after an install finishes (or fails). Just check your recent browser downloads for a <code>07th-mod-logs.zip</code></p>
     <h3>Method 2: From the install launcher (Windows Only)</h3>
     <ul>
         <li>Open the install launcher</li>

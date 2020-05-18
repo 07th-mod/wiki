@@ -27,7 +27,7 @@
 
         1. Install the following using your distribution's package manager:
             * Python (2 or 3)
-            * Python Tkinter
+            * Optional: Python Tkinter (This is required to use the file-picker in the installer. Just use autodetection/paste in the game path if you can't install this.)
                 * **Ubuntu**: `sudo apt-get install python-tk`
                 * **Arch Linux**: `sudo pacman -S tk`
                 * **Fedora**: `sudo dnf install python2-tkinter` or <br> `sudo dnf install python3-tkinter`

@@ -73,8 +73,10 @@ State anything "special" about your computer's setup: [School/Company Computer/O
     <h4>Game Log (output_log.txt)</h4>
     <ul>
         <li>On Windows, the log is located in the <code>HigurashiEp0X_Data</code> folder, in the game folder. For example <code>C:\games\Steam\steamapps\common\Higurashi When They Cry\HigurashiEp01_Data\output_log.txt</code>.</li>
-        <li>On MacOS, the log is located at <code>/Users/&lt;yourusername&gt;/Library/Logs/Unity/Player.log</code></li>
-        <li>On Linux <code>TODO: fill out Linux log location</code></li>
+        <li>On MacOS: <code>/Users/&lt;yourusername&gt;/Library/Logs/Unity/Player.log</code><br>
+        Access it by opening Finder, pressing Shift-Command-G, and pasting in <code>~/Library/Logs/Unity</code>
+        </li>
+        <li>On Linux: <code>~/.config/unity3d/MangaGamer/GameName/Player.log</code></li>
     </ul>
     <h4>Save Files (*.dat files)</h4>
     <p>You may need to zip all the save files together before you submit them.</p>

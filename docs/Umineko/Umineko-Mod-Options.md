@@ -65,7 +65,7 @@ There are two main install options for the question arcs - the full patch, and t
 #### CG Options
 
 - Restore Tsurupettan CG
-    - In one scene, the unmodded game replaces a CG of a Touhou character with another CG for copyright reasons. This option restores the orignal touhou CG.
+    - In one scene, the unmodded game replaces a CG of a Touhou character with another CG for copyright reasons. This option restores the orignal Touhou CG.
     - Note that the CG is the original Ryukishi CG, so it won't match the PS3 graphics, if that bothers you.
 
 #### BGM Options

@@ -6,6 +6,12 @@ Welcome to the Higurashi FAQ. You can find your question using the **instant sea
 
 Please proceed to the [Higurashi Support](support.md) page
 
+## Common Questions
+
+### What do the Voice Matching Level and other mod settings do?
+
+Please see the [Shortcuts and Settings Page](Higurashi-Part-2---Patch-configuration-and-keyboard-shortcuts.md) for details on each keyboard shortcut and mod setting.
+
 ## Known Issues
 
 ### The game lags during voice playback

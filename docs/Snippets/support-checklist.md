@@ -82,7 +82,9 @@ State anything "special" about your computer's setup: [School/Company Computer/O
     <p>You may need to zip all the save files together before you submit them.</p>
     <ul>
         <li>Windows: <code>C:\Users\[YOUR_USERNAME]\AppData\Roaming\MangaGamer\higurashi01</code></li>
-        <li>MacOS: <code>~/Library/Application Support/unity.MangaGamer.Higurashi When They Cry - Ch.1 Onikakushi</code></li>
+        <li>MacOS: <code>~/Library/Application Support/unity.MangaGamer.Higurashi When They Cry - Ch.1 Onikakushi</code><br>
+        Access it by opening Finder, pressing Shift-Command-G, and pasting in <code>~/Library/Application Support/</code>, then selecting the appropriate game folder
+        </li>
         <li>Linux: <code>~/.config/unity3d/Mangagamer/Higurashi When They Cry _ Ch_1 Onikakushi</code></li>
     </ul>
 </details>

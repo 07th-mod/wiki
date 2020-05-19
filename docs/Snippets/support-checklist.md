@@ -31,22 +31,24 @@ State anything "special" about your computer's setup: [School/Company Computer/O
 </textarea>
 </li>
 <li>Please upload a screenshot of the bug, if applicable <b>and spoiler tag it if it is a spoiler!</b></li>
-<li>If you have <b>problems installing</b>, expand the instructions below to get your installer log file and submit it to discord. The log file is invaluable for diagnosing install issues.
+<li><b>Please always send your installer log file</b> and submit it to discord - expand and follow the instructions below.
+
+<p>The log file is invaluable for diagnosing install and game startup issues, but also tells us info about your game version and your install options which helps solve any issue.</p>
 
 <details class="example">
-    <summary>Installer Log Files</summary>
+    <summary>Getting Installer Log Files</summary>
     <h2 style="margin-top: 10px;">Finding the install log</h2>
     You can use any of the methods below to get your log file.
-    <h3>Method 1: In your browser downloads after an install</h3>
+    <h3>Option 1: In your browser downloads after an install</h3>
     <p>The installer automatically downloads .zip file containing your logs after an install finishes (or fails). Just check your recent browser downloads for a <code>07th-mod-logs.zip</code></p>
-    <h3>Method 2: From the install launcher (Windows Only)</h3>
+    <h3>Option 2: From the install launcher (Windows Only)</h3>
     <ul>
         <li>Open the install launcher</li>
         <li>Click the <b style="background: SteelBlue; color:white; padding: 5px">⯈ Advanced Tools</b> expander</li>
         <li>Click the <b style="background: SteelBlue; color:white; padding: 5px">Show Installer Logs</b> button. An explorer window will appear containing the log files. </li>
         <li>Send us the <code>*.txt</code> files by zipping all of them, or dragging them into Discord</li>
     </ul>
-    <h3>Method 3: Manual navigation</h3>
+    <h3>Option 3: Manual navigation</h3>
     <p>Use this method if the installer doesn&#39;t start at all.</p>
     <h4>Windows</h4>
     <p>If you saved the installer launcher to:</p>
@@ -54,22 +56,26 @@ State anything "special" about your computer's setup: [School/Company Computer/O
     <p>your install logs would be located at:</p>
     <p><code>C:\downloads\07th-mod_installer\INSTALLER_LOGS\MOD-INSTALLER-LOG-[date].txt</code></p>
     <h4>Linux and Mac</h4>
-    <p>Look directly in the <code>07th-mod_installer\INSTALLER_LOGS</code> folder, as Linux and Mac do not have a launcher.</p>
-    <h3>Method 4: From the game folder</h3>
+    <p>Look directly in the <code>install_data\INSTALLER_LOGS</code> folder, as Linux and Mac do not have a launcher.</p>
+    <h3>Option 4: From the game folder</h3>
     <p>The installer will also attempt to save a log to the game being modded. Use this method if you have moved or deleted the installer launcher, or if you want to check the log for a specific game.</p>
+    <h4>Windows</h4>
     <ul>
         <li>For Umineko: The log will be placed directly in the game folder. Example:
             <br><code>C:\games\Steam\steamapps\common\Umineko\MOD-INSTALLER-LOG-[date].txt</code></li>
         <li>For Higurashi: In the <code>HigurashiEp0[X]_Data</code> subfolder (where X is the chapter number). This is the same location as the game logs. Example:
             <br> <code>C:\games\Steam\steamapps\common\Higurashi When They Cry\HigurashiEp01_Data\MOD-INSTALLER-LOG-[date].txt</code></li>
     </ul>
+    <h4>Linux and Mac</h4>
+    <p>The installer may not always be able to place a log in the game folder, but you can check anyway. Look for a <code>MOD-INSTALLER-LOG-[date].txt</code> file in the game folder, or inside the <code>HigurashiEp0[X]_Data</code> subfolder.
 </details>
 
 </li>
-<li><b>If your game is crashing</b> or <b>the devs ask you for the log/save files</b>, expand the instructions below to get your log file and save files for submission
+<li><b>For Higurashi users with a game startup or crash issue</b>, expand the instructions below to get your <b>game log files</b>. 
+
 
 <details class="example">
-    <summary>4a. Higurashi Log Files and Save Files</summary>
+    <summary>Getting Higurashi Log Files</summary>
     <h4>Game Log (output_log.txt)</h4>
     <ul>
         <li>On Windows, the log is located in the <code>HigurashiEp0X_Data</code> folder, in the game folder. For example <code>C:\games\Steam\steamapps\common\Higurashi When They Cry\HigurashiEp01_Data\output_log.txt</code>.</li>
@@ -78,8 +84,14 @@ State anything "special" about your computer's setup: [School/Company Computer/O
         </li>
         <li>On Linux: <code>~/.config/unity3d/MangaGamer/GameName/Player.log</code></li>
     </ul>
+</details>
+
+<b>Only if asked by the developers</b> submit your save files by following the instructions below.
+
+<details class="example">
+    <summary>Getting Higurashi Save Files</summary>
     <h4>Save Files (*.dat files)</h4>
-    <p>You may need to zip all the save files together before you submit them.</p>
+    <p>You may need to zip all the save files together before you submit them. <b>Only submit if asked.</b></p>
     <ul>
         <li>Windows: <code>C:\Users\[YOUR_USERNAME]\AppData\Roaming\MangaGamer\higurashi01</code></li>
         <li>MacOS: <code>~/Library/Application Support/unity.MangaGamer.Higurashi When They Cry - Ch.1 Onikakushi</code><br>
@@ -88,9 +100,12 @@ State anything "special" about your computer's setup: [School/Company Computer/O
         <li>Linux: <code>~/.config/unity3d/Mangagamer/Higurashi When They Cry _ Ch_1 Onikakushi</code></li>
     </ul>
 </details>
+</li>
+
+<li>For Umineko users, <b>only follow the instructions below if asked.</b>
 
 <details class="example">
-    <summary>4b. Umineko Log Files and Save Files</summary>
+    <summary>Getting Umineko Log Files and Save Files</summary>
     <h4>Save Files</h4>
     <ul>
         <li>First check the <code>mysav</code> folder inside the game folder: <code>C:\Program Files (x86)\Steam\steamapps\common\Umineko\mysav</code></li>

@@ -43,12 +43,14 @@ All of these options are currently not used by the mod.
 
 ### Voice Matching Level = [0,1,2,3,4,5]
 
-* **F2** = Change voice matching level. 0 = min, 2 = default, 5 = max
-    * Changes the script censorship from PC (0) to console (5), with console being the most censored. The higher the number, the more voices you will get. Lower levels will have less voices at scenes cut from the console release.
-    * We recommend leaving at the default level (2), which should be the most balanced option with censorship being minimal (usually copyright changes, innuendos and a few word changes).
-        * Max = Full PS3 script fully voiced (might be censored at parts)
-        * Min = Original PC script with voices where it fits (fully uncensored)
-            * Default level (2) should be the most balanced option
+* **F2** = Sets the script censorship from PC (0, least censored) to Console (5, most censored)
+    * Censorship affects: copyright changes, innuendos, and a few word changes
+    * The higher the number/more censored, the more voices you will get. Lower levels will have less voices at scenes cut from the console release.
+        * This is because the voices are taken from the censored, Console versions of the game, so no voices exist for the PC uncensored dialogue.
+    * We recommend leaving at the default level (2), which should be the most balanced option with censorship being minimal.
+        * Max (5) = Full PS3 script fully voiced (might be censored at parts)
+        * Min (0) = Original PC script with voices where it fits (fully uncensored)
+        * Default (2) = Should be the most balanced option
 
 ### Voice Volume = [VOLUME_LEVEL]
 

@@ -19,11 +19,11 @@ The game: [Higurashi Ch.3]
 
 The mod variant: [Full/Voice Only/ADV]
 
-The store: [Steam/Mangagamer/GOG]
+I bought the game at: [Steam/Mangagamer/GOG]
 
-Your OS: [Windows/Mac/Linux]
+My operating system is: [Windows/MacOS/Linux]
 
-I installed the game: [Manually/Using the Installer]
+I installed the patch: [Manually/Using the Installer]
 
 Mod Install Date: [Yesterday/A Month Ago]
 

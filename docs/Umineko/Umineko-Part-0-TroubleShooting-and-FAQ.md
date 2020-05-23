@@ -8,14 +8,33 @@ Please proceed to [Umineko Support](../Umineko/support.md).
 
 ## Known Issues
 
-### General Problems
+### Game Crashes / Freeze
 
-- You can navigate the menu with directional arrow keys on the Question arcs, but not on the Answer arcs. To fix this, you *can* copy the Umineko Question .exe into the Answer Arcs and run it instead, BUT this may silently break things in the Answer arcs - do so at your own risk.
+The engine is known to crash or freeze under certain conditions:
+
+- during skip mode, the game can freeze (get stuck)
+- can hard crash randomly ("This program has stopped working...")
+- can hard crash at specific points of the game (for example:
+    - in the Question just before a scene at the festival
+
+If you repeatedly get crashes at a certain point of the game, you can try to do the following (not guaranteed to work):
+
+  - create a save as close as possible to the crash
+  - restart your computer (to try to cause different memory conditions for the game)
+  - load the save repeatedly and try to get past the crash:
+    - try using skip mode (hold CTRL)
+    - try restarting your computer periodically if you still can't get past it
+
+These crashes can happen on the unmodded game too, but it's possible the increased resolution/graphics cause the crashes to happen more often.
 
 ### Mod Menu - Question Arcs
 
 - Changing any ADV related setting will clear the text currently on the screen. You can still view the cleared text on the backlog.
 - There are certain parts of the game which are always displayed in NVL mode (text over the whole screen). If you enable ADV mode during these sections, the ADV textbox won't appear until the NVL section ends.
+
+### General Problems
+
+- You can navigate the menu with directional arrow keys on the Question arcs, but not on the Answer arcs. To fix this, you *can* copy the Umineko Question .exe into the Answer Arcs and run it instead, BUT this may silently break things in the Answer arcs - do so at your own risk.
 
 ## Install Problems
 

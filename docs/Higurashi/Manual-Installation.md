@@ -1,6 +1,56 @@
 # Manual installation (Windows/Linux/Mac)
 
-Follow the table below to download all the pieces to install the patch:
+!!! danger "This page is for manual install only. We highly recommend using the automated installer as installing manually can be error prone. Please see the [Cross Platform Installer](Umineko-Part-3a-Cross-Platform-Installer.md), and follow the instructions"
+
+----
+
+
+## How to install the patch manually (for Windows, Linux, and Mac)
+
+!!! hint "Where are the downloads?"
+    All downloads are listed at the bottom of the page.
+
+!!! hint "How do I extract .7z files?"
+    Newer graphics patches requires an extraction software compatible with ``.7z`` files.
+
+    * On Windows: Download [7-zip](http://7-zip.org/) (WinRAR is also acceptable)
+    * On Linux: Install ``p7zip`` in your package manager
+    * On Mac: Download [Keka](https://www.keka.io)
+
+
+**On Windows or Linux (any distro):**
+
+--8<-- "gnome-crash-warning.md"
+
+1. Find and open your game folder 
+    * On Steam: open your Steam library, choose the game from the list, right click on it and click on ``Properties``. Switch to the ``LOCAL FILES`` tab and click on ``Browse local files...``)
+2. After downloading all the files needed for your version of the game, place them in the root folder (where the game ``.exe`` is)
+3. Navigate inside ``HigurashiEp0X_Data/StreamingAssets`` (where ``X`` is the chapter number) and **delete** the folders ``CG`` and ``CGAlt``
+    * This is not a requirement but we recommend to delete the mentioned folders to save disk space and avoid any random issues
+4. Select all the downloaded files placed in the root directory **EXCEPT** the file called ``[CHAPTER TITLE].Voice.and.Graphics.Patch.[VERSION NUMBER].zip`` and extract them (protip: use ``Extract Here`` from the context menu)
+    * Extract the mentioned file after extracting all the others. Overwrite all files if asked
+5. Delete all the downloaded files after ensuring the game is working as expected
+
+**On Mac OSX:**
+
+1. Find and open your game folder
+    * On Steam: open your Steam library, choose the game from the list, right click on it and click on ``Properties``. Switch to the ``LOCAL FILES`` tab and click on ``Browse local files...``)
+    * If you just see an icon called ``HigurashiEp0X`` (where ``X`` is the chapter number), you may need to right click it, then click "Show Package Contents" to show the ``Contents`` folder
+    * The game folder (called ``Contents``) should contain some folders like ``Resources``, ``MacOS``, ``Plugins``, ``Frameworks``, and others - we will only be modifying the ``Resources`` folder
+2. After downloading all the files needed for your version of the game, place them in ``Resources/Data``
+3. Navigate inside ``Resources/Data/StreamingAssets`` and **delete** the folders ``CG`` and ``CGAlt``
+    * This is not a requirement but we recommend to delete the mentioned folders to save disk space and avoid any random issues
+4. Navigate back to ``Resources/Data`` folder and extract the downloaded files using the following method:
+    * Extract all archives **EXCEPT** ``[CHAPTER TITLE].Voice.and.Graphics.Patch.[VERSION NUMBER].zip``
+    * After all the other archives are extracted, you can then extract ``[CHAPTER TITLE].Voice.and.Graphics.Patch.[VERSION NUMBER].zip``
+    * Overwrite all files if asked
+    * When finished, this should produce a ``HigurashiEp0X_Data`` folder (where ``X`` is the chapter number) - the full path will be ``Resources/Data/HigurashiEp0X_Data``
+5. Open a **terminal window** in the ``Resources/Data`` folder. [Follow these steps if you don't know how to do it](https://stackoverflow.com/a/7054045)
+    1. In the terminal window, type: ``rsync -avP HigurashiEp*/* .`` and hit enter (type the ``*`` literally)
+    2. Wait until the files are copied to the right place
+6. Delete all the downloaded files and any leftover ``HigurashiEp0X_Data`` folders (where ``X`` is the chapter number) after ensuring the game is working as expected
+
+***
 
 ## Console Arcs
 
@@ -201,47 +251,3 @@ Follow the table below to download all the pieces to install the patch:
 </tr>
 </tbody>
 </table>
-
-***
-
-## How to install the patch manually (for Windows, Linux, and Mac)
-
-!!! hint
-    Newer graphics patches requires an extraction software compatible with ``.7z``.
-
-> * On Windows: [7-zip](http://7-zip.org/) (WinRAR is also acceptable)
-> * On Linux: ``p7zip`` in your package manager
-> * On Mac: [Keka](https://www.keka.io)
-
-
-**On Windows or Linux (any distro):**
-
---8<-- "gnome-crash-warning.md"
-
-1. Find and open your game folder 
-    * On Steam: open your Steam library, choose the game from the list, right click on it and click on ``Properties``. Switch to the ``LOCAL FILES`` tab and click on ``Browse local files...``)
-2. After downloading all the files needed for your version of the game, place them in the root folder (where the game ``.exe`` is)
-3. Navigate inside ``HigurashiEp0X_Data/StreamingAssets`` (where ``X`` is the chapter number) and **delete** the folders ``CG`` and ``CGAlt``
-    * This is not a requirement but we recommend to delete the mentioned folders to save disk space and avoid any random issues
-4. Select all the downloaded files placed in the root directory **EXCEPT** the file called ``[CHAPTER TITLE].Voice.and.Graphics.Patch.[VERSION NUMBER].zip`` and extract them (protip: use ``Extract Here`` from the context menu)
-    * Extract the mentioned file after extracting all the others. Overwrite all files if asked
-5. Delete all the downloaded files after ensuring the game is working as expected
-
-**On Mac OSX:**
-
-1. Find and open your game folder
-    * On Steam: open your Steam library, choose the game from the list, right click on it and click on ``Properties``. Switch to the ``LOCAL FILES`` tab and click on ``Browse local files...``)
-    * If you just see an icon called ``HigurashiEp0X`` (where ``X`` is the chapter number), you may need to right click it, then click "Show Package Contents" to show the ``Contents`` folder
-    * The game folder (called ``Contents``) should contain some folders like ``Resources``, ``MacOS``, ``Plugins``, ``Frameworks``, and others - we will only be modifying the ``Resources`` folder
-2. After downloading all the files needed for your version of the game, place them in ``Resources/Data``
-3. Navigate inside ``Resources/Data/StreamingAssets`` and **delete** the folders ``CG`` and ``CGAlt``
-    * This is not a requirement but we recommend to delete the mentioned folders to save disk space and avoid any random issues
-4. Navigate back to ``Resources/Data`` folder and extract the downloaded files using the following method:
-    * Extract all archives **EXCEPT** ``[CHAPTER TITLE].Voice.and.Graphics.Patch.[VERSION NUMBER].zip``
-    * After all the other archives are extracted, you can then extract ``[CHAPTER TITLE].Voice.and.Graphics.Patch.[VERSION NUMBER].zip``
-    * Overwrite all files if asked
-    * When finished, this should produce a ``HigurashiEp0X_Data`` folder (where ``X`` is the chapter number) - the full path will be ``Resources/Data/HigurashiEp0X_Data``
-5. Open a **terminal window** in the ``Resources/Data`` folder. [Follow these steps if you don't know how to do it](https://stackoverflow.com/a/7054045)
-    1. In the terminal window, type: ``rsync -avP HigurashiEp*/* .`` and hit enter (type the ``*`` literally)
-    2. Wait until the files are copied to the right place
-6. Delete all the downloaded files and any leftover ``HigurashiEp0X_Data`` folders (where ``X`` is the chapter number) after ensuring the game is working as expected

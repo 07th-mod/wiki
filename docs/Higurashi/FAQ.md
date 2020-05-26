@@ -54,7 +54,9 @@ If you want to use the saves on multiple machines (for example, using steam sync
 
 ### There is no sound/audio/BGM/voices
 
-Press the **F10** button twice while not in a game menu to open the mod menu. Check if the BGM/voice volume is set to zero, and just it accordingly.
+Firstly, please make sure you have played past the opening section of the game. Narration is not voiced, so you have to wait until a character has spoken dialog before any voices will play ("They might talk like this!").
+
+If voices are still not playing, press the **F10** button twice while not in a game menu to open the mod menu. Check if the BGM/voice volume is set to zero, and just it accordingly.
 
 We have also had reports that people using Razer Synapse/HyperX/Logitech/G Hub/bluetooth headset software might interfere with the voice/audio playback of the game.
 

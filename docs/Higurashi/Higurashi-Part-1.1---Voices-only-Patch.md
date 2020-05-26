@@ -1,10 +1,16 @@
 # Voice Only Patch (Unsupported)
 
+!!! danger "This page is for manual install only. We highly recommend using the automated installer as installing manually can be error prone. Please see the [Cross Platform Installer](Umineko-Part-3a-Cross-Platform-Installer.md), and follow the instructions"
+
+----
+
 Sometimes you just want the voices and enjoy the beautiful original art, I get it. Yeah, that's no joke, I really like the original art.
 
 We offer the below patches so you can enjoy the vanilla game with voices if you really want. But please note:
 
 <div style="color:red;font-size:24px;">We do not offer end-user support for the voice-only patch.</div> If you encounter bugs or missing features, **we probably won't help you with it.**
+
+**The exception to this rule** is when we are releasing a new episode. Usually we do a quick voice-only patch just after the game comes out. Later we release the full graphics patch. During this time, when the voice only patch is available, we will offer support for it.
 
 ## Installing the patch automatically
 
@@ -88,3 +94,7 @@ Archives were updated 12-04-2020. **If the instructions don't seem to match the 
 </table>
 
 *Replaces the original (640x480) sprites with upscaled HD versions (1280x960)
+
+## Why do you offer no support for the voice only patch?
+
+Our long term plans are to have a "voice-only" mode in the full patch, which would make the standalone voice-only patches redundant.

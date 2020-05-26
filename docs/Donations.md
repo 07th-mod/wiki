@@ -37,9 +37,9 @@ Of course, this is all very new to us so you can expect more and more things to 
 
 ## How much do you need to keep this server running?
 
-Our current **yearly** goal is **$200** (two hundred US dollars). Nothing more than that for a full year of hosting.
+Our current **yearly** goal is **$200** (two hundred US dollars). Nothing more than that for a full year of hosting in our basic server setup.
 
-This covers all server and domain expenses, with about $20~$30 to spare yearly so we can cover any emergency situations such as DDoS attacks, extra IPs, transfers or any other small upgrades we might need. This money should normally carry over to the next year.
+This covers all server and domain expenses, with about $20~$30 to spare yearly so we can cover any emergency situations such as DDoS attacks, extra IPs, transfers or any other small upgrades we might need. This money should normally carry over to the next year if not used. If by any chance we can stay over the goal consistently, we might upgrade the server and the goal can be stretched a bit next year.
 
 ## Do I get any special perks if I donate?
 
@@ -51,15 +51,14 @@ Donators should also not get any special Discord perks, but this is up for discu
 
 In this section we have a small summary of the total donations received, but in the end, it is all about how much you trust us.
 
-> **Last updated: May 25, 2020**
+> **Last updated: May 26, 2020**
 > 
-> **Goal**: $200 <br>
-> **Donations total**: **$337.55** (after Paypal donations tax) <br>
-> **Goal reached! Thanks so much for supporting us!**
+> **Donations total**: **$384.05** (after Paypal donations tax) <br>
 
 ## What if you get way over your goal?
 
-We will take down the donations if we manage to reach twice our goal in the same year.
+~~We will take down the donations if we manage to reach twice our goal in the same year.~~
+Supposing we can still stay above our goal consistently by the time the current server is due, there are plans to invest the extra money into migrating our server to a more powerful one.
 
 ## What happens to open-source?
 

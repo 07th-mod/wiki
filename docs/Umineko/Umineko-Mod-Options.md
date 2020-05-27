@@ -65,13 +65,13 @@ There are two main install options for the question arcs - the full patch, and t
 #### CG Options
 
 - Restore Tsurupettan CG
-    - In one scene, the unmodded game replaces a CG of a Touhou character with another CG for copyright reasons. This option restores the orignal Touhou CG.
+    - In one scene, the PS3 game replaces a CG of a Touhou character with another CG for copyright reasons. This option restores the orignal Touhou CG.
     - Note that the CG is the original Ryukishi CG, so it won't match the PS3 graphics, if that bothers you.
 
 #### BGM Options
 
 - Use SuiSui-SWEETS(^-^) BGM
-    - In one scene, the unmodded game replaces the Touhou song "SuiSui-SWEETS(^-^)" with another song for copyright reasons. This option restores the orignal touhou song.
+    - In one scene, the PS3 game replaces the Touhou song "Tsurupettan" with another song for copyright reasons. This option allows you to use the PS3 song.
 - Restore system0 BGM
     - The unmodded game's "system0" BGM is missing a sample from Star Trek: Nemesis (removed for copyright reasons) - this option restores the missing sample.
 

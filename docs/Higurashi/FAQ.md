@@ -62,9 +62,9 @@ We have also had reports that people using Razer Synapse/HyperX/Logitech/G Hub/b
 
 ### Linux users with GNOME/MATE Desktop - whole desktop crashes when game launched
 
-GNOME/MATE Desktop (the default on Ubuntu and Fedora Linux) will cause Higurashi to crash the entire desktop when you start the game. This happens even on the base game (without any mods applied).
+GNOME/MATE Desktop (the default on Ubuntu and Fedora Linux) will cause Higurashi Ep.4 and upwards to crash the entire desktop when you start the game. This happens even on the base game (without any mods applied).
 
-A workaround for this is to install XFCE desktop. You can follow [this guide](https://linuxconfig.org/how-to-install-xubuntu-desktop-on-ubuntu-18-04-bionic-beaver-linux) to install XFCE desktop (it can be installed alongside GNOME).
+A workaround for this is to install XFCE desktop (please look up instructions for your specific operating system).
 
 Please make sure you can launch the base game before applying any mods (please don't make any saves on the base game as they are not compatible with the mod).
 

@@ -53,6 +53,10 @@ Please check if any antivirus/firewall software is blocking the installer. "Como
 
 Please move the installer .exe to a fresh subfolder and run it from there. This forces a fresh re-extraction of the installer files.
 
+### Windows - Installer crashes with an error about missing VCRUNTIME140.DLL (or similar).
+
+Download and install the [Visual C++ Redistributable](https://www.microsoft.com/en-us/download/details.aspx?id=52685) on your system.
+
 ### Download stage fails - I get a SSL/TLS handshake failure from Aria2c
 
 Some users have reported getting the following error (will appear in the log):

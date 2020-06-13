@@ -201,14 +201,14 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;">UI Mod (Windows)</td>
-<td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=meakashi&os=win&unity=5.5.3p3">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=meakashi&os=win&unity=5.5.3p1">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=meakashi&os=win&unity=5.5.3p1">GOG</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=meakashi&os=win&unity=5.5.3p3">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=meakashi&os=win&unity=5.5.3p3">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=meakashi&os=win&unity=5.5.3p3">GOG</a></td>
 <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=tsumihoroboshi&os=win&unity=5.5.3p3">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=tsumihoroboshi&os=win&unity=5.5.3p3">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=tsumihoroboshi&os=win&unity=5.5.3p3">GOG</a></td>
 <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=minagoroshi&os=win&unity=5.6.7f1">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=minagoroshi&os=win&unity=5.6.7f1">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=minagoroshi&os=win&unity=5.6.7f1">GOG</a></td>
 <td style="text-align: center;">None yet</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;">UI Mod (Mac/Linux)</td>
-<td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=meakashi&os=unix&unity=5.5.3p3">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=meakashi&os=unix&unity=5.5.3p1">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=meakashi&os=unix&unity=5.5.3p1">GOG</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=meakashi&os=unix&unity=5.5.3p3">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=meakashi&os=unix&unity=5.5.3p3">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=meakashi&os=unix&unity=5.5.3p3">GOG</a></td>
 <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=tsumihoroboshi&os=unix&unity=5.5.3p3">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=tsumihoroboshi&os=unix&unity=5.5.3p3">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=tsumihoroboshi&os=unix&unity=5.5.3p3">GOG</a></td>
 <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=minagoroshi&os=unix&unity=5.6.7f1">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=minagoroshi&os=unix&unity=5.6.7f1">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=minagoroshi&os=unix&unity=5.6.7f1">GOG</a></td>
 <td style="text-align: center;">None yet</td>

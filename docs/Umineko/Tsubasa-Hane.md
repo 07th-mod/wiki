@@ -30,7 +30,7 @@ If, for whatever reason, the automatic installation does not work or you do not 
 
 |Tsubasa|Hane|Saku|
 |-|-|-|
-|[Download (~300MB)](https://07th-mod.com/Bern/Tsubasa/umineko-tsubasa-ons.zip)|[Download (~100MB)](https://07th-mod.com/Bern/Hane/umineko-hane-ons.zip)|[Download graphics](https://07th-mod.com/Bern/Saku/UminekoSaku-Graphics.7z)<br>[Download script](https://raw.githubusercontent.com/07th-mod/umineko-saku/master/0.utf) (use right click -> Save as...)|
+|[Download (~300MB)](https://07th-mod.com/Bern/Tsubasa/umineko-tsubasa-ons.zip)|[Download (~100MB)](https://07th-mod.com/Bern/Hane/umineko-hane-ons.zip)|[Download script](https://github.com/07th-mod/umineko-saku/archive/master.zip)<br>[Download graphics](https://07th-mod.com/Bern/Saku/UminekoSaku-Graphics.7z) (optional)|
 
 For Tsubasa and Hane, once downloaded, extract the archive into your game directory. *PRESERVE THE TOP-LEVEL FOLDER*. The \[07th-Mod\] folder should *remain* after the archive extraction, do not put files from inside of the folder into the game directory -- put the folder itself there.
 For Saku, extract the graphics archive into the game folder, and then just move the `0.utf` script file there as well.

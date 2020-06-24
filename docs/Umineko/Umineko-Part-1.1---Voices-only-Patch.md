@@ -2,9 +2,15 @@
 
 ----
 
-So, you like the Ryukishi art. I get it, I also like it a lot. In that case, we got you covered.
+**Note:** There are install options for the full patch which overwrite the default PS3 sprites with Ryukishi (Original) or Pachinko sprites. If you want Ryukishi (Original) or Pachinko sprites with the new backgrounds, most likely you want the full patch ([Automatic Install](Umineko-Part-3a-Cross-Platform-Installer.md) / [Manual Install](Umineko-Part-1---Voice-and-Graphics-Patch.md)). Just make sure to select the right option in the installer, or manually install your choice of sprite pack.
 
-Beware that some bugs and features might be missing in the voice-only patch, as compared to the 'full patch'.
+We currently do not support the old background style with the full patch - to get old backgrounds you must use this voice-only patch.
+
+----
+
+The voice-only patch adds voices to the vanilla game, without making any graphical changes.
+
+Please note that compared to the full patch, the voice-only patch may contain more bugs and be missing features.
 
 #### Manual Install Instructions (not recommended)
 

@@ -1,13 +1,16 @@
 # Voice Only Patch (Unsupported)
 
-!!! danger "This page is for manual install only. We highly recommend using the automated installer as installing manually can be error prone. Please see the [Cross Platform Installer](Umineko-Part-3a-Cross-Platform-Installer.md), and follow the instructions"
+!!! danger "This page is for manual install only. We highly recommend using the automated installer as installing manually can be error prone. Please see the [Cross Platform Installer](Higurashi-Part-1---Voice-and-Graphics-Patch.md), and follow the instructions"
 
 ----
 
-Sometimes you just want the voices and enjoy the beautiful original art, I get it. Yeah, that's no joke, I really like the original art.
+**Note:** The full patch lets you switch between the Ryukishi (Original), Mangagamer, or PS3 sprites. If you want Ryukishi (Original) or Mangagamer sprites with the new backgrounds, most likely you want the full patch ([Automatic Install](Higurashi-Part-1---Voice-and-Graphics-Patch.md) / [Manual Install](Manual-Installation.md)). After installing the full patch (NOT the "voice only" patch on this page), press the `P` key while not in a menu to toggle between art styles.
 
-We offer the below patches so you can enjoy the vanilla game with voices if you really want. But please note:
+We currently do not support toggling background style with the full patch, so if you must have the Ryukishi (Original) style backgrounds, you must use this voice-only patch.
 
+----
+
+The voice-only patch makes the bare minimum changes to add voices to the vanilla game.
 <div style="color:red;font-size:24px;">We do not offer end-user support for the voice-only patch.</div> If you encounter bugs or missing features, **we probably won't help you with it.**
 
 **The exception to this rule** is when we are releasing a new episode. Usually we do a quick voice-only patch just after the game comes out. Later we release the full graphics patch. During this time, when the voice only patch is available, we will offer support for it.

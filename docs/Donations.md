@@ -53,7 +53,7 @@ In this section we have a small summary of the total donations received, but in 
 
 > **Last updated: July 02, 2020**
 > 
-> **Donations total**: **$425.61** (after Paypal donations tax) <br>
+> **Donations total**: **$450.58** (after Paypal donations tax) <br>
 
 ## What if you get way over your goal?
 

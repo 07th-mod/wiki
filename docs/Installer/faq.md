@@ -115,10 +115,11 @@ You can try the following solutions. Please try them in order.:
     - Move or copy the game folder to `Desktop` or `My Documents` - somewhere you know modifying and deleting files is allowed
     - Retry the install. You can move the game folder back after the install is finished.
 
-3. **Unblock the game folder/our installer from your Antivirus (AVG, Norton etc.)**
+3. **Antivirus Software: Add an exception for the game folder/our installer (AVG, Norton etc.)**
     - Note that Windows Defender usually causes no issues besides the initial popup - if you just have Windows Defender then ignore this solution.
-    - Check your additional antivirus is not blocking the game folder access
-    - Check your additional antivirus is not blocking the installer
+    - You will have to research how to add exceptions in your particular Antivirus software:
+        1. Most Likely: Check if your antivirus software is blocking the installer (add an exception for the installer .exe)
+        2. Less Likely: Check if your antivirus software is blocking the game folder access (add an exception for the game folder)
 
 4. **Attempt the install as an Administrator user (not a "Standard User")**
     - I've tested installing to an administrator's installation as a Standard User and it worked just fine. But it's worth a try if the above doesn't work and you're a Standard User.

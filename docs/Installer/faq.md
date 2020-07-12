@@ -10,9 +10,9 @@ Please proceed to [How to get support](../Installer/support.md).
 
 First, double check you can access BOTH the following websites in your browser without error:
 
-[https://07th-mod.com/](https://07th-mod.com/)
+1. [https://07th-mod.com/](https://07th-mod.com/)
 
-[https://raw.githubusercontent.com/07th-mod/python-patcher/master/installData.json](https://raw.githubusercontent.com/07th-mod/python-patcher/master/installData.json)
+2. [https://raw.githubusercontent.com/07th-mod/python-patcher/master/installData.json](https://raw.githubusercontent.com/07th-mod/python-patcher/master/installData.json)
 
 If you cannot access these websites on any computer or phone (on local wifi, NOT mobile internet) that you try:
 
@@ -57,7 +57,15 @@ Please move the installer .exe to a fresh subfolder and run it from there. This 
 
 Download and install the [Visual C++ Redistributable](https://www.microsoft.com/en-us/download/details.aspx?id=52685) on your system.
 
-### Download stage fails - I get a SSL/TLS handshake failure from Aria2c
+### Download or Init stage gets stuck - Says "0B/0B CN:1 DL:0B"
+
+We have noticed that the downloader we use can get stuck sometimes. This may be related to the internet connection you're using, or a temporary problem server-side.
+
+You can try restarting the installer, or trying the download on another day.
+
+Please also go through the "Connection Troubleshooting" section above, and make sure you can access the two links.
+
+### Download or Init stage fails - I get a SSL/TLS handshake failure from Aria2c
 
 Some users have reported getting the following error (will appear in the log):
 

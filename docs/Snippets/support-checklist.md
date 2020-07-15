@@ -78,7 +78,11 @@ State anything "special" about your computer's setup: [School/Company Computer/O
     <summary>Getting Higurashi Log Files</summary>
     <h4>Game Log (output_log.txt)</h4>
     <ul>
-        <li>On Windows, the log is located in the <code>HigurashiEp0X_Data</code> folder, in the game folder. For example <code>C:\games\Steam\steamapps\common\Higurashi When They Cry\HigurashiEp01_Data\output_log.txt</code>.</li>
+        <li>On Windows:</li>
+        <ul>
+            <li><strong>For Chapters 1-7</strong>, the log is located in the <code>HigurashiEp0X_Data</code> folder, in the game folder. For example <code>C:\games\Steam\steamapps\common\Higurashi When They Cry\HigurashiEp01_Data\output_log.txt</code>.</li>
+            <li><strong>For Chapter 8</strong>, the log is located at<br><code>%appdata%/../LocalLow/Mangagamer/Higurashi When They Cry - Ch.8 Matsuribayashi</code>. The full path is something like<br><code>C:\Users\[YOUR_USERNAME]\AppData\LocalLow\MangaGamer\Higurashi When They Cry - Ch.8 Matsuribayashi\output_log.txt</code></li>
+        </ul>
         <li>On MacOS: <code>/Users/&lt;yourusername&gt;/Library/Logs/Unity/Player.log</code><br>
         Access it by opening Finder, pressing Shift-Command-G, and pasting in <code>~/Library/Logs/Unity</code>
         </li>

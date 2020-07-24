@@ -221,7 +221,7 @@
 <td style="text-align: center;">None</td>
 <td style="text-align: center;">None</td>
 <td style="text-align: center;">None</td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/wip/Matsuribayashi-System.7z">Windows (GOG only)</a><br><a href="https://07th-mod.com/rikachama/wip/Matsuribayashi-System_unix.7z">Linux (GOG only)</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/matsuri-system/Matsuribayashi-System.7z">Windows (GOG only)</a><br><a href="https://07th-mod.com/rikachama/matsuri-system/Matsuribayashi-System_unix.7z">Linux (GOG only)</a></td>
 </tr>
 </tbody>
 </table>

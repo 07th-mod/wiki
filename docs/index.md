@@ -24,3 +24,5 @@
     ###  Join us on [Discord](https://discord.gg/pf5VhF9)
 
     Join our server for support, discussion and a lot of fun!
+
+If you are seeing this, you found an easter egg! (I'm lying, we're in the middle of something)

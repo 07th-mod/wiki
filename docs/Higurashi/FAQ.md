@@ -68,6 +68,11 @@ A workaround for this is to install XFCE desktop (please look up instructions fo
 
 Please make sure you can launch the base game before applying any mods (please don't make any saves on the base game as they are not compatible with the mod).
 
+### Less likely errors
+
+- Some Windows 10 users with Nvidia graphics cards reported a `IndexOutOfRangeException: Array index is out of range.
+at UnityEngine.Display.RecreateDisplayList (System.IntPtr[] nativeDisplay) [0x00000] in <filename unknown>:0` error. This issue can affect all Unity games, not just Higurashi. See the second reply on [this steam forum post](https://steamcommunity.com/discussions/forum/1/1480982971174752598/) for details on how to fix this issue in Nvidia Control Panel.
+
 ## Known Issues - Manual Install
 
 ### The game crashes

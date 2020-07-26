@@ -18,7 +18,7 @@ Below each mod setting is listed. These mod settings are displayed when you open
     * Press the F10 key **twice** while not in a menu (while playing the game normally) to show all available keyboard commands. Then, press keyboard commands to change mod settings.
     * Keyboard commands are active even while the Flag Monitor is not open.
     * **Attention**: If you open the flag monitor in the main menu, it won't go away until you start the game and press F10 again!
-    * **Attention**: Do not click on the flag monitor text while in the Flag Monitor, otherwise the keyboard shortcuts won't work.
+    * **Attention**: Do not click on the flag monitor text while in the Flag Monitor, otherwise all keyboard input won't work. You can click outside the Flag Monitor (on the right hand side) to clear this condition.
 
 ### ADV-MODE = [ON/OFF]
 

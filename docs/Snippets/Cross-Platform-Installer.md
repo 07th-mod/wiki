@@ -15,12 +15,11 @@
     ??? example "Mac"
         1. Download the [Mac Installer](https://github.com/07th-mod/python-patcher/releases)
         2. Double-click on the zip to extract it (your browser may automatically do this after downloading)
+            1. **Warning**: Do not move the `install` file out of the folder. The zip contains two hidden files that are required by the installer. If you try to move the `install` file out of the folder, it won't be able to find them.  If you really want to move the `install` file out of the folder, press ⇧⌘. (Shift-Command-Period) to temporarily enable showing of hidden files and copy the `.7za` and `.aria2c` files to the same folder.
 
-            !!! warning
-                The zip contains two hidden files that are required by the installer.  If you try to move the `install` file out of the folder, it won't be able to find them.  If you really want to move the `install` file out of the folder, press ⇧⌘. (Shift-Command-Period) to temporarily enable showing of hidden files and copy the `.7za` and `.aria2c` files to the same folder.
-
-        3. Right click on the file called `install` and choose `Open`
-        4. If prompted with a security prompt, choose `Open`
+        1. Right click on the file called `install` and choose `Open`
+        2. If prompted with a security prompt, choose `Open`
+            1. If you cannot get the web page to load, run the `install_safe_mode` file instead
 
     ??? example "Linux"
         --8<-- "gnome-crash-warning.md"
@@ -35,7 +34,7 @@
             * **openSUSE** users will need to install the package `python-xml` or the installer will fail with `No module named xml.etree.ElementTree`
         2. Download and extract the [Linux Installer](https://github.com/07th-mod/python-patcher/releases)
         3. Run the shell script called `install`. The installer will open as a web page in your browser. 
-            1. If you cannot get the web page to load, enter the `install_data` directory, then run `python ./cli_interactive.py` to run the text only, 'safe-mode' installer.
+            1. If you cannot get the web page to load, run the `install_safe_mode` script
 
 2. Opening the installer will launch a page in your browser. **Do not close this page**.
 3. On the web page that was just launched, click on the game you want to mod.

@@ -35,8 +35,8 @@ nav:
         - Power User Installation: Installer/power-users.md
     - <b>Developer Wiki</b>: https://07th-mod.com/dev-wiki/
 theme: material
-    features:
-        - instant
+features:
+   - instant
 plugins:
    - search
    - minify

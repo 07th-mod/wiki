@@ -150,7 +150,7 @@ If you're unfamiliar with Github, [this handy guide](https://help.github.com/en/
 <td>
     <a href="https://github.com/07th-mod/onikakushi/issues">Onikakushi Ch.1</a><br>
     <a href="https://github.com/07th-mod/watanagashi/issues">Watanagashi Ch.2</a><br>
-	<a href="https://github.com/07th-mod/tatarigoroshi/issues">Tatarigoroshi Ch.3</a><br>
+    <a href="https://github.com/07th-mod/tatarigoroshi/issues">Tatarigoroshi Ch.3</a><br>
     <a href="https://github.com/07th-mod/himatsubushi/issues">Himatsubushi Ch.4</a><br>
 </td>
 <td>

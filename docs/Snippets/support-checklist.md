@@ -150,14 +150,15 @@ If you're unfamiliar with Github, [this handy guide](https://help.github.com/en/
 <td>
     <a href="https://github.com/07th-mod/onikakushi/issues">Onikakushi Ch.1</a><br>
     <a href="https://github.com/07th-mod/watanagashi/issues">Watanagashi Ch.2</a><br>
-    <a href="https://github.com/07th-mod/himatsubushi/issues">Himatsubushi Ch.3</a><br>
-    <a href="https://github.com/07th-mod/meakashi/issues">Meakashi Ch.4</a><br>
+    <a href="https://github.com/07th-mod/tatarigoroshi/issues">Tatarigoroshi Ch.3</a><br>
+    <a href="https://github.com/07th-mod/himatsubushi/issues">Himatsubushi Ch.4</a><br>
 </td>
 <td>
-    <a href="https://github.com/07th-mod/tsumihoroboshi/issues">Tsumihoroboshi Ch.5</a><br>
-    <a href="https://github.com/07th-mod/minagoroshi/issues">Minagoroshi Ch.6</a><br>
-    <a href="https://github.com/07th-mod/tatarigoroshi/issues">Tatarigoroshi Ch.7</a><br>
-    <a href="https://github.com/07th-mod/higurashi-console-arcs">Console Arcs</a><br>
+    <a href="https://github.com/07th-mod/meakashi/issues">Meakashi Ch.5</a><br>
+    <a href="https://github.com/07th-mod/tsumihoroboshi/issues">Tsumihoroboshi Ch.6</a><br>
+    <a href="https://github.com/07th-mod/minagoroshi/issues">Minagoroshi Ch.7</a><br>
+    <a href="https://github.com/07th-mod/matsuribayashi/issues">Matsuribayashi Ch.8</a><br>
+    <a href="https://github.com/07th-mod/higurashi-console-arcs/issues">Console Arcs</a><br>
 </td>
 <td>
     <a href="https://github.com/07th-mod/umineko-question/issues">Umineko Question Arcs</a><br>

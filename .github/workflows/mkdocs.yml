@@ -40,8 +40,10 @@ jobs:
     - name: deploy wiki
       run: mkdocs build
     
+    # Rsync repo to server, only on pushes to master (does not run on pull requests)
     - name: send to server
       uses: burnett01/rsync-deployments@4.1
+      if: github.event_name == 'push' && github.ref == 'refs/heads/master'
       with:
         switches: -av --delete
         path: wiki/

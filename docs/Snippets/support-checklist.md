@@ -25,7 +25,7 @@ My operating system is: [Windows/MacOS/Linux]
 
 I installed the patch: [Manually/Using the Installer]
 
-Mod Install Date: [Yesterday/A Month Ago]
+Mod Download and Install Date: [Downloaded and installed today / Downloaded a week ago, installed yesterday]
 
 State anything "special" about your computer's setup: [School/Company Computer/Old Laptop]
 </textarea>

@@ -207,19 +207,19 @@
 <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=meakashi&os=win&unity=5.5.3p3">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=meakashi&os=win&unity=5.5.3p3">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=meakashi&os=win&unity=5.5.3p3">GOG</a><br><a href="https://07th-mod.com/ui.php?chapter=meakashi&os=win&unity=5.5.3p1">GOG (old)†</a></td>
 <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=tsumihoroboshi&os=win&unity=5.5.3p3">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=tsumihoroboshi&os=win&unity=5.5.3p3">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=tsumihoroboshi&os=win&unity=5.5.3p3">GOG</a></td>
 <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=minagoroshi&os=win&unity=5.6.7f1">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=minagoroshi&os=win&unity=5.6.7f1">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=minagoroshi&os=win&unity=5.6.7f1">GOG</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=matsuribayashi&os=win&unity=2017.2.5">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=matsuribayashi&os=win&unity=2017.2.5">MangaGamer</a><a href="https://07th-mod.com/ui.php?chapter=matsuribayashi&os=win&unity=2017.2.5">GOG</a><br></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=matsuribayashi&os=win&unity=2017.2.5">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=matsuribayashi&os=win&unity=2017.2.5">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=matsuribayashi&os=win&unity=2017.2.5">GOG</a><br></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;">UI Mod (Mac/Linux)</td>
 <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=meakashi&os=unix&unity=5.5.3p3">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=meakashi&os=unix&unity=5.5.3p3">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=meakashi&os=unix&unity=5.5.3p3">GOG</a><br><a href="https://07th-mod.com/ui.php?chapter=meakashi&os=unix&unity=5.5.3p1">GOG (old)†</a></td>
 <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=tsumihoroboshi&os=unix&unity=5.5.3p3">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=tsumihoroboshi&os=unix&unity=5.5.3p3">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=tsumihoroboshi&os=unix&unity=5.5.3p3">GOG</a></td>
 <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=minagoroshi&os=unix&unity=5.6.7f1">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=minagoroshi&os=unix&unity=5.6.7f1">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=minagoroshi&os=unix&unity=5.6.7f1">GOG</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=matsuribayashi&os=unix&unity=2017.2.5">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=matsuribayashi&os=unix&unity=2017.2.5">MangaGamer</a><a href="https://07th-mod.com/ui.php?chapter=matsuribayashi&os=win&unity=2017.2.5">GOG</a><br></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=matsuribayashi&os=unix&unity=2017.2.5">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=matsuribayashi&os=unix&unity=2017.2.5">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=matsuribayashi&os=win&unity=2017.2.5">GOG</a><br></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;">Compatibility packs</td>
 <td style="text-align: center;">None</td>
-<td style="text-align: center;">None</td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/matsuri-system/Matsuribayashi-System.7z">Windows (MangaGamer Answer Arcs Bundle only)</a></td>
 <td style="text-align: center;">None</td>
 <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/matsuri-system/Matsuribayashi-System.7z">Windows (GOG only)</a><br><a href="https://07th-mod.com/rikachama/matsuri-system/Matsuribayashi-System_unix.7z">Linux (GOG only)</a></td>
 </tr>

@@ -34,10 +34,11 @@ nav:
     - Contribution Guide: Beginners-guide.md
     - Credits: Credits.md
     - <b>Developer Wiki</b>: https://07th-mod.com/dev-wiki/
-theme: material
-features:
-   - instant
-   - tabs
+theme:
+  name: material
+  features:
+     - tabs
+     - instant
 plugins:
    - search
    - minify

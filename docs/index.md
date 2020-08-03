@@ -2,6 +2,7 @@
     **[Click here to download the patch installer](https://github.com/07th-mod/python-patcher/releases/latest), or pick a game in the navigation bar for detailed instructions**
    
 ***
+
 !!! info "Announcements"
     We are currently looking for developers with C# experience to help us reverse engineer the Unity engine to add more features to Higurashi. If this looks like the right job for you, join our [Discord channel](https://discord.gg/pf5VhF9) and come talk with us in #higurashi_dev.
 

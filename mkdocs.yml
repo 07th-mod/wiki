@@ -7,11 +7,6 @@ site_dir: wiki
 edit_uri: 'wiki/edit/master/docs'
 nav:
     - Home: index.md
-    - Rules: Rules.md
-    - Donations: Donations.md
-    - Support and Reporting Issues: Support.md
-    - Contribution Guide: Beginners-guide.md
-    - Credits: Credits.md
     - <b>Higurashi</b>:
         - 1. Intro: Higurashi/Higurashi-Getting-started.md
         - 2a. Installer: Higurashi/Higurashi-Part-1---Voice-and-Graphics-Patch.md
@@ -33,10 +28,16 @@ nav:
         - 1. FAQ: Installer/faq.md
         - 2. Getting support: Installer/support.md
         - Power User Installation: Installer/power-users.md
+    - Donations: Donations.md
+    - Rules: Rules.md
+    - Support and Reporting Issues: Support.md
+    - Contribution Guide: Beginners-guide.md
+    - Credits: Credits.md
     - <b>Developer Wiki</b>: https://07th-mod.com/dev-wiki/
 theme: material
 features:
    - instant
+   - tabs
 plugins:
    - search
    - minify

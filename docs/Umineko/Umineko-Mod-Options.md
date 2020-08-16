@@ -88,7 +88,7 @@ There are two main install options for the question arcs - the full patch, and t
 - Install Methods:  [Cross Platform Installer](Umineko-Part-3a-Cross-Platform-Installer.md) || [Install Manually](Umineko-Part-1---Voice-and-Graphics-Patch.md)
 - Optional packs if you want Pachinko or Ryukishi sprites - See below.
 
-#### Answer Arcs - ADV Mode (~8GB DL, ~30GB free space - Same as Full Patch)
+#### Answer Arcs - ADV Mode (~8GB Download, ~30GB free space required)
 
 - This is an add on to the full patch which adds ADV mode (but in the installer, you just select "ADV Mode")
 - **No option to toggle ADV mode**, unlike the Question Arcs! If you want NOVEL mode, you must install the "Full Patch" option.

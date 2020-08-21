@@ -32,6 +32,9 @@
                 * **Fedora**: `sudo dnf install python2-tkinter` or <br> `sudo dnf install python3-tkinter`
                 * If your distribution is not listed, you may need to lookup how to install tkinter on your particular distribution
             * **openSUSE** users will need to install the package `python-xml` or the installer will fail with `No module named xml.etree.ElementTree`
+            * **32-bit linux** users will need the following
+                * p7zip (get the '**full**' version) `sudo apt install p7zip-full`
+                * aria2 `sudo apt install aria2`
         2. Download and extract the [Linux Installer](https://github.com/07th-mod/python-patcher/releases)
         3. Run the shell script called `install`. The installer will open as a web page in your browser. 
             1. If you cannot get the web page to load, run the `install_safe_mode` script

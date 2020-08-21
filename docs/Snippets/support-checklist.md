@@ -28,6 +28,8 @@ I installed the patch: [Manually/Using the Installer]
 Mod Download and Install Date: [Downloaded and installed today / Downloaded a week ago, installed yesterday]
 
 State anything "special" about your computer's setup: [School/Company Computer/Old Laptop]
+
+What you have already done to fix the problem: [Nothing/I tried re-installing the mod]
 </textarea>
 </li>
 <li>Please upload a screenshot of the bug, if applicable <b>and spoiler tag it if it is a spoiler!</b></li>

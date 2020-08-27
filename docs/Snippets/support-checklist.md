@@ -1,5 +1,7 @@
 # 07th-mod Support Checklist
 
+
+
 First, check if your question is already answered in the following FAQs
 
 - [Installer FAQ](https://07th-mod.com/wiki/Installer/faq/) (for download/installer related problems)
@@ -8,12 +10,22 @@ First, check if your question is already answered in the following FAQs
 
 If your question is not already answered, **please do the following**:
 
+
 <ol>
-<li>Please fill in the below template and copy and paste it into our <a href=https://discord.gg/pf5VhF9>Discord Server</a><br>
-Paste it into the <b>#higu_support</b> or <b>#umi_support</b> channel (accept the server rules to access)<br>
+<li>Please fill in the below template and copy and paste it into our
+
+<a href=https://discord.gg/pf5VhF9>Discord Server
+<img style="float: right" src="https://07th-mod.com/wiki/img/Discord-Logo-Color.png" width="100" height="100"/>
+</a>
+<br>
+
+in the <b>#higu_support</b> or <b>#umi_support</b> channel, after accepting the rules<br>
 (You can also submit via Github Issues, see bottom of page)
-<textarea style="width:100%;height: 350px;font-family:Arial, Helvetica, sans-serif">
+
+<textarea style="width:100%;height: 440px;font-family:Arial, Helvetica, sans-serif">
 The problem: [The game crashes on startup]
+
+Reproduction Instructions: [Launch the game and wait 10 seconds]
 
 The game: [Higurashi Ch.3]
 
@@ -23,7 +35,9 @@ I bought the game at: [Steam/Mangagamer/GOG]
 
 My operating system is: [Windows/MacOS/Linux]
 
-I installed the patch: [Manually/Using the Installer]
+I installed the base game: [Yesterday/Last Week/Last Year]
+
+I installed the mod: [Manually/Using the Installer]
 
 Mod Download and Install Date: [Downloaded and installed today / Downloaded a week ago, installed yesterday]
 

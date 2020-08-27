@@ -42,7 +42,11 @@ We would be thankful if you could send us your saves when you have this issue so
 
 ### The game freezes on a white screen on startup
 
-The first time you start the game, the game will 'freeze' on a white screen for up to 2 minutes while scripts are compiling. This is normal, however if the game freezes on a black screen it's likely something went wrong - please contact us if this happens.
+The first time you start the game, it is normal to 'freeze' on a white screen for up to 2 minutes, but:
+
+- If it takes more than 2 minutes (please wait at least 10 minutes), most likely the scripts have failed to compile. **Please message us [on our Discord](https://discord.gg/pf5VhF9) and we can send you the pre-compiled scripts to fix this issue**. If we get enough reports of this issue, we'll distribute the pre-compiled scripts with each release.
+
+- If the game freezes on a black screen it's likely something went wrong - please contact us if this happens.
 
 ### My saves don't work after updating
 

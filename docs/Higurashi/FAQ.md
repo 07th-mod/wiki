@@ -58,11 +58,35 @@ If you want to use the saves on multiple machines (for example, using steam sync
 
 ### There is no sound/audio/BGM/voices
 
+When debugging this issue, it's worth testing and reporting these things
+
+1. Check the in-game settings to see if the Voice, Music, or Sound Effects volume have been set to zero
+2. We have had reports that people using Razer Synapse/HyperX/Logitech/G Hub/bluetooth headset software might interfere with the voice/audio playback of the game. Check if you are using any software or devices of this type.
+3. Check if other chapters of the game have this issue, or it's just this chapter
+4. Check if restarting your computer fixes the issue
+5. Try another audio device (for example, your speakers instead of USB headphones)
+
+See the below for more help on specific cases
+
+#### No voices, but other sounds OK
+
 Firstly, please make sure you have played past the opening section of the game. Narration is not voiced, so you have to wait until a character has spoken dialog before any voices will play ("They might talk like this!").
 
-If voices are still not playing, press the **F10** button twice while not in a game menu to open the mod menu. Check if the BGM/voice volume is set to zero, and just it accordingly.
+If voices are still not playing, press the **F10** button twice while not in a game menu to open the mod menu. Check if the BGM/voice volume is set to zero, and adjust it accordingly.
 
-We have also had reports that people using Razer Synapse/HyperX/Logitech/G Hub/bluetooth headset software might interfere with the voice/audio playback of the game.
+#### Only sound at intro
+
+We have had one user who had sound only during the intro. Their issue was fixed by clearing the registry files for that chapter - but please only do this as a last resort. See "Registry file location and clearing" at the bottom of this page for how to do this.
+
+#### No sound at all
+
+Windows has a feature which lets you set volumes for individual apps, which could cause the game to be muted.
+
+- Right click on the sound icon on the bottom right of your taskbar
+- Click "Open Sound settings"
+- Scroll down to "Advanced sound options"
+- Click on "App volume and device preferences"
+- Check if the game is muted (open the game now if it's not already open)
 
 ### Linux users with GNOME/MATE Desktop - whole desktop crashes when game launched
 
@@ -129,8 +153,33 @@ This patch was created as more of a side-project to see how the midis in the ori
 
 ## Save file locations
 
-Here are the save files locations for Higurashi, chapter 1:
+Here are the save files locations for Higurashi, Chapter 1 (other chapters use the same pattern):
 
 - Windows: `C:\Users\[YOUR_USERNAME]\AppData\Roaming\MangaGamer\higurashi01`
 - MacOS: `~/Library/Application Support/unity.MangaGamer.Higurashi When They Cry - Ch.1 Onikakushi/`
 - Linux: `~/.config/unity3d/Mangagamer/Higurashi When They Cry _ Ch_1 Onikakushi`
+
+In the folder you'll find:
+
+- one `global.dat` which holds information not specific to a save file (note that some info is stored in the registry - see below)
+- manual save files like `save000.dat`
+- quicksaves like `qsave0.dat`
+- the screenshots associated with each save file like `save000.png` and `qsave0.png`
+
+To clear your save data, make a backup of these files, **disable steam sync**, then delete all of them. **Steam will sync the saves in these folders**, so make sure to disable steam sync temporarily if you want to clear out or modify your saves, otherwise they will just reappear/get overwritten by Steam.
+
+Also see "Registry file location and clearing" below.
+
+## Registry file location and clearing (Windows Only)
+
+In most cases, you shouldn't touch the registry files. But if you want to reset everything, you'll need to delete the registry folder for the game.
+
+Type "Registry Editor" in the start menu, then paste the following path in the URL bar, and press Enter.
+
+`Computer\HKEY_CURRENT_USER\Software\Mangagamer\Higurashi When They Cry - Ch.1 Onikakushi`
+
+(If you wanted a different chapter, just click on the appropriate folder on the left navigation pane)
+
+You can take a backup of the folder by right clicking on it, then clicking "Export", and saving a `.reg` file.
+
+After this, you can delete the folder. **PLEASE BE VERY CAREFUL**, modifying the wrong registry file can **mess up your computer very badly**.

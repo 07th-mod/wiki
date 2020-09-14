@@ -56,9 +56,9 @@ Manually installing the game is not recommended unless you have problems with th
 2. Rename the file ``0.utf`` to ``0_old.utf`` (Backup the original script)
 3. Download the ``0.u``, and place it inside the game folder. **MacOSX Only**: you might need to rename the `0.u` file to `0.utf`
 4. Download and extract the Umineko Voices archive.
-5. When you extracted the voice archive, it should have generated an `arc4.nsa` and `arc5.nsa` file.
-If you have the MangaGamer release, you MUST rename this file to `arc1.nsa` and `arc2.nsa` so the game will detect it (otherwise you will get no voices).
-**Steam users can skip this step** (they should already have an `arc1.nsa`, `arc2.nsa`, and `arc3.nsa` in their game folder).
+3. When you extracted the voice archive, it should have generated an `arc4.nsa` and `arc5.nsa` file. After that, **please check the following**:
+    - If you already have `arc1.nsa`, `arc2.nsa`, `arc3.nsa`, `arc4.nsa`, and `arc5.nsa` in your folder, then you are done with this step.
+    - If you **only** have `arc4.nsa` and `arc5.nsa`, you must rename them to `arc1.nsa` and `arc2.nsa` (so the arc files are sequential)
 6. This step differs depending on your operating system
     - **Windows, Linux**: Download the Windows/Linux executable, and overwrite the existing executable in the game folder 
     - **MacOSX**: Download the zip file, but extract it to a known good location like desktop/downloads/documents, OUTSIDE the game directory. This will give you a `.app` file. Only then, copy the `.app` file into the game directory. This is to avoid a MacOSX security feature which prevents the game from running correctly (will give you a 'script not found').  

@@ -94,6 +94,11 @@ We're not sure how to properly fix this issue, but users have reported the follo
 
 NOTE: you may want to remove it after the install finishes, incase it causes issues with other programs. If you know how to fix this issue 'properly' please help us by commenting on this [GitHub issue](https://github.com/07th-mod/python-patcher/issues/80)
 
+### Other SSL/Certificate Errors
+
+- During download of a file from Github: `SSL/TLS handshake failure: Error: The certificate chain was issued by an authority that is not trusted.`
+    - We had a user with this error when the installer attempted to download a URL from Github (their browser worked fine though). The user was accidentally using their company's VPN to download the installer, which blocked Github. If you get this error, please check if you are on a 'special' network (VPN or Company/School/University Network)/try another network. Also check if your antivirus software intercepts SSL certificates (like Bitdefender).
+
 ## Other Installer Issues
 
 ### Extraction stage fails - I get an "Acess Denied" error when overwriting files

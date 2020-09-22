@@ -48,13 +48,17 @@ The first time you start the game, it is normal to 'freeze' on a white screen fo
 
 - If the game freezes on a black screen it's likely something went wrong - please contact us if this happens.
 
-### My saves don't work after updating
+### Save Compatability / My saves don't work after updating
 
 Saves between different releases of our mod are not compatible.
 
 If you have made old saves, do not press 'continue' or load - please use the chapter jump menu or start a new game. You could get many kinds of wierd behaviour, for example being stuck on a black screen, or the game may crash.
 
 If you want to use the saves on multiple machines (for example, using steam sync), make sure they are all running exactly the same version of the mod.
+
+Global save data (like what you've unlocked so far) *should* be compatible between not only different releases of our mod, but also the unmodded game.
+
+For details on save file locations, see "Save file locations" near the bottom of this page.
 
 ### There is no sound/audio/BGM/voices
 

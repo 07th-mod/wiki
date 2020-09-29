@@ -48,6 +48,7 @@ Supported chapters:
 * Tokihogushi
 * Yoigoshi
 * Miotsukushi Omote
+* Miotsukushi Ura
 
 **The console arcs should be played at the points of the story and in the order indicated by the below flowchart.**
 ![Higurashi Arcs Flowchart](img/flow.png)

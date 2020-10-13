@@ -1,6 +1,9 @@
 # Voice Only Patch (Unsupported)
 
-!!! danger "This page is for manual install only. We highly recommend using the automated installer as installing manually can be error prone. Please see the [Cross Platform Installer](Higurashi-Part-1---Voice-and-Graphics-Patch.md), and follow the instructions"
+!!! info "The full patch (aka "Voices and Graphics patch") now supports an almost vanilla experience with voices. Check it out at [Automatic Install](Higurashi-Part-1---Voice-and-Graphics-Patch.md)"
+
+!!! danger 
+    This page is for manual install only. We highly recommend using the automated installer as installing manually can be error prone. Please see the [Cross Platform Installer](Higurashi-Part-1---Voice-and-Graphics-Patch.md), and follow the instructions
 
 ----
 

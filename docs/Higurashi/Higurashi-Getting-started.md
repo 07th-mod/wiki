@@ -31,6 +31,7 @@ There are two patch variants for the main story arcs:
 | Ch.5 - Meakashi        | <div style="color:green;font-size:24px;line-height:16px">✔</div> | <div style="color:green;font-size:24px;line-height:16px">✔</div> |
 | Ch. 6 - Tsumihoroboshi | <div style="color:green;font-size:24px;line-height:16px">✔</div> | <div style="color:green;font-size:24px;line-height:16px">✔</div> |
 | Ch. 7 - Minagoroshi    | <div style="color:green;font-size:24px;line-height:16px">✔</div> | <div style="color:green;font-size:24px;line-height:16px">✔</div> |
+| Ch. 8 - Matsuribayashi | <div style="color:green;font-size:24px;line-height:16px">✔</div> | <div style="color:green;font-size:24px;line-height:16px">✔</div> |
 
 Community Forks: [Cnnctr's Ch.1 Voice Only Fork](https://github.com/Cnnctr/onikakushi)
 

@@ -1,6 +1,6 @@
 # Manual installation (Windows/Linux/Mac)
 
-!!! danger "This page is for manual install only. We highly recommend using the automated installer as installing manually can be error prone. Please see the [Cross Platform Installer](Umineko-Part-3a-Cross-Platform-Installer.md), and follow the instructions"
+!!! danger "This page is for manual install only. We highly recommend using the automated installer as installing manually can be error prone. Please see the [Cross Platform Installer](Higurashi-Part-1---Voice-and-Graphics-Patch.md), and follow the instructions"
 
 ----
 

@@ -12,33 +12,36 @@ This patch modifies the newest release of Higurashi by MangaGamer, attempting to
 
 ??? info "Click here to see screenshots of the patch"
 
-    These screenshots were taken in-game from the patch version 7.0.0 of Onikakushi.
+    These screenshots were taken in-game from the patch version 7.0.0 of Onikakushi. Click to expand in a new tab.
 
     === "Console Graphics set"
 
-        <a href="../img/console.jpg"><img src="../img/console.jpg"></img></a>
+        <a href="../img/console.jpg" target="_blank"><img src="../img/console.jpg"></img></a>
 
     === "Steam Graphics set"
 
-        <a href="../img/console-mg.jpg"><img src="../img/console-mg.jpg"></img></a>
+        <a href="../img/console-mg.jpg" target="_blank"><img src="../img/console-mg.jpg"></img></a>
 
     === "Vanilla Graphics set"
 
-        <a href="../img/vanilla.jpg"><img src="../img/vanilla.jpg"></img></a>
+        <a href="../img/vanilla.jpg" target="_blank"><img src="../img/vanilla.jpg"></img></a>
 
     ---
 
-    === "All available sprites sets"
+    === "Supported sprites sets"
 
-        <a href="../img/sprite-comparison.jpg"><img src="../img/sprite-comparison.jpg"></img></a>
+        <a href="../img/sprite-comparison.jpg" target="_blank"><img src="../img/sprite-comparison.jpg"></img></a>
 
-    === "All available background sets"
+    === "Supported background sets"
 
-        <a href="../img/background-comparison.jpg"><img src="../img/background-comparison.jpg"></img></a>
+        <a href="../img/background-comparison.jpg" target="_blank"><img src="../img/background-comparison.jpg"></img></a>
 
 * Full voiceover
+* Lipsync support (only in Console sprites)
 * Sprites and backgrounds in 16:9, 1080p and 1440p combined assets
-* Upgraded user interface
+* Exclusive console content (such as bad endings)
+* Upgraded user interface 
+* ADV (textbox at bottom) and NVL (text covering the whole screen) support
 * Opening videos from the console release
 * Optionally Revert to old Higurashi soundtrack and sound effects
 * **(NEW!)** Play with the original PC graphics

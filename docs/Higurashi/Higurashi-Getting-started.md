@@ -1,7 +1,7 @@
 # Introduction
 
 !!! info
-    The links below will take you to the section **2a. Installer**. This is currently the best method to install the patch in any operating system.<br></br>
+    The buttons below will take you to the section **2a. Installer**. This is currently the best method to install the patch in any operating system.<br></br>
     However, if you prefer to install the patch manually, go to section **2b. Manual Installation** instead.
 
 This patch modifies the newest release of Higurashi by MangaGamer, attempting to replicate the Nintendo Switch version of the game. It is compatible with both the [Steam](https://store.steampowered.com/bundle/709/) and any [DRM-free](https://www.mangagamer.com/product_list.php?opt=search&keyword=Higurashi) versions (including GOG) of the game. 
@@ -28,7 +28,7 @@ This patch modifies the newest release of Higurashi by MangaGamer, attempting to
 
     ---
 
-    === "Supported sprites sets"
+    === "Supported sprite sets"
 
         <a href="../img/sprite-comparison.jpg" target="_blank"><img src="../img/sprite-comparison.jpg"></img></a>
 
@@ -54,14 +54,14 @@ There are two patch variants for the main story arcs:
 * The "Voices-Only" patch, **which is deprecated**
     * The Voices-Only patch is part of the initial development of the Full Patch. After the Full Patch is fully released, the Voices-Only patch is superseded by it.
 
-[Install the Full Patch](Higurashi-Part-1---Voice-and-Graphics-Patch.md){: .md-button } [Install the Voices-Only Patch](Higurashi-Part-1.1---Voices-only-Patch.md){: .md-button }
+<div align="center">[Install the patch](Higurashi-Part-1---Voice-and-Graphics-Patch.md){: .md-button }</div>
 
 ## Console Arcs (extra chapters)
 
 !!! warning "The Console Arcs requires Ch.4 Himatsubushi to be played"
     Installing it over your Himatsubushi installation will overwrite the game with the console arcs. We recommend to make a copy of the folder and install the console arcs there. **It is not required to install the Himatsubushi patch before installing the Console Arcs.**
 
-The Console Arcs are a set of exclusive chapters released for the console version of the game. These chapters were not written by Ryukishi, the game creator, but offer a new perspective into the events of the series and some stories that are completely unrelated to the main plot. These chapters are all optional, and a good extra for those who are craving more Higurashi.
+The Console Arcs are a set of exclusive chapters released for the console version of the game. These chapters were not written by Ryukishi, the game creator, but offer a new perspective into the events of the series and some stories that are completely unrelated to the main plot. There is no official release of the Console Arcs for PC, our mod is the only way to get it.
 
 The Console Arcs patch is fully ported and translated by the 07th-Mod staff themselves. This content is unavailable on the PC version of Higurashi Hou (released fully in japanese and currently ongoing by MangaGamer in the west).
 
@@ -73,7 +73,7 @@ The Console Arcs patch is fully ported and translated by the 07th-Mod staff them
 
     And here's a [walkthrough](https://07th-mod.com/wiki/Higurashi/img/walk-omot.jpg) for Miotsukushi Omote.
 
-[Install the Console Arcs](Higurashi-Part-1---Voice-and-Graphics-Patch.md){: .md-button }
+<div align="center">[Install the patch](Higurashi-Part-1---Voice-and-Graphics-Patch.md){: .md-button }</div>
 
 ## Patch Availability
 

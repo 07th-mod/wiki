@@ -54,7 +54,7 @@ There are two patch variants for the main story arcs:
 * The "Voices-Only" patch, **which is deprecated**
     * The Voices-Only patch is part of the initial development of the Full Patch. After the Full Patch is fully released, the Voices-Only patch is superseded by it.
 
-<div align="center">[Install the patch](Higurashi-Part-1---Voice-and-Graphics-Patch.md){: .md-button }</div>
+<center>[Install the patch](Higurashi-Part-1---Voice-and-Graphics-Patch.md){: .md-button }</center>
 
 ## Console Arcs (extra chapters)
 
@@ -73,7 +73,7 @@ The Console Arcs patch is fully ported and translated by the 07th-Mod staff them
 
     And here's a [walkthrough](https://07th-mod.com/wiki/Higurashi/img/walk-omot.jpg) for Miotsukushi Omote.
 
-<div align="center">[Install the patch](Higurashi-Part-1---Voice-and-Graphics-Patch.md){: .md-button }</div>
+<center>[Install the patch](Higurashi-Part-1---Voice-and-Graphics-Patch.md){: .md-button }</center>
 
 ## Patch Availability
 

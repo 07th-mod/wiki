@@ -37,8 +37,8 @@ nav:
 theme:
   name: material
   features:
-     - tabs
-     - instant
+    - tabs
+    - instant
 plugins:
    - search
    - minify
@@ -50,6 +50,9 @@ markdown_extensions:
       permalink: true
   - pymdownx.mark
   - pymdownx.details
+  - pymdownx.tabbed
+  - pymdownx.superfences
+  - attr_list
   - pymdownx.snippets:
       base_path: docs/Snippets
       check_paths: true

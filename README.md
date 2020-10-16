@@ -77,7 +77,7 @@ The markdown extensions are configured in the `mkdocs.yml` file.
 Extensions starting with `pymdownx` are part of the PyMdown Extensions
 package. [Click here](https://facelessuser.github.io/pymdown-extensions/extensions/arithmatex/)
 to see the full list of extensions. Note that each individual extension must
-be enabled in the `mkdcos.yml` file before it can be used.
+be enabled in the `mkdocs.yml` file before it can be used.
 
 #### Using the Pymdownx Snippets extension
 

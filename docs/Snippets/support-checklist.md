@@ -65,7 +65,6 @@ What you have already done to fix the problem: [Nothing/I tried re-installing th
         <li>Send us the <code>*.txt</code> files by zipping all of them, or dragging them into Discord</li>
     </ul>
     <h3>Option 3: Manual navigation</h3>
-    <p>Use this method if the installer doesn&#39;t start at all.</p>
     <h4>Windows</h4>
     <p>If you saved the installer launcher to:</p>
     <p><code>C:\downloads\07th-Mod.Installer.Windows.exe</code></p>

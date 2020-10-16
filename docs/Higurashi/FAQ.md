@@ -160,6 +160,7 @@ This patch was created as more of a side-project to see how the midis in the ori
 Here are the save files locations for Higurashi, Chapter 1 (other chapters use the same pattern):
 
 - Windows: `C:\Users\[YOUR_USERNAME]\AppData\Roaming\MangaGamer\higurashi01`
+    - As a shortcut, paste this into the explorer address bar: `%AppData%/Mangagamer`
 - MacOS: `~/Library/Application Support/unity.MangaGamer.Higurashi When They Cry - Ch.1 Onikakushi/`
 - Linux: `~/.config/unity3d/Mangagamer/Higurashi When They Cry _ Ch_1 Onikakushi`
 
@@ -176,14 +177,4 @@ Also see "Registry file location and clearing" below.
 
 ## Registry file location and clearing (Windows Only)
 
-In most cases, you shouldn't touch the registry files. But if you want to reset everything, you'll need to delete the registry folder for the game.
-
-Type "Registry Editor" in the start menu, then paste the following path in the URL bar, and press Enter.
-
-`Computer\HKEY_CURRENT_USER\Software\Mangagamer\Higurashi When They Cry - Ch.1 Onikakushi`
-
-(If you wanted a different chapter, just click on the appropriate folder on the left navigation pane)
-
-You can take a backup of the folder by right clicking on it, then clicking "Export", and saving a `.reg` file.
-
-After this, you can delete the folder. **PLEASE BE VERY CAREFUL**, modifying the wrong registry file can **mess up your computer very badly**.
+See [Uninstalling registry entries](Uninstall.md#uninstalling-registry-entries-advanced-windows-only)

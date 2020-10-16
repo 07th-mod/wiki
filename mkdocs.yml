@@ -37,8 +37,8 @@ nav:
 theme:
   name: material
   features:
-    - tabs
-    - instant
+    #- navigation.tabs
+    - navigation.instant
 plugins:
    - search
    - minify

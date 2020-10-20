@@ -19,7 +19,7 @@ These features can be installed as an installer option (or manually), but please
 
 ??? info "Italian Language Patch"
 
-    An addon which provides a conversion of Ch.1 (so far) to Italian. [More details in Italian here](https://github.com/Xorboth/onikakushi-ita/releases).
+    An addon which provides a conversion of Ch.1 (so far) to Italian. [More details in Italian here](https://github.com/Xorboth/onikakushi-ita).
 
     Please note:
 

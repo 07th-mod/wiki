@@ -230,6 +230,8 @@
 
 ## Optional downloads
 
+### BGM and Sound Effect Patches
+
 !!! warning "Different BGM and Sound Effects extraction location!"
     Unlike the other archives, **these files need to be extracted inside the ``StreamingAssets`` folder to work**. Overwrite all files if asked.
 
@@ -263,3 +265,7 @@
 </tr>
 </tbody>
 </table>
+
+### Third-Party - Language Patches
+
+--8<-- "third-party-features.md"

@@ -45,6 +45,7 @@ This patch modifies the newest release of Higurashi by MangaGamer, attempting to
 * Opening videos from the console release
 * Optionally Revert to old Higurashi soundtrack and sound effects
 * **(NEW!)** Play with the original PC graphics
+* Third-Party French and Italian Language Patches (see below for chapter support)
 
 ## Main story arcs
 
@@ -74,6 +75,10 @@ The Console Arcs patch is fully ported and translated by the 07th-Mod staff them
     And here's a [walkthrough](https://07th-mod.com/wiki/Higurashi/img/walk-omot.jpg) for Miotsukushi Omote.
 
 <center>[Install the patch](Higurashi-Part-1---Voice-and-Graphics-Patch.md){: .md-button }</center>
+
+## Third-Party Language Support
+
+--8<-- "third-party-features.md"
 
 ## Patch Availability
 

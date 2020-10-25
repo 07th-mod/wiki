@@ -1,7 +1,7 @@
 These features can be installed as an installer option (or manually), but please note 07th-mod does not directly provide support for them. Support locations and more information are below - click to expand each feature:
 
 ??? info "French Language Patch"
-    An addon which provides full conversion of the game to French. [More details in French here](https://github.com/orian34/onikakushi/releases/latest)
+    An addon which provides full conversion of the game to French. [More details in French here](https://github.com/orian34/onikakushi/releases/latest).
 
     **Please note:**
 

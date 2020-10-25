@@ -22,7 +22,7 @@
 
 --8<-- "gnome-crash-warning.md"
 
-1. Find and open your game folder 
+1. Find and open your game folder
     * On Steam: open your Steam library, choose the game from the list, right click on it and click on ``Properties``. Switch to the ``LOCAL FILES`` tab and click on ``Browse local files...``)
 2. After downloading all the files needed for your version of the game, place them in the root folder (where the game ``.exe`` is)
 3. Navigate inside ``HigurashiEp0X_Data/StreamingAssets`` (where ``X`` is the chapter number) and **delete** the folders ``CG`` and ``CGAlt``
@@ -235,6 +235,8 @@
 !!! warning "Different BGM and Sound Effects extraction location!"
     Unlike the other archives, **these files need to be extracted inside the ``StreamingAssets`` folder to work**. Overwrite all files if asked.
 
+**Please see [this FAQ](FAQ.md#higurashi-music-and-sound-effects-changes-april-update) to understand what the BGM/SE Fixes do.** In summary, they partially revert the BGM/SE changes made in the April Higurashi update.
+
 <table>
 <colgroup>
 <col style="width: 4%" />
@@ -253,14 +255,14 @@
 <tbody>
 <tr class="odd">
 <td style="text-align: center;">Question Arcs (all)</td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Higurashi-OldBGM.7z">Classic BGM</a> <br> Restores the old BGM (pre-2019 update)</td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Higurashi-OldSE.7z">Classic Sound Effects</a> <br> Restores the old sound effects (pre-2019 update)</td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Higurashi-OldBGM.7z">Question Arcs BGM Fix</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Higurashi-OldSE.7z">Question Arcs Sound Effects Fix</a></td>
 <td style="text-align: center;"><a href="https://07th-mod.com/misc/Higurashi.OST.Remake.zip">Higurashi OST Remake</a> <br> Handmade remakes of nerve's music. <b>Can be installed over Classic BGM.</b> <br> <a href="https://radiataalice.bandcamp.com/album/hinamizawa-syndrome-vol-1">(listen online)</a></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;">Answer Arcs (all)</td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/HigurashiKai-OldBGM.7z">Classic BGM</a> <br> Restores the old BGM (pre-2019 update)</td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/HigurashiKai-OldSE.7z">Classic Sound Effects</a> <br> Restores the old sound effects (pre-2019 update)</td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/HigurashiKai-OldBGM.7z">Answer Arcs BGM Fix</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/HigurashiKai-OldSE.7z">Answer Arcs Sound Effects Fix</a></td>
 <td style="text-align: center;">None yet</td>
 </tr>
 </tbody>

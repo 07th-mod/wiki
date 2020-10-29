@@ -65,10 +65,15 @@ For details on save file locations, see "Save file locations" near the bottom of
 When debugging this issue, it's worth testing and reporting these things
 
 1. Check the in-game settings to see if the Voice, Music, or Sound Effects volume have been set to zero
-2. We have had reports that people using Razer Synapse/HyperX/Logitech/G Hub/bluetooth headset software might interfere with the voice/audio playback of the game. Check if you are using any software or devices of this type.
+2. The following software (related to audio devices) may interfere with the voice/audio playback of the game. Please try disabling any software or devices of this type:
+    - Razer Synapse
+    - Logitech G Hub
+    - Asus Sonic Studio 3
+    - HyperX Software/Headsets
+    - General Bluetooth headset software
 3. Check if other chapters of the game have this issue, or it's just this chapter
 4. Check if restarting your computer fixes the issue
-5. Try another audio device (for example, your speakers instead of USB headphones)
+5. Try another audio device (for example, your speakers instead of USB/Bluetooth headphones)
 
 See the below for more help on specific cases
 

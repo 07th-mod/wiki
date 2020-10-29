@@ -70,7 +70,10 @@ When debugging this issue, it's worth testing and reporting these things
     - Logitech G Hub
     - Asus Sonic Studio 3
     - HyperX Software/Headsets
-    - General Bluetooth headset software
+    - In general:
+          - Gaming audio software
+          - Bluetooth headset software
+          - Any third-party software which is related to audio on your computer
 3. Check if other chapters of the game have this issue, or it's just this chapter
 4. Check if restarting your computer fixes the issue
 5. Try another audio device (for example, your speakers instead of USB/Bluetooth headphones)

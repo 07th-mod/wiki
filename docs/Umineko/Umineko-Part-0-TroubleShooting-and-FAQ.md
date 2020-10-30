@@ -27,6 +27,25 @@ If you repeatedly get crashes at a certain point of the game, you can try to do 
 
 These crashes can happen on the unmodded game too, but it's possible the increased resolution/graphics cause the crashes to happen more often.
 
+### The game has poor performance or stutter (on text and menus), even on high end systems
+
+- [As reported on the steam forums](https://steamcommunity.com/app/406550/discussions/0/2569816316385480858/?tscn=1604006973):
+    - This issue happens on some Nvidia systems
+    - The stuttering happens **when you move the mouse**
+    - The stuttering issue happpens even even on the base game
+- To solve this issue (as a workaround) use just the keyboard or a controller to play the game, rather than your mouse
+
+??? example "Old info on the performance issue"
+    We're currently investigating some reports of poor performance, especially on the Umineko Answer arcs.
+
+    Please note that the Umineko game engine heavily relies on single threaded CPU performance. This may mean that, even if you have a great GPU, an older CPU may cause you to lag or drop frames. On very underpowered machines (like netbooks with Atom processors, or old laptops), performance won't be very good - we recommend using a different machine to play if possible.
+
+    Having many programs running in the background can also affect performance, especially on low end systems. Please close other programs (including your browser) before running the game.
+
+    The game also seems to perform worse as your screen resolution increases (especially on integrated graphics). You can test this by playing in windowed mode, and reducing the window size - the performance should improve. If this is your problem, try reducing your desktop resolution to 1080p (the resolution the game runs at).
+
+    We have had a couple reports of high end systems having performance problems - we are currently investigating this issue.
+
 ### Mod Menu - Question Arcs
 
 - Changing any ADV related setting will clear the text currently on the screen. You can still view the cleared text on the backlog.
@@ -104,18 +123,6 @@ Here is a list of the controls (on a generic controller):
 - "up/right on the right thumbstick" - Enter Autoplay Mode
 - "down/left on the right thumbstick" - Exit Autoplay Mode
 - other buttons - I couldn't figure out if any of the other buttons do anything.
-
-#### The game has poor performance, even on high end systems
-
-We're currently investigating some reports of poor performance, especially on the Umineko Answer arcs.
-
-Please note that the Umineko game engine heavily relies on single threaded CPU performance. This may mean that, even if you have a great GPU, an older CPU may cause you to lag or drop frames. On very underpowered machines (like netbooks with Atom processors, or old laptops), performance won't be very good - we recommend using a different machine to play if possible.
-
-Having many programs running in the background can also affect performance, especially on low end systems. Please close other programs (including your browser) before running the game.
-
-The game also seems to perform worse as your screen resolution increases (especially on integrated graphics). You can test this by playing in windowed mode, and reducing the window size - the performance should improve. If this is your problem, try reducing your desktop resolution to 1080p (the resolution the game runs at).
-
-We have had a couple reports of high end systems having performance problems - we are currently investigating this issue.
 
 #### Suddenly all my sound/audio/voices/music has stopped working
 

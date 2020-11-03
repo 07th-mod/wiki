@@ -25,7 +25,8 @@
         --8<-- "gnome-crash-warning.md"
 
         1. Install the following using your distribution's package manager:
-            * Python (2 or 3)
+            * Python 3.7 and above
+                * You *can* use Python < 3.7 and Python 2, but Chrome and possibly other browsers will require you to refresh the page sometimes for it to load.
             * Optional: Python Tkinter (This is required to use the file-picker in the installer. Just use autodetection/paste in the game path if you can't install this.)
                 * **Ubuntu**: `sudo apt-get install python-tk`
                 * **Arch Linux**: `sudo pacman -S tk`
@@ -39,7 +40,9 @@
         3. Run the shell script called `install`. The installer will open as a web page in your browser. 
             1. If you cannot get the web page to load, run the `install_safe_mode` script
 
-2. Opening the installer will launch a page in your browser. **Do not close this page**.
+2. Opening the installer will launch a page in your browser. This is the installer's interface.
+    - **Please note: if the page(s) does not load, try refreshing the page**
+    - **Do not close the page**
 3. On the web page that was just launched, click on the game you want to mod.
 4. Fill in your game path, and mod options as applicable, then start the installation.
 

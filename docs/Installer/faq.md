@@ -6,6 +6,10 @@ Welcome to the Installer FAQ. You can find your question using the **instant sea
 
 Please proceed to [How to get support](../Installer/support.md).
 
+## Web GUI does not load / hangs
+
+- **Try refreshing the page(s) if the installer web GUI fails to load**
+
 ## Connection Troubleshooting
 
 First, double check you can access BOTH the following websites in your browser without error:

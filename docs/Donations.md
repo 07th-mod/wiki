@@ -55,7 +55,6 @@ In this section we have a small summary of the total donations received, but in 
 
 ## What if you get way over your goal?
 
-~~We will take down the donations if we manage to reach twice our goal in the same year.~~
 Supposing we can still stay above our goal consistently by the time the current server is due, there are plans to invest the extra money into migrating our server to a more powerful one.
 
 ## What happens to open-source?

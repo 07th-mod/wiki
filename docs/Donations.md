@@ -51,9 +51,7 @@ Donators should also not get any special Discord perks, but this is up for discu
 
 In this section we have a small summary of the total donations received, but in the end, it is all about how much you trust us.
 
-> **Last updated: November 06, 2020**
-> 
-> **Donations total**: **$615.88** (after Paypal donations tax) <br>
+> **Donations are done for this year! Thanks for all the support!**
 
 ## What if you get way over your goal?
 
@@ -63,14 +61,3 @@ Supposing we can still stay above our goal consistently by the time the current 
 ## What happens to open-source?
 
 Nothing! Our code is still freely available and is not going anywhere.
-
-***
-
-## Donate!
-
-Click on the image below to donate:
-
-[![Donate!](https://user-images.githubusercontent.com/4702556/42401332-8e49fd8c-814b-11e8-9a83-b52285cf1051.png
-)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SP5S4ZDV9BNZQ)
-
-[You can also click here](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SP5S4ZDV9BNZQ) to be redirected to our Paypal page.

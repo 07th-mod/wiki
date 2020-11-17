@@ -9,7 +9,7 @@
 ***
 
 !!! note "Help us stay online!"
-    ### [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SP5S4ZDV9BNZQ)!
+    ### **Donations are done for this year! Thanks for all the support!**
     
     We really need your help to keep our servers running. If you want to know more about donations, [click here](https://07th-mod.com/wiki/Donations).
 

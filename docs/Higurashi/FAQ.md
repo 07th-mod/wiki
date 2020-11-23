@@ -108,6 +108,12 @@ A workaround for this is to install XFCE desktop (please look up instructions fo
 
 Please make sure you can launch the base game before applying any mods (please don't make any saves on the base game as they are not compatible with the mod).
 
+### Matsuribayashi Ch. 8 - Fatal error in gc: get thread context failed
+
+If you get a `Fatal error in gc: get thread context failed` error, you may need to either uninstall your third-party (non-Windows/non-Microsoft) antivirus software, or unblock the game from your Antivirus Software.
+
+AVG antivirus in particular is known to cause this issue.
+
 ### Less likely errors
 
 - Some Windows 10 users with Nvidia graphics cards reported a `IndexOutOfRangeException: Array index is out of range.

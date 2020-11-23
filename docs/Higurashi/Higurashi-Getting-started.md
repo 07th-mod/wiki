@@ -108,3 +108,4 @@ Console Arcs:
 | Tokihogushi        | <div style="color:green;font-size:24px;line-height:16px">✔</div> | <div style="color:green;font-size:24px;line-height:16px">✘</div> |
 | Miotsukushi Omote | <div style="color:green;font-size:24px;line-height:16px">✔</div> | <div style="color:green;font-size:24px;line-height:16px">✘</div> |
 | Miotsukushi Ura    | <div style="color:green;font-size:24px;line-height:16px">✔</div> | <div style="color:green;font-size:24px;line-height:16px">✘</div> |
+| Yoigoshi     | <div style="color:green;font-size:24px;line-height:16px">✔</div> | <div style="color:green;font-size:24px;line-height:16px">✘</div> |

@@ -18,8 +18,9 @@
             1. **Warning**: Do not move the `install` file out of the folder. The zip contains two hidden files that are required by the installer. If you try to move the `install` file out of the folder, it won't be able to find them.  If you really want to move the `install` file out of the folder, press ⇧⌘. (Shift-Command-Period) to temporarily enable showing of hidden files and copy the `.7za` and `.aria2c` files to the same folder.
 
         1. Right click on the file called `install` and choose `Open`
-        2. If prompted with a security prompt, choose `Open`
-            1. If you cannot get the web page to load, run the `install_safe_mode` file instead
+            1. If you get a "Operation not permitted" error, [try following these steps](https://osxdaily.com/2018/10/09/fix-operation-not-permitted-terminal-error-macos/) to give Terminal the correct permissions.
+            2. If prompted with a security prompt, choose `Open`
+            3. If you cannot get the web page to load, run the `install_safe_mode` file instead
 
     ??? example "Linux"
         --8<-- "gnome-crash-warning.md"

@@ -101,7 +101,7 @@ What you have already done to fix the problem: [Nothing/I tried re-installing th
         <li>On MacOS: <code>/Users/&lt;yourusername&gt;/Library/Logs/Unity/Player.log</code><br>
         Access it by opening Finder, pressing Shift-Command-G, and pasting in <code>~/Library/Logs/Unity</code>
         </li>
-        <li>On Linux: <code>~/.config/unity3d/MangaGamer/GameName/Player.log</code></li>
+        <li>On Linux: <code>~/.config/unity3d/MangaGamer/Higurashi When They Cry - Ch.5 Meakashi/Player.log</code> (for chapter 5)</li>
     </ul>
 </details>
 

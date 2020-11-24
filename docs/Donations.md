@@ -60,3 +60,7 @@ Supposing we can still stay above our goal consistently by the time the current 
 ## What happens to open-source?
 
 Nothing! Our code is still freely available and is not going anywhere.
+
+## Donate!
+
+> **Donations are done for this year! Thanks for all the support!**

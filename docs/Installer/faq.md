@@ -79,6 +79,8 @@ The following may help you fix this issue:
 
 - Disable any VPN or proxy you are using, or try a different internet connection if you are at a school/hotel/business etc.
 - If you have any Windows updates in-progress, let them fully complete before running the installer (including required restarts)
+- Advanced Users Only: For Windows users, you can follow the following instructions to update your certificates manually [http://woshub.com/updating-trusted-root-certificates-in-windows-10/](http://woshub.com/updating-trusted-root-certificates-in-windows-10/)
+    - NOTE: You may need to try multiple/all methods on that page to get the fix to work.
 - Reboot your computer, then try running the installer again
 
 Also see next FAQ if you're on Linux.

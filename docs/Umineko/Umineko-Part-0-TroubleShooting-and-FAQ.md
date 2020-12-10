@@ -51,6 +51,9 @@ These crashes can happen on the unmodded game too, but it's possible the increas
 - Changing any ADV related setting will clear the text currently on the screen. You can still view the cleared text on the backlog.
 - There are certain parts of the game which are always displayed in NVL mode (text over the whole screen). If you enable ADV mode during these sections, the ADV textbox won't appear until the NVL section ends.
 
+### The game window is too small/too large
+In the main arcs, as well as Umineko Saku, you may freely resize the window by dragging its borders. In Umineko Tsubasa and Hane, however, this doesn't work, as they run on an older version of the game engine that didn't have this feature implemented yet. You may open the `ons.cfg` file with any text editor (e.g. Notepad), and edit the line that says `window-width=1280` to include a different value. The minimum value is `640`, for a resolution of 640x480. There is no known maximum.
+
 ### General Problems
 
 - You can navigate the menu with directional arrow keys on the Question arcs, but not on the Answer arcs. To fix this, you *can* copy the Umineko Question .exe into the Answer Arcs and run it instead, BUT this may silently break things in the Answer arcs - do so at your own risk.

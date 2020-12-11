@@ -89,6 +89,17 @@
     3. If you wish to stop an install that is in progress, you MUST either click the **Quit Installer** button, or close the terminal. If you just close the webpage, the install will still run in the background!
     4. When the install finishes, "The install was successful!" will be displayed. Please carefully read the information that is displayed, which may contain gotchas/extra tasks you may need to do.
 
+=== "Linux Wine"
+
+    Note that **we don't officially support the mods under Wine**, so your experience may vary.
+
+    Running the installer within Wine works for some users, but not for others. It is more reliable to run the installer natively on Linux, then use the `--asset-os` option to install the Windows assets. You can do this following the below instructions:
+
+    1. Please follow the normal "Linux" instructions, but stop before you run the `install.sh`
+    2. Manually run `python main.py --asset-os windows` or `python3 main.py --asset-os windows` to start the installer
+        - The terminal should print `Warning: Force asset argument passed...` if you've activated this mode successfully
+    3. Continue the install as normal, pointing to your Wine install of the game
+
 === "Power Users"
 
     Power users can try a few different ways of running the installer on [this page](../Installer/power-users.md)

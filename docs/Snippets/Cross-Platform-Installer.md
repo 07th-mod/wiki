@@ -1,53 +1,49 @@
 ## Multiplatform Installer Instructions
 
-1. Click on your operating system below for instructions on downloading and launching the installer.
+**Please select your operating system from the tabs below**
 
-    ??? example "Windows"
-        1. Download `07th-Mod.Installer.Windows.exe` to your computer from the [Download Page](https://github.com/07th-mod/python-patcher/releases). **Do not run it directly from your browser** - download it first.
-            1. If a "Windows SmartScreen" warning appears, click "More info", then choose "Run anyway".
-        2. Run the installer - the installer launcher will appear and extract to `07th-mod_installer`.
-            1. **Do not close this window** until you are finished using the installer.
-        3. When extraction is finished, click "Run Installer".
-        4. The installer will open as a web page in your browser. **Do not close this web page**
-            1. If you cannot get the web page to load, restart the installer launcher, and enable the `Run in Safe-Mode` checkbox to run the text-based installer.
-        5. Continue with the instructions below.
+=== "Windows"
 
-    ??? example "Mac"
-        1. Download the [Mac Installer](https://github.com/07th-mod/python-patcher/releases)
-        2. Double-click on the zip to extract it (your browser may automatically do this after downloading)
-            1. **Warning**: Do not move the `install` file out of the folder. The zip contains two hidden files that are required by the installer. If you try to move the `install` file out of the folder, it won't be able to find them.  If you really want to move the `install` file out of the folder, press ⇧⌘. (Shift-Command-Period) to temporarily enable showing of hidden files and copy the `.7za` and `.aria2c` files to the same folder.
+    ## Starting the installer
+    1. Download `07th-Mod.Installer.Windows.exe` to your computer from the [Download Page](https://github.com/07th-mod/python-patcher/releases). **Do not run it directly from your browser** - download it first.
+        - If a "Windows SmartScreen" warning appears, click "More info", then choose "Run anyway".
+    2. Run the installer - the installer launcher will appear and extract to `07th-mod_installer`.
+        - **Do not close this window** until you are finished using the installer.
+    3. When extraction is finished, click "Run Installer".
+    4. The installer will open as a web page in your browser. This is the installer's interface.
+        1. **Please note: if a page takes too long to load, try refreshing the page**
+        2. If you still cannot get the web page to load, restart the installer launcher, and enable the `Run in Safe-Mode` checkbox to run the text-based installer.
 
-        1. Right click on the file called `install` and choose `Open`
-            1. If you get a "Operation not permitted" error, [try following these steps](https://osxdaily.com/2018/10/09/fix-operation-not-permitted-terminal-error-macos/) to give Terminal the correct permissions.
-            2. If prompted with a security prompt, choose `Open`
-            3. If you cannot get the web page to load, run the `install_safe_mode` file instead
+    ## Using the installer
 
-    ??? example "Linux"
-        --8<-- "gnome-crash-warning.md"
+    1. On the web page that was just launched, click on the game you want to mod.
+    2. Fill in your game path, and mod options as applicable, then start the installation.
+    3. If you wish to stop an install that is in progress, you MUST either click the **Quit Installer** button, or close the launcher. If you just close the webpage, the install will still run in the background!
+    4. When the install finishes, "The install was successful!" will be displayed. Please carefully read the information that is displayed, which may contain gotchas/extra tasks you may need to do.
 
-        1. Install the following using your distribution's package manager:
-            * Python 3.7 and above
-                * You *can* use Python < 3.7 and Python 2, but Chrome and possibly other browsers will require you to refresh the page sometimes for it to load.
-            * Optional: Python Tkinter (This is required to use the file-picker in the installer. Just use autodetection/paste in the game path if you can't install this.)
-                * **Ubuntu**: `sudo apt-get install python-tk`
-                * **Arch Linux**: `sudo pacman -S tk`
-                * **Fedora**: `sudo dnf install python2-tkinter` or <br> `sudo dnf install python3-tkinter`
-                * If your distribution is not listed, you may need to lookup how to install tkinter on your particular distribution
-            * **openSUSE** users will need to install the package `python-xml` or the installer will fail with `No module named xml.etree.ElementTree`
-            * **32-bit linux** users will need the following
-                * p7zip (get the '**full**' version) `sudo apt install p7zip-full`
-                * aria2 `sudo apt install aria2`
-        2. Download and extract the [Linux Installer](https://github.com/07th-mod/python-patcher/releases)
-        3. Run the shell script called `install`. The installer will open as a web page in your browser. 
-            1. If you cannot get the web page to load, run the `install_safe_mode` script
+=== "Mac"
 
-2. Opening the installer will launch a page in your browser. This is the installer's interface.
-    - **Please note: if the page(s) does not load, try refreshing the page**
-    - **Do not close the page**
-3. On the web page that was just launched, click on the game you want to mod.
-4. Fill in your game path, and mod options as applicable, then start the installation.
+    ## Starting the installer
+    1. Download the [Mac Installer](https://github.com/07th-mod/python-patcher/releases)
+    2. Double-click on the zip to extract it (your browser may automatically do this after downloading)
+        - **Warning**: Do not move the `install` file out of the folder. The zip contains two hidden files that are required by the installer. If you try to move the `install` file out of the folder, it won't be able to find them.  If you really want to move the `install` file out of the folder, press ⇧⌘. (Shift-Command-Period) to temporarily enable showing of hidden files and copy the `.7za` and `.aria2c` files to the same folder.
 
-    ??? example "Mac - If path auto-detection fails - Finding Game Path Manually"
+    3. Right click on the file called `install` and choose `Open`
+        1. If you get a "Operation not permitted" error, [try following these steps](https://osxdaily.com/2018/10/09/fix-operation-not-permitted-terminal-error-macos/) to give Terminal the correct permissions.
+        2. If prompted with a security prompt, choose `Open`
+        3. If you cannot get the web page to load, run the `install_safe_mode` file instead
+    4. Opening the installer will launch a page in your browser. This is the installer's interface.
+        - **Please note: if the page(s) does not load, try refreshing the page**
+        - **Do not close the page**
+
+    ## Using the installer
+
+    1. On the web page that was just launched, click on the game you want to mod.
+    2. Fill in your game path, and mod options as applicable, then start the installation.
+    3. If you wish to stop an install that is in progress, you MUST either click the **Quit Installer** button, or close the terminal. If you just close the webpage, the install will still run in the background!
+    4. When the install finishes, "The install was successful!" will be displayed. Please carefully read the information that is displayed, which may contain gotchas/extra tasks you may need to do.
+
+    ??? example "If path auto-detection fails - Finding Game Path Manually"
         If game path auto-detection fails, you can follow these instructions to find the game path:
 
         1. Click the big green "Select Application (.app file) Manually (Open File Dialog)" button, just below the path entry textbox.
@@ -62,10 +58,40 @@
 
         For reference, the default steam folder is `~/Library/Application Support/Steam/steamapps/common/`, but yours may be different.
 
-5. To stop an install that is in progress, you MUST close the launcher (on Windows), or the terminal window (On Linux and Mac, the black box with lots of text). Closing only the webpage will have no effect.
-6. Carefully read the information that appears once the install has finished.
+=== "Linux"
 
-(Power users can also try a few different ways of running the installer in [this page](../Installer/power-users.md))
+    --8<-- "gnome-crash-warning.md"
+
+    ## Starting the installer
+    1. Install the following using your distribution's package manager:
+        * Python 3.7 and above
+            * You *can* use Python < 3.7 and Python 2, but Chrome and possibly other browsers will require you to refresh the page sometimes for it to load.
+        * Optional: Python Tkinter (This is required to use the file-picker in the installer. Just use autodetection/paste in the game path if you can't install this.)
+            * **Ubuntu**: `sudo apt-get install python-tk`
+            * **Arch Linux**: `sudo pacman -S tk`
+            * **Fedora**: `sudo dnf install python2-tkinter` or <br> `sudo dnf install python3-tkinter`
+            * If your distribution is not listed, you may need to lookup how to install tkinter on your particular distribution
+        * **openSUSE** users will need to install the package `python-xml` or the installer will fail with `No module named xml.etree.ElementTree`
+        * **32-bit linux** users will need the following
+            * p7zip (get the '**full**' version) `sudo apt install p7zip-full`
+            * aria2 `sudo apt install aria2`
+    2. Download and extract the [Linux Installer](https://github.com/07th-mod/python-patcher/releases)
+    3. Run the shell script called `install`. The installer will open as a web page in your browser.
+        1. If you cannot get the web page to load, run the `install_safe_mode` script
+    4. Opening the installer will launch a page in your browser. This is the installer's interface.
+        - **Please note: if the page(s) does not load, try refreshing the page**
+        - **Do not close the page**
+
+    ## Using the installer
+
+    1. On the web page that was just launched, click on the game you want to mod.
+    2. Fill in your game path, and mod options as applicable, then start the installation.
+    3. If you wish to stop an install that is in progress, you MUST either click the **Quit Installer** button, or close the terminal. If you just close the webpage, the install will still run in the background!
+    4. When the install finishes, "The install was successful!" will be displayed. Please carefully read the information that is displayed, which may contain gotchas/extra tasks you may need to do.
+
+=== "Power Users"
+
+    Power users can try a few different ways of running the installer on [this page](../Installer/power-users.md)
 
 ## Updating Games
 

@@ -98,6 +98,26 @@ The alternative way to fix this issue is to make sure Steam is installed, then r
 
 You may need to do `chmod +x Umineko1to4` or `chmod +x Umineko5to8` to give execute permissions if your executable doesn't launch.
 
+#### Mangagamer + MacOS - I get a "Missing Game Data: No game script found..." error (Even on the base game)
+
+Mangagamer's MacOS version of the game is packaged as a zip file. On MacOS, if you unzip the game and run it where you unzipped it, MacOS will run the application in a sandbox, and in the sandbox it can't find the game script (the `0.utf` (stock) or `0.u` (modded) script file). This results in the `No game script found` error.
+
+To fix this issue with the stock game:
+
+1. Extract the zip file as normal, which should produce the extracted game folder
+2. Copy the extracted game folder to another location on your computer
+3. Try running the game - if it still doesn't work:
+    1. Delete the `.app` file in the copy of the game folder
+    2. Copy the `.app` file from the extracted folder to the copy of the game folder
+
+You can proceed to install the mod once you've got this working.
+
+??? info "Detailed Information"
+
+    Due to a previous security issue with downloaded zip files bypassing app signing checks, MacOS puts apps in a sandbox if they are left in the same directory where they were unzipped, which prevents them from accessing other files in the same directory as themselves (rather than within the .app folder). This is disabled if you move the application after unzipping it.
+
+    The security issue is that you could take a codesigned application that accessed folders with relative paths, and put it into a zip file with unsigned stuff that matched those paths, and they wouldn't be checked for codesigning but would be able to execute.
+
 ## Gameplay Problems
 
 #### Inputs don't work correctly, or the game constantly skips / Controller Support

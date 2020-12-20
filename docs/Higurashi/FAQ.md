@@ -133,6 +133,17 @@ We recommend using the installer's automatic update functionality to avoid this 
 When this happens, the very first thing you need to do is to clean your ``CompiledUpdateScripts`` folder. Make sure your game is updated and the folder is empty, then run the game again. It should hang for a few seconds before playing the intro.
 Always make sure to do these steps after updating your patch!
 
+### Lag and Performance Issues
+
+If the game lags or freezes every now and then, you may want to investigate these things:
+
+- Close ALL programs running in the background, even ones which seem harmless.
+- If your game is on a HDD (spinning disk drive), move it to an SSD (solid state disk). Also may be worth checking if your HDD is performing correctly - long file seek times may cause the game to freeze while assets load.
+- Try to remember if there were any other changes to your computer recently (if the game was working correctly before). Things such as windows updates, driver updates, hardware changes, installed a new program, changed antivirus settings...
+- If the game lags during voice playback, [see this known issue](FAQ.md#the-game-lags-during-voice-playback)
+- Restart your computer
+- While Higurashi isn't that demanding, very old computers/software may not be able to play with good performance. Please keep in mind that this is a Unity game, so some level of performance/modern hardware is required.
+
 ## Higurashi Music and Sound Effects Changes / April Update
 
 ### What was the April update?

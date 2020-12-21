@@ -112,7 +112,7 @@ What you have already done to fix the problem: [Nothing/I tried re-installing th
     <h4>Save Files (*.dat files)</h4>
     <p>You may need to zip all the save files together before you submit them. <b>Only submit if asked.</b></p>
     <ul>
-        <li>Windows: <code>C:\Users\[YOUR_USERNAME]\AppData\Roaming\MangaGamer\higurashi01</code></li>
+        <li>Windows: <code>C:\Users\[YOUR_USERNAME]\AppData\Roaming\MangaGamer\higurashi01</code> or paste this into File Explorer: <code>%appdata%\MangaGamer</code></li>
         <li>MacOS: <code>~/Library/Application Support/unity.MangaGamer.Higurashi When They Cry - Ch.1 Onikakushi</code><br>
         Access it by opening Finder, pressing Shift-Command-G, and pasting in <code>~/Library/Application Support/</code>, then selecting the appropriate game folder
         </li>

@@ -3,7 +3,7 @@
 !!! warning "Alternate mod recommendation"
     While the <nobr>07th-Mod</nobr> team attempts to provide the best Umineko experience possible within the engine of the PC release, the ponscripter engine that Mangagamer chose to use for it is limiting, so some of the advanced features of the PS3 game such as lip sync, sprite/background/rain animations, song subtitles, line jump within the backlog, and several others, are unimplemented. As these would require difficult to implement engine-level modifications, we have no intent to implement them.
 
-    Another team, <nobr>[Umineko Project](https://umineko-project.org)</nobr>, has created a complete port of the PS3 game to PC. Unless you are looking for some specific feature that exists in our mod but not in theirs (such as NVL mode support or alternate spritesets), we highly recommend to check out that version of the game instead. If you preferred <nobr>07th-Mod</nobr> due to it using the official translation (<nobr>Umineko Project</nobr> uses their own translation of the game by default), note that a [fan port of the official translation to their engine](https://github.com/ooa113y/umiproj-wh-tl) has recently become available. 
+    Another team, <nobr>[Umineko Project](https://umineko-project.org)</nobr>, has created a complete port of the PS3 game to PC. Unless you are looking for some specific feature that exists in our mod but not in theirs (such as NVL mode support or alternate spritesets), we highly recommend to check out that version of the game instead.
 
     Note that we **cannot provide any support for <nobr>Umineko Project</nobr>**, as our team did not develop that version and does not maintain it. 
 

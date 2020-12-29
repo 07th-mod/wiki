@@ -195,6 +195,13 @@
 <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voice/Minagoroshi-Voices.7z">Download</a></td>
 <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voice/Matsuribayashi-Voices.7z">Download</a></td>
 </tr>
+<tr class="even">
+<td style="text-align: center;">BGM</td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Meakashi-BGM.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Tsumihoroboshi-BGM.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Minagoroshi-BGM.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Matsuribayashi-BGM.7z">Download</a></td>
+</tr>
 <tr class="odd">
 <td style="text-align: center;">Movies</td>
 <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/video/Meakashi-Movie.7z">Windows</a><br><a href="https://07th-mod.com/rikachama/video/Meakashi-Movie_UNIX.7z">Mac/Linux</a></td>

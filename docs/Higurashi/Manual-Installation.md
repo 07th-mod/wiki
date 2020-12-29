@@ -268,7 +268,7 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;">Answer Arcs (all)</td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/HigurashiKai-OldBGM.7z">Answer Arcs BGM Fix</a></td>
+<td style="text-align: center;">Fix bundled with patch</td>
 <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/HigurashiKai-OldSE.7z">Answer Arcs Sound Effects Fix</a></td>
 <td style="text-align: center;">None yet</td>
 </tr>

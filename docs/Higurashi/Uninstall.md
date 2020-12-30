@@ -29,7 +29,7 @@ We currently don't offer any way to uninstall just the mod by itself - **the bel
 
 The base game makes some registry entries to save things like screen resolution and fullscreen/windowed settings. They are stored in the registry at `Computer\HKEY_CURRENT_USER\Software\Mangagamer\Higurashi When They Cry - Ch.1 Onikakushi` (for Ch.1). In some rare circumstances, it may be necessary to clear your registry entries. Follow the instructions below to clear all Higurashi games' registry settings:
 
-1. Download the file [`delete_higurashi_registry.reg`](/files/delete_higurashi_registry.reg)
+1. Download the file [`delete_higurashi_registry.reg`](../files/delete_higurashi_registry.reg)
 2. Double click the `delete_higurashi_registry.reg` to run it
 3. Accept the UAC prompt
 4. Accept the warning message (press yes)

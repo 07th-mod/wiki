@@ -51,7 +51,9 @@ Donators should also not get any special Discord perks, but this is up for discu
 
 In this section we have a small summary of the total donations received, but in the end, it is all about how much you trust us.
 
-> **Donations are done for this year! Thanks for all the support!**
+> **Last updated: January 1, 2020**
+
+> **Donations total**: **$0** (after Paypal donations tax) <br>
 
 ## What if you get way over your goal?
 
@@ -63,4 +65,9 @@ Nothing! Our code is still freely available and is not going anywhere.
 
 ## Donate!
 
-> **Donations are done for this year! Thanks for all the support!**
+Click on the image below to donate:
+
+[![Donate!](https://user-images.githubusercontent.com/4702556/42401332-8e49fd8c-814b-11e8-9a83-b52285cf1051.png
+)](https://www.paypal.com/donate?hosted_button_id=YULP7WS96Y8TU&source=url)
+
+[You can also click here](https://www.paypal.com/donate?hosted_button_id=YULP7WS96Y8TU&source=url) to be redirected to our Paypal page.

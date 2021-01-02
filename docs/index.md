@@ -9,13 +9,12 @@
 ***
 
 !!! note "Help us stay online!"
-    ### **Donations are done for this year! Thanks for all the support!**
-    
+
     We really need your help to keep our servers running. If you want to know more about donations, [click here](https://07th-mod.com/wiki/Donations).
 
 
     This year's progress:<br>
-    <progress value="100" max="100" data-months-remaining="12"></progress>
+    <progress value="0" max="100" data-months-remaining="12"></progress>
 
 ***
 

@@ -43,7 +43,7 @@ This patch modifies the newest release of Higurashi by MangaGamer, attempting to
 * Upgraded user interface 
 * ADV (textbox at bottom) and NVL (text covering the whole screen) support
 * Opening videos from the console release
-* Optionally Revert to old Higurashi soundtrack and sound effects
+* Revert to old Higurashi soundtrack and sound effects
 * **(NEW!)** Play with the original PC graphics
 * Third-Party French and Italian Language Patches (see below for chapter support)
 

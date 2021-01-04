@@ -130,7 +130,7 @@ We recommend using the installer's automatic update functionality to avoid this 
 
 ### The game is updated but some voices are not playing/some graphics are not showing!
 
-When this happens, the very first thing you need to do is to clean your ``CompiledUpdateScripts`` folder. Make sure your game is updated and the folder is empty, then run the game again. It should hang for a few seconds before playing the intro.
+When this happens, the very first thing you need to do is to clean your ``CompiledUpdateScripts`` folder. While in-game, press **F10**, then under "Save Files and Log Files" click "Show Compiled Scripts". Make sure your game is updated and the folder is empty, then run the game again. It should hang for a few seconds before playing the intro.
 Always make sure to do these steps after updating your patch!
 
 ### Lag and Performance Issues
@@ -181,6 +181,8 @@ This OST remake effort was started before the April patch. It contains handmade 
 This patch was created as more of a side-project to see how the midis in the original 1999 soundtrack could be improved upon with modern instruments, and also to fix clipping and distortion issues in the original Steam release.
 
 ## Save file locations
+
+While in-game, press **F10**, then under "Save Files and Log Files" click "Show Saves". If this does not work, or you want to find your save files manually, see below:
 
 Here are the save files locations for Higurashi, Chapter 1 (other chapters use the same pattern):
 

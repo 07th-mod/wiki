@@ -44,6 +44,8 @@ Mod Download and Install Date: [Downloaded and installed today / Downloaded a we
 State anything "special" about your computer's setup: [School/Company Computer/Old Laptop]
 
 What you have already done to fix the problem: [Nothing/I tried re-installing the mod]
+
+State if anything has changed recently: [Installed new software/update drivers/new hardware]
 </textarea>
 </li>
 <li>Please upload a screenshot of the bug, if applicable <b>and spoiler tag it if it is a spoiler!</b></li>
@@ -93,6 +95,7 @@ What you have already done to fix the problem: [Nothing/I tried re-installing th
     <summary>Getting Higurashi Log Files</summary>
     <h4>Game Log (output_log.txt)</h4>
     <ul>
+        <li>All Platforms: While in-game, press <strong>F10</strong>, then under "Save Files and Log Files" click "Show output_log.txt / Player.log"</li>
         <li>On Windows:</li>
         <ul>
             <li><strong>For Chapters 1-7</strong>, the log is located in the <code>HigurashiEp0X_Data</code> folder, in the game folder. For example <code>C:\games\Steam\steamapps\common\Higurashi When They Cry\HigurashiEp01_Data\output_log.txt</code>.</li>
@@ -112,6 +115,7 @@ What you have already done to fix the problem: [Nothing/I tried re-installing th
     <h4>Save Files (*.dat files)</h4>
     <p>You may need to zip all the save files together before you submit them. <b>Only submit if asked.</b></p>
     <ul>
+        <li>All Platforms: While in-game, press <strong>F10</strong>, then under "Save Files and Log Files" click "Show Saves"</li>
         <li>Windows: <code>C:\Users\[YOUR_USERNAME]\AppData\Roaming\MangaGamer\higurashi01</code> or paste this into File Explorer: <code>%appdata%\MangaGamer</code></li>
         <li>MacOS: <code>~/Library/Application Support/unity.MangaGamer.Higurashi When They Cry - Ch.1 Onikakushi</code><br>
         Access it by opening Finder, pressing Shift-Command-G, and pasting in <code>~/Library/Application Support/</code>, then selecting the appropriate game folder

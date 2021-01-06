@@ -1,4 +1,7 @@
 !!! danger "This page is for manual install only. We highly recommend using the automated installer as installing manually can be error prone. Please see the [Cross Platform Installer](Umineko-Part-3a-Cross-Platform-Installer.md), and follow the instructions"
+
+--8<-- "umineko-project-recommendation.md"
+
 ----
 
 ## Manual installation (Windows/Linux/Mac)

@@ -1,5 +1,7 @@
 # 2. Mod Options
 
+--8<-- "umineko-project-recommendation.md"
+
 This page describes each mod option, so you can decide which mod to install.
 
 ----

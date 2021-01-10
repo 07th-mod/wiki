@@ -48,6 +48,20 @@ The first time you start the game, it is normal to 'freeze' on a white screen fo
 
 - If the game freezes on a black screen it's likely something went wrong - please contact us if this happens.
 
+### My game was working before, but now it's stuck on a black screen
+
+Sometimes save files can become corrupted. This causes the game to get stuck on a black screen, even though the game was working before. If this happens, you should see this somewhere around the top of the game log:
+
+```
+Could not read from save file C:\Users\drojf\AppData\Roaming\MangaGamer\higurashi02\save003.dat
+Exception: System.IndexOutOfRangeException: Array index is out of range.
+  at CLZF2.lzf_decompress (System.Byte[] input, System.Byte[]& output) [0x00000]in <filename unknown>:0
+  at CLZF2.Decompress (System.Byte[] inputBytes) [0x00000] in <filename unknown>:0
+  at Assets.Scripts.Core.Buriko.BurikoSaveManager.GetSaveData (Int32 slot, System.String path) [0x00000] in <filename unknown>:0
+```
+
+If this happens, try deleting the exact save file mentioned in the game log (or moving it so the game can't find it). You can use the recovery menu (if it works) to find the log and save files, or manually find it using the instructions on the [Support page](support.md), Part 4 (Higurashi Game Log and Save Files)
+
 ### Save Compatability / My saves don't work after updating
 
 Saves between different releases of our mod are not compatible.

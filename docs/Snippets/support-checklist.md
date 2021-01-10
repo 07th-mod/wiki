@@ -92,19 +92,19 @@ State if anything has changed recently: [Installed new software/update drivers/n
 
 
 <details class="example">
-    <summary>Getting Higurashi Log Files</summary>
-    <h4>Game Log (output_log.txt)</h4>
+    <summary>Getting Higurashi Game Log Files (output_log.txt or Player.log)</summary>
+    <p>The Game Log is called <strong>output_log.txt</strong> on Windows, and <strong>Player.log</strong> on Linux/Mac</p>
     <ul>
         <li>All Platforms: While in-game, press <strong>F10</strong>, then under "Save Files and Log Files" click "Show output_log.txt / Player.log"</li>
-        <li>On Windows:</li>
+        <li>On Windows (<strong>output_log.txt</strong>):</li>
         <ul>
             <li><strong>For Chapters 1-7</strong>, the log is located in the <code>HigurashiEp0X_Data</code> folder, in the game folder. For example <code>C:\games\Steam\steamapps\common\Higurashi When They Cry\HigurashiEp01_Data\output_log.txt</code>.</li>
             <li><strong>For Chapter 8</strong>, the log is located at<br><code>%appdata%/../LocalLow/Mangagamer/Higurashi When They Cry - Ch.8 Matsuribayashi</code>. The full path is something like<br><code>C:\Users\[YOUR_USERNAME]\AppData\LocalLow\MangaGamer\Higurashi When They Cry - Ch.8 Matsuribayashi\output_log.txt</code></li>
         </ul>
-        <li>On MacOS: <code>/Users/&lt;yourusername&gt;/Library/Logs/Unity/Player.log</code><br>
+        <li>On MacOS (<strong>Player.log</strong>): <code>/Users/&lt;yourusername&gt;/Library/Logs/Unity/Player.log</code><br>
         Access it by opening Finder, pressing Shift-Command-G, and pasting in <code>~/Library/Logs/Unity</code>
         </li>
-        <li>On Linux: <code>~/.config/unity3d/MangaGamer/Higurashi When They Cry - Ch.5 Meakashi/Player.log</code> (for chapter 5)</li>
+        <li>On Linux (<strong>Player.log</strong>): <code>~/.config/unity3d/MangaGamer/Higurashi When They Cry - Ch.5 Meakashi/Player.log</code> (for chapter 5)</li>
     </ul>
 </details>
 

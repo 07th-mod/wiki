@@ -165,6 +165,7 @@ If the game lags or freezes every now and then, you may want to investigate thes
 The April Higurashi update changed the Background Music (BGM) and sound effects. The changes made were:
 
 - Some BGM/SE were replaced with completely different or new BGM/SE
+  - In some cases, duplicates replaced existing BGM, resulting in less variation of BGM tracks
 - Some BGM/SE are modified or re-recorded versions of the same BGM/SE
 - Some BGM had their audio clipping and distortion fixed - but at the same time different sounding instruments or samples may have been used in the new version.
 - The game script was modified in some places to play different songs. Since the mod uses it's own script, we are unaffected by this.

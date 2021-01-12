@@ -35,6 +35,10 @@ These crashes can happen on the unmodded game too, but it's possible the increas
     - The stuttering issue happpens even even on the base game
 - To solve this issue (as a workaround) use just the keyboard or a controller to play the game, rather than your mouse
 
+- We've also had a report that having a PS4 controller plugged in can cause this issue - try unplugging any controllers you have and see if it fixes the issue.
+
+- More generally, if the issue randomly started happening, please try to remember if you installed any drivers, software, or hardware (including USB headphones, input peripherals like controllers, monitors etc.) recently. Try reverting the change you made or removing the devices and see if the issue is fixed.
+
 ??? example "Old info on the performance issue"
     We're currently investigating some reports of poor performance, especially on the Umineko Answer arcs.
 
@@ -177,7 +181,7 @@ If you want to re-enable steam sync, you can do the following:
 - double click `EnableSteamSync.bat` (if you don't have it, [download this and rename it as a .bat file](https://github.com/07th-mod/resources/raw/master/umineko-question/utilities/EnableSteamSync.bat))
 - if successful, you should see a shortcut called `saves` appear in the game folder (might need to refresh the folder). If you double click it, you will see the contents of the `mysav` folder. This tricks steam into syncing the mysav folder.
 
-Please note that even if you move the game folder, your save files will still go into `...\Steam\steamapps\common\Umineko\mysav`, no matter where you place the game folder.
+Please note that even if you move the game folder, in certain cases your save files might still go into `...\Steam\steamapps\common\Umineko\mysav`, no matter where you place the game folder. See below section "My save files have disappeared or changed unexpectedly" for more details.
 
 #### How do I make the game launch in fullscreen automatically
 
@@ -188,7 +192,7 @@ Launch the game with the `--fullscreen` option. You can do this by creating a sh
 If you have the Steam version of Umineko, and you move or copy the game outside of the default folder, **the save folder location will change if Steam is not running**:
 
 - If **steam is not running**, the (modded) game will use the `mysav` folder next to the game executable
-- If **steam is running**, the (modded) game will use the `mysav` folder **located wherever steam thinks it's installed**. Probably this is your `Steam/steamapps/common/[Umineko/Umineko Chiru]/mysav` folder
+- If **steam is running**, and maybe only for the Answer arcs, the (modded) game will use the `mysav` folder **located wherever steam thinks it's installed**. Probably this is your `Steam/steamapps/common/[Umineko/Umineko Chiru]/mysav` folder
 
 Please be aware of this if you want to move the game. Steamless/Mangagamer versions of the game probably are unaffected by this.
 

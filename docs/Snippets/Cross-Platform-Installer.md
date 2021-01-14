@@ -25,14 +25,19 @@
 
     ## Starting the installer
     1. Download the [Mac Installer](https://github.com/07th-mod/python-patcher/releases)
-    2. Double-click on the zip to extract it (your browser may automatically do this after downloading)
-        - **Warning**: Do not move the `install` file out of the folder. The zip contains two hidden files that are required by the installer. If you try to move the `install` file out of the folder, it won't be able to find them.  If you really want to move the `install` file out of the folder, press ⇧⌘. (Shift-Command-Period) to temporarily enable showing of hidden files and copy the `.7za` and `.aria2c` files to the same folder.
+    2. Double-click on the zip file to extract it (your browser might automatically do this after downloading)
 
-    3. Right click on the file called `install` and choose `Open`
+        - **Warning**: Do not move the `install.command` file out of the extracted folder.
+
+            ??? example "Click here if you want to move the install.command file for some reason"
+        The zip contains two hidden files that are required by the installer. If you try to move the `install.command` file out of the folder, it won't be able to find them.  If you really want to move the `install.command` file out of the folder, press ⇧⌘. (Shift-Command-Period) to temporarily enable showing of hidden files and copy the `.7za` and `.aria2c` files to the same folder.
+
+    3. In the extracted files, look for a file called `install.command` (might also be called `install`).
+    4. Right click on this file and choose `Open`
         1. If you get a "Operation not permitted" error, [try following these steps](https://osxdaily.com/2018/10/09/fix-operation-not-permitted-terminal-error-macos/) to give Terminal the correct permissions.
         2. If prompted with a security prompt, choose `Open`
-        3. If you cannot get the web page to load, run the `install_safe_mode` file instead
-    4. Opening the installer will launch a page in your browser. This is the installer's interface.
+        3. If you cannot get the web page to load, run the `install_safe_mode.command` (might be called `install_safe_mode`) file instead
+    5. Opening the installer will launch a page in your browser. This is the installer's interface.
         - **Please note: if the page(s) does not load, try refreshing the page**
         - **Do not close the page**
 

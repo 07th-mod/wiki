@@ -145,3 +145,7 @@ You can try the following solutions. Please try them in order.:
         - The batch file will attempt to give access to Administrators for all files in the folder
 
 If you manage to resolve this issue, **please let us know what method worked** on our [Discord server](https://discord.gg/pf5VhF9).
+
+### The "Updated Steamgrid Icons" option does not work
+
+Try restarting your computer to refresh the steamgrid art.

@@ -119,6 +119,13 @@ Please select a tab below to access the downloads that you require.
     <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=tatarigoroshi&os=unix&unity=5.4.0f1">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=tatarigoroshi&os=unix&unity=5.3.4p1">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=tatarigoroshi&os=unix&unity=5.4.0f1">GOG</a></td>
     <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=himatsubushi&os=unix&unity=5.4.1f1">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=himatsubushi&os=unix&unity=5.4.1f1">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=himatsubushi&os=unix&unity=5.4.1f1">GOG</a></td>
     </tr>
+    <tr class="even">
+    <td style="text-align: center;">Update</td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/og-dll-asset-update/onikakushi-og-dll-asset-update.7z">Download</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/og-dll-asset-update/watanagashi-og-dll-asset-update.7z">Download</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/og-dll-asset-update/tatarigoroshi-og-dll-asset-update.7z">Download</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/og-dll-asset-update/himatsubushi-og-dll-asset-update.7z">Download</a></td>
+    </tr>
     </tbody>
     </table>
 
@@ -188,6 +195,13 @@ Please select a tab below to access the downloads that you require.
     <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/matsuri-system/Matsuribayashi-System.7z">Windows (MangaGamer Answer Arcs Bundle only)</a></td>
     <td style="text-align: center;">None</td>
     <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/matsuri-system/Matsuribayashi-System.7z">Windows (GOG only)</a><br><a href="https://07th-mod.com/rikachama/matsuri-system/Matsuribayashi-System_unix.7z">Linux (GOG only)</a></td>
+    </tr>
+    <tr class="even">
+    <td style="text-align: center;">Update</td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/og-dll-asset-update/meakashi-og-dll-asset-update.7z">Download</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/og-dll-asset-update/tsumihoroboshi-og-dll-asset-update.7z">Download</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/og-dll-asset-update/minagoroshi-og-dll-asset-update.7z">Download</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/og-dll-asset-update/matsuribayashi-og-dll-asset-update.7z">Download</a></td>
     </tr>
     </tbody>
     </table>
@@ -282,6 +296,10 @@ Please select a tab below to access the downloads that you require.
     <tr class="even">
     <td>UI Mod</td>
     <td><a href="https://07th-mod.com/ui.php?chapter=himatsubushi&os=win&unity=5.4.1f1">Windows</a><br><a href="https://07th-mod.com/ui.php?chapter=himatsubushi&os=unix&unity=5.4.1f1">Mac/Linux</a></td>
+    </tr>
+    <tr class="odd">
+    <td>Update</td>
+    <td><a href="https://07th-mod.com/rikachama/og-dll-asset-update/console-og-dll-asset-update.7z">Download</a></td>
     </tr>
     </tbody>
     </table>

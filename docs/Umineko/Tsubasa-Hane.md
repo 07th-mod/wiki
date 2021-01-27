@@ -6,7 +6,7 @@ uses PS3 art when possible. Missing sprites and voices will be added after Enter
 
 ---
 
-!!! warning "The Tsubasa, Hane and Saku patches currently have no voice-acting! This is because Entergram hasn't released these games, and, therefore, they were never voiced at all. When the voiced version of these games is released, we'll attempt to add the voices to the patch."
+!!! warning "The Tsubasa, Hane and Saku patches currently have no voice-acting! This is because our patches pre-date the Entergram release of these stories. We are working on getting the voices in."
 
 !!! warning "Tsubasa and Hane only work on Windows. They were never released for Linux and OS X. This applies to the modded version as well."
 

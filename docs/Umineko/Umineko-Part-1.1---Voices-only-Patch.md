@@ -18,45 +18,70 @@ Manually installing the game is not recommended unless you have problems with th
 
 #### MAC USERS ONLY - Various Gotchas
 - When overwriting one folder with another on Mac, it by default **entirely replaces** the folder rather than merging. To fix this see the instructions for "Merge two folders with the same name" here: [https://support.apple.com/kb/PH25633?locale=en_US](https://support.apple.com/kb/PH25633?locale=en_US)
-- MacOSX has some security features which can prevent the game running correctly. Please follow the install instructions closesly so this doesn't happen.
+- MacOSX has some security features which can prevent the game running correctly. Please follow the install instructions closely so this doesn't happen.
 
-<table>
-<thead>
-<tr class="header">
-<th>Chapter</th>
-<th>Script (0.utf)<br>(Right-Click Save As…)</th>
-<th>Voices</th>
-<th>Executable</th>
-<th>Update</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Question Arcs<br>Ch.1~4</td>
-<td><a href="https://07th-mod.com/download.php?repository=umineko-question&file=voice_only/InDevelopment/ManualUpdates/0.utf">Download 0.u</a></td>
-<td><a href="https://07th-mod.com/Beato/Umineko-Voices-nsa.7z">Download</a></td>
-<td><a href="https://07th-mod.com/Beato-voice/Umineko1to4.exe">Windows</a> <br> <a href="https://07th-mod.com/Beato-voice/Umineko1to4.app.zip">Mac</a> <br> <a href="https://07th-mod.com/Beato-voice/Umineko1to4">Linux</a></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Answer Arcs<br>Ch.5~8</td>
-<td><a href="https://07th-mod.com/download.php?repository=umineko-answer&file=master/voices-only/0.utf">Download 0.u</a></td>
-<td><a href="https://07th-mod.com/Bern/UminekoChiru-Voices-nsa.7z">Download</a></td>
-<td><a href="https://07th-mod.com/Bern-voice/Umineko5to8.exe">Windows</a> <br> <a href="https://07th-mod.com/Bern-voice/Umineko5to8.app.zip">Mac</a> <br> <a href="https://07th-mod.com/Bern-voice/Umineko5to8">Linux</a></td>
-<td><a href="https://07th-mod.com/Bern/UminekoChiruVO-Update1.zip">Update 1</a></td>
-</tr>
-</tbody>
-</table>
+## Downloads
 
-**Linux and Mac Only**: [`linux-libpng-libjpeg.7z`](https://07th-mod.com/Beato/linux-libpng-libjpeg.7z)
+=== "Normal Downloads"
+
+    <table>
+    <thead>
+    <tr class="header">
+    <th>Chapter</th>
+    <th>Script (0.utf)<br>(Right-Click Save As…)</th>
+    <th>Voices</th>
+    <th>Executable</th>
+    <th>Update</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr class="odd">
+    <td>Question Arcs<br>Ch.1~4</td>
+    <td><a href="https://07th-mod.com/download.php?repository=umineko-question&file=voice_only/InDevelopment/ManualUpdates/0.utf">Download 0.u</a></td>
+    <td><a href="https://07th-mod.com/Beato/Umineko-Voices-nsa.7z">Download</a></td>
+    <td>
+    <a href="https://07th-mod.com/higurashi_dlls/umineko_exe/umineko-windows-steam-question.zip">Windows</a><br>
+    <a href="https://07th-mod.com/higurashi_dlls/umineko_exe/umineko-osx-steam-question.zip">Mac</a><br>
+    <a href="https://07th-mod.com/higurashi_dlls/umineko_exe/umineko-linux-steam-question.zip">Linux</a>
+    </td>
+    <td></td>
+    </tr>
+    <tr class="even">
+    <td>Answer Arcs<br>Ch.5~8</td>
+    <td><a href="https://07th-mod.com/download.php?repository=umineko-answer&file=master/voices-only/0.utf">Download 0.u</a></td>
+    <td><a href="https://07th-mod.com/Bern/UminekoChiru-Voices-nsa.7z">Download</a></td>
+    <td>
+    <a href="https://07th-mod.com/higurashi_dlls/umineko_exe/umineko-windows-steam-answer.zip">Windows</a><br>
+    <a href="https://07th-mod.com/higurashi_dlls/umineko_exe/umineko-osx-steam-answer.zip">Mac</a><br>
+    <a href="https://07th-mod.com/higurashi_dlls/umineko_exe/umineko-linux-steam-answer.zip">Linux</a>
+    </td>
+    <td><a href="https://07th-mod.com/Bern/UminekoChiruVO-Update1.zip">Update 1</a></td>
+    </tr>
+    </tbody>
+    </table>
+
+    **Linux and Mac Only**: [`linux-libpng-libjpeg.7z`](https://07th-mod.com/Beato/linux-libpng-libjpeg.7z)
+
+=== "Legacy Executables"
+
+    ### Legacy Executables
+
+    These legacy executables are provided in case you have problems with the new executables
+
+    - [Question Arcs Windows](https://07th-mod.com/Beato-voice/Umineko1to4.exe)
+    - [Question Arcs Mac](https://07th-mod.com/Beato-voice/Umineko1to4.app.zip)
+    - [Question Arcs Linux](https://07th-mod.com/Beato-voice/Umineko1to4)
+    - [Answer Arcs Windows](https://07th-mod.com/Bern-voice/Umineko5to8.exe)
+    - [Answer Arcs Mac](https://07th-mod.com/Bern-voice/Umineko5to8.app.zip)
+    - [Answer Arcs Linux](https://07th-mod.com/Bern-voice/Umineko5to8)
 
 ## Installing the patch
 
 1. Find and open your game folder (open your Steam library, choose the game from the list, right click on it and click on ``Properties``. Switch to the ``LOCAL FILES`` tab and click on ``Browse local files...``)
 2. Rename the file ``0.utf`` to ``0_old.utf`` (Backup the original script)
-3. Download the ``0.u``, and place it inside the game folder. **MacOSX Only**: you might need to rename the `0.u` file to `0.utf`
+3. Download the ``0.u``, and place it inside the game folder.
 4. Download and extract the Umineko Voices archive.
-3. When you extracted the voice archive, it should have generated an `arc4.nsa` and `arc5.nsa` file. After that, **please check the following**:
+5. When you extracted the voice archive, it should have generated an `arc4.nsa` and `arc5.nsa` file. After that, **please check the following**:
     - If you already have `arc1.nsa`, `arc2.nsa`, `arc3.nsa`, `arc4.nsa`, and `arc5.nsa` in your folder, then you are done with this step.
     - If you **only** have `arc4.nsa` and `arc5.nsa`, you must rename them to `arc1.nsa` and `arc2.nsa` (so the arc files are sequential)
 6. This step differs depending on your operating system

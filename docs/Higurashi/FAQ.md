@@ -48,7 +48,11 @@ The first time you start the game, it is normal to 'freeze' on a white screen fo
 
 - If the game freezes on a black screen it's likely something went wrong - please contact us if this happens.
 
-### My game was working before, but now it's stuck on a black screen
+### Black screen on game startup issues
+
+There are many different problems that can cause a black screen on game startup. The issue is usually recorded in the game log (see [Higurashi Support](support.md) on how to find this) - please submit the game log to us if [reporting a black screen issue on Discord](support.md).
+
+#### My game was working before, but now it's stuck on a black screen
 
 Sometimes save files can become corrupted. This causes the game to get stuck on a black screen, even though the game was working before. If this happens, you should see this somewhere around the top of the game log:
 
@@ -61,6 +65,14 @@ Exception: System.IndexOutOfRangeException: Array index is out of range.
 ```
 
 If this happens, try deleting the exact save file mentioned in the game log (or moving it so the game can't find it). You can use the recovery menu (if it works) to find the log and save files, or manually find it using the instructions on the [Support page](support.md), Part 4 (Higurashi Game Log and Save Files)
+
+#### Black screen randomly/after windows/graphics update with `IndexOutOfRangeException` in log
+
+If you have a black screen, and also have a `IndexOutOfRangeException: Array index is out of range.
+at UnityEngine.Display.RecreateDisplayList (System.IntPtr[] nativeDisplay) [0x00000] in <filename unknown>:0`
+in your game log, you probably have this problem.
+
+This issue can affect all Unity games, not just Higurashi, and has to do with aspect ratio options in your graphics card control panel. See the second reply on [this steam forum post](https://steamcommunity.com/discussions/forum/1/1480982971174752598/) for details on how to fix this issue in Nvidia Control Panel (and also for Intel, AMD further in the thread).
 
 ### Save Compatability / My saves don't work after updating
 
@@ -127,11 +139,6 @@ Please make sure you can launch the base game before applying any mods (please d
 If you get a `Fatal error in gc: get thread context failed` error, you may need to either uninstall your third-party (non-Windows/non-Microsoft) antivirus software, or unblock the game from your Antivirus Software.
 
 AVG antivirus in particular is known to cause this issue.
-
-### Less likely errors
-
-- Some Windows 10 users with Nvidia graphics cards reported a `IndexOutOfRangeException: Array index is out of range.
-at UnityEngine.Display.RecreateDisplayList (System.IntPtr[] nativeDisplay) [0x00000] in <filename unknown>:0` error. This issue can affect all Unity games, not just Higurashi. See the second reply on [this steam forum post](https://steamcommunity.com/discussions/forum/1/1480982971174752598/) for details on how to fix this issue in Nvidia Control Panel.
 
 ## Known Issues - Manual Install
 

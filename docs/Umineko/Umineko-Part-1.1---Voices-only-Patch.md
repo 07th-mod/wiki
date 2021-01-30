@@ -40,9 +40,9 @@ Manually installing the game is not recommended unless you have problems with th
     <td><a href="https://07th-mod.com/download.php?repository=umineko-question&file=voice_only/InDevelopment/ManualUpdates/0.utf">Download 0.u</a></td>
     <td><a href="https://07th-mod.com/Beato/Umineko-Voices-nsa.7z">Download</a></td>
     <td>
-    <a href="https://07th-mod.com/higurashi_dlls/umineko_exe/umineko-windows-steam-question.zip">Windows</a><br>
-    <a href="https://07th-mod.com/higurashi_dlls/umineko_exe/umineko-osx-steam-question.zip">Mac</a><br>
-    <a href="https://07th-mod.com/higurashi_dlls/umineko_exe/umineko-linux-steam-question.zip">Linux</a>
+    <a href="https://github.com/07th-mod/ponscripter-fork/releases/latest/download/umineko-windows-steam-question.zip">Windows</a><br>
+    <a href="https://github.com/07th-mod/ponscripter-fork/releases/latest/download/umineko-osx-steam-question.zip">Mac</a><br>
+    <a href="https://github.com/07th-mod/ponscripter-fork/releases/latest/download/umineko-linux-steam-question.zip">Linux</a>
     </td>
     <td></td>
     </tr>
@@ -51,9 +51,9 @@ Manually installing the game is not recommended unless you have problems with th
     <td><a href="https://07th-mod.com/download.php?repository=umineko-answer&file=master/voices-only/0.utf">Download 0.u</a></td>
     <td><a href="https://07th-mod.com/Bern/UminekoChiru-Voices-nsa.7z">Download</a></td>
     <td>
-    <a href="https://07th-mod.com/higurashi_dlls/umineko_exe/umineko-windows-steam-answer.zip">Windows</a><br>
-    <a href="https://07th-mod.com/higurashi_dlls/umineko_exe/umineko-osx-steam-answer.zip">Mac</a><br>
-    <a href="https://07th-mod.com/higurashi_dlls/umineko_exe/umineko-linux-steam-answer.zip">Linux</a>
+    <a href="https://github.com/07th-mod/ponscripter-fork/releases/latest/download/umineko-windows-steam-answer.zip">Windows</a><br>
+    <a href="https://github.com/07th-mod/ponscripter-fork/releases/latest/download/umineko-osx-steam-answer.zip">Mac</a><br>
+    <a href="https://github.com/07th-mod/ponscripter-fork/releases/latest/download/umineko-linux-steam-answer.zip">Linux</a>
     </td>
     <td><a href="https://07th-mod.com/Bern/UminekoChiruVO-Update1.zip">Update 1</a></td>
     </tr>

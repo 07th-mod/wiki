@@ -40,9 +40,9 @@ Instructions on installing the Answer Arcs ADV Addon are at the bottom of the pa
     <td><a href="https://07th-mod.com/Beato/Umineko-Voices-nsa.7z">Download</a></td>
     <td><a href="https://07th-mod.com/Beato/1080p/Umineko-Graphics-1080p-v3.7z">1080p Graphics</a></td>
     <td>
-    <a href="https://07th-mod.com/higurashi_dlls/umineko_exe/umineko-windows-steam-question.zip">Windows</a><br>
-    <a href="https://07th-mod.com/higurashi_dlls/umineko_exe/umineko-osx-steam-question.zip">Mac</a><br>
-    <a href="https://07th-mod.com/higurashi_dlls/umineko_exe/umineko-linux-steam-question.zip">Linux</a>
+    <a href="https://github.com/07th-mod/ponscripter-fork/releases/latest/download/umineko-windows-steam-question.zip">Windows</a><br>
+    <a href="https://github.com/07th-mod/ponscripter-fork/releases/latest/download/umineko-osx-steam-question.zip">Mac</a><br>
+    <a href="https://github.com/07th-mod/ponscripter-fork/releases/latest/download/umineko-linux-steam-question.zip">Linux</a>
     </td>
     <td>
     <a href="https://07th-mod.com/Beato/1080p/Umineko-Update-1080p-Rolling-ALL-OS.7z">-1080p Rolling Update</a>
@@ -82,9 +82,9 @@ Instructions on installing the Answer Arcs ADV Addon are at the bottom of the pa
     <td><a href="https://07th-mod.com/Bern/UminekoChiru-Voices-nsa.7z">Download</a></td>
     <td><a href="https://07th-mod.com/Bern/UminekoChiru-Graphics-v2.7z">Download</a></td>
     <td>
-    <a href="https://07th-mod.com/higurashi_dlls/umineko_exe/umineko-windows-steam-answer.zip">Windows</a><br>
-    <a href="https://07th-mod.com/higurashi_dlls/umineko_exe/umineko-osx-steam-answer.zip">Mac</a><br>
-    <a href="https://07th-mod.com/higurashi_dlls/umineko_exe/umineko-linux-steam-answer.zip">Linux</a>
+    <a href="https://github.com/07th-mod/ponscripter-fork/releases/latest/download/umineko-windows-steam-answer.zip">Windows</a><br>
+    <a href="https://github.com/07th-mod/ponscripter-fork/releases/latest/download/umineko-osx-steam-answer.zip">Mac</a><br>
+    <a href="https://github.com/07th-mod/ponscripter-fork/releases/latest/download/umineko-linux-steam-answer.zip">Linux</a>
     </td>
     <td><a href="https://07th-mod.com/Bern/Umineko-Answer-Update-Full-Rolling-ALL-OS.7z">Rolling Update</a></td>
     </tr>

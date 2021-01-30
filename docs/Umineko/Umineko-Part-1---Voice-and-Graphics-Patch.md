@@ -107,9 +107,9 @@ Instructions on installing the Answer Arcs ADV Addon are at the bottom of the pa
 
     These legacy executables are provided in case you have problems with the new executables
 
-    - [Question Arcs Windows](https://07th-mod.com/Beato/Umineko1to4.exe)
-    - [Question Arcs Mac](https://07th-mod.com/Beato/Umineko1to4.app.zip)
-    - [Question Arcs Linux](https://07th-mod.com/Beato/Umineko1to4)
+    - [Question Arcs Windows](https://07th-mod.com/Beato/1080p/Umineko1to4.exe)
+    - [Question Arcs Mac](https://07th-mod.com/Beato/1080p/Umineko1to4.app.zip)
+    - [Question Arcs Linux](https://07th-mod.com/Beato/1080p/Umineko1to4)
     - [Answer Arcs Windows](https://07th-mod.com/Bern/Umineko5to8.exe)
     - [Answer Arcs Mac](https://07th-mod.com/Bern/Umineko5to8.app.zip)
     - [Answer Arcs Linux](https://07th-mod.com/Bern/Umineko5to8)

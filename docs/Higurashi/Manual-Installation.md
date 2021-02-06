@@ -64,7 +64,6 @@ Please select a tab below to access the downloads that you require.
 
 === "Question Arcs"
 
-    ### Question Arcs
 
     <table style="width:100%;">
     <thead>
@@ -131,7 +130,6 @@ Please select a tab below to access the downloads that you require.
 
 === "Answer Arcs"
 
-    ### Answer Arcs
 
     !!! warning "Important: about compatibility packs"
         Some chapters require extra files called **Compatibility packs**, such as **Ch.8 Matsuribayashi** from GOG on Windows and Linux. The patch will not work if the compatibility pack is not installed.
@@ -210,9 +208,6 @@ Please select a tab below to access the downloads that you require.
 
 === "Optional Q/A Downloads"
 
-    ### Optional downloads
-
-    #### BGM and Sound Effect Patches
 
     !!! warning "Different BGM and Sound Effects extraction location!"
         Unlike the other archives, **these files need to be extracted inside the ``StreamingAssets`` folder to work**. Overwrite all files if asked.
@@ -252,7 +247,6 @@ Please select a tab below to access the downloads that you require.
 
 === "Console Arcs"
 
-    ### Console Arcs
 
     !!! warning "The console arcs requires Ch.4 Himatsubushi to be played"
         Installing it in over your Himatsubushi installation will overwrite the game with the console arcs. We recommend to make a copy of the folder and install the console arcs there. **It is not required to install the Himatsubushi patch before installing the Console Arcs.**
@@ -306,6 +300,5 @@ Please select a tab below to access the downloads that you require.
 
 === "Language Patches"
 
-    ### Third-Party - Language Patches
 
     --8<-- "third-party-features.md"

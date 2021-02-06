@@ -77,7 +77,8 @@ This page is dedicated to credit all collaborators who helped us along the way. 
 
 ### [O\[A\]](https://github.com/ooa113y)
 
-* Umineko Hane and Tsubasa patches
+* Umineko Hane, Tsubasa and Saku patches
+* ponscripter documentation
 * Script Editing
 * Bugfixing
 * Support

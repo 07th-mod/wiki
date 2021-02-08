@@ -187,7 +187,8 @@ More details can be seen below:
 The mod installer provides a “BGM Fix” and “SE Fix” option. The approach taken to fix each BGM or Sound Effect is as follows:
 
 - If the BGM or Sound Effect was replaced with an entirely different one, we have reverted it back to the original
-- If the BGM or Sound Effect is roughly the same, we use the new version. On some tracks, this fixes clipping/distortion previously present (such as fixing the heavy clipping on msys28, “Lie Lies Lies Lie”)
+- If the BGM or Sound Effect suffers from heavy distortion or other audio issues and the new file is roughly the same minus the issues, we use the new version. 
+    - Example: heavy clipping on msys28, “Lie Lies Lies Lie”
 
 In the future, we might offer a “full reversion” patch which will revert every file to before the April update, but currently this is not available.
 

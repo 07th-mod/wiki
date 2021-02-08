@@ -97,6 +97,20 @@ Please select a tab below to access the downloads that you require.
     <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voice/Tatarigoroshi-Voices.7z">Download</a></td>
     <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voice/Himatsubushi-Voices.7z">Download</a></td>
     </tr>
+    <tr class="even">
+    <td style="text-align: center;">BGM</td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Higurashi-OldBGM.7z">Download</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Higurashi-OldBGM.7z">Download</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Higurashi-OldBGM.7z">Download</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Higurashi-OldBGM.7z">Download</a></td>
+    </tr>
+    <tr class="even">
+    <td style="text-align: center;">Sound Effects</td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Higurashi-OldSE.7z">Download</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Higurashi-OldSE.7z">Download</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Higurashi-OldSE.7z">Download</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Higurashi-OldSE.7z">Download</a></td>
+    </tr>
     <tr class="odd">
     <td style="text-align: center;">Movies</td>
     <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/video/Onikakushi-Movie.7z">Windows</a><br><a href="https://07th-mod.com/rikachama/video/Onikakushi-Movie_UNIX.7z">Mac/Linux</a></td>
@@ -166,6 +180,20 @@ Please select a tab below to access the downloads that you require.
     <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voice/Minagoroshi-Voices.7z">Download</a></td>
     <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voice/Matsuribayashi-Voices.7z">Download</a></td>
     </tr>
+    <tr class="even">
+    <td style="text-align: center;">BGM</td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/HigurashiKai-OldBGM-v2.7z.7z">Download</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/HigurashiKai-OldBGM-v2.7z.7z">Download</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/HigurashiKai-OldBGM-v2.7z.7z">Download</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/HigurashiKai-OldBGM-v2.7z.7z">Download</a></td>
+    </tr>
+    <tr class="even">
+    <td style="text-align: center;">Sound Effects</td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/HigurashiKai-OldSE.7z">Download</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/HigurashiKai-OldSE.7z">Download</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/HigurashiKai-OldSE.7z">Download</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/HigurashiKai-OldSE.7z">Download</a></td>
+    </tr>
     <tr class="odd">
     <td style="text-align: center;">Movies</td>
     <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/video/Meakashi-Movie.7z">Windows</a><br><a href="https://07th-mod.com/rikachama/video/Meakashi-Movie_UNIX.7z">Mac/Linux</a></td>
@@ -232,14 +260,14 @@ Please select a tab below to access the downloads that you require.
     <tbody>
     <tr class="odd">
     <td style="text-align: center;">Question Arcs (all)</td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Higurashi-OldBGM.7z">Question Arcs BGM Fix</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Higurashi-OldSE.7z">Question Arcs Sound Effects Fix</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/mg_question_bgm_april.7z">MangaGamer April Update BGM</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/mg_question_se_april.7z">MangaGamer April Update Sound Effects</a></td>
     <td style="text-align: center;"><a href="https://07th-mod.com/misc/Higurashi.OST.Remake.zip">Higurashi OST Remake</a> <br> Handmade remakes of nerve's music. <b>Can be installed over Classic BGM.</b> <br> <a href="https://radiataalice.bandcamp.com/album/hinamizawa-syndrome-vol-1">(listen online)</a></td>
     </tr>
     <tr class="even">
     <td style="text-align: center;">Answer Arcs (all)</td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/HigurashiKai-OldBGM-v2.7z">Answer Arcs BGM Fix</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/HigurashiKai-OldSE.7z">Answer Arcs Sound Effects Fix</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/mg_answer_bgm_april.7z">MangaGamer April Update BGM</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/mg_answer_se_april.7z">MangaGamer April Update Sound Effects</a></td>
     <td style="text-align: center;">None yet</td>
     </tr>
     </tbody>

@@ -59,14 +59,16 @@ State if anything has changed recently: [Installed new software/update drivers/n
     You can use any of the methods below to get your log file.
     <h3>Option 1: In your browser downloads after an install</h3>
     <p>The installer automatically downloads .zip file containing your logs after an install finishes (or fails). Just check your recent browser downloads for a <code>07th-mod-logs.zip</code></p>
-    <h3>Option 2: From the install launcher (Windows Only)</h3>
+    <h3>Option 2: "Click here to download the Install Logs" button in the installer</h3>
+    <p>After choosing any game in the installer, there will be a <b>"📖 Click here to download the Install Logs"</b> link near the bottom of the page. This link will download the logs as a <code>07th-mod-logs.zip</code> to your browser downloads.</p>
+    <h3>Option 3: From the install launcher (Windows Only)</h3>
     <ul>
         <li>Open the install launcher</li>
         <li>Click the <b style="background: SteelBlue; color:white; padding: 5px">⯈ Advanced Tools</b> expander</li>
         <li>Click the <b style="background: SteelBlue; color:white; padding: 5px">Show Installer Logs</b> button. An explorer window will appear containing the log files. </li>
         <li>Send us the <code>*.txt</code> files by zipping all of them, or dragging them into Discord</li>
     </ul>
-    <h3>Option 3: Manual navigation</h3>
+    <h3>Option 4: Manual navigation</h3>
     <h4>Windows</h4>
     <p>If you saved the installer launcher to:</p>
     <p><code>C:\downloads\07th-Mod.Installer.Windows.exe</code></p>
@@ -74,7 +76,7 @@ State if anything has changed recently: [Installed new software/update drivers/n
     <p><code>C:\downloads\07th-mod_installer\INSTALLER_LOGS\MOD-INSTALLER-LOG-[date].txt</code></p>
     <h4>Linux and Mac</h4>
     <p>Look directly in the <code>install_data\INSTALLER_LOGS</code> folder, as Linux and Mac do not have a launcher.</p>
-    <h3>Option 4: From the game folder</h3>
+    <h3>Option 5: From the game folder</h3>
     <p>The installer will also attempt to save a log to the game being modded. Use this method if you have moved or deleted the installer launcher, or if you want to check the log for a specific game.</p>
     <h4>Windows</h4>
     <ul>

@@ -228,3 +228,7 @@ Also see "Registry file location and clearing" below.
 ## Registry file location and clearing (Windows Only)
 
 See [Uninstalling registry entries](Uninstall.md#uninstalling-registry-entries-advanced-windows-only)
+
+## I have questions about this Miotsukushi console arc
+
+We have a separate [Miotsukushi FAQ page](MiotsukushiFAQ.md) to answer those

@@ -1,6 +1,6 @@
 # Donations
 
-> **In case you just want to donate, [click here](#donate) to be taken directly to the section where you can find our Paypal donation link.**
+> **In case you just want to donate, [click here](https://www.paypal.com/donate?hosted_button_id=YULP7WS96Y8TU&source=url) to be taken directly to our Paypal donation link.**
 
 Starting from July 2018, we started accepting donations to host our own server. In this article, we will describe in detail why we decided to accept donations and how this will improve our work.
 
@@ -51,9 +51,9 @@ Donators should also not get any special Discord perks, but this is up for discu
 
 In this section we have a small summary of the total donations received, but in the end, it is all about how much you trust us.
 
-> **Last updated: March 03, 2020**
+> **Last updated: March 06, 2020**
 
-> **Donations total**: **$74.86** (after Paypal donations tax) <br>
+> **Donations total**: **$120.76** (after Paypal donations tax) <br>
 
 ## What if you get way over your goal?
 

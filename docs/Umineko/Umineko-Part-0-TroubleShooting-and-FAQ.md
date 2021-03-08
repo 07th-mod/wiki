@@ -16,6 +16,7 @@ The engine is known to crash or freeze under certain conditions:
 - can hard crash randomly ("This program has stopped working...")
 - can hard crash at specific points of the game (for example:
     - in the Question just before a scene at the festival
+- when using the Special K mod framework - please make sure this is disabled
 
 If you repeatedly get crashes at a certain point of the game, you can try to do the following (not guaranteed to work):
 

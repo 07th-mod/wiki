@@ -155,6 +155,12 @@ Here is a list of the controls (on a generic controller):
 - "down/left on the right thumbstick" - Exit Autoplay Mode
 - other buttons - I couldn't figure out if any of the other buttons do anything.
 
+#### Audio does not play through my headset (or other device), but other games/programs do
+
+Umineko decides which device to play audio on on startup. It won't change to a new device if you plug it in or switch devices while the game is running.
+
+Please select the audio device before starting the game. You may also want to try restarting your computer with your chosen device plugged in, then starting the game.
+
 #### Suddenly all my sound/audio/voices/music has stopped working
 
 In this game engine, pressing 'm' mutes all sound - you probably pressed this by accident. Press 'm' again to unmute.

@@ -25,7 +25,9 @@ in the <b>#higu_support</b> or <b>#umi_support</b> channel, after accepting the 
 <textarea style="width:100%;height: 440px;font-family:Arial, Helvetica, sans-serif">
 The problem: [The game crashes on startup]
 
-Reproduction Instructions: [Launch the game and wait 10 seconds]
+Reproduction Instructions: [Launch the game, load a save, wait 10 seconds]
+
+Mod/Game history: [I installed the original game a long time ago, but I did a fresh install recently, then I installed the mod one week ago, and updated the mod yesterday]
 
 The game: [Higurashi Ch.3]
 
@@ -40,6 +42,8 @@ I installed the base game: [Yesterday/Last Week/Last Year]
 I installed the mod: [Manually/Using the Installer]
 
 Mod Download and Install Date: [Downloaded and installed today / Downloaded a week ago, installed yesterday]
+
+Mod Options: [Playing in Japanese/French/other language, OG sprites etc.]
 
 State anything "special" about your computer's setup: [School/Company Computer/Old Laptop]
 

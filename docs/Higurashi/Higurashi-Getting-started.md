@@ -16,25 +16,25 @@ This patch modifies the newest release of Higurashi by MangaGamer, attempting to
 
     === "Console Graphics set"
 
-        <a href="../img/console.jpg" target="_blank"><img src="../img/console.jpg"></img></a>
+        <a href="../img/console.webp" target="_blank"><img src="../img/console.webp"></img></a>
 
     === "Steam Graphics set"
 
-        <a href="../img/console-mg.jpg" target="_blank"><img src="../img/console-mg.jpg"></img></a>
+        <a href="../img/console-mg.webp" target="_blank"><img src="../img/console-mg.webp"></img></a>
 
     === "Vanilla Graphics set"
 
-        <a href="../img/vanilla.jpg" target="_blank"><img src="../img/vanilla.jpg"></img></a>
+        <a href="../img/vanilla.webp" target="_blank"><img src="../img/vanilla.webp"></img></a>
 
     ---
 
     === "Supported sprite sets"
 
-        <a href="../img/sprite-comparison.jpg" target="_blank"><img src="../img/sprite-comparison.jpg"></img></a>
+        <a href="../img/sprite-comparison.webp" target="_blank"><img src="../img/sprite-comparison.webp"></img></a>
 
     === "Supported background sets"
 
-        <a href="../img/background-comparison.jpg" target="_blank"><img src="../img/background-comparison.jpg"></img></a>
+        <a href="../img/background-comparison.webp" target="_blank"><img src="../img/background-comparison.webp"></img></a>
 
 * Full voiceover
 * Lipsync support (only in Console sprites)
@@ -46,6 +46,10 @@ This patch modifies the newest release of Higurashi by MangaGamer, attempting to
 * Revert to old Higurashi soundtrack and sound effects
 * **(NEW!)** Play with the original PC graphics
 * Third-Party French and Italian Language Patches (see below for chapter support)
+
+## Third-Party Language Support
+
+--8<-- "third-party-features.md"
 
 ## Main story arcs
 
@@ -66,46 +70,6 @@ The Console Arcs are a set of exclusive chapters released for the console versio
 
 The Console Arcs patch is fully ported and translated by the 07th-Mod staff themselves. This content is unavailable on the PC version of Higurashi Hou (released fully in japanese and currently ongoing by MangaGamer in the west).
 
-??? info "Click here to see a flowchart of the playing order of the console arcs"
+Here's a [walkthrough](https://07th-mod.com/wiki/Higurashi/img/walk-yoig.webp) for anyone who wants to know which choices in Yoigoshi lead to which endings. And here's a [walkthrough](https://07th-mod.com/wiki/Higurashi/img/walk-omot.webp) for Miotsukushi Omote.
 
-    ![Higurashi Arcs Flowchart](img/flow.png)
-
-    Here's a [walkthrough](https://07th-mod.com/wiki/Higurashi/img/walk-yoig.png) for anyone who wants to know which choices in Yoigoshi lead to which endings.
-
-    And here's a [walkthrough](https://07th-mod.com/wiki/Higurashi/img/walk-omot.jpg) for Miotsukushi Omote.
-
-<center>[Install the patch](Higurashi-Part-1---Voice-and-Graphics-Patch.md){: .md-button }</center>
-
-## Third-Party Language Support
-
---8<-- "third-party-features.md"
-
-## Patch Availability
-
-Main story:
-
-| Chapter                | Full Patch Available                                              | Voices Only Available                                             |
-| ---------------------- |:-------------------------------------------------------------- -: | :---------------------------------------------------------------:|
-| Ch.1 - Onikakushi      | <div style="color:green;font-size:24px;line-height:16px">✔</div> | <div style="color:green;font-size:24px;line-height:16px">✔</div> |
-| Ch.2 - Watanagashi     | <div style="color:green;font-size:24px;line-height:16px">✔</div> | <div style="color:green;font-size:24px;line-height:16px">✔</div> |
-| Ch.3 - Tatarigoroshi   | <div style="color:green;font-size:24px;line-height:16px">✔</div> | <div style="color:green;font-size:24px;line-height:16px">✔</div> |
-| Ch.4 - Himatsubushi    | <div style="color:green;font-size:24px;line-height:16px">✔</div> | <div style="color:green;font-size:24px;line-height:16px">✔</div> |
-| Ch.5 - Meakashi        | <div style="color:green;font-size:24px;line-height:16px">✔</div> | <div style="color:green;font-size:24px;line-height:16px">✔</div> |
-| Ch. 6 - Tsumihoroboshi | <div style="color:green;font-size:24px;line-height:16px">✔</div> | <div style="color:green;font-size:24px;line-height:16px">✔</div> |
-| Ch. 7 - Minagoroshi    | <div style="color:green;font-size:24px;line-height:16px">✔</div> | <div style="color:green;font-size:24px;line-height:16px">✔</div> |
-| Ch. 8 - Matsuribayashi | <div style="color:green;font-size:24px;line-height:16px">✔</div> | <div style="color:green;font-size:24px;line-height:16px">✔</div> |
-
-> Community Forks: [Cnnctr's Ch.1 Voice Only Fork](https://github.com/Cnnctr/onikakushi)
-
-Console Arcs:
-
-| Chapter                | Full Patch Available                                              | Voices Only Available                                             |
-| ---------------------- |:-------------------------------------------------------------- -: | :---------------------------------------------------------------:|
-| Someutsushi      | <div style="color:green;font-size:24px;line-height:16px">✔</div> | <div style="color:green;font-size:24px;line-height:16px">✘</div> |
-| Kageboushi     | <div style="color:green;font-size:24px;line-height:16px">✔</div> | <div style="color:green;font-size:24px;line-height:16px">✘</div> |
-| Tsukiotoshi   | <div style="color:green;font-size:24px;line-height:16px">✔</div> | <div style="color:green;font-size:24px;line-height:16px">✘</div> |
-| Taraimawashi    | <div style="color:green;font-size:24px;line-height:16px">✔</div> | <div style="color:green;font-size:24px;line-height:16px">✘</div> |
-| Tokihogushi        | <div style="color:green;font-size:24px;line-height:16px">✔</div> | <div style="color:green;font-size:24px;line-height:16px">✘</div> |
-| Miotsukushi Omote | <div style="color:green;font-size:24px;line-height:16px">✔</div> | <div style="color:green;font-size:24px;line-height:16px">✘</div> |
-| Miotsukushi Ura    | <div style="color:green;font-size:24px;line-height:16px">✔</div> | <div style="color:green;font-size:24px;line-height:16px">✘</div> |
-| Yoigoshi     | <div style="color:green;font-size:24px;line-height:16px">✔</div> | <div style="color:green;font-size:24px;line-height:16px">✘</div> |
+![Higurashi Arcs Flowchart](img/flow.webp)

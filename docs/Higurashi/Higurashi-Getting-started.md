@@ -1,8 +1,8 @@
 # Introduction
 
 !!! info
-    The buttons below will take you to the section [**2a. Installer**](./Higurashi-Part-1---Voice-and-Graphics-Patch). This is currently the best method to install the patch in any operating system.<br></br>
-    However, if you prefer to install the patch manually, go to section [**2b. Manual Installation**](./Manual-Installation) instead.
+    The buttons below will take you to the section [**2a. Installer**](../Higurashi-Part-1---Voice-and-Graphics-Patch). This is currently the best method to install the patch in any operating system.<br></br>
+    However, if you prefer to install the patch manually, go to section [**2b. Manual Installation**](../Manual-Installation) instead.
 
 This patch modifies the newest release of Higurashi by MangaGamer, attempting to replicate the Nintendo Switch version of the game. It is compatible with both the [Steam](https://store.steampowered.com/bundle/709/) and any [DRM-free](https://www.mangagamer.com/product_list.php?opt=search&keyword=Higurashi) versions (including GOG) of the game. 
 

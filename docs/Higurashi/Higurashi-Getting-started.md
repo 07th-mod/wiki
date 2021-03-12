@@ -1,8 +1,8 @@
 # Introduction
 
 !!! info
-    The buttons below will take you to the section **2a. Installer**. This is currently the best method to install the patch in any operating system.<br></br>
-    However, if you prefer to install the patch manually, go to section **2b. Manual Installation** instead.
+    The buttons below will take you to the section [**2a. Installer**](/Higurashi/Higurashi-Part-1---Voice-and-Graphics-Patch). This is currently the best method to install the patch in any operating system.<br></br>
+    However, if you prefer to install the patch manually, go to section [**2b. Manual Installation**](/Higurashi/Manual-Installation) instead.
 
 This patch modifies the newest release of Higurashi by MangaGamer, attempting to replicate the Nintendo Switch version of the game. It is compatible with both the [Steam](https://store.steampowered.com/bundle/709/) and any [DRM-free](https://www.mangagamer.com/product_list.php?opt=search&keyword=Higurashi) versions (including GOG) of the game. 
 
@@ -70,6 +70,6 @@ The Console Arcs are a set of exclusive chapters released for the console versio
 
 The Console Arcs patch is fully ported and translated by the 07th-Mod staff themselves. This content is unavailable on the PC version of Higurashi Hou (released fully in japanese and currently ongoing by MangaGamer in the west).
 
-Here's a [walkthrough](https://07th-mod.com/wiki/Higurashi/img/walk-yoig.webp) for anyone who wants to know which choices in Yoigoshi lead to which endings. And here's a [walkthrough](https://07th-mod.com/wiki/Higurashi/img/walk-omot.webp) for Miotsukushi Omote.
+Here's a [walkthrough](img/walk-yoig.webp) for anyone who wants to know which choices in Yoigoshi lead to which endings. And here's a [walkthrough](img/walk-omot.webp) for Miotsukushi Omote.
 
 ![Higurashi Arcs Flowchart](img/flow.webp)

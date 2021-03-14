@@ -1,0 +1,28 @@
+# This script will check most external links in all *.md files.
+# It won't check internal links between pages.
+#
+# It will run on the 1st and 15th of each month,
+# and raise an issue if any bad links are found.
+
+name: Check markdown links
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 1,15 * *"
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v1.0.4
+        with:
+          args: --verbose --no-progress docs/**/*.md
+      - name: Create Issue From File
+        uses: peter-evans/create-issue-from-file@v2
+        with:
+          title: Link Checker Report
+          content-filepath: ./lychee/out.md
+          labels: report, automated issue

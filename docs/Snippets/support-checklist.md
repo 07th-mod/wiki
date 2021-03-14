@@ -29,6 +29,8 @@ Reproduction Instructions: [Launch the game, load a save, wait 10 seconds]
 
 Mod/Game history: [I installed the original game a long time ago, but I did a fresh install recently, then I installed the mod one week ago, and updated the mod yesterday]
 
+Save information: [I started a new game before playing the mod/I loaded a save from the unmodded game]
+
 The game: [Higurashi Ch.3]
 
 The mod variant: [Full/Voice Only/ADV]
@@ -47,9 +49,9 @@ Mod Options: [Playing in Japanese/French/other language, OG sprites etc.]
 
 State anything "special" about your computer's setup: [School/Company Computer/Old Laptop]
 
-What you have already done to fix the problem: [Nothing/I tried re-installing the mod]
+State if you've changed anything to try and fix the problem: [Nothing/I tried re-installing the mod/cleared my saves]
 
-State if anything has changed recently: [Installed new software/update drivers/new hardware]
+State if anything has changed recently on your PC: [Installed new software/update drivers/new hardware]
 </textarea>
 </li>
 <li>Please upload a screenshot of the bug, if applicable <b>and spoiler tag it if it is a spoiler!</b></li>

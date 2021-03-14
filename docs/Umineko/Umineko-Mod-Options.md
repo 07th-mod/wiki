@@ -48,7 +48,7 @@ A more detailed sprite comparison, with more characters, may be found [here](htt
 
 ## Mod Options for Question Arcs Ch. 1~4
 
-There are two main install options for the question arcs - the full patch, and the voice only patch. We highly recommend using the **installers**, as installing manually is very error-prone.
+There are two main install options for the question arcs - the full patch, and the voice only patch. We highly recommend using the **installer**, as installing manually is very error-prone.
 
 #### Question Arcs - Full patch (~5GB Download, ~20GB free space required)
 

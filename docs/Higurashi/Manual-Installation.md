@@ -28,12 +28,22 @@ Please select a tab below depending on your operating system.
 
     1. Find and open your game folder
         * On Steam: open your Steam library, choose the game from the list, right click on it and click on ``Properties``. Switch to the ``LOCAL FILES`` tab and click on ``Browse local files...``)
-    2. After downloading all the files needed for your version of the game, place them in the root folder (where the game ``.exe`` is)
-    3. Navigate inside ``HigurashiEp0X_Data/StreamingAssets`` (where ``X`` is the chapter number) and **delete** the folders ``CG`` and ``CGAlt``
+    2. In the below "Downloads" table, download **one file of each type**. That is, you'll need the following archives:
+          * Patch
+          * Graphics patch
+          * Voices
+          * BGM
+          * Sound Effects
+          * Movies (choose ONE according to your operating system)
+          * UI Mod (choose ONE according to your operating system and game version)
+          * Update
+          * Console Arcs Only: System Files (choose ONE according to your operating system)
+    3. After downloading all the files, place them in the game folder root (where the game ``.exe`` is)
+    4. Navigate inside ``HigurashiEp0X_Data/StreamingAssets`` (where ``X`` is the chapter number) and **delete** the folders ``CG`` and ``CGAlt``
         * This is not a requirement but we recommend to delete the mentioned folders to save disk space and avoid any random issues
-    4. Select all the downloaded files placed in the root directory **EXCEPT** the file called ``[CHAPTER TITLE].Voice.and.Graphics.Patch.[VERSION NUMBER].zip`` and extract them (protip: use ``Extract Here`` from the context menu)
+    5. Select all the downloaded files placed in the root directory **EXCEPT** the file called ``[CHAPTER TITLE].Voice.and.Graphics.Patch.[VERSION NUMBER].zip`` and extract them (protip: use ``Extract Here`` from the context menu)
         * Extract the mentioned file after extracting all the others. Overwrite all files if asked
-    5. Delete all the downloaded files after ensuring the game is working as expected
+    6. Delete all the downloaded files after ensuring the game is working as expected
 
 === "Mac OSX"
 
@@ -43,18 +53,28 @@ Please select a tab below depending on your operating system.
         * On Steam: open your Steam library, choose the game from the list, right click on it and click on ``Properties``. Switch to the ``LOCAL FILES`` tab and click on ``Browse local files...``)
         * If you just see an icon called ``HigurashiEp0X`` (where ``X`` is the chapter number), you may need to right click it, then click "Show Package Contents" to show the ``Contents`` folder
         * The game folder (called ``Contents``) should contain some folders like ``Resources``, ``MacOS``, ``Plugins``, ``Frameworks``, and others - we will only be modifying the ``Resources`` folder
-    2. After downloading all the files needed for your version of the game, place them in ``Resources/Data``
-    3. Navigate inside ``Resources/Data/StreamingAssets`` and **delete** the folders ``CG`` and ``CGAlt``
+    2. In the below "Downloads" table, download **one file of each type**. That is, you'll need the following archives:
+          * Patch
+          * Graphics patch
+          * Voices
+          * BGM
+          * Sound Effects
+          * Movies (choose ONE according to your operating system)
+          * UI Mod (choose ONE according to your operating system and game version)
+          * Update
+          * Console Arcs Only: System Files (choose ONE according to your operating system)
+    3. After downloading all the files, place them in ``Resources/Data``
+    4. Navigate inside ``Resources/Data/StreamingAssets`` and **delete** the folders ``CG`` and ``CGAlt``
         * This is not a requirement but we recommend to delete the mentioned folders to save disk space and avoid any random issues
-    4. Navigate back to ``Resources/Data`` folder and extract the downloaded files using the following method:
+    5. Navigate back to ``Resources/Data`` folder and extract the downloaded files using the following method:
         * Extract all archives **EXCEPT** ``[CHAPTER TITLE].Voice.and.Graphics.Patch.[VERSION NUMBER].zip``
         * After all the other archives are extracted, you can then extract ``[CHAPTER TITLE].Voice.and.Graphics.Patch.[VERSION NUMBER].zip``
         * Overwrite all files if asked
         * When finished, this should produce a ``HigurashiEp0X_Data`` folder (where ``X`` is the chapter number) - the full path will be ``Resources/Data/HigurashiEp0X_Data``
-    5. Open a **terminal window** in the ``Resources/Data`` folder. [Follow these steps if you don't know how to do it](https://stackoverflow.com/a/7054045)
+    6. Open a **terminal window** in the ``Resources/Data`` folder. [Follow these steps if you don't know how to do it](https://stackoverflow.com/a/7054045)
         1. In the terminal window, type: ``rsync -avP HigurashiEp*/* .`` and hit enter (type the ``*`` literally)
         2. Wait until the files are copied to the right place
-    6. Delete all the downloaded files and any leftover ``HigurashiEp0X_Data`` folders (where ``X`` is the chapter number) after ensuring the game is working as expected
+    7. Delete all the downloaded files and any leftover ``HigurashiEp0X_Data`` folders (where ``X`` is the chapter number) after ensuring the game is working as expected
 
 ***
 

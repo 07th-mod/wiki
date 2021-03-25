@@ -103,6 +103,7 @@ When debugging this issue, it's worth testing and reporting these things
 3. Check if other chapters of the game have this issue, or it's just this chapter
 4. Check if restarting your computer fixes the issue
 5. Try another audio device (for example, your speakers instead of USB/Bluetooth headphones)
+6. Check if you have the number sign (`#`), or any other strange special characters anywhere in your game path. This will cause you to only have sound during the opening video.
 
 See the below for more help on specific cases
 
@@ -112,9 +113,11 @@ Firstly, please make sure you have played past the opening section of the game. 
 
 If voices are still not playing, press the **F10** button twice while not in a game menu to open the mod menu. Check if the BGM/voice volume is set to zero, and adjust it accordingly.
 
-#### Only sound at intro
+#### Only sound at Intro / Opening Video
 
-We have had one user who had sound only during the intro. Their issue was fixed by clearing the registry files for that chapter - but please only do this as a last resort. See "Registry file location and clearing" at the bottom of this page for how to do this.
+We have had some users who had sound only during the intro / opening video:
+    - One user fixed it by clearing the registry files for that chapter - but please only do this as a last resort. See "Registry file location and clearing" at the bottom of this page for how to do this.
+    - One user had the number sign (`#`) in their game path. This definitely causes all sound to stop working except for the opening movie. Make sure you don't have any special characters in your game path.
 
 #### No sound at all
 

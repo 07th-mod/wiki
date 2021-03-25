@@ -31,6 +31,8 @@ Mod/Game history: [I installed the original game a long time ago, but I did a fr
 
 Save information: [I started a new game before playing the mod/I loaded a save from the unmodded game]
 
+Does the unmodded game have the same problem?: [no/yes/not sure]
+
 The game: [Higurashi Ch.3]
 
 The mod variant: [Full/Voice Only/ADV]

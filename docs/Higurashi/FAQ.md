@@ -68,13 +68,12 @@ If this happens, try deleting the exact save file mentioned in the game log (or 
 
 #### Black screen randomly/after windows/graphics update with `IndexOutOfRangeException` in log
 
-If you have a black screen, and also have a `IndexOutOfRangeException: Array index is out of range.
-at UnityEngine.Display.RecreateDisplayList (System.IntPtr[] nativeDisplay) [0x00000] in <filename unknown>:0`
+If you have a black screen, and also have a `IndexOutOfRangeException: Array index is out of range. at UnityEngine.Display.RecreateDisplayList (System.IntPtr[] nativeDisplay) [0x00000] in <filename unknown>:0`
 in your game log, you probably have this problem.
 
 This issue can affect all Unity games, not just Higurashi, and has to do with aspect ratio options in your graphics card control panel. See the second reply on [this steam forum post](https://steamcommunity.com/discussions/forum/1/1480982971174752598/) for details on how to fix this issue in Nvidia Control Panel (and also for Intel, AMD further in the thread).
 
-### Save Compatability / My saves don't work after updating
+### Save Compatibility / My saves don't work after updating
 
 Saves between different releases of our mod are not compatible.
 
@@ -143,6 +142,16 @@ Please make sure you can launch the base game before applying any mods (please d
 If you get a `Fatal error in gc: get thread context failed` error, you may need to either uninstall your third-party (non-Windows/non-Microsoft) antivirus software, or unblock the game from your Antivirus Software.
 
 AVG antivirus in particular is known to cause this issue.
+
+### Text Log or other user interfaces (UI) stuck on screen
+
+Even on the base game, it is sometimes possible to have various UI bugs, like pop-up menus or windows that you are unable to close.
+
+In particular, the textlog can easily become struck on the screen because it is bound to the scroll wheel. If you scroll the wheel accidentally while clicking on a button, two popups can appear at the same time, confusing the game.
+
+We don't have a fix for this at the moment, other than being careful not to activate your scroll wheel while navigating menus, and to navigate menus slowly (wait for the fade in/out to finish before clicking).
+
+See [this github issue](https://github.com/07th-mod/higurashi-assembly/issues/60) for more details.
 
 ## Known Issues - Manual Install
 

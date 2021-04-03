@@ -51,9 +51,9 @@ Donators should also not get any special Discord perks, but this is up for discu
 
 In this section we have a small summary of the total donations received, but in the end, it is all about how much you trust us.
 
-> **Last updated: March 06, 2020**
+> **Last updated: April 03, 2021**
 
-> **Donations total**: **$120.76** (after Paypal donations tax) <br>
+> **Donations total**: **$167.60** (after Paypal donations tax) <br>
 
 ## What if you get way over your goal?
 

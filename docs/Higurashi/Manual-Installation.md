@@ -260,9 +260,18 @@ Please select a tab below to access the downloads that you require.
     </tr>
     </thead>
     <tbody>
+    <tr class="even">
+    <td style="text-align: center;">Question Arcs Chapter 1</td>
+    <td style="text-align: center;">None</td>
+    </tr>
     <tr class="odd">
-    <td style="text-align: center;">Question Arcs (all)</td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/misc/Higurashi.OST.Remake.zip">OST Remake</a> <br> Handmade remakes of nerve's music. <br> <a href="https://radiataalice.bandcamp.com/album/hinamizawa-syndrome-vol-1">(listen online)</a><br>Installing this will enable the option in the Mod Menu</td>
+    <td style="text-align: center;">Question Arcs Chapters 2,3,4</td>
+    <td style="text-align: center;">
+        <a href="https://07th-mod.com/rikachama/audio/Higurashi-Remake-BGM.7z">OST Remake</a><br>
+        <strong>NOTE:</strong> Extract to the <code>HigurashiEp0X_Data/StreamingAssets</code> folder, producing a <code>RemakeBGM</code> folder.<br><br>
+        Handmade remakes of nerve's music <a href="https://radiataalice.bandcamp.com/album/hinamizawa-syndrome-vol-1">(listen online)</a><br>
+        Installing this will enable the option in the Mod Menu
+    </td>
     </tr>
     <tr class="odd">
     <td style="text-align: center;">Answer Arcs</td>

@@ -265,7 +265,7 @@ Please select a tab below to access the downloads that you require.
     <td style="text-align: center;"><a href="https://07th-mod.com/misc/Higurashi.OST.Remake.zip">OST Remake</a> <br> Handmade remakes of nerve's music. <br> <a href="https://radiataalice.bandcamp.com/album/hinamizawa-syndrome-vol-1">(listen online)</a><br>Installing this will enable the option in the Mod Menu</td>
     </tr>
     <tr class="odd">
-    <td style="text-align: center;">Answer Arcs (all except Meakashi Ch.5)</td>
+    <td style="text-align: center;">Answer Arcs</td>
     <td style="text-align: center;">None yet</td>
     </tr>
     </tbody>

@@ -153,6 +153,10 @@ We don't have a fix for this at the moment, other than being careful not to acti
 
 See [this github issue](https://github.com/07th-mod/higurashi-assembly/issues/60) for more details.
 
+### Cannot save / Cannot click save button in Tips
+
+Please check if you are playing a TIPS section of the game - [the game does not let you save/quicksave/load/quickload while you're in tips](https://github.com/07th-mod/tatarigoroshi/issues/74#issuecomment-578990330).
+
 ## Known Issues - Manual Install
 
 ### The game crashes

@@ -127,13 +127,16 @@ You can try the following solutions. Please try them in order.:
     - Retry the install. You can move the game folder back after the install is finished.
 
 3. **Antivirus Software: Add an exception for the game folder/our installer (AVG, Norton etc.)**
+    - Norton Antivirus is known to cause issues
+      - Causes a 'permission denied' error when the installer tries to overwrite files
+      - Will state "Action Observed: Suspicious process attempted deleting a file protected by Data Protector"
     - Note that Windows Defender usually causes no issues besides the initial popup - if you just have Windows Defender then ignore this solution.
     - You will have to research how to add exceptions in your particular Antivirus software:
         1. Most Likely: Check if your antivirus software is blocking the installer (add an exception for the installer .exe)
         2. Less Likely: Check if your antivirus software is blocking the game folder access (add an exception for the game folder)
 
 4. **Attempt the install as an Administrator user (not a "Standard User")**
-    - I've tested installing to an administrator's installation as a Standard User and it worked just fine. But it's worth a try if the above doesn't work and you're a Standard User.
+    - By default, the installer already runs as administrator. But if you are using the 'No Administrator' version of the installer, please try the normal 'administrator' version.
 
 5. **Not recommended: Manually delete the problematic files**
     - Open the installer log, and search for errors: `ERROR: Can not` or `Access is denied`

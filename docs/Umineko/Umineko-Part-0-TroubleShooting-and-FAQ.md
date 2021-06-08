@@ -40,6 +40,12 @@ These crashes can happen on the unmodded game too, but it's possible the increas
 
 - More generally, if the issue randomly started happening, please try to remember if you installed any drivers, software, or hardware (including USB headphones, input peripherals like controllers, monitors etc.) recently. Try reverting the change you made or removing the devices and see if the issue is fixed.
 
+- **You will need a good CPU and OK-ish GPU to run the mod** - the requirements are higher than the base game!:
+  - You probably cannot run the mod on an old netbook or old laptop, even if the base game runs fine on older hardware. The game relies heavily on CPU for rendering.
+  - We have [a table of hardware which has been tested with the mod](https://docs.google.com/spreadsheets/d/14LnB5Q0R3_X3ZgXDcbASIJbrIGzU3gXWB-kxBkC1YTM/edit?usp=sharing), to give you some idea of what works and doesn't work.
+  - The game also seems to perform worse as your screen resolution increases (especially on integrated graphics). You can test this by playing in windowed mode, and reducing the window size - the performance should improve. If this is your problem, try reducing your desktop resolution to 1080p (the resolution the game runs at).
+  - Having many programs running in the background can also affect performance, especially on low end systems. Please close other programs (including your browser) before running the game.
+
 ??? example "Old info on the performance issue"
     We're currently investigating some reports of poor performance, especially on the Umineko Answer arcs.
 

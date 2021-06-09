@@ -136,11 +136,13 @@ Windows has a feature which lets you set volumes for individual apps, which coul
   - Try restarting Steam and launching the game again
   - Try playing the game without Steam (close steam, then click on the executable directly)
 
-### Linux - Whole game / system freezes when you move the mouse with awesomewm desktop manager (and possibly others)
+### Linux - Whole game / system freezes when you move the mouse cursor with awesomewm desktop manager (and possibly others)
 
 - This issue was reported with the awesomewm desktop manager
 - This issue affected other games than just Higurashi
-- To fix this issue, run your desktop manager with the `--no-argb` flag ([More info here, but not quite the same issue](https://github.com/awesomeWM/awesome/issues/2502)).
+- To fix this issue:
+  1. Disable your compositor
+  2. Run your desktop manager with the `--no-argb` flag ([More info here, but not quite the same issue](https://github.com/awesomeWM/awesome/issues/2502)).
 
 ### Linux users with GNOME/MATE Desktop - whole desktop crashes when game launched
 

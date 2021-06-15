@@ -172,6 +172,12 @@ See [this github issue](https://github.com/07th-mod/higurashi-assembly/issues/60
 
 Please check if you are playing a TIPS section of the game - [the game does not let you save/quicksave/load/quickload while you're in tips](https://github.com/07th-mod/tatarigoroshi/issues/74#issuecomment-578990330).
 
+### Steam achievements don't unlock
+
+Firstly, try restarting Steam, as it sometimes doesn't properly show achievements until restarted.
+
+Previously, we have had other issues with achievements, so if you still can't get achievements to work, you can let us know.
+
 ## Known Issues - Manual Install
 
 ### The game crashes

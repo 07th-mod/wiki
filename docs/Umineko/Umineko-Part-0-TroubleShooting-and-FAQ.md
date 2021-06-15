@@ -213,6 +213,8 @@ Also to note is that the base game will save to the `saves` folder, and the modd
 
 #### I've finished the game, but some Steam achievements are missing
 
+Firstly, try restarting Steam, as it sometimes doesn't properly show achievements until restarted.
+
 If you do not have steam running, the game will not register achievements. If you think you've wrongly missed an achievement, don't worry - once you've finished the game,  we've added a button on the Mod Menu to forcibly unlock all achievements (right click while in-game, then click "Options", then "Unlock All Achievements").
 
 There is also one achievement for the Question Arcs which is difficult to unlock, "Trumpet Blues". I suggest googling it if that is the one you are missing.

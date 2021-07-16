@@ -32,17 +32,17 @@ Please select a tab below depending on your operating system.
           * Patch
           * Graphics patch
           * Voices
-          * BGM
+          * BGM & SE
           * Movies (choose ONE according to your operating system)
           * UI Mod (choose ONE according to your operating system and game version)
           * Update
           * Console Arcs Only: System Files (choose ONE according to your operating system)
-    3. After downloading all the files, place them in the game folder root (where the game ``.exe`` is), **except for the BGM and SE archives**
+    3. After downloading all the files, place them in the game folder root (where the game ``.exe`` is), **except for the BGM & SE archive**
     4. Navigate inside ``HigurashiEp0X_Data/StreamingAssets`` (where ``X`` is the chapter number) and **delete** the folders ``CG`` and ``CGAlt``
         * This is not a requirement but we recommend to delete the mentioned folders to save disk space and avoid any random issues
     5. Select all the downloaded files placed in the root directory **EXCEPT** the file called ``[CHAPTER TITLE].Voice.and.Graphics.Patch.[VERSION NUMBER].zip`` and extract them (protip: use ``Extract Here`` from the context menu)
         * Extract the mentioned file after extracting all the others. Overwrite all files if asked
-    6. Extract the BGM archive inside the ``HigurashiEp0X_Data/StreamingAssets`` folder
+    6. Extract the BGM & SE archive inside the ``HigurashiEp0X_Data/StreamingAssets`` folder
     7. Delete all the downloaded files after ensuring the game is working as expected
 
 === "Mac OSX"
@@ -57,12 +57,12 @@ Please select a tab below depending on your operating system.
           * Patch
           * Graphics patch
           * Voices
-          * BGM
+          * BGM & SE
           * Movies (choose ONE according to your operating system)
           * UI Mod (choose ONE according to your operating system and game version)
           * Update
           * Console Arcs Only: System Files (choose ONE according to your operating system)
-    3. After downloading all the files, place them in ``Resources/Data``, **except for the BGM and SE archives**
+    3. After downloading all the files, place them in ``Resources/Data``, **except for the BGM & SE archive**
     4. Navigate inside ``Resources/Data/StreamingAssets`` and **delete** the folders ``CG`` and ``CGAlt``
         * This is not a requirement but we recommend to delete the mentioned folders to save disk space and avoid any random issues
     5. Navigate back to ``Resources/Data`` folder and extract the downloaded files using the following method:
@@ -73,7 +73,7 @@ Please select a tab below depending on your operating system.
     6. Open a **terminal window** in the ``Resources/Data`` folder. [Follow these steps if you don't know how to do it](https://stackoverflow.com/a/7054045)
         1. In the terminal window, type: ``rsync -avP HigurashiEp*/* .`` and hit enter (type the ``*`` literally)
         2. Wait until the files are copied to the right place
-    7. Extract the BGM archive inside the ``Resources/Data/StreamingAssets`` folder
+    7. Extract the BGM & SE archive inside the ``Resources/Data/StreamingAssets`` folder
     8. Delete all the downloaded files and any leftover ``HigurashiEp0X_Data`` folders (where ``X`` is the chapter number) after ensuring the game is working as expected
 
 ***
@@ -118,7 +118,7 @@ Please select a tab below to access the downloads that you require.
     <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voice/Himatsubushi-Voices.7z">Download</a></td>
     </tr>
     <tr class="even">
-    <td style="text-align: center;">BGM</td>
+    <td style="text-align: center;">BGM & SE ⚠️</td>
     <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Higurashi-OG-BGM-SE.7z">Download</a></td>
     <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Higurashi-OG-BGM-SE.7z">Download</a></td>
     <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Higurashi-OG-BGM-SE.7z">Download</a></td>
@@ -154,6 +154,7 @@ Please select a tab below to access the downloads that you require.
     </tr>
     </tbody>
     </table>
+    ⚠️ Unlike all the other archives, the BGM/SE archive should be extracted to the ``HigurashiEp0X_Data/StreamingAssets`` folder on Windows/Linux, and the ``Resources/Data/StreamingAssets`` folder on MacOS.
 
 === "Answer Arcs"
 
@@ -194,7 +195,7 @@ Please select a tab below to access the downloads that you require.
     <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voice/Matsuribayashi-Voices.7z">Download</a></td>
     </tr>
     <tr class="even">
-    <td style="text-align: center;">BGM</td>
+    <td style="text-align: center;">BGM & SE ⚠️</td>
     <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/HigurashiKai-OG-BGM-SE.7z">Download</a></td>
     <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/HigurashiKai-OG-BGM-SE.7z">Download</a></td>
     <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/HigurashiKai-OG-BGM-SE.7z">Download</a></td>
@@ -237,6 +238,8 @@ Please select a tab below to access the downloads that you require.
     </tr>
     </tbody>
     </table>
+
+    ⚠️ Unlike all the other archives, the BGM/SE archive should be extracted to the ``HigurashiEp0X_Data/StreamingAssets`` folder on Windows/Linux, and the ``Resources/Data/StreamingAssets`` folder on MacOS.
 
     † If the regular "GOG" UI file does not work, try the "old" version (compatible with an older GOG release of the game).
 

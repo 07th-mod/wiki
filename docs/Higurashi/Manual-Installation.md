@@ -323,7 +323,7 @@ Please select a tab below to access the downloads that you require.
     </tr>
     <tr class="odd">
     <td>System files</td>
-    <td><a href="https://07th-mod.com/rikachama/misc/ConsoleArcs-System_win.7z">Windows</a><br><a href="https://07th-mod.com/rikachama/misc/ConsoleArcs-System_unix.7z">Mac/Linux</a></td>
+    <td><a href="https://07th-mod.com/rikachama/misc/ConsoleArcs-System_win.7z">Windows</a><br><a href="https://07th-mod.com/rikachama/misc/ConsoleArcs-System_linux.7z">Linux</a><br><a href="https://07th-mod.com/rikachama/misc/ConsoleArcs-System_mac.7z">Mac</a></td>
     </tr>
     <tr class="even">
     <td>UI Mod</td>

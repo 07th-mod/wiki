@@ -65,6 +65,27 @@ These crashes can happen on the unmodded game too, but it's possible the increas
 ### The game window is too small/too large
 In the main arcs, as well as Umineko Saku, you may freely resize the window by dragging its borders. In Umineko Tsubasa and Hane, however, this doesn't work, as they run on an older version of the game engine that didn't have this feature implemented yet. You may open the `ons.cfg` file with any text editor (e.g. Notepad), and edit the line that says `window-width=1280` to include a different value. The minimum value is `640`, for a resolution of 640x480. There is no known maximum.
 
+### The game window size is reset when the game starts
+
+The newer Umineko games currently don't remember the size or position of the window once you close the game. As a workaround on Windows, you can use this AutoHotkey script to resize the curently active window:
+
+```autohotkey
+; Press "alt + r" to resize the current window when this script is active
+; https://www.autohotkey.com/docs/commands/WinMove.htm
+
+; Change the variables below to set the window position when you press "alt + r"
+x := 200 ; X position of the window (top left corner of window)
+y := 200 ; Y position of the window (top left corner of window)
+width := 1280 ; Width of the window
+height := 720 ; Height of the window
+
+; !r means ALT + r - change to change the hotkey to activate the window resize
+; # - Win; ! - Alt; ^ - Ctrl; + - Shift
+!r::
+    WinMove, A, , %x%, %y%, %width%, %height%
+    return
+```
+
 ### Fullscreen doesn't work
 For some strange reason, fullscreen only seems to work when the game window already fits on your screen normally. If the window is currently too large for your screen, pressing the F key to toggle fullscreen will do nothing. Use one of the above methods to resize the window to fit your screen first, and then try to switch into fullscreen.
 

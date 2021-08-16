@@ -4,6 +4,8 @@
 
 This page describes each mod option, so you can decide which mod to install.
 
+Please do not expect the same mod features as the Higurashi mod, as Umineko runs on an entirely different engine to Higurashi. [Please see the "Higurashi Mod Feature Comparison"](Umineko-Getting-started.md#higurashi-mod-feature-comparison).
+
 ----
 
 !!! tip "What is ADV Mode?"

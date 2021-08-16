@@ -16,6 +16,7 @@ This patch modifies the newest release of Umineko by MangaGamer, attempting to r
     - There is a mod settings menu in-game that you should look at at least once.
     - Updating the mod is only supported by re-installing (overwriting it)
     - Steam Sync is disabled by default. To enable it, run the `EnableSteamSync.bat` located in the game folder. See the 'Known Issues' section of this page for reasoning.
+    - Please do not expect the same mod features as the Higurashi mod, as Umineko runs on an entirely different engine to Higurashi
 
 You've read the page, right? Please proceed to [Part 2: Mod Options](Umineko-Mod-Options.md)
 
@@ -54,6 +55,19 @@ You can change some settings from the in-game mod menu. While playing the game a
 
 - Steam Sync is disabled (See [the "Steam Sync doesn't work!" FAQ](Umineko-Part-0-TroubleShooting-and-FAQ.md#steam-sync-doesnt-work) if you wish to re-enable it)
 - For the Question Arcs, the voice quality near the start of the game is poor for some characters (sounds like a phasing effect). The raw PS3 audio files have this problem as well, so I don't think we can fix this.
+
+## Higurashi Mod Feature Comparison
+
+You would be forgiven for assuming that Umineko runs on the same engine as Higurashi, and therefore our mods have the same features. However, the two games run entirely different engines, and as a result Umineko has less features.
+
+Compared to Higurashi, the Umineko mod has far fewer features, such as:
+
+- No support for Original/Ryukishi backgrounds (unless you play the Voice-only patch)
+    - No support for Original/Ryukishi background stretching with the voice-only patch
+- No support for lipsync
+- You must select your sprite style during the install - you cannot switch it while the game is running like Higurashi
+- For the Answer arcs only, you must select your ADV/NVL textbox style at install time - you cannot switch it while the game is running like Higurashi
+- For the Question arcs, you *can* switch between ADV/NVL textbox style at runtime.
 
 ----
 

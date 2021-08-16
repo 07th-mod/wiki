@@ -93,6 +93,10 @@ For some strange reason, fullscreen only seems to work when the game window alre
 
 - You can navigate the menu with directional arrow keys on the Question arcs, but not on the Answer arcs. To fix this, you *can* copy the Umineko Question .exe into the Answer Arcs and run it instead, BUT this may silently break things in the Answer arcs - do so at your own risk.
 
+### Does Umineko have feature X from the Higurashi mod?
+
+Please do not expect the same mod features as the Higurashi mod, as Umineko runs on an entirely different engine to Higurashi. [Please see the "Higurashi Mod Feature Comparison"](Umineko-Getting-started.md#higurashi-mod-feature-comparison).
+
 ## Install Problems
 
 #### Steam updated and now my saves are missing! 

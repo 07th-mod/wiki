@@ -97,6 +97,14 @@ For some strange reason, fullscreen only seems to work when the game window alre
 
 Please do not expect the same mod features as the Higurashi mod, as Umineko runs on an entirely different engine to Higurashi. [Please see the "Higurashi Mod Feature Comparison"](Umineko-Getting-started.md#higurashi-mod-feature-comparison).
 
+### Game Crashes when saving
+
+Try running the game as Administrator to check if you have permission issues when making saves.
+
+If this fixes the issue, consider moving the game folder to another place you have write access to (outside of Program Files).
+
+You might also want to try running the game with steam completely closed, by double clicking on the .exe.
+
 ## Install Problems
 
 #### Steam updated and now my saves are missing! 

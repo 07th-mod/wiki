@@ -37,13 +37,12 @@ Please select a tab below depending on your operating system.
           * UI Mod (choose ONE according to your operating system and game version)
           * Update
           * Console Arcs Only: System Files (choose ONE according to your operating system)
-    3. After downloading all the files, place them in the game folder root (where the game ``.exe`` is), **except for the BGM & SE archive**
-    4. Navigate inside ``HigurashiEp0X_Data/StreamingAssets`` (where ``X`` is the chapter number) and **delete** the folders ``CG`` and ``CGAlt``
+    3. Navigate inside ``HigurashiEp0X_Data/StreamingAssets`` (where ``X`` is the chapter number) and **delete** the folders ``CG`` and ``CGAlt``
         * This is not a requirement but we recommend to delete the mentioned folders to save disk space and avoid any random issues
-    5. Select all the downloaded files placed in the root directory **EXCEPT** the file called ``[CHAPTER TITLE].Voice.and.Graphics.Patch.[VERSION NUMBER].zip`` and extract them (protip: use ``Extract Here`` from the context menu)
-        * Extract the mentioned file after extracting all the others. Overwrite all files if asked
-    6. Extract the BGM & SE archive inside the ``HigurashiEp0X_Data/StreamingAssets`` folder
-    7. Delete all the downloaded files after ensuring the game is working as expected
+    4. Now, extract the archives as follows:
+        1. Any download without a emoji marker should extract to the game folder root (where the game ``.exe`` is). These archives will contain a `HigurashiEp0X_Data` folder, which should combine with the existing `HigurashiEp0X_Data` in the game folder.
+        2. If a download has an emoji marker, follow the instructions in the corresponding footnote to determine how it should be extracted.
+    5. Delete all the downloaded files after ensuring the game is working as expected
 
 === "Mac OSX"
 
@@ -62,14 +61,12 @@ Please select a tab below depending on your operating system.
           * UI Mod (choose ONE according to your operating system and game version)
           * Update
           * Console Arcs Only: System Files (choose ONE according to your operating system)
-    3. After downloading all the files, place them in ``Resources/Data``, **except for the BGM & SE archive**
-    4. Navigate inside ``Resources/Data/StreamingAssets`` and **delete** the folders ``CG`` and ``CGAlt``
+    3. Navigate inside ``Resources/Data/StreamingAssets`` and **delete** the folders ``CG`` and ``CGAlt``
         * This is not a requirement but we recommend to delete the mentioned folders to save disk space and avoid any random issues
-    5. Navigate back to ``Resources/Data`` folder and extract the downloaded files using the following method:
-        * Extract all archives **EXCEPT** ``[CHAPTER TITLE].Voice.and.Graphics.Patch.[VERSION NUMBER].zip``
-        * After all the other archives are extracted, you can then extract ``[CHAPTER TITLE].Voice.and.Graphics.Patch.[VERSION NUMBER].zip``
-        * Overwrite all files if asked
-        * When finished, this should produce a ``HigurashiEp0X_Data`` folder (where ``X`` is the chapter number) - the full path will be ``Resources/Data/HigurashiEp0X_Data``
+    4. Now, extract the archives as follows:
+        1. Any download without a emoji marker should extract to the ``Resources/Data`` (where the game ``.exe`` is). These archives will contain a `HigurashiEp0X_Data` folder.
+        2. If a download has an emoji marker, follow the instructions in the corresponding footnote to determine how it should be extracted (relative to the `Resources/Data` folder).
+    5. When finished, this should produce a ``HigurashiEp0X_Data`` folder (where ``X`` is the chapter number) - the full path will be ``Resources/Data/HigurashiEp0X_Data``
     6. Open a **terminal window** in the ``Resources/Data`` folder. [Follow these steps if you don't know how to do it](https://stackoverflow.com/a/7054045)
         1. In the terminal window, type: ``rsync -avP HigurashiEp*/* .`` and hit enter (type the ``*`` literally)
         2. Wait until the files are copied to the right place
@@ -98,10 +95,10 @@ Please select a tab below to access the downloads that you require.
     <tbody>
     <tr class="odd">
     <td style="text-align: center;">Patch</td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/onikakushi/releases/latest">Download</a></td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/watanagashi/releases/latest">Download</a></td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/tatarigoroshi/releases/latest">Download</a></td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/himatsubushi/releases/latest">Download</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/onikakushi/releases/latest">Download👀</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/watanagashi/releases/latest">Download👀</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/tatarigoroshi/releases/latest">Download👀</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/himatsubushi/releases/latest">Download👀</a></td>
     </tr>
     <tr class="even">
     <td style="text-align: center;">Graphics patch</td>
@@ -118,11 +115,11 @@ Please select a tab below to access the downloads that you require.
     <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voice/Himatsubushi-Voices.7z">Download</a></td>
     </tr>
     <tr class="even">
-    <td style="text-align: center;">BGM & SE ⚠️</td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Higurashi-OG-BGM-SE.7z">Download</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Higurashi-OG-BGM-SE.7z">Download</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Higurashi-OG-BGM-SE.7z">Download</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Higurashi-OG-BGM-SE.7z">Download</a></td>
+    <td style="text-align: center;">BGM & SE</td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Higurashi-OG-BGM-SE.7z">Download ⚠️</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Higurashi-OG-BGM-SE.7z">Download ⚠️</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Higurashi-OG-BGM-SE.7z">Download ⚠️</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Higurashi-OG-BGM-SE.7z">Download ⚠️</a></td>
     </tr>
     <tr class="odd">
     <td style="text-align: center;">Movies</td>
@@ -154,7 +151,10 @@ Please select a tab below to access the downloads that you require.
     </tr>
     </tbody>
     </table>
-    ⚠️ Unlike all the other archives, the BGM/SE archive should be extracted to the ``HigurashiEp0X_Data/StreamingAssets`` folder on Windows/Linux, and the ``Resources/Data/StreamingAssets`` folder on MacOS.
+
+    👀 Extract the `Patch` archive LAST, after all other files (should combine with the existing `HigurashiEp0X_Data` folder). Overwrite any files if asked.
+
+    ⚠️ Unlike all the other archives, the BGM/SE archive should be extracted to the ``HigurashiEp0X_Data/StreamingAssets`` folder (MacOS users should extract this archive second last).
 
 === "Answer Arcs"
 
@@ -175,10 +175,10 @@ Please select a tab below to access the downloads that you require.
     <tbody>
     <tr class="odd">
     <td style="text-align: center;">Patch</td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/meakashi/releases/latest">Download</a></td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/tsumihoroboshi/releases/latest">Download</a></td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/minagoroshi/releases/latest">Download</a></td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/matsuribayashi/releases/latest">Download</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/meakashi/releases/latest">Download👀</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/tsumihoroboshi/releases/latest">Download👀</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/minagoroshi/releases/latest">Download👀</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/matsuribayashi/releases/latest">Download👀</a></td>
     </tr>
     <tr class="even">
     <td style="text-align: center;">Graphics patch</td>
@@ -195,11 +195,11 @@ Please select a tab below to access the downloads that you require.
     <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voice/Matsuribayashi-Voices.7z">Download</a></td>
     </tr>
     <tr class="even">
-    <td style="text-align: center;">BGM & SE ⚠️</td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/HigurashiKai-OG-BGM-SE.7z">Download</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/HigurashiKai-OG-BGM-SE.7z">Download</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/HigurashiKai-OG-BGM-SE.7z">Download</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/HigurashiKai-OG-BGM-SE.7z">Download</a></td>
+    <td style="text-align: center;">BGM & SE</td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/HigurashiKai-OG-BGM-SE.7z">Download ⚠️</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/HigurashiKai-OG-BGM-SE.7z">Download ⚠️</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/HigurashiKai-OG-BGM-SE.7z">Download ⚠️</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/HigurashiKai-OG-BGM-SE.7z">Download ⚠️</a></td>
     </tr>
     <tr class="odd">
     <td style="text-align: center;">Movies</td>
@@ -239,7 +239,9 @@ Please select a tab below to access the downloads that you require.
     </tbody>
     </table>
 
-    ⚠️ Unlike all the other archives, the BGM/SE archive should be extracted to the ``HigurashiEp0X_Data/StreamingAssets`` folder on Windows/Linux, and the ``Resources/Data/StreamingAssets`` folder on MacOS.
+    👀 Extract the `Patch` archive LAST, after all other files (should combine with the existing `HigurashiEp0X_Data` folder). Overwrite any files if asked.
+
+    ⚠️ Unlike all the other archives, the BGM/SE archive should be extracted to the ``HigurashiEp0X_Data/StreamingAssets`` folder (MacOS users should extract this archive second last).
 
     † If the regular "GOG" UI file does not work, try the "old" version (compatible with an older GOG release of the game).
 
@@ -299,7 +301,7 @@ Please select a tab below to access the downloads that you require.
     <tbody>
     <tr class="odd">
     <td>Patch</td>
-    <td><a href="https://github.com/07th-mod/higurashi-console-arcs/releases/latest">Download</a></td>
+    <td><a href="https://github.com/07th-mod/higurashi-console-arcs/releases/latest">Download👀</a></td>
     </tr>
     <tr class="even">
     <td>Graphics patch</td>
@@ -311,11 +313,11 @@ Please select a tab below to access the downloads that you require.
     </tr>
     <tr class="even">
     <td>Sound effects</td>
-    <td><a href="https://07th-mod.com/rikachama/audio/ConsoleArcs-SE.7z">Download</a></td>
+    <td><a href="https://07th-mod.com/rikachama/audio/ConsoleArcs-SE.7z">Download🚩</a></td>
     </tr>
     <tr class="odd">
     <td>BGM</td>
-    <td><a href="https://07th-mod.com/rikachama/audio/ConsoleArcs-BGM.7z">Download</a></td>
+    <td><a href="https://07th-mod.com/rikachama/audio/ConsoleArcs-BGM.7z">Download🚩</a></td>
     </tr>
     <tr class="even">
     <td>Movies</td>
@@ -335,6 +337,10 @@ Please select a tab below to access the downloads that you require.
     </tr>
     </tbody>
     </table>
+
+    👀 Extract the `Patch` archive LAST, after all other files (should combine with the existing `HigurashiEp04_Data` folder). Overwrite any files if asked.
+
+    🚩 Extract these files normally (should combine with the existing `HigurashiEp04_Data` folder). No special handling is required.
 
 === "Language Patches"
 

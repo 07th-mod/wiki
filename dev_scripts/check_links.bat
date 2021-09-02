@@ -11,5 +11,5 @@
 :: Finally, Github may rate limit you, causing some github links to fail. You can overcome
 :: this with the --github-token argument (see https://github.com/lycheeverse/lychee#github-token),
 :: but if you only scan occasionally it's probably fine.
-lychee "../docs/**/*.md"
+lychee --verbose --max-concurrency 1 --timeout 30 "../docs/**/*.md"
 pause

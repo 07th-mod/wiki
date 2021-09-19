@@ -12,7 +12,7 @@ This patch modifies the newest release of Umineko by MangaGamer, attempting to r
 !!! warning "This page contains important information you should read before installing. But here is the summary:"
     - If you have problems, check the [Troubleshooting](Umineko-Part-0-TroubleShooting-and-FAQ.md) page
     - If you have any existing save slots, and you **mod** or **upgrade** the game, your Save Slots WILL **randomly jump you somewhere in the game**. This can cause spoilers. Therefore, don't modify the game while you're in the middle of a chapter (read below for more details).
-    - Computers with old or slow CPUs may have trouble running the game - [Poor Performance FAQ](Umineko-Part-0-TroubleShooting-and-FAQ/#the-game-has-poor-performance-even-on-high-end-systems)
+    - Computers with old or slow CPUs may have trouble running the game - [Poor Performance FAQ](Umineko-Part-0-TroubleShooting-and-FAQ.md#the-game-has-poor-performance-even-on-high-end-systems)
     - There is a mod settings menu in-game that you should look at at least once.
     - Updating the mod is only supported by re-installing (overwriting it)
     - Steam Sync is disabled by default. To enable it, run the `EnableSteamSync.bat` located in the game folder. See the 'Known Issues' section of this page for reasoning.

@@ -58,7 +58,7 @@ Manually installing the game is not recommended unless you have problems with th
 4. Download and extract the Umineko Voices archive.
 3. When you extracted the voice archive, it should have generated an `arc4.nsa` and `arc5.nsa` file. After that, **please check the following**:
     - If you already have `arc1.nsa`, `arc2.nsa`, `arc3.nsa`, `arc4.nsa`, and `arc5.nsa` in your folder, then you are done with this step.
-    - If you **only** have `arc4.nsa` and `arc5.nsa`, you must rename them to `arc1.nsa` and `arc2.nsa` (so the arc files are sequential)
+    - If you **only** have `arc4.nsa` and `arc5.nsa`, you must rename them to `arc.nsa` and `arc1.nsa` (so the arc files are sequential)
 6. This step differs depending on your operating system
     - **Windows, Linux**: Download the Windows/Linux executable, and overwrite the existing executable in the game folder 
     - **MacOSX**: Download the zip file, but extract it to a known good location like desktop/downloads/documents, OUTSIDE the game directory. This will give you a `.app` file. Only then, copy the `.app` file into the game directory. This is to avoid a MacOSX security feature which prevents the game from running correctly (will give you a 'script not found').  

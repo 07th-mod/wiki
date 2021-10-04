@@ -122,7 +122,7 @@ Common steps are the same for all platforms. The remaining steps are **different
 3. When you extracted the voice archive, it should have generated an `arc4.nsa` and `arc5.nsa` file. After that, **please check the following**:
 
     - If you already have `arc1.nsa`, `arc2.nsa`, `arc3.nsa`, `arc4.nsa`, and `arc5.nsa` in your folder, then you are done with this step.
-    - If you **only** have `arc4.nsa` and `arc5.nsa`, you must rename them to `arc1.nsa` and `arc2.nsa` (so the arc files are sequential)
+    - If you **only** have `arc4.nsa` and `arc5.nsa`, you must rename them to `arc.nsa` and `arc1.nsa` (so the arc files are sequential)
 
 4. Rename the file ``0.utf`` inside your Umineko folder to ``0_old.utf`` (Backup the original script)
 

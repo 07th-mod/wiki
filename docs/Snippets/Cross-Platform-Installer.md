@@ -16,7 +16,7 @@
 
     ## Using the installer
 
-    1. On the web page that was just launched, click on the game you want to mod.
+    1. On the web page that was just launched, click on the mod you want to install.
     2. Fill in your game path, and mod options as applicable, then start the installation.
     3. If you wish to stop an install that is in progress, you MUST either click the **Quit Installer** button, or close the launcher. If you just close the webpage, the install will still run in the background!
     4. When the install finishes, "The install was successful!" will be displayed. Please carefully read the information that is displayed, which may contain gotchas/extra tasks you may need to do.
@@ -43,7 +43,7 @@
 
     ## Using the installer
 
-    1. On the web page that was just launched, click on the game you want to mod.
+    1. On the web page that was just launched, click on the mod you want to install.
     2. Fill in your game path, and mod options as applicable, then start the installation.
     3. If you wish to stop an install that is in progress, you MUST either click the **Quit Installer** button, or close the terminal. If you just close the webpage, the install will still run in the background!
     4. When the install finishes, "The install was successful!" will be displayed. Please carefully read the information that is displayed, which may contain gotchas/extra tasks you may need to do.
@@ -89,7 +89,7 @@
 
     ## Using the installer
 
-    1. On the web page that was just launched, click on the game you want to mod.
+    1. On the web page that was just launched, click on the mod you want to install.
     2. Fill in your game path, and mod options as applicable, then start the installation.
     3. If you wish to stop an install that is in progress, you MUST either click the **Quit Installer** button, or close the terminal. If you just close the webpage, the install will still run in the background!
     4. When the install finishes, "The install was successful!" will be displayed. Please carefully read the information that is displayed, which may contain gotchas/extra tasks you may need to do.
@@ -109,9 +109,25 @@
 
     Power users can try a few different ways of running the installer on [this page](../Installer/power-users.md)
 
+## Resuming an install / Restarting a failed install
+
+If the install fails:
+
+1. Refresh the page
+2. Double check the options are the same the last attempt (the installer should remember)
+3. Start the installation
+
+If you quit the installer while it was running:
+
+1. Start the installer again
+2. Select the same options as the last attempt
+3. Start the installation
+
+In most cases the installer will resume downloads, so you don't need to re-download everything. Please ignore any "checksum failed" warnings if you get them - this is normal.
+
 ## Updating Games
 
-To update your game, run the installer again for the game you want to update - **remember to repeat your mod option choices as before**. The installer should only re-install the updated components.
+To update your game, run the installer again for the game you want to update - **remember to use the same mod options as before**. The installer should install the updated components, and any other dependent components.
 
 ## [❓] Game and Installer Troubleshooting
 

@@ -138,7 +138,11 @@ You can try the following solutions. Please try them in order.:
 4. **Attempt the install as an Administrator user (not a "Standard User")**
     - By default, the installer already runs as administrator. But if you are using the 'No Administrator' version of the installer, please try the normal 'administrator' version.
 
-5. **Not recommended: Manually delete the problematic files**
+5. **For Higurashi Only - Try the "Partial Manual Install" option in the installer**
+    - **For Higurashi only**, the installer has an option which extracts the mod files to a temporary folder instead of the game folder. You can then manually copy the files to the game folder, hopefully bypassing any permissions issues.
+    - There is a [video tutorial](https://www.youtube.com/watch?v=Px4JWsSycQE) linked in the installer showing how to install with this method.
+
+6. **Not recommended: Manually delete the problematic files**
     - Open the installer log, and search for errors: `ERROR: Can not` or `Access is denied`
     - Delete the files/folders which the installer couldn't overwrite, then retry the install
     - You may need to repeat this multiple times, and you might accidentally delete the wrong file, so this method is not recommended.

@@ -54,6 +54,8 @@ State anything "special" about your computer's setup: [School/Company Computer/O
 State if you've changed anything to try and fix the problem: [Nothing/I tried re-installing the mod/cleared my saves]
 
 State if anything has changed recently on your PC: [Installed new software/update drivers/new hardware]
+
+Antivirus Software: [Windows Defender/Norton Antivirus/Bitdefender etc.]
 </textarea>
 </li>
 <li>Please upload a screenshot of the bug, if applicable <b>and spoiler tag it if it is a spoiler!</b></li>

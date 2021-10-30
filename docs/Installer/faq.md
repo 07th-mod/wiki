@@ -115,25 +115,26 @@ During the extraction stage, the installer will fail with an error message simil
 
 You can try the following solutions. Please try them in order.:
 
-1. **Restart your computer / Close other programs which could interfere:**
+1. **Check your Antivirus Software: Add an exception for the game folder/our installer (AVG, Norton etc.)**
+    - Antivirus software seems to be the main cause of this issue
+    - Specifically, Norton Antivirus will:
+        - Cause a 'permission denied' error when the installer tries to overwrite files
+        - States "Action Observed: Suspicious process attempted deleting a file protected by Data Protector"
+    - Note that Windows Defender usually causes no issues besides the initial popup - if you just have Windows Defender then ignore this solution.
+    - You will have to research how to add exceptions in your particular Antivirus software:
+          1. Most Likely: Check if your antivirus software is blocking the installer (add an exception for the installer .exe)
+          2. Less Likely: Check if your antivirus software is blocking the game folder access (add an exception for the game folder)
+
+2. **Restart your computer / Close other programs which could interfere:**
     - To make sure no programs are restricting file access:
         - Disable **Steam / GOG Downloader/Galaxy** launching on startup
         - Restart your computer, then wait for your computer to settle down
         - Start the installer immediately, **without launching any other programs**
     - In particular, make sure the game (Umineko or Higurashi) are closed, and also the launcher (Steam or GOG Downloader/Galaxy)
 
-2. **Move or copy the game folder out of Program Files so the installer can access it:**
+3. **Move or copy the game folder out of Program Files so the installer can access it:**
     - Move or copy the game folder to `Desktop` or `My Documents` - somewhere you know modifying and deleting files is allowed
     - Retry the install. You can move the game folder back after the install is finished.
-
-3. **Antivirus Software: Add an exception for the game folder/our installer (AVG, Norton etc.)**
-    - Norton Antivirus is known to cause issues
-      - Causes a 'permission denied' error when the installer tries to overwrite files
-      - Will state "Action Observed: Suspicious process attempted deleting a file protected by Data Protector"
-    - Note that Windows Defender usually causes no issues besides the initial popup - if you just have Windows Defender then ignore this solution.
-    - You will have to research how to add exceptions in your particular Antivirus software:
-        1. Most Likely: Check if your antivirus software is blocking the installer (add an exception for the installer .exe)
-        2. Less Likely: Check if your antivirus software is blocking the game folder access (add an exception for the game folder)
 
 4. **Attempt the install as an Administrator user (not a "Standard User")**
     - By default, the installer already runs as administrator. But if you are using the 'No Administrator' version of the installer, please try the normal 'administrator' version.

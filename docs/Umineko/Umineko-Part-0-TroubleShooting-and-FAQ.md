@@ -202,7 +202,7 @@ Please select the audio device before starting the game. You may also want to tr
 
 #### Suddenly all my sound/audio/voices/music has stopped working
 
-In this game engine, pressing 'm' mutes all sound - you probably pressed this by accident. Press 'm' again to unmute.
+In this game engine, pressing 'm' on your keyboard, or the "Select" equivalent on your gamepad, mutes all sound - you probably pressed this by accident. Press that button again to unmute.
 
 #### The voices at the start of the Question Arcs have some minor distortion
 

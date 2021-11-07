@@ -33,7 +33,7 @@ These crashes can happen on the unmodded game too, but it's possible the increas
 - [As reported on the steam forums](https://steamcommunity.com/app/406550/discussions/0/2569816316385480858/?tscn=1604006973):
     - This issue happens on some Nvidia systems
     - The stuttering happens **when you move the mouse**
-    - The stuttering issue happpens even even on the base game
+    - The stuttering issue happens even even on the base game
 - To solve this issue (as a workaround) use just the keyboard or a controller to play the game, rather than your mouse
 
 - We've also had a report that having a PS4 controller plugged in can cause this issue - try unplugging any controllers you have and see if it fixes the issue.
@@ -67,7 +67,7 @@ In the main arcs, as well as Umineko Saku, you may freely resize the window by d
 
 ### The game window size is reset when the game starts
 
-The newer Umineko games currently don't remember the size or position of the window once you close the game. As a workaround on Windows, you can use this AutoHotkey script to resize the curently active window:
+The newer Umineko games currently don't remember the size or position of the window once you close the game. As a workaround on Windows, you can use this AutoHotkey script to resize the currently active window:
 
 ```autohotkey
 ; Press "alt + r" to resize the current window when this script is active
@@ -128,7 +128,7 @@ Note that your chapter unlock status should always be maintained, unless you del
 
 You forgot to rename the script file `0.utf` to `0.u` (located in the root game directory)
 
-#### I want to play with the original sprites/ryushi sprites/adv mode etc.
+#### I want to play with the original sprites/ryukishi sprites/adv mode etc.
 
 See the [Mod Options](Umineko-Mod-Options.md) page.
 

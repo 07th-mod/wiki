@@ -19,7 +19,7 @@ Here are a few resources on getting the installer to run in alternative ways:
     The installer also ships with an alternative command line interface for advanced users, in the form of the `cli.py` script. It can be executed by passing several arguments to it. The following arguments are required:
 
     - `-g GAME` -- specify the game to install. This should be words separated by `-` that are
-    sufficient to recognise the necessary mod, e.g. `minagoroshi` or `umineko-question`.
+    sufficient to recognize the necessary mod, e.g. `minagoroshi` or `umineko-question`.
     - `-p PATH` -- the path to the game installation location.
     - `-m MOD_TYPE` -- the type of the mod, such as `full`, `voice-only`, `adv-mode`, `novel-mode`, etc.
 

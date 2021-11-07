@@ -19,7 +19,7 @@ uses PS3 art when possible. Missing sprites and voices will be added after Enter
 You may use our [Automatic Installer](Umineko-Part-3a-Cross-Platform-Installer.md) to install the Tsubasa and Hane patches.
 However, since the games aren't available on Steam, the installer will not be able to auto-detect their install location.
 You will need to manually locate either the executable file (`うみねこのなく頃に翼.exe` for Tsubasa, `うみねこのなく頃に羽.exe` for Hane and `うみねこのなく頃に咲.exe` for Saku)
-or the `snow.dll` file inside of the game folder for the installer to recognise the install location.
+or the `snow.dll` file inside of the game folder for the installer to recognize the install location.
 After the installation finishes, read how to [run the mod](#running-the-modded-version) down below.
 
 ---

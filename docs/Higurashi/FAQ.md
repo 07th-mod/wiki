@@ -77,7 +77,7 @@ This issue can affect all Unity games, not just Higurashi, and has to do with as
 
 Saves between different releases of our mod are not compatible.
 
-If you have made old saves, do not press 'continue' or load - please use the chapter jump menu or start a new game. You could get many kinds of wierd behaviour, for example being stuck on a black screen, or the game may crash.
+If you have made old saves, do not press 'continue' or load - please use the chapter jump menu or start a new game. You could get many kinds of weird behavior, for example being stuck on a black screen, or the game may crash.
 
 If you want to use the saves on multiple machines (for example, using steam sync), make sure they are all running exactly the same version of the mod.
 

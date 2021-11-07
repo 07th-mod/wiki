@@ -81,7 +81,7 @@ The mod menu and/or **F2** key can set the script censorship level from PC (0, l
 
     ### Flag Monitor Menu
 
-    * **F10** = Press once to show mod settings, Press again to show keyboard shorcuts
+    * **F10** = Press once to show mod settings, Press again to show keyboard shortcuts
         * Press the F10 key **twice** while not in a menu (while playing the game normally) to show all available keyboard commands. Then, press keyboard commands to change mod settings.
         * Keyboard commands are active even while the Flag Monitor is not open.
         * **Attention**: If you open the flag monitor in the main menu, it won't go away until you start the game and press F10 again!

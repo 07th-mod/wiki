@@ -10,7 +10,7 @@ Manual installation is not recommended unless you have problems with the cross-p
 
 #### MAC USERS ONLY - Various Gotchas
 - When overwriting one folder with another on Mac, it by default **entirely replaces** the folder rather than merging. To fix this see the instructions for "Merge two folders with the same name" here: https://support.apple.com/kb/PH25633?locale=en_US
-- MacOSX has some security features which can prevent the game running correctly. Please follow the install instructions closesly so this doesn't happen.
+- MacOSX has some security features which can prevent the game running correctly. Please follow the install instructions closely so this doesn't happen.
 
 ### Answer Arc ADV Addon
 Instructions on installing the Answer Arcs ADV Addon are at the bottom of the page.

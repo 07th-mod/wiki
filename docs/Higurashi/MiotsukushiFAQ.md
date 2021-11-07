@@ -36,7 +36,7 @@ This list only includes the noteworthy differences. There are also some minor tw
 - On day 18 the festival plays out differently. On PS2 Natsumi plays games with everyone. On PS3 Akasaka shows up with his family, so Natsumi leaves early and Miyuki plays with everyone
 - The scene with Tomitake running from the Mountain Dogs is moved to later in the chapter on PS3, but the content is largely the same
 - On PS2, Keiichi and Rika find Hanyuu down by the river, and this leads into the Kotohogushi flashback. On PS3 Rika freaks out after noticing something in her reflection, and this ends with Rika falling into the swamp.
-- Day 19 in class Keiichi thinks back on last night. On PS2 he remembers bringing Hanyuu back to Rika's house, but on PS3 he remembers bweing surprised to find Rika at her house. 
+- Day 19 in class Keiichi thinks back on last night. On PS2 he remembers bringing Hanyuu back to Rika's house, but on PS3 he remembers being surprised to find Rika at her house.
 - When Akasaka is talking about Takano's autopsy report, on PS2 he got the info from neighboring prefectural police, but on PS3 he got it from Tomoe.
 - Irie's gunshot wound was bad enough to required stitches on PS2, but they made it less severe on PS3.
 - On day 21, on PS3 Ooishi decides to help out after hearing about what Tomoe did in Miotsukushi Ura. On PS2 he decides after smoking a whole pack of cigarettes

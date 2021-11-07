@@ -1,10 +1,6 @@
 # Keyboard Shortcuts and Settings
 
-## New DLL
-
-### Mod Options Menu
-
-If you have the new DLL installed (the default in 2021), you can use the "modern" mod menu to adjust the mod options.
+## Mod Options Menu
 
 ![Screenshot](img/mod_menu.webp)
 

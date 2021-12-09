@@ -144,15 +144,15 @@ Please select a tab below to access the downloads that you require.
     </tr>
     <tr class="even">
     <td style="text-align: center;">Update</td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/og-dll-asset-update/onikakushi-og-dll-asset-update.7z">Download</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/og-dll-asset-update/watanagashi-og-dll-asset-update.7z">Download</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/og-dll-asset-update/tatarigoroshi-og-dll-asset-update.7z">Download</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/og-dll-asset-update/himatsubushi-og-dll-asset-update.7z">Download</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/og-dll-asset-update/onikakushi-og-dll-asset-update.7z">Download👀</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/og-dll-asset-update/watanagashi-og-dll-asset-update.7z">Download👀</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/og-dll-asset-update/tatarigoroshi-og-dll-asset-update.7z">Download👀</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/og-dll-asset-update/himatsubushi-og-dll-asset-update.7z">Download👀</a></td>
     </tr>
     </tbody>
     </table>
 
-    👀 Extract the `Patch` archive LAST, after all other files (should combine with the existing `HigurashiEp0X_Data` folder). Overwrite any files if asked.
+    👀 Extract the `Patch` and `Update` archives LAST, after all other files (should combine with the existing `HigurashiEp0X_Data` folder). Overwrite any files if asked.
 
     ⚠️ Unlike all the other archives, the BGM/SE archive should be extracted to the ``HigurashiEp0X_Data/StreamingAssets`` folder (MacOS users should extract this archive second last).
 
@@ -231,15 +231,15 @@ Please select a tab below to access the downloads that you require.
     </tr>
     <tr class="even">
     <td style="text-align: center;">Update</td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/og-dll-asset-update/meakashi-og-dll-asset-update.7z">Download</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/og-dll-asset-update/tsumihoroboshi-og-dll-asset-update.7z">Download</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/og-dll-asset-update/minagoroshi-og-dll-asset-update.7z">Download</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/og-dll-asset-update/matsuribayashi-og-dll-asset-update.7z">Download</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/og-dll-asset-update/meakashi-og-dll-asset-update.7z">Download👀</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/og-dll-asset-update/tsumihoroboshi-og-dll-asset-update.7z">Download👀</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/og-dll-asset-update/minagoroshi-og-dll-asset-update.7z">Download👀</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/og-dll-asset-update/matsuribayashi-og-dll-asset-update.7z">Download👀</a></td>
     </tr>
     </tbody>
     </table>
 
-    👀 Extract the `Patch` archive LAST, after all other files (should combine with the existing `HigurashiEp0X_Data` folder). Overwrite any files if asked.
+    👀 Extract the `Patch` and `Update` archives LAST, after all other files (should combine with the existing `HigurashiEp0X_Data` folder). Overwrite any files if asked.
 
     ⚠️ Unlike all the other archives, the BGM/SE archive should be extracted to the ``HigurashiEp0X_Data/StreamingAssets`` folder (MacOS users should extract this archive second last).
 

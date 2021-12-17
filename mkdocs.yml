@@ -52,7 +52,8 @@ markdown_extensions:
       permalink: true
   - pymdownx.mark
   - pymdownx.details
-  - pymdownx.tabbed
+  - pymdownx.tabbed:
+      alternate_style: true
   - pymdownx.superfences
   - attr_list
   - pymdownx.snippets:

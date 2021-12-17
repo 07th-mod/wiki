@@ -90,8 +90,8 @@ For details on save file locations, see "Save file locations" near the bottom of
 When debugging this issue, it's worth testing and reporting these things
 
 1. Check the in-game settings to see if the Voice, Music, or Sound Effects volume have been set to zero
-2. The following software (related to audio devices) may interfere with the voice/audio playback of the game. Please try disabling any software or devices of this type:
-    - Razer Synapse
+2. The following software (related to audio devices) may interfere with the voice/audio playback of the game. Please try disabling any software (check task manager to make sure the program(s) are completely closed!) or devices of this type:
+    - Razer Synapse (Specifically, the old version with the cloud icon. There may be multiple processes running, make sure to close them all/uninstall/disable all of them. Supposedly the new version does not cause problems, but it's worth closing both)
     - Logitech G Hub
     - Asus Sonic Studio 3
     - HyperX Software/Headsets
@@ -104,7 +104,7 @@ When debugging this issue, it's worth testing and reporting these things
 5. Try another audio device (for example, your speakers instead of USB/Bluetooth headphones)
 6. Check if you have the number sign (`#`), or any other strange special characters anywhere in your game path. This will cause you to only have sound during the opening video.
 
-See the below for more help on specific cases
+Try the above first, and if you still can't fix it, see the below for more help on specific cases:
 
 #### No voices, but other sounds OK
 
@@ -116,6 +116,7 @@ If voices are still not playing, press the **F10** button twice while not in a g
 
 We have had some users who had sound only during the intro / opening video:
 
+- One user fixed it by force closing the old version of Razer Synapse from task manager (see above checklist). Try going through the general checklist above first before trying the rest of the below items.
 - One user fixed it by clearing the registry files for that chapter - but please only do this as a last resort. See "Registry file location and clearing" at the bottom of this page for how to do this.
 - One user had the number sign (`#`) in their game path. This definitely causes all sound to stop working except for the opening movie. Make sure you don't have any special characters in your game path.
     - If you need to move or change your Steam game install location, follow the instructions here: [https://support.steampowered.com/kb_article.php?ref=7418-YUBN-8129](https://support.steampowered.com/kb_article.php?ref=7418-YUBN-8129)

@@ -65,8 +65,6 @@
 
 === "Linux"
 
-    --8<-- "gnome-crash-warning.md"
-
     ## Starting the installer
     1. Install the following using your distribution's package manager:
         * Python 3.7 and above

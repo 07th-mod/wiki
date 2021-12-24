@@ -1,6 +1,6 @@
 # Donations
 
-> **In case you just want to donate, [click here](https://www.paypal.com/donate?hosted_button_id=YULP7WS96Y8TU&source=url) to be taken directly to our Paypal donation link.**
+> **In case you just want to donate, [click here](https://www.paypal.com/donate?hosted_button_id=C978TUSYHZU2Q) to be taken directly to our Paypal donation link.**
 
 Starting from July 2018, we started accepting donations to host our own server. In this article, we will describe in detail why we decided to accept donations and how this will improve our work.
 
@@ -68,6 +68,6 @@ Nothing! Our code is still freely available and is not going anywhere.
 Click on the image below to donate:
 
 [![Donate!](https://user-images.githubusercontent.com/4702556/42401332-8e49fd8c-814b-11e8-9a83-b52285cf1051.png
-)](https://www.paypal.com/donate?hosted_button_id=YULP7WS96Y8TU&source=url)
+)](https://www.paypal.com/donate?hosted_button_id=C978TUSYHZU2Q)
 
-[You can also click here](https://www.paypal.com/donate?hosted_button_id=YULP7WS96Y8TU&source=url) to be redirected to our Paypal page.
+[You can also click here](https://www.paypal.com/donate?hosted_button_id=C978TUSYHZU2Q) to be redirected to our Paypal page.

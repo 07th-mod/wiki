@@ -180,6 +180,14 @@ Firstly, try restarting Steam, as it sometimes doesn't properly show achievement
 
 Previously, we have had other issues with achievements, so if you still can't get achievements to work, you can let us know.
 
+### The game crashes on startup with a white screen. The crash log contains a "lci_proxyumd32.dll caused a Breakpoint" error
+
+This error occurs if you are using a USB to HDMI adapter with a driver provided by Fresco Logic. See [this Hollow Knight thread for more details.](https://steamcommunity.com/app/367520/discussions/0/1700541698692038649/)
+
+To fix this error, you need to disable (or uninstall?) the driver in Device Manager, at Device Manager > System Devices > FrescoLogic Proxy Display Adapter, as shown in the below screenshot:
+
+![Fresco Logic Device Manager Screenshot](img/device-manager-frescologic-driver.png)
+
 ## Known Issues - Manual Install
 
 ### The game crashes

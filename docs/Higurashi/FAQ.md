@@ -260,7 +260,11 @@ Here are the save files locations for Higurashi, Chapter 1 (other chapters use t
 - Windows: `C:\Users\[YOUR_USERNAME]\AppData\Roaming\MangaGamer\higurashi01`
     - As a shortcut, paste this into the explorer address bar: `%AppData%/Mangagamer`
 - MacOS: `~/Library/Application Support/unity.MangaGamer.Higurashi When They Cry - Ch.1 Onikakushi/`
-- Linux: `~/.config/unity3d/Mangagamer/Higurashi When They Cry _ Ch_1 Onikakushi`
+- Linux:
+    - For Chapters 1-2, save data is split between two adjacent folders:
+        - `~/.config/unity3d/MangaGamer/Higurashi When they Cry - Ch.1 Onikakushi`
+        - `~/.config/unity3d/Mangagamer/Higurashi When They Cry _ Ch_1 Onikakushi`(note the underscores)
+    - For Chapters 3-8, all save data is in one folder: `~/.config/unity3d/MangaGamer/Higurashi When they Cry - Ch.3 Tatarigoroshi`
 
 In the folder you'll find:
 

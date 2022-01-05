@@ -151,6 +151,8 @@ Please select a tab below to access the downloads that you require.
     </tr>
     </tbody>
     </table>
+    
+    **Please see [this FAQ](FAQ.md#higurashi-music-and-sound-effects-changes-april-update) to understand what the BGM/SE Fixes do.** In summary, they partially revert the BGM/SE changes made in the April Higurashi update.
 
     👀 Extract the `Patch` and `Update` archives LAST, after all other files (should combine with the existing `HigurashiEp0X_Data` folder). Overwrite any files if asked.
 
@@ -238,6 +240,8 @@ Please select a tab below to access the downloads that you require.
     </tr>
     </tbody>
     </table>
+    
+    **Please see [this FAQ](FAQ.md#higurashi-music-and-sound-effects-changes-april-update) to understand what the BGM/SE Fixes do.** In summary, they partially revert the BGM/SE changes made in the April Higurashi update.
 
     👀 Extract the `Patch` and `Update` archives LAST, after all other files (should combine with the existing `HigurashiEp0X_Data` folder). Overwrite any files if asked.
 
@@ -251,7 +255,6 @@ Please select a tab below to access the downloads that you require.
     !!! warning "Different BGM and Sound Effects extraction location!"
         Unlike the other archives, **these files need to be extracted inside the ``StreamingAssets`` folder to work**. Overwrite all files if asked.
 
-    **Please see [this FAQ](FAQ.md#higurashi-music-and-sound-effects-changes-april-update) to understand what the BGM/SE Fixes do.** In summary, they partially revert the BGM/SE changes made in the April Higurashi update.
 
     <table>
     <colgroup>

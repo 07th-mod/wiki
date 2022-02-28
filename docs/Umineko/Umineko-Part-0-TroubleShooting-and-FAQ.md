@@ -255,3 +255,9 @@ There is also one achievement for the Question Arcs which is difficult to unlock
 #### No sound on Linux (game doesn't even show up in mixer)
 
 On Linux, if Umineko doesn't show up in your audio mixer at all, try following this [gamingonlinux tutorial](https://www.gamingonlinux.com/articles/steam-for-linux-can-now-run-games-in-a-special-container.15384) to run Umineko using the Steam Linux Runtime compatability tool.
+
+#### The episode credits just display a black screen
+
+If the credits play music, but only shows a black screen, it's probably due to you using an (old) integrated graphics card.
+
+We think this is because the 1080p credits images are too large for some computers to support, so the engine just does not display them at all.

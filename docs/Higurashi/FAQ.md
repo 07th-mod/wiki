@@ -8,9 +8,13 @@ Please proceed to the [Higurashi Support](support.md) page
 
 ## Common Questions
 
-### What do the Voice Matching Level and other mod settings do?
+--8<-- "higurashi-voice-matching-level.md"
 
-Please see the [Shortcuts and Settings Page](Higurashi-Part-2---Patch-configuration-and-keyboard-shortcuts.md) for details on each keyboard shortcut and mod setting.
+### What do the mod settings do?
+
+If you're not sure what an option does, hover over the buttons in the mod menu. This will show a description of the option on the right hand side.
+
+You can also see the [Shortcuts and Settings Page](Higurashi-Part-2---Patch-configuration-and-keyboard-shortcuts.md) for details on each keyboard shortcut and mod setting.
 
 ## Known Issues
 

@@ -44,17 +44,13 @@ After applying this workaround, you may need to play the game a little before th
 
 We would be thankful if you could send us your saves when you have this issue so we can fix it.
 
-### The game freezes on a white screen on startup
+### The game freezes on startup with a black or white screen
 
-The first time you start the game, it is normal to 'freeze' on a white screen for up to 2 minutes, but:
+With the newest version of the mod, you shouldn't see the game freeze on a white or black screen on startup. If you encounter this issue:
 
-- If it takes more than 2 minutes (please wait at least 10 minutes), most likely the scripts have failed to compile. **Please message us [on our Discord](https://discord.gg/pf5VhF9) and we can send you the pre-compiled scripts to fix this issue**. If we get enough reports of this issue, we'll distribute the pre-compiled scripts with each release.
-
-- If the game freezes on a black screen it's likely something went wrong - please contact us if this happens.
-
-### Black screen on game startup issues
-
-There are many different problems that can cause a black screen on game startup. The issue is usually recorded in the game log (see [Higurashi Support](support.md) on how to find this) - please submit the game log to us if [reporting a black screen issue on Discord](support.md).
+1. Wait 1-2 minutes to see if it fixes itself. If not, continue to the next step.
+2. Find the game log called  `output_log.txt` or `Player.log`, using the instructions at [Higurashi Support](support.md) (see "Getting Higurashi Game Log Files")
+3. Submit the game log to us [on our Discord server](https://discord.gg/pf5VhF9) in the `#higu_support` channel, and hopefully we can figure out the problem
 
 #### My game was working before, but now it's stuck on a black screen
 

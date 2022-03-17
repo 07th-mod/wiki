@@ -6,6 +6,12 @@ This page is dedicated to credit all collaborators who helped us along the way. 
 
 * Kickstarted the whole thing by sharing the files and scripts from the console game
 
+### [Bakedanuki](https://twitter.com/bakedanooki)
+
+* [Remake of Umineko Episode 1 OP video with PS3 graphics](https://www.youtube.com/watch?v=U4Fr4-1uctg)
+* English logo and logo edit for Umineko Episode 4 OP video
+* Various Umineko Graphics editing (baking text images, name tags, UI)
+
 ### [Darbury](https://github.com/Darbury)
 
 * Quality checking

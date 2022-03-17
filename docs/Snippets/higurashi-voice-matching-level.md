@@ -9,9 +9,3 @@ The mod menu and/or **F2** key can set the script censorship level from PC (0, l
     * Max (5) = Full PS3 script fully voiced (might be censored at parts)
     * Min (0) = Original PC script with voices where it fits (fully uncensored)
     * Default (2) = Should be the most balanced option
-
-### What do the mod settings do?
-
-If you hover over the buttons in the mod menu, it will show a description of what that option does on the right hand side.
-
-You can also see the [Shortcuts and Settings Page](Higurashi-Part-2---Patch-configuration-and-keyboard-shortcuts.md) for details on each keyboard shortcut and mod setting.

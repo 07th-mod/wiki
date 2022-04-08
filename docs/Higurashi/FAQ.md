@@ -18,6 +18,10 @@ You can also see the [Shortcuts and Settings Page](Higurashi-Part-2---Patch-conf
 
 ## Known Issues
 
+### No Backgrounds, Sprites, or Images (just black screen with game text at bottom)
+
+If you find you can play the game, but no images are displayed, try closing the game and starting it again. After that, images should display properly.
+
 ### The game lags during voice playback
 
 #### Possible Fixes

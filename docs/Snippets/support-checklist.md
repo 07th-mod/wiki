@@ -167,7 +167,7 @@ Antivirus Software: [Windows Defender/Norton Antivirus/Bitdefender etc.]
 
 If you don't want to use Discord, you can submit to the appropriate Github Issues page. We prefer Github for complicated bug reports and feature requests so we can keep track of them easier.
 
-If you're unfamiliar with Github, [this handy guide](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue) will teach you how to create a Github issue. Note that a Github Account is required to submit issues.
+If you're unfamiliar with Github, [this handy guide](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) will teach you how to create a Github issue. Note that a Github Account is required to submit issues.
 <table>
 <thead>
 <tr class="header">

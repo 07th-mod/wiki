@@ -49,6 +49,7 @@ These features can be installed as an installer option (or manually), but please
     非官方简体中文汉化补丁, 目前仅提供第一章与第六章的版本. [更多信息请点这里](https://higurashi.ycx-studios.site).
     
     请注意:
+    
     * 07th-mod 并不直接为该补丁提供支持 - 但你可以:
     
         * 访问[汉化补丁列表](https://higurashi.ycx-studios.site/patch/list/)查看所有可用的补丁

@@ -41,15 +41,16 @@ These features can be installed as an installer option (or manually), but please
 
     * 07th-mod does not directly support this patch - instead:
 
-        * Visit [patch list page](https://higurashi.ycx-studios.site/patch/list/) for all available patch
-        * Contact them directly on [their patch website](https://higurashi.ycx-studios.site/about/)
-        * There also have [07th-mod's install guide](https://higurashi.ycx-studios.site/guide/07th-mod/main/) Simplified Chinese tranalsted version
+        * Visit the [patch list page](https://higurashi.ycx-studios.site/patch/list/) for all available patches
+        * Contact them directly on [their website](https://higurashi.ycx-studios.site/about/)
+        * A version in Simplified Chinese of the [install guide](https://higurashi.ycx-studios.site/guide/07th-mod/main/) is available in their website
         * Check out [their website](https://www.chinalcmod.com)
         
     非官方简体中文汉化补丁, 目前仅提供第一章与第六章的版本. [更多信息请点这里](https://higurashi.ycx-studios.site).
     
     请注意:
     * 07th-mod 并不直接为该补丁提供支持 - 但你可以:
+    
         * 访问[汉化补丁列表](https://higurashi.ycx-studios.site/patch/list/)查看所有可用的补丁
         * 直接在[补丁发布页面](https://higurashi.ycx-studios.site/about/)联系我们
         * 另外我们也提供[07th-mod 使用指南](https://higurashi.ycx-studios.site/guide/07th-mod/main/)的简体中文翻译版本

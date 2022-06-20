@@ -79,8 +79,9 @@
             * p7zip (get the '**full**' version) `sudo apt install p7zip-full`
             * aria2 `sudo apt install aria2`
     2. Download and extract the [Linux Installer](https://github.com/07th-mod/python-patcher/releases)
-    3. Run the shell script called `install`. The installer will open as a web page in your browser.
-        1. If you cannot get the web page to load, run the `install_safe_mode` script
+    3. Run the shell script called `setup`. The installer will open as a web page in your browser.
+        1. You will most likely need to open a terminal and run it from there, unless your file browser supports running the script directly.
+        2. If you cannot get the web page to load, run the `setup_safe_mode` script
     4. Opening the installer will launch a page in your browser. This is the installer's interface.
         - **Please note: if the page(s) does not load, try refreshing the page**
         - **Do not close the page**
@@ -90,6 +91,35 @@
     1. On the web page that was just launched, click on the mod you want to install.
     2. Fill in your game path, and mod options as applicable, then start the installation.
     3. If you wish to stop an install that is in progress, you MUST either click the **Quit Installer** button, or close the terminal. If you just close the webpage, the install will still run in the background!
+    4. When the install finishes, "The install was successful!" will be displayed. Please carefully read the information that is displayed, which may contain gotchas/extra tasks you may need to do.
+
+=== "Steam Deck"
+
+    !!! warning "The Steam Deck is new, so these instructions may become out of date quickly. Please let us know if these instructions don't work or need updating"
+
+    ## Preparation
+    1. **Before installing the game**, make sure the game you want to play is set to "Steam Linux Runtime". You can get to that menu by highlighting the game in your Library, then pressing the Menu button and selecting > Properties > Compatibility > Force the use of a specific Steam Play compatibility tool.
+        - **If you have already installed the game, you can still change the setting**, but Steam will need to re-download parts of the game.
+    2. Install the game you want to mod.
+    3. We **highly recommend** plugging in a mouse and keyboard into the Steam Deck to make using the installer easier.
+    3. Switch to Desktop mode for the remaining steps.
+
+
+    ## Starting the installer
+    1. Download `07th-Mod.Installer.linux.tar.gz` to your computer from the [Download Page](https://github.com/07th-mod/python-patcher/releases).
+    2. Open the `07th-Mod.Installer.linux.tar.gz` file, probably located in your Downloads folder.
+    3. Click "Extract", which should create the folder "07th-Mod_Installer_Linux64".
+    4. Run the `setup` file located in the "07th-Mod_Installer_Linux64" folder.
+        1. You should be able to double click on the `setup` file to run it. If this does not work, let us know.
+    5. After some time, the installer will open as a web page in your browser. This is the installer's interface.
+        1. **Please note: if a page takes too long to load, try refreshing the page**.
+        2. If you still cannot get the web page to load, try running the `setup_safe_mode` file instead.
+
+    ## Using the installer
+
+    1. On the web page that was just launched, click on the mod you want to install.
+    2. Fill in your game path, and mod options as applicable, then start the installation.
+    3. If you wish to stop an install that is in progress, you MUST either click the **Quit Installer** button, or close the launcher. If you just close the webpage, the install will still run in the background!
     4. When the install finishes, "The install was successful!" will be displayed. Please carefully read the information that is displayed, which may contain gotchas/extra tasks you may need to do.
 
 === "Linux Wine"

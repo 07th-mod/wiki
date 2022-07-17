@@ -1,3 +1,3 @@
 cd ..
-mkdocs serve -f mkdocs.yml
+python -m mkdocs serve -f mkdocs.yml
 pause

@@ -65,6 +65,8 @@
 
 === "Linux"
 
+    !!! warning "For the Higurashi Mod only, if you're having problems with the native version of the game, and you're famliar with Proton/Wine, you can try running the game under Proton/Wine - click the 'Linux Wine' tab for more instructions"
+
     ## Starting the installer
     1. Install the following using your distribution's package manager:
         * Python 3.7 and above
@@ -126,12 +128,13 @@
 
     Note that **we don't officially support the mods under Wine**, so your experience may vary.
 
-    Running the installer within Wine works for some users, but not for others. It is more reliable to run the installer natively on Linux, then use the `--asset-os` option to install the Windows assets. You can do this following the below instructions:
+    Running the installer within Wine works for some users, but not for others. It is more reliable to run the installer natively on Linux, then force installation of the Windows assets. You can do this following the below instructions:
 
-    1. Please follow the normal "Linux" instructions, but stop before you run the `install.sh`
-    2. Manually run `python main.py --asset-os windows` or `python3 main.py --asset-os windows` to start the installer
-        - The terminal should print `Warning: Force asset argument passed...` if you've activated this mode successfully
-    3. Continue the install as normal, pointing to your Wine install of the game
+    1. Make sure the unmodded game runs correctly under Wine or under Steam's Proton
+    2. Please follow the normal "Linux" instructions, but stop before you run the `setup` script
+    3. Instead of running the `setup` script, open the folder `setup_proton_wine` and then run the `setup_proton_wine` script
+        - The terminal should print `Warning: Force asset argument passed...` if it's working correctly
+    4. Continue the install as normal, pointing to your Wine install of the game
 
 === "Power Users"
 

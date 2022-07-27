@@ -266,11 +266,11 @@ Please select a tab below to access the downloads that you require.
     </tr>
     <tr class="even">
     <td style="text-align: center;">Graphics patch</td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/HigurashiRei-Graphics.7z">1440p</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Rei-Graphics.7z">1440p</a></td>
     </tr>
     <tr class="even">
     <td style="text-align: center;">Voices</td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voice/HigurashiRei-Voices.7z">Download</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voice/Rei-Voices.7z">Download</a></td>
     </tr>
     <tr class="even">
     <td style="text-align: center;">BGM & SE</td>
@@ -278,15 +278,15 @@ Please select a tab below to access the downloads that you require.
     </tr>
     <tr class="odd">
     <td style="text-align: center;">Movies</td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/video/HigurashiRei-Movie.7z">Windows</a><br><a href="https://07th-mod.com/rikachama/video/HigurashiRei-Movie_UNIX.7z">Mac/Linux</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/video/Rei-Movie.7z">Windows</a><br><a href="https://07th-mod.com/rikachama/video/Rei-Movie_UNIX.7z">Mac/Linux</a></td>
     </tr>
     <tr class="even">
     <td style="text-align: center;">UI Mod (Windows)</td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=higurashirei&os=win&unity=2019.4.3">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=higurashirei&os=win&unity=2019.4.3">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=higurashirei&os=win&unity=2019.4.3">GOG</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=rei&os=win&unity=2019.4.3">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=rei&os=win&unity=2019.4.3">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=rei&os=win&unity=2019.4.3">GOG</a></td>
     </tr>
     <tr class="odd">
     <td style="text-align: center;">UI Mod (Mac/Linux)</td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=higurashirei&os=unix&unity=2019.4.3">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=higurashirei&os=unix&unity=2019.4.3">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=higurashirei&os=unix&unity=2019.4.3">GOG</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=rei&os=unix&unity=2019.4.3">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=rei&os=unix&unity=2019.4.3">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=rei&os=unix&unity=2019.4.3">GOG</a></td>
     </tr>
     <tr class="odd">
     <td style="text-align: center;">Compatibility packs</td>

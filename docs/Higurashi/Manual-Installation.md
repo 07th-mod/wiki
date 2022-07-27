@@ -262,7 +262,7 @@ Please select a tab below to access the downloads that you require.
     <tbody>
     <tr class="odd">
     <td style="text-align: center;">Patch</td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/higurashirei/releases/latest">Download👀</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/higurashi-rei/releases/latest">Download👀</a></td>
     </tr>
     <tr class="even">
     <td style="text-align: center;">Graphics patch</td>

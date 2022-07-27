@@ -249,6 +249,56 @@ Please select a tab below to access the downloads that you require.
 
     † If the regular "GOG" UI file does not work, try the "old" version (compatible with an older GOG release of the game).
 
+=== "Extra Arcs"
+
+
+    <table>
+    <thead>
+    <tr class="header">
+    <th style="text-align: center;">〜☆</th>
+    <th style="text-align: center;">Ch.9 Rei</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr class="odd">
+    <td style="text-align: center;">Patch</td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/higurashirei/releases/latest">Download👀</a></td>
+    </tr>
+    <tr class="even">
+    <td style="text-align: center;">Graphics patch</td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/HigurashiRei-Graphics.7z">1440p</a></td>
+    </tr>
+    <tr class="even">
+    <td style="text-align: center;">Voices</td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voice/HigurashiRei-Voices.7z">Download</a></td>
+    </tr>
+    <tr class="even">
+    <td style="text-align: center;">BGM & SE</td>
+    <td style="text-align: center;">None</td>
+    </tr>
+    <tr class="odd">
+    <td style="text-align: center;">Movies</td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/video/HigurashiRei-Movie.7z">Windows</a><br><a href="https://07th-mod.com/rikachama/video/HigurashiRei-Movie_UNIX.7z">Mac/Linux</a></td>
+    </tr>
+    <tr class="even">
+    <td style="text-align: center;">UI Mod (Windows)</td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=higurashirei&os=win&unity=2019.4.3">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=higurashirei&os=win&unity=2019.4.3">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=higurashirei&os=win&unity=2019.4.3">GOG</a></td>
+    </tr>
+    <tr class="odd">
+    <td style="text-align: center;">UI Mod (Mac/Linux)</td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=higurashirei&os=unix&unity=2019.4.3">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=higurashirei&os=unix&unity=2019.4.3">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=higurashirei&os=unix&unity=2019.4.3">GOG</a></td>
+    </tr>
+    <tr class="odd">
+    <td style="text-align: center;">Compatibility packs</td>
+    <td style="text-align: center;">None</td>
+    </tr>
+    <tr class="even">
+    <td style="text-align: center;">Update</td>
+    <td style="text-align: center;">None</td>
+    </tr>
+    </tbody>
+    </table>
+
 === "Optional Q/A Downloads"
 
 

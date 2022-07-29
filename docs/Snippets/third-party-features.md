@@ -28,7 +28,6 @@ These features can be installed as an installer option (or manually), but please
         * Visit the #modding_italian channel of the [07th-mod discord](https://discord.gg/pf5VhF9)
         * Raise an issue on the [Italian patch's Github page](https://github.com/Xorboth/onikakushi-ita/issues).
         * Consider checking out the [translator's facebook page](https://www.facebook.com/cthtranslationsv2/) directly instead.
-        * Check out [their website](https://cthtranslations.it/visual-novel.html)
     * It is **highly recommended to use [the installer](../Higurashi/Higurashi-Part-1---Voice-and-Graphics-Patch.md)**. But if you are installing manually, use the pages below:
         * [Ch.1 Onikakushi Info/Manual Downloads](https://github.com/Xorboth/onikakushi-ita/releases/latest) and [Issues Page](https://github.com/Xorboth/onikakushi-ita/issues)
         * [Ch.2 Watanagashi Info/Manual Downloads](https://github.com/Xorboth/watanagashi-ita/releases/latest) and [Issues Page](https://github.com/Xorboth/watanagashi-ita/issues)

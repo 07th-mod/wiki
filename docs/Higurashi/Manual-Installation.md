@@ -251,6 +251,7 @@ Please select a tab below to access the downloads that you require.
 
 === "Extra Arcs"
 
+    <h1> NOTE: REI IS NOT RELEASED YET.<br><br>THE FILES HERE ARE ONLY FOR INTERNAL TESTING. </h1>
 
     <table>
     <thead>
@@ -274,7 +275,7 @@ Please select a tab below to access the downloads that you require.
     </tr>
     <tr class="even">
     <td style="text-align: center;">BGM & SE</td>
-    <td style="text-align: center;">None</td>
+    <td style="text-align: center;">Missing! Needs to be added!</td>
     </tr>
     <tr class="odd">
     <td style="text-align: center;">Movies</td>
@@ -299,7 +300,9 @@ Please select a tab below to access the downloads that you require.
     </tbody>
     </table>
 
-=== "Optional Q/A Downloads"
+    👀 Extract the `Patch` and `Update` archives LAST, after all other files (should combine with the existing `HigurashiEp0X_Data` folder). Overwrite any files if asked.
+
+=== "Optional Packs"
 
 
     !!! warning "Different BGM and Sound Effects extraction location!"

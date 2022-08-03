@@ -219,33 +219,6 @@ If the game lags or freezes every now and then, you may want to investigate thes
 - Restart your computer
 - While Higurashi isn't that demanding, very old computers/software may not be able to play with good performance. Please keep in mind that this is a Unity game, so some level of performance/modern hardware is required.
 
-## Higurashi Music and Sound Effects Changes / April Update
-
-### What was the April update?
-
-The April Higurashi update changed the Background Music (BGM) and sound effects. The changes made were:
-
-- Some BGM/SE were replaced with completely different or new BGM/SE
-  - In some cases, duplicates replaced existing BGM, resulting in less variation of BGM tracks
-- Some BGM/SE are modified or re-recorded versions of the same BGM/SE
-- Some BGM had their audio clipping and distortion fixed - but at the same time different sounding instruments or samples may have been used in the new version.
-- The game script was modified in some places to play different songs. Since the mod uses it's own script, we are unaffected by this.
-
-More details can be seen below:
-
-- Music Changes: See the [“Higurashi Music Changes” spreadsheet](https://docs.google.com/spreadsheets/d/1c4Ou9ssNuTAsxJozD0nnc-fzfaIwAdk30F2JhhQGmw4/edit?usp=sharing)
-- Sound Effects Changes: (there is currently no list of sound effects changes)
-
-### What options does the mod provide to fix this issue?
-
-The mod allows you switch between BGM/SE via the F10 mod menu. The approach taken to fix each BGM or Sound Effect is as follows:
-
-- If the BGM or Sound Effect was replaced with an entirely different one, we have reverted it back to the original
-- If the BGM or Sound Effect suffers from heavy distortion or other audio issues and the new file is roughly the same minus the issues, we use the new version.
-    - Example: heavy clipping on msys28, “Lie Lies Lies Lie”
-
-In the future, we might offer a “full reversion” patch which will revert every file to before the April update, but currently this is not available.
-
 ## Misc Questions
 
 ### Are there voices only patches (without the PS3 graphics)?
@@ -290,3 +263,7 @@ See [Uninstalling registry entries](Uninstall.md#uninstalling-registry-entries-a
 ## I have questions about this Miotsukushi console arc
 
 We have a separate [Miotsukushi FAQ page](MiotsukushiFAQ.md) to answer those
+
+## I have questions about the April Update BGM/SE
+
+We have a separate [BGM/SE FAQ page](BGM-SE-FAQ.md) to answer questions about the BGM / SE /  Higurashi Music and Sound Effects Changes.

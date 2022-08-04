@@ -253,7 +253,7 @@ Please select a tab below to access the downloads that you require.
 
 === "Extra Arcs"
 
-    <h1> NOTE: REI IS NOT RELEASED YET.<br><br>THE FILES HERE ARE ONLY FOR INTERNAL TESTING. </h1>
+    <h1> NOTE: REI IS CURRENTLY PRE-RELEASE TESTING, so please only install if you're prepared for bugs and other issues.<br><br>Please report any bugs you find to 07th-mod</h1>
 
     <table>
     <thead>
@@ -277,7 +277,7 @@ Please select a tab below to access the downloads that you require.
     </tr>
     <tr class="even">
     <td style="text-align: center;">BGM & SE</td>
-    <td style="text-align: center;">Missing! Needs to be added!</td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Rei-BGM-SE.7z">Download</a></td>
     </tr>
     <tr class="odd">
     <td style="text-align: center;">Movies</td>

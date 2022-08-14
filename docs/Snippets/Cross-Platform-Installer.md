@@ -124,9 +124,13 @@
     3. If you wish to stop an install that is in progress, you MUST either click the **Quit Installer** button, or close the launcher. If you just close the webpage, the install will still run in the background!
     4. When the install finishes, "The install was successful!" will be displayed. Please carefully read the information that is displayed, which may contain gotchas/extra tasks you may need to do.
 
-=== "Linux Wine"
+=== "Linux Wine/Steam Proton"
 
-    Note that **we don't officially support the mods under Wine**, so your experience may vary.
+    !!! warning "Known Issues"
+        - (2022-08-14) On Higurashi Rei, video play back will show a garbled pink screen with no audio (such as at the start of Hiru Console).
+        - (2022-08-14) Video playback will probably not work (such as opening videos for all chapters).
+
+    Note that **we don't officially support the mods under Wine/Proton**, so your experience may vary.
 
     Running the installer within Wine works for some users, but not for others. It is more reliable to run the installer natively on Linux, then force installation of the Windows assets. You can do this following the below instructions:
 

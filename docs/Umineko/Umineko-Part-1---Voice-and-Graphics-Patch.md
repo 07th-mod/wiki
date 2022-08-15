@@ -119,10 +119,16 @@ Common steps are the same for all platforms. The remaining steps are **different
     - For the Answer arcs
          - the Rolling Update
 
-3. When you extracted the voice archive, it should have generated an `arc4.nsa` and `arc5.nsa` file. After that, **please check the following**:
+3. When you extracted the voice archive, it should have generated an `arc4.nsa` and `arc5.nsa` file. After that, **please check your arc.nsa files are sequential**:
 
-    - If you already have `arc1.nsa`, `arc2.nsa`, `arc3.nsa`, `arc4.nsa`, and `arc5.nsa` in your folder, then you are done with this step.
-    - If you **only** have `arc4.nsa` and `arc5.nsa`, you must rename them to `arc.nsa` and `arc1.nsa` (so the arc files are sequential)
+    - If you have 5 `.nsa` files [`arc1.nsa`, `arc2.nsa`, `arc3.nsa`, `arc4.nsa`, `arc5.nsa`]
+        - No extra steps are required
+    - If you have 3 `.nsa` files [`arc.nsa`, `arc4.nsa`, `arc5.nsa`]
+        - Rename `arc4.nsa` -> `arc1.nsa`
+        - Rename `arc5.nsa` -> `arc2.nsa`
+    - If you have 2 `.nsa` files [`arc4.nsa`, `arc5.nsa`]
+        - Rename `arc4.nsa` -> `arc.nsa`
+        - Rename `arc5.nsa` -> `arc1.nsa`
 
 4. Rename the file ``0.utf`` inside your Umineko folder to ``0_old.utf`` (Backup the original script)
 
@@ -240,9 +246,16 @@ Normally, there is no reason to install the legacy version of the Question Arcs.
 Installation Instructions:
 
 1. Extract the graphics archive: [Legacy Question Arcs Graphics](https://07th-mod.com/Beato/legacy/Umineko-Graphics-Legacy-2018.7z)
-2. Extract the voice archives which should generate a `arc4.nsa` and `arc5.nsa` file: [Normal Question Voices](https://07th-mod.com/Beato/Umineko-Voices-nsa.7z). Then **please check the following**:
-    - If you already have `arc1.nsa`, `arc2.nsa`, `arc3.nsa`, `arc4.nsa`, and `arc5.nsa` in your folder, then you are done with this step.
-    - If you **only** have `arc4.nsa` and `arc5.nsa`, you must rename them to `arc1.nsa` and `arc2.nsa` (so the arc files are sequential)
+2. Extract the voice archives which should generate a `arc4.nsa` and `arc5.nsa` file: [Normal Question Voices](https://07th-mod.com/Beato/Umineko-Voices-nsa.7z). **Please check your arc.nsa files are sequential**:
+    - If you have 5 `.nsa` files [`arc1.nsa`, `arc2.nsa`, `arc3.nsa`, `arc4.nsa`, `arc5.nsa`]
+        - No extra steps are required
+    - If you have 3 `.nsa` files [`arc.nsa`, `arc4.nsa`, `arc5.nsa`]
+        - Rename `arc4.nsa` -> `arc1.nsa`
+        - Rename `arc5.nsa` -> `arc2.nsa`
+    - If you have 2 `.nsa` files [`arc4.nsa`, `arc5.nsa`]
+        - Rename `arc4.nsa` -> `arc.nsa`
+        - Rename `arc5.nsa` -> `arc1.nsa`
+
 3. Extract the Exe: [Legacy Question Arcs Exe](https://07th-mod.com/Beato/legacy/Umineko-Question-Exes-legacy-1707x1280.7z)
 4. Extract the Update: [Legacy Question Update](https://07th-mod.com/Beato/legacy/Umineko-Update-legacy-v5_2018_07_15.7z)
 5. **Linux Mac Only** Extract the archive [`linux-libpng-libjpeg.7z`](https://07th-mod.com/Beato/linux-libpng-libjpeg.7z) to the game folder. Overwrite if asked. Both arcs use the same archive.

@@ -253,7 +253,7 @@ Please select a tab below to access the downloads that you require.
 
 === "Extra Arcs"
 
-    <h1> NOTE: REI IS CURRENTLY PRE-RELEASE TESTING, so please only install if you're prepared for bugs and other issues.<br><br>Please report any bugs you find to 07th-mod</h1>
+    There are still some known issues / missing features in Rei. Please see the [latest release](https://github.com/07th-mod/higurashi-rei/releases/latest) for more information.
 
     <table>
     <thead>

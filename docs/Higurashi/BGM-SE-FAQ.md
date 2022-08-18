@@ -57,7 +57,7 @@ If you want exactly the same BGM/SE as the original Japanese release, we would s
     <td class="tg-0lax">BGM files have been replaced with the ones from the <strong>original Japanese game</strong></td>
     <td class="tg-y6fn" rowspan="5">No Change to BGM/SE (as of 30/07/2022)<br><br>
       Note: The Hiru Console chapter will always use the Console BGM<br><br>
-      We haven't analysed Rei yet for possible BGM/SE changes as we're still working on getting Rei released.
+      We haven't analysed Rei yet for possible april update BGM/SE changes.
     </td>
   </tr>
   <tr>

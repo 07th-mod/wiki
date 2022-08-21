@@ -285,11 +285,19 @@ Please select a tab below to access the downloads that you require.
     </tr>
     <tr class="even">
     <td style="text-align: center;">UI Mod (Windows)</td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=rei&os=win&unity=2019.4.3">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=rei&os=win&unity=2019.4.3">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=rei&os=win&unity=2019.4.3">GOG</a></td>
+    <td style="text-align: center;">
+        <a href="https://07th-mod.com/ui.php?chapter=rei&os=win&unity=2019.4.3">Steam</a><br>
+        <a href="https://07th-mod.com/ui.php?chapter=rei&os=win&unity=2019.4.4">MangaGamer</a><br>
+        <a href="https://07th-mod.com/ui.php?chapter=rei&os=win&unity=2019.4.3">MangaGamer Old⚠️</a><br>
+        <a href="https://07th-mod.com/ui.php?chapter=rei&os=win&unity=2019.4.3">GOG</a></td>
     </tr>
     <tr class="odd">
     <td style="text-align: center;">UI Mod (Mac/Linux)</td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=rei&os=unix&unity=2019.4.3">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=rei&os=unix&unity=2019.4.3">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=rei&os=unix&unity=2019.4.3">GOG</a></td>
+    <td style="text-align: center;">
+        <a href="https://07th-mod.com/ui.php?chapter=rei&os=unix&unity=2019.4.3">Steam</a><br>
+        <a href="https://07th-mod.com/ui.php?chapter=rei&os=unix&unity=2019.4.4">MangaGamer</a><br>
+        <a href="https://07th-mod.com/ui.php?chapter=rei&os=unix&unity=2019.4.3">MangaGamer Old⚠️</a><br>
+        <a href="https://07th-mod.com/ui.php?chapter=rei&os=unix&unity=2019.4.3">GOG</a></td>
     </tr>
     <tr class="odd">
     <td style="text-align: center;">Compatibility packs</td>
@@ -303,6 +311,8 @@ Please select a tab below to access the downloads that you require.
     </table>
 
     👀 Extract the `Patch` and `Update` archives LAST, after all other files (should combine with the existing `HigurashiEp0X_Data` folder). Overwrite any files if asked.
+
+    ⚠️ We recommend you re-download the latest installer from Mangagamer and re-install, rather than using this file
 
 === "Optional Packs"
 

@@ -96,19 +96,24 @@ For details on save file locations, see "Save file locations" near the bottom of
 When debugging this issue, it's worth testing and reporting these things
 
 1. Check the in-game settings to see if the Voice, Music, or Sound Effects volume have been set to zero
-2. The following software (related to audio devices) may interfere with the voice/audio playback of the game. Please try disabling any software (check task manager to make sure the program(s) are completely closed!) or devices of this type:
-    - Razer Synapse (Specifically, the old version with the cloud icon. There may be multiple processes running, make sure to close them all/uninstall/disable all of them. Supposedly the new version does not cause problems, but it's worth closing both)
-    - Logitech G Hub
-    - Asus Sonic Studio 3
-    - HyperX Software/Headsets
-    - In general:
-          - Gaming audio software
-          - Bluetooth headset software
-          - Any third-party software which is related to audio on your computer
-3. Check if other chapters of the game have this issue, or it's just this chapter
-4. Check if restarting your computer fixes the issue
-5. Try another audio device (for example, your speakers instead of USB/Bluetooth headphones)
-6. Check if you have the number sign (`#`), or any other strange special characters anywhere in your game path. This will cause you to only have sound during the opening video.
+2. Disable / Uninstall / Kill the proccesses associated with ANY "extra" audio related software or drivers installed on your computer!
+    1. The following software (related to audio devices) may interfere with the voice/audio playback of the game, even if you're not using the device associated with them!
+        - Razer Synapse
+            - Specifically, the old version with the cloud icon. There may be multiple processes running, make sure to close them all/uninstall/disable all of them. Supposedly the new version does not cause   problems, but it's worth closing both
+        - Logitech G Hub
+        - Asus Sonic Studio 3
+        - HyperX Software/Headsets
+        - SteelSeries Nahimic (bundled with MSI computers!)
+        - In general:
+              - Gaming audio software
+              - Bluetooth headset software
+              - Any third-party software which is related to audio on your computer
+    2. Please try disabling/uninstalling/killing the processes associated with the above software (check task manager to make sure the program(s) are completely closed!)
+3. Try closing every program, and then using task manager to kill all processes on your computer (which Windows lets you kill). Then try running the game, to see if one of the processes was interfering.
+4. Check if other chapters of the game have this issue, or it's just this chapter
+5. Check if restarting your computer fixes the issue
+6. Try another audio device (for example, your speakers instead of USB/Bluetooth headphones)
+7. Check if you have the number sign (`#`), or any other strange special characters anywhere in your game path. This will cause you to only have sound during the opening video.
 
 Try the above first, and if you still can't fix it, see the below for more help on specific cases:
 
@@ -120,12 +125,28 @@ If voices are still not playing, press the **F10** button twice while not in a g
 
 #### Only sound at Intro / Opening Video
 
-We have had some users who had sound only during the intro / opening video:
+1. This issue is mainly caused by other software or drivers interfering with the game.
+    - The following is known to cause problems:
+        - Razer Synapse
+        - SteelSeries Nahimic
+        - Probably all the software listed in the "There is no sound/audio/BGM/voices" list above
 
-- One user fixed it by force closing the old version of Razer Synapse from task manager (see above checklist). Try going through the general checklist above first before trying the rest of the below items.
-- One user fixed it by clearing the registry files for that chapter - but please only do this as a last resort. See "Registry file location and clearing" at the bottom of this page for how to do this.
-- One user had the number sign (`#`) in their game path. This definitely causes all sound to stop working except for the opening movie. Make sure you don't have any special characters in your game path.
+    - Please try uninstalling this software or killing the processes associated with these programs/drivers.
+
+    - If you're not sure, try closing all programs, and also killing every process on your computer via task manager, then launch the game to see if that fixes the issue.
+
+    - We had one user report this issue does not affect Chapters 1 and 2, but does affect Chapter 3.
+
+    - If you have `Error: Cannot create FMOD::Sound instance for resource �t�, (Operation could not be performed because specified sound/DSP connection is not ready. )` on your game log, you probably have this issue.
+
+2. We also had a user had the number sign (`#`) in their game path. This definitely causes all sound to stop working except for the opening movie. Make sure you don't have any special characters in your game path.
+
     - If you need to move or change your Steam game install location, follow the instructions here: [https://support.steampowered.com/kb_article.php?ref=7418-YUBN-8129](https://support.steampowered.com/kb_article.php?ref=7418-YUBN-8129)
+
+3. We have also had the below reports, but they may be only coincidental:
+
+    - One user fixed it by clearing the registry files for that chapter - but please only do this as a last resort. See "Registry file location and clearing" at the bottom of this page for how to do this.
+
 
 #### No sound at all
 

@@ -15,12 +15,16 @@ jobs:
   linkChecker:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
+
       - name: Link Checker
-        uses: lycheeverse/lychee-action@v1.2.0
+        id: lychee
+        uses: lycheeverse/lychee-action@v1.5.1
         with:
           args: --verbose --no-progress --max-concurrency 1 --timeout 30 docs/**/*.md
+
       - name: Create Issue From File
+        if: steps.lychee.outputs.exit_code != 0
         uses: peter-evans/create-issue-from-file@v4
         with:
           title: Link Checker Report

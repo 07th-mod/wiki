@@ -269,7 +269,7 @@ Please select a tab below to access the downloads that you require.
     </tr>
     <tr class="even">
     <td style="text-align: center;">Graphics patch</td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Rei-Graphics.7z">1440p</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Rei-Graphics-V2.7z">1440p</a></td>
     </tr>
     <tr class="even">
     <td style="text-align: center;">Voices</td>

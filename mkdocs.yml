@@ -37,7 +37,29 @@ nav:
     - Support and Reporting Issues: Support.md
     - Contribution Guide: Beginners-guide.md
     - Credits: Credits.md
-    - <b>Developer Wiki</b>: https://07th-mod.com/dev-wiki/
+    - Developer Information:
+        - Overview:
+            - Introduction: developer/overview/introduction.md
+            - Features: developer/overview/features.md
+            - Preparing a New Chapter: developer/overview/overview.md
+            - Patch Folder Structure: developer/overview/patch-folder-structure.md
+        - Higurashi Patch Compiler: developer/patch-compiler/how-to-use-higurashi-patch-compiler.md
+        - Game Scripting:
+            - Scripting Tutorial: developer/scripting/on-scripting.md
+            - Mod Syntax Reference: developer/scripting/syntax.md
+        - Other Languages, UI, Fonts:
+            - Other Languages: developer/sharedassets/other-languages.md
+            - Ui Editing Scripts: developer/sharedassets/ui-editing-scripts.md
+        - Voices:
+            - Voice Details: developer/voice/voice-details.md
+            - Automated Voice Inserter: developer/voice/automated-voice-inserter.md
+        - Misc:
+            - Git Line Endings: developer/misc/git-line-endings.md
+        - Legacy Pages (out of date):
+            - Old Batch File Installer: developer/legacy/code-overview.md
+            - Old Advanced Installer: developer/legacy/technical-details.md
+            - Adv Mode and Lipsync: developer/legacy/adv-mode-and-lipsync.md
+
 theme:
   name: material
   features:

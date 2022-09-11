@@ -55,6 +55,8 @@ nav:
             - Automated Voice Inserter: developer/voice/automated-voice-inserter.md
         - Misc:
             - Git Line Endings: developer/misc/git-line-endings.md
+        - Installer:
+            - installData.json: developer/installer/install-data-json.md
         - Legacy Pages (out of date):
             - Old Batch File Installer: developer/legacy/code-overview.md
             - Old Advanced Installer: developer/legacy/technical-details.md

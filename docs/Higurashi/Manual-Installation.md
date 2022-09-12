@@ -284,7 +284,7 @@ Please select a tab below to access the downloads that you require.
     <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/video/Rei-Movie.7z">Windows</a><br><a href="https://07th-mod.com/rikachama/video/Rei-Movie_UNIX.7z">Mac/Linux</a></td>
     </tr>
     <tr class="even">
-    <td style="text-align: center;">UI Mod <strong>Windows</strong></td>
+    <td style="text-align: center;">UI Mod (Windows)</td>
     <td style="text-align: center;">
         <a href="https://07th-mod.com/ui.php?chapter=rei&os=win&unity=2019.4.3">Steam</a><br>
         <a href="https://07th-mod.com/ui.php?chapter=rei&os=win&unity=2019.4.4">MangaGamer</a><br>
@@ -292,19 +292,12 @@ Please select a tab below to access the downloads that you require.
         <a href="https://07th-mod.com/ui.php?chapter=rei&os=win&unity=2019.4.3">GOG</a></td>
     </tr>
     <tr class="odd">
-    <td style="text-align: center;">UI Mod <strong>Linux</strong></td>
+    <td style="text-align: center;">UI Mod (Mac/Linux)</td>
     <td style="text-align: center;">
         <a href="https://07th-mod.com/ui.php?chapter=rei&os=unix&unity=2019.4.3">Steam</a><br>
         <a href="https://07th-mod.com/ui.php?chapter=rei&os=unix&unity=2019.4.4">MangaGamer</a><br>
         <a href="https://07th-mod.com/ui.php?chapter=rei&os=unix&unity=2019.4.3">MangaGamer Old⚠️</a><br>
         <a href="https://07th-mod.com/ui.php?chapter=rei&os=unix&unity=2019.4.3">GOG</a></td>
-    </tr>
-    <td style="text-align: center;">UI Mod <strong>Mac</strong></td>
-    <td style="text-align: center;">
-        <a href="https://07th-mod.com/rikachama/ui/Rei-UI_2019.4.3_mac.7z">Steam</a><br>
-        <a href="https://07th-mod.com/rikachama/ui/Rei-UI_2019.4.4_mac.7z">MangaGamer</a><br>
-        <a href="https://07th-mod.com/rikachama/ui/Rei-UI_2019.4.3_mac.7z">MangaGamer Old⚠️</a><br>
-        <a href="https://07th-mod.com/rikachama/ui/Rei-UI_2019.4.3_mac.7z">GOG</a></td>
     </tr>
     <tr class="odd">
     <td style="text-align: center;">Compatibility packs</td>

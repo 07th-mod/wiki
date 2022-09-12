@@ -47,12 +47,26 @@ nav:
         - Game Scripting:
             - Scripting Tutorial: developer/scripting/on-scripting.md
             - Mod Syntax Reference: developer/scripting/syntax.md
-        - Other Languages, UI, Fonts:
-            - Other Languages: developer/sharedassets/other-languages.md
-            - Ui Editing Scripts: developer/sharedassets/ui-editing-scripts.md
+        - Translation Work:
+            - Other Languages: developer/translation/other-languages.md
+            - Resources and Guidelines: developer/translation/resources-and-guidelines.md
+            - Console Exclusive Content: developer/translation/console-exclusive-content.md
+            - Censorship / Script Changes: developer/translation/censorship-script-changes.md
+        - Graphical Work:
+            - Resources, Technical Details: developer/graphics/resources-technical-details.md
+            - Sunset/Night Filters: developer/graphics/sunset-night-filters.md
+            - Mangagamer Sprite Edits: developer/graphics/mangagamer-sprite-edits.md
+            - Background/Image Panning: developer/graphics/background-image-panning.md
+        - UI Editing Scripts:
+            - Overview: developer/sharedassets/overview.md
+            - Usage: developer/sharedassets/ui-editing-scripts.md
         - Voices:
             - Voice Details: developer/voice/voice-details.md
             - Automated Voice Inserter: developer/voice/automated-voice-inserter.md
+            - Manual Work Details: developer/voice/manual-work-details.md
+        - DLL Modding:
+            - Overview: developer/dll/overview.md
+            - Modded engine flags: developer/dll/modded-engine-flags.md
         - Misc:
             - Git Line Endings: developer/misc/git-line-endings.md
         - Installer:

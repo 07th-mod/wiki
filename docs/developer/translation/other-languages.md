@@ -11,7 +11,7 @@ In the UI some texts are embedded in images, some are not. But everything is in 
 
 For editing the UI images you will need our [PSDs](https://07th-mod.com/misc/translation_psds.7z) and translate all texts you can find there.
 
-Then you will need to use our [python scripts](https://github.com/07th-mod/ui-editing-scripts) + [UABE](https://7daystodie.com/forums/showthread.php?22675-Unity-Assets-Bundle-Extractor) to change the texts that don't appear in the images and to import everything back into the asset file. This [documentation](https://github.com/07th-mod/higurashi-dev-guides/wiki/UI-editing-scripts) should guide you through the process.
+Then you will need to use our [python scripts](https://github.com/07th-mod/ui-editing-scripts) + [UABE](https://7daystodie.com/forums/showthread.php?22675-Unity-Assets-Bundle-Extractor) to change the texts that don't appear in the images and to import everything back into the asset file. This [documentation](https://github.com/07th-mod/ui-editing-scripts) should guide you through the process.
 
 If anything is unclear or doesn't work as expected, ask us on Discord. If you have problem with one of our Python script then provide all the files you're using as input for that script.
 

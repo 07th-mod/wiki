@@ -63,14 +63,51 @@
 
         For reference, the default steam folder is `~/Library/Application Support/Steam/steamapps/common/`, but yours may be different.
 
-=== "Linux"
+=== "Linux / Proton / Wine"
 
-    !!! warning "For the Higurashi Mod only, if you're having problems with the native version of the game, and you're famliar with Proton/Wine, you can try running the game under Proton/Wine - click the 'Linux Wine' tab for more instructions"
+    ## Important Pre-installation steps (Wine/Proton Setup)
+
+    ### Native vs Wine/Proton Background Information
+
+    There are two methods of running the game on Linux:
+
+    1. Running the Native Linux version of the game
+    2. Running the Windows version of the game on Linux  using Proton (Steam/Mangagamer/GOG) or Wine (Mangagamer/GOG)
+
+    As some users have issues with the Native Linux version of the game, we recommend the following:
+
+    - **If you bought from Steam**, it is suggested you enable Proton before installing the mod to avoid the above problems. See the instructions below.
+
+    - **If you bought from GOG/Mangagamer**:
+
+        - We suggest trying the Native Linux version of the game first
+        - If you have problems with the native version, you can try Wine (plain Wine, using Lutris, or using Minigalaxy (GOG only)). **However you will need to research how to do this yourself.** (If anyone wants to provide a tutorial for this, please let us know.)
+        - You might only encounter issues with the Native version when reaching Chapter 5 onwards
+
+    !!! info "If you're not sure if you installed Native Linux or Wine/Proton, the installer will tell you after you've selected the game to be modded."
+
+    ### Steam Instructions for enabling/disabling Proton
+
+    1. Make sure the game is installed. Take note of whether the game is already modded.
+    2. Right click the game you want to modify in your Steam Library
+    3. Click **Properties..**
+    4. On the left hand panel, click **Compatability**
+    5. Tick the checkbox "Force the use of a specific Steam Play compatibility tool"
+    6. Choose the version you want to use from the dropdown box:
+        - If you want to use Native Linux version, choose 'Steam Linux Runtime'
+        - If you want to use Proton, choose the latest stable Proton version (you can try 'Proton Experimental' if you have problems with the stable versions)
+        ![Steam Switching Between Native and Proton](/Snippets/img/steam-compatability.png)
+    7. Wait for Steam to finish installing/updating your installation (make sure the game is closed).
+    8. If you haven't installed the mod on this game before, proceed to "Starting the Installer"
+    9. If you've already installed the mod on this game before:
+        - If the mod is already installed, **switching between Native and Proton with Steam will overwrite important mod files**. This usually causes a **crash** or **black screen** on startup
+        - To fix this, you need to re-run the installer, and 'update' the mod, **making sure to select the 'Quick Repair'** option.
+        ![Quick Repair Option Screenshot](/Snippets/img/quick-repair.png)
 
     ## Starting the installer
     1. Install the following using your distribution's package manager:
         * Python 3.7 and above
-            * You *can* use Python < 3.7 and Python 2, but Chrome and possibly other browsers will require you to refresh the page sometimes for it to load.
+            * You *can* use Python 2, but some browsers will require you manually refresh the page for the installer to load.
         * Optional: Python Tkinter (This is required to use the file-picker in the installer. Just use autodetection/paste in the game path if you can't install this.)
             * **Ubuntu**: `sudo apt-get install python-tk`
             * **Arch Linux**: `sudo pacman -S tk`
@@ -99,13 +136,11 @@
 
     !!! warning "The Steam Deck is new, so these instructions may become out of date quickly. Please let us know if these instructions don't work or need updating"
 
-    ## Preparation
-    1. **Before installing the game**, make sure the game you want to play is set to "Steam Linux Runtime". You can get to that menu by highlighting the game in your Library, then pressing the Menu button and selecting > Properties > Compatibility > Force the use of a specific Steam Play compatibility tool.
-        - **If you have already installed the game, you can still change the setting**, but Steam will need to re-download parts of the game.
-    2. Install the game you want to mod.
-    3. We **highly recommend** plugging in a mouse and keyboard into the Steam Deck to make using the installer easier.
-    3. Switch to Desktop mode for the remaining steps.
-
+    ## Steam Deck Instructions
+    1. We **highly recommend** plugging in a mouse and keyboard into the Steam Deck to make using the installer easier.
+    2. Switch to Desktop mode
+    3. Follow the Proton/Wine Pre-installation steps (click the 'Linux/Proton/Wine' tab above) **but stop at the part which says "Starting the Installer"**.
+    4. Continue with the **Starting the Installer** instructions (below).
 
     ## Starting the installer
     1. Download `07th-Mod.Installer.linux.tar.gz` to your computer from the [Download Page](https://github.com/07th-mod/python-patcher/releases).
@@ -123,22 +158,6 @@
     2. Fill in your game path, and mod options as applicable, then start the installation.
     3. If you wish to stop an install that is in progress, you MUST either click the **Quit Installer** button, or close the launcher. If you just close the webpage, the install will still run in the background!
     4. When the install finishes, "The install was successful!" will be displayed. Please carefully read the information that is displayed, which may contain gotchas/extra tasks you may need to do.
-
-=== "Linux Wine/Steam Proton"
-
-    !!! warning "Known Issues"
-        - (2022-08-14) On Higurashi Rei, video play back will show a garbled pink screen with no audio (such as at the start of Hiru Console).
-        - (2022-08-14) Video playback will probably not work (such as opening videos for all chapters).
-
-    Note that **we don't officially support the mods under Wine/Proton**, so your experience may vary.
-
-    Running the installer within Wine works for some users, but not for others. It is more reliable to run the installer natively on Linux, then force installation of the Windows assets. You can do this following the below instructions:
-
-    1. Make sure the unmodded game runs correctly under Wine or under Steam's Proton
-    2. Please follow the normal "Linux" instructions, but stop before you run the `setup` script
-    3. Instead of running the `setup` script, open the folder `setup_proton_wine` and then run the `setup_proton_wine` script
-        - The terminal should print `Warning: Force asset argument passed...` if it's working correctly
-    4. Continue the install as normal, pointing to your Wine install of the game
 
 === "Power Users"
 

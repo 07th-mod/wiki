@@ -4,7 +4,7 @@
 ***
 
 !!! info "Announcements"
-    We are currently looking for developers with C# experience to help us reverse engineer the Unity engine to add more features to Higurashi. If this looks like the right job for you, join our [Discord channel](https://discord.gg/pf5VhF9) and come talk with us in #higurashi_dev.
+    2022/10/03 - We're currently looking for general help with documentation, testing/QA, and possibly some C#/Python programming. If you think you can help, join our [Discord channel](https://discord.gg/pf5VhF9) and come talk with us in #higurashi_dev.
 
 ***
 

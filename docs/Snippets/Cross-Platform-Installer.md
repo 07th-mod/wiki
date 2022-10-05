@@ -23,20 +23,32 @@
 
 === "Mac"
 
-    ## Starting the installer
-    1. Download the [Mac Installer](https://github.com/07th-mod/python-patcher/releases)
+    ## MacOS 12 (Monterey) and Higher - Installing Python 3
+
+    You **only need to perform these steps on MacOS Monterey and higher**, which do not come with Python:
+
+    1. Go to [https://www.python.org/downloads/](https://www.python.org/downloads/)
+    2. Download Python 3 using the yellow download button near the top of the page
+    3. Run the Python 3 installer, and follow the prompts to complete the install
+
+    ## Starting the mod installer
+    1. Download the [Mod Installer for Mac](https://github.com/07th-mod/python-patcher/releases)
     2. Double-click on the zip file to extract it (your browser might automatically do this after downloading)
 
         - **Warning**: Do not move the `install.command` file out of the extracted folder.
 
-            ??? example "Click here if you want to move the install.command file for some reason"
-        The zip contains two hidden files that are required by the installer. If you try to move the `install.command` file out of the folder, it won't be able to find them.  If you really want to move the `install.command` file out of the folder, press ⇧⌘. (Shift-Command-Period) to temporarily enable showing of hidden files and copy the `.7za` and `.aria2c` files to the same folder.
+        ??? example "Click here if you want to move the install.command file for some reason"
+
+            The zip contains two hidden files that are required by the installer. If you try to move the `install.command` file out of the folder, it won't be able to find them.
+
+            If you really want to move the `install.command` file out of the folder, press ⇧⌘. (Shift-Command-Period) to temporarily enable showing of hidden files and copy the `.7za` and `.aria2c` files to the same folder.
 
     3. In the extracted files, look for a file called `install.command` (might also be called `install`).
     4. Right click on this file and choose `Open`
         1. If you get a "Operation not permitted" error, [try following these steps](https://osxdaily.com/2018/10/09/fix-operation-not-permitted-terminal-error-macos/) to give Terminal the correct permissions.
         2. If prompted with a security prompt, choose `Open`
         3. If you cannot get the web page to load, run the `install_safe_mode.command` (might be called `install_safe_mode`) file instead
+        4. If the window immediately disappears / does nothing and you are on MacOS 12 (Monterey) or higher, check you have installed Python 3 as per above instructions
     5. Opening the installer will launch a page in your browser. This is the installer's interface.
         - **Please note: if the page(s) does not load, try refreshing the page**
         - **Do not close the page**
@@ -208,4 +220,3 @@ You may want to remove save files if you're having technical issues and want to 
 
    1. For Higurashi, save files are kept outside the game directory. See [FAQ: "Save File Locations"](../Higurashi/FAQ.md#save-file-locations) to find the save files, then delete them.
    2. For Umineko, usually the save files are kept in the `mysav` folder of the game directory, so they would already be removed. But see [FAQ: "My save files have disappeared or changed unexpectedly"](../Umineko/Umineko-Part-0-TroubleShooting-and-FAQ.md#my-save-files-have-disappeared-or-changed-unexpectedly) for more details.
-

@@ -81,7 +81,7 @@ This page is dedicated to credit all collaborators who helped us along the way. 
 * Animations
 * PS3 matching
 
-### [O\[A\]](https://github.com/ooa113y)
+### [&Olga](https://github.com/andolga)
 
 * Umineko Hane, Tsubasa and Saku patches
 * ponscripter documentation

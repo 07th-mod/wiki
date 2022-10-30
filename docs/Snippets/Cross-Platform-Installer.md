@@ -100,6 +100,8 @@
 
     ### Steam Instructions for enabling/disabling Proton
 
+    **NOTE: Saves might not be compatible between Native and Proton! Changing this setting may lose your save files!**
+
     1. Make sure the game is installed. Take note of whether the game is already modded.
     2. Right click the game you want to modify in your Steam Library
     3. Click **Properties..**

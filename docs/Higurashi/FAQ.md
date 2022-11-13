@@ -175,11 +175,11 @@ Windows has a feature which lets you set volumes for individual apps, which coul
 
 ### Linux users with GNOME/MATE Desktop - whole desktop crashes when game launched
 
-GNOME/MATE Desktop (the default on Ubuntu and Fedora Linux) will cause Higurashi Ep.4 and upwards to crash the entire desktop when you start the game. This happens even on the base game (without any mods applied).
+**NOTE 2022-11-13: We have added a workaround in our mod to fix this issue. Let us know if you still have this problem on the latest version of the mod.**
 
-A workaround for this is to install XFCE desktop (please look up instructions for your specific operating system).
+Expand the below red box for more information.
 
-Please make sure you can launch the base game before applying any mods (please don't make any saves on the base game as they are not compatible with the mod).
+--8<-- "gnome-crash-warning.md"
 
 ### Matsuribayashi Ch. 8 - Fatal error in gc: get thread context failed
 

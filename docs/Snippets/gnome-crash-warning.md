@@ -1,8 +1,36 @@
-??? bug "Linux Users: GNOME/MATE Desktop (Ubuntu, Fedora...) causes Game Crash - Workaround"
-    GNOME Desktop (the default on Ubuntu) *may* cause Higurashi Ep.4 and upwards to crash the entire desktop when you start the game.
+??? bug "[FIXED 2022-11-13] Linux Users: Windowed Mode causes Game/Desktop Crash with GNOME/MATE"
 
-    We've had varying reports - Ubuntu 19.10 with GNOME 3.34.2. seems to work (except for a crash in Tatarigoroshi on first startup). But previously we've had crash reports from anyone using GNOME. This happens even on the base game (without any mods applied).
+    **NOTE 2022-11-13: We have added a workaround in our mod to fix this issue. Let us know if you still have this problem on the latest version of the mod.**
 
-    If you have this issue, a workaround is to install XFCE desktop. You can follow [this guide](https://linuxconfig.org/how-to-install-xubuntu-desktop-on-ubuntu-18-04-bionic-beaver-linux) to install XFCE desktop (it can be installed alongside GNOME).
+    ----
 
-    Please make sure you can launch the base game before applying any mods (please don't make any saves on the base game as they are not compatible with the mod).
+    #### Triggering the bug
+
+    This bug is triggered when:
+
+    - you transition from fullscreen to windowed mode
+    - the game launches in windowed mode
+    - you drag the window around
+
+    If the game is always in fullscreen mode, the bug will never be triggered.
+
+    The bug only seems to affect chapters 3-6, although theoretically it could trigger on chapters 1 and 2. It occurs even on the unmodded game.
+
+    The bug does not affect all desktop environments, however GNOME desktop is known to be affected.
+
+    #### Symptoms of the bug
+
+    When the bug is triggered, the game window will become extremely large or small, and the screen will be colored a black or blue color.
+
+    After this happens, the game may freeze, crash, or sometimes your whole desktop environment will crash.
+
+    #### Cause of the bug
+
+    This bug is due to Unity versions ≤ `5.5.3p3` having a broken window resize function that sends uninitialized stack data to `XSetWMNormalHints`.
+
+    See the following links for more details:
+
+    - [Merged PR: Fix Unity killing window managers with insane window size](https://github.com/07th-mod/higurashi-assembly/pull/93)
+    - [Draft PR: Linux gnome crash workaround](https://github.com/07th-mod/higurashi-assembly/pull/91)
+    - [Issue: Linux GNOME desktop environment crash / corrupted configuration file issue](https://github.com/07th-mod/higurashi-patch-compiler/issues/58)
+

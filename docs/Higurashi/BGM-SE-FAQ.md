@@ -108,3 +108,17 @@ The two main reasons it's difficult to fix this are:
 - Our mod has changes to match the Console game, which further complicates fixing the SE
 
 For these reasons, we have decided to leave the SE as the Pre-April Update versions.
+
+## List of BGM/SE Oddities
+
+This section explains some unexpected behavior you might encounter when using GIN's BGM/SE.
+
+### GIN BGM/SE Oddities
+
+The "click" sound (`wa_037.ogg`) and the "children laughing sound" (`wa_038.ogg`) are different between the Question and Answer arcs
+
+- The pre-april update unmodded game had this same behavior. Because GIN's BGM/SE copies the SE from the pre-april update unmodded game, it has the same behavior for these two sound effects.
+
+The title screen background sound (sound of cicadas) is different between the Question  and Answer arcs (`lsys11.ogg`/`higurashi.ogg`)
+
+- This is probably because the Question arcs use the pre-april update Mangagamer BGM, while the Answer arcs use the BGM from the original Japanese game.

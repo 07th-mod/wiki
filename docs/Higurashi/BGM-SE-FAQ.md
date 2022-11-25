@@ -11,10 +11,12 @@ In April 2019, all the Higurashi games received a major update. This update chan
 - Some BGM had their audio clipping and distortion fixed - but at the same time different sounding instruments or samples may have been used in the new version.
 - The game script was modified in some places to play different songs. Since the mod uses it's own script, we are unaffected by this.
 
-More details can be seen below:
+For more detailed information:
 
-- Music Changes: See the [“Higurashi Music Changes” spreadsheet](https://docs.google.com/spreadsheets/d/1c4Ou9ssNuTAsxJozD0nnc-fzfaIwAdk30F2JhhQGmw4/edit?usp=sharing)
-- Sound Effects Changes: (there is currently no list of sound effects changes)
+- We have an google doc which lists the name of every BGM used by our mod:
+    - ["Higurashi BGM Filename to Music Name Mapping" spreadsheet](https://docs.google.com/spreadsheets/d/1CzZ6IBOPmDozdatWM2rol1DR2xjIaySSKY5XQV4yhdI/edit?usp=sharing)
+    - **Please note this list is automatically generated and might not always be correct**
+    - Please read the first sheet to understand the table
 - Googling "April Update Higurashi" will give some forum posts with more information
 
 ### What options does the mod provide to fix this issue?

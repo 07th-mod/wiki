@@ -2,6 +2,19 @@
 
 This page lists issues specific to Linux or Steam Deck
 
+## Known Working/Broken Linux Configurations
+
+[Click here to view the Higurashi Linux Configuration Spreadsheet](https://docs.google.com/spreadsheets/d/1QrM4Y3R53xuD-McSpaAtU7XMxeJlGrujSz1wadm26H0/edit?usp=sharing)
+
+We informally keep a Linux configuration record, stating which configurations work, and which are known to have problems. This includes information like:
+
+- which Higurashi chapter was tested
+- whether the game was run natively, or was run under proton
+- The operating system and operating system version
+- a list of problems if the game did not run correctly
+
+However please take it with a grain of salt, as some reports may be in error or unrelated to the configuration.
+
 ## Steam Deck
 
 ### Steam Deck - No Audio at all

@@ -119,6 +119,9 @@
         ![Quick Repair Option Screenshot](https://07th-mod.com/wiki/img/quick-repair.png)
 
     ## Starting the installer
+
+    **Steam Deck Users** - Please change to the Steam Deck tab (near top of page) as your instructions are different!
+
     1. Install the following using your distribution's package manager:
         * Python 3.7 and above
             * You *can* use Python 2, but some browsers will require you manually refresh the page for the installer to load.
@@ -159,12 +162,15 @@
     ## Starting the installer
     1. Download `07th-Mod.Installer.linux.tar.gz` to your computer from the [Download Page](https://github.com/07th-mod/python-patcher/releases).
     2. Open the `07th-Mod.Installer.linux.tar.gz` file, probably located in your Downloads folder.
-    3. Click "Extract", which should create the folder "07th-Mod_Installer_Linux64".
-    4. Run the `setup` file located in the "07th-Mod_Installer_Linux64" folder.
-        1. You should be able to double click on the `setup` file to run it. If this does not work, let us know.
+    3. Right click the archive, then click "Extract" > "Extract archive here", which should create the folder "07th-Mod_Installer_Linux64".
+        ![Extract archive here](https://07th-mod.com/wiki/img/steamdeck-extract-here.png)
+    4. Right click the `setup` file located in the "07th-Mod_Installer_Linux64" folder, then click "Run In Konsole"
+        ![Run in Konsole](https://07th-mod.com/wiki/img/steamdeck-run-in-konsole.png)
     5. After some time, the installer will open as a web page in your browser. This is the installer's interface.
-        1. **Please note: if a page takes too long to load, try refreshing the page**.
-        2. If you still cannot get the web page to load, try running the `setup_safe_mode` file instead.
+        1. If the browser window doesn't appear, you can manually right-click and 'Copy Link Address', then paste the link into your browser. Usually the address will be `http:127.0.0.1:8000/loading_screen.html`.
+        ![Copy Link Address](https://07th-mod.com/wiki/img/steamdeck-copy-link-address.png)
+        2. **Please note: if a page takes too long to load, try refreshing the page**.
+        3. If you still cannot get the web page to load, try running the `setup_safe_mode` file instead.
 
     ## Using the installer
 

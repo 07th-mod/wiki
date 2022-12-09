@@ -47,11 +47,11 @@
     4. Right click on this file and choose `Open`
         1. If you get a "Operation not permitted" error, [try following these steps](https://osxdaily.com/2018/10/09/fix-operation-not-permitted-terminal-error-macos/) to give Terminal the correct permissions.
         2. If prompted with a security prompt, choose `Open`
-        3. If you cannot get the web page to load, run the `install_safe_mode.command` (might be called `install_safe_mode`) file instead
+        3. If you cannot get the web page to load, run the `install_safe_mode.command` (might be called `install_safe_mode`) file instead to use the text-based installer
         4. If the window immediately disappears / does nothing and you are on MacOS 12 (Monterey) or higher, check you have installed Python 3 as per above instructions
     5. Opening the installer will launch a page in your browser. This is the installer's interface.
-        - **Please note: if the page(s) does not load, try refreshing the page**
-        - **Do not close the page**
+        - If the browser is launched, but the page does not load, try refreshing the page
+        - **Do not close the page until the install finishes**
 
     --8<-- "installer-usage.md"
 
@@ -72,6 +72,8 @@
 
 === "Linux / Proton / Wine"
 
+    !!! warning "If you're using a Steam Deck, please click the 'Steam Deck' tab above!"
+
     --8<-- "installer-linux-wine-proton.md"
 
     ## Downloading and Starting the installer
@@ -91,10 +93,11 @@
     2. Download `07th-Mod.Installer.linux.tar.gz` to your computer from the [our Github Releases page](https://github.com/07th-mod/python-patcher/releases)
     3. Run the shell script called `setup`. The installer will open as a web page in your browser.
         1. You will most likely need to open a terminal and run it from there, unless your file browser supports running the script directly.
-        2. If you cannot get the web page to load, run the `setup_safe_mode` script
+        2. If you still cannot get the web page to load, run `setup_safe_mode` to use the text-based installer.
     4. Opening the installer will launch a page in your browser. This is the installer's interface.
-        - **Please note: if the page(s) does not load, try refreshing the page**
-        - **Do not close the page**
+        1. If the browser window doesn't appear, you can manually copy or type the link into your browser. Usually the address will be `http:127.0.0.1:8000/loading_screen.html`, but the `8000` number may be different so be careful.
+        2. If the browser is launched, but the page does not load, try refreshing the page
+        3. **Do not close the page until the install finishes**
 
     --8<-- "installer-usage.md"
 
@@ -102,10 +105,13 @@
 
     !!! warning "The Steam Deck is new, so these instructions may become out of date quickly. Please let us know if these instructions don't work or need updating"
 
-    ## Steam Deck Initial Setup
+    ## Steam Deck REQUIRED Initial Setup
 
     1. You MUST enable Desktop Mode from the STEAM menu, by selecting "Power", then "Switch to Desktop".
-    2. We **highly recommend** plugging in a mouse and keyboard into the Steam Deck to make using the installer easier.
+    2. **You MUST install Firefox via Discover** for the installer to open automatically in your browser
+        1. If you're not sure, just install Firefox to make things easy.
+        2. If you want to use another browser, you will need to manually copy the installer URL that is printed in the Konsole terminal. Instructions to do this are listed in "Downloading and Starting the installer" below.
+    3. We **highly recommend** plugging in a mouse and keyboard into the Steam Deck to make using the installer easier.
 
     --8<-- "installer-linux-wine-proton.md"
 
@@ -116,11 +122,12 @@
         ![Extract archive here](https://07th-mod.com/wiki/img/steamdeck-extract-here.png)
     3. Right click the `setup` file located in the "07th-Mod_Installer_Linux64" folder, then click "Run In Konsole"
         ![Run in Konsole](https://07th-mod.com/wiki/img/steamdeck-run-in-konsole.png)
-    4. After some time, the installer will open as a web page in your browser. This is the installer's interface.
-        1. If the browser window doesn't appear, you can manually right-click and 'Copy Link Address', then paste the link into your browser. Usually the address will be `http:127.0.0.1:8000/loading_screen.html`.
+    4. After some time, *hopefully* the installer's interface will open as a web page in your browser. If it does not, see instructions below.
+        1. **Most likely you did not install Firefox earlier via Discover**. Install it now, then restart the installer.
+        2. As an alternative, you can manually right-click and 'Copy Link Address', then paste the link into your browser. Usually the address will be `http:127.0.0.1:8000/loading_screen.html`.
         ![Copy Link Address](https://07th-mod.com/wiki/img/steamdeck-copy-link-address.png)
-        2. **Please note: if a page takes too long to load, try refreshing the page**.
-        3. If you still cannot get the web page to load, try running the `setup_safe_mode` file instead.
+        3. If the browser is launched, but the page does not load, try refreshing the page
+        4. If you still cannot get the web page to load, run `setup_safe_mode` to use the text-based installer.
 
     --8<-- "installer-usage.md"
 

@@ -38,7 +38,7 @@ nav:
     - Support and Reporting Issues: Support.md
     - Contribution Guide: Beginners-guide.md
     - Credits: Credits.md
-    - Developer Information:
+    - Higurashi Developer Information:
         - Overview:
             - Introduction: developer/overview/introduction.md
             - Features: developer/overview/features.md
@@ -54,6 +54,7 @@ nav:
             - Console Exclusive Content: developer/translation/console-exclusive-content.md
             - Censorship / Script Changes: developer/translation/censorship-script-changes.md
         - Graphical Work:
+            - PSD Files, Templates: developer/graphics/psd-files-templates.md
             - Resources, Technical Details: developer/graphics/resources-technical-details.md
             - Sunset/Night Filters: developer/graphics/sunset-night-filters.md
             - Mangagamer Sprite Edits: developer/graphics/mangagamer-sprite-edits.md

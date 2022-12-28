@@ -47,7 +47,7 @@ I installed the mod: [Manually/Using the Installer]
 
 Mod Download and Install Date: [Downloaded and installed today / Downloaded a week ago, installed yesterday]
 
-Mod Options: [Playing in Japanese/French/other language, OG sprites etc.]
+Mod Options: [Playing in Japanese/French/(state which language), OG sprites etc.]
 
 State anything "special" about your computer's setup: [School/Company Computer/Old Laptop]
 

@@ -21,10 +21,6 @@ For more detailed information:
 
 ### What options does the mod provide to fix this issue?
 
-!!! warning "Incorrectly named 'Original BGM/SE'"
-
-    We are currently trying to rename "Original BGM/SE" to "GIN BGM/SE", as our BGM/SE is not identical to the original Japanese release, so the name is deceptive. However this is a work in progress, so please bear this in mind when playing the game and reading text in the installer.
-
 We offer the GIN's BGM/SE fixes which bring the BGM/SE closer (but definitely NOT identical to) the original Japanese release and/or Pre April Update - please see the below table. This option was previously called "Original BGM/SE" or "BGM Fix".
 
 You can switch to this BGM/SE using the F10 mod menu, under the 'Audio' tab.
@@ -49,7 +45,7 @@ If you want exactly the same BGM/SE as the original Japanese release, we would s
     <th class="tg-0lax"></th>
     <th class="tg-0lax">Question Arcs</th>
     <th class="tg-0lax">Answer Arcs</th>
-    <th class="tg-y6fn">Rei</th>
+    <th class="tg-0lax">Rei</th>
   </tr>
 </thead>
 <tbody>
@@ -57,29 +53,30 @@ If you want exactly the same BGM/SE as the original Japanese release, we would s
     <td class="tg-bold">GIN BGM</td>
     <td class="tg-0lax">BGM files have been replaced with the <strong>pre-april update BGM†</strong>, which is mostly equivalent to the <strong>original Japanese Game</strong>.</td>
     <td class="tg-0lax">BGM files have been replaced with the ones from the <strong>original Japanese game</strong></td>
-    <td class="tg-y6fn" rowspan="5">No Change to BGM/SE (as of 30/07/2022)<br><br>
-      Note: The Hiru Console chapter will always use the Console BGM<br><br>
-      We haven't analysed Rei yet for possible april update BGM/SE changes.
-    </td>
+    <td class="tg-0lax">Differing BGM files have been replaced with the ones from the <strong>original Japanese game.</strong></td>
   </tr>
   <tr>
     <td class="tg-bold">GIN BGM Timing<br></td>
     <td class="tg-y6fn">No Change - will play with Console timings</td>
     <td class="tg-0lax">BGM will play at times matching the <strong>original Japanese Game<strong></td>
+    <td class="tg-y6fn">The original Japanese Game and our mod have the same timings, so <strong>no changes necessary.</strong></td>
   </tr>
   <tr>
     <td class="tg-bold">GIN SE</td>
     <td class="tg-0lax" colspan="2">SE have been replaced with the <strong>pre-april update SE</strong></td>
+    <td class="tg-0lax">Differing SE files have been replaced with the ones from the <strong>original Japanese game</strong></td>
   </tr>
   <tr>
     <td class="tg-bold">GIN SE Timing</td>
     <td class="tg-y6fn" colspan="2">No Change - will play with Console timings</td>
+    <td class="tg-y6fn">The original Japanese Game and our mod have the same timings, so <strong>no changes necessary.</strong></td>
   </tr>
   <tr>
     <td class="tg-bold">Details</td>
     <td class="tg-0lax">† If the BGM or Sound Effect was replaced with an entirely different one, we have reverted it to the pre-april update version<br>
       † If the BGM or Sound Effect suffers from severe audio issues, and the new file is roughly the same minus the issues, we use the new version.</td>
     <td class="tg-0lax"></td>
+    <td class="tg-0lax">For the Rei BGM, only three 'musical' BGM differ - most of the differences are in background ambience or short sound effects</td>
   </tr>
 </tbody>
 </table>

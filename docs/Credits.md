@@ -113,3 +113,12 @@ This page is dedicated to credit all collaborators who helped us along the way. 
 ### [VocalNight](https://github.com/VocalNight)
 
 * Windows installer
+
+### GIN
+
+* GIN let us use their "Original JP release BGM/SE patch" as an option in our mod
+* Lots of help with BGM/SE stuff in general
+
+### Overg
+
+* Provided initial version of Original JP Release BGM/SE for Higurashi Rei

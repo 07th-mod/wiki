@@ -26,7 +26,7 @@ Of course, this is all very new to us so you can expect more and more things to 
 
 ## How much do you need to keep this server running?
 
-**As of 2023**, our yearly running costs are about $400 or more depending on usage. Since we first signed with our ISP, there have been multiple increases to hosting and bandwidth due to the current world circunstances (energy crisis in the EU, inflation, etc). We also pay extra for bandwidth almost every month, since we get about 15 terabytes of data transfer monthly.
+**As of 2023**, our yearly running costs are about $400 or more depending on usage. Since we first signed with our ISP, there have been multiple increases to hosting and bandwidth due to the current world circumstances (energy crisis in the EU, inflation, etc). We also pay extra for bandwidth almost every month, since we get about 15 terabytes of data transfer monthly.
 
 ## Do I get any special perks if I donate?
 

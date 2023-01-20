@@ -305,7 +305,7 @@ Please select a tab below to access the downloads that you require.
     </tr>
     <tr class="even">
     <td style="text-align: center;">Update</td>
-    <td style="text-align: center;">None</td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/og-dll-asset-update/rei-og-dll-asset-update.7z">Download👀</a></td>
     </tr>
     </tbody>
     </table>

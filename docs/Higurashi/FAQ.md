@@ -20,7 +20,9 @@ You can also see the [Shortcuts and Settings Page](Higurashi-Part-2---Patch-conf
 
 ### No Backgrounds, Sprites, or Images (just black screen with game text at bottom)
 
-If you find you can play the game, but no images are displayed, try closing the game and starting it again. After that, images should display properly.
+A black screen with text is sometimes part of normal gameplay (such as the start of Onikakushi Ch.1 after the opening poem). Please try playing for a while to see if the game really has a bug, or if the black screen with game text is on purpose.
+
+If you find the problem continues (you can play the game, but no images are displayed), try closing the game and starting it again. After that, images should display properly.
 
 ### The game lags during voice playback
 

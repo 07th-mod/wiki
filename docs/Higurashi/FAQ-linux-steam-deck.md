@@ -44,6 +44,10 @@ If you're still having problems, check the ["There is no sound/audio/BGM/voices"
   1. Disable your compositor
   2. Run your desktop manager with the `--no-argb` flag ([More info here, but not quite the same issue](https://github.com/awesomeWM/awesome/issues/2502)).
 
+### Game used to work in windowed mode, but fullscreen crashes immediately, and I can't reset to windowed mode
+
+To forcibly reset to windowed mode, see [Uninstalling Unity PlayerPrefs](Uninstall.md#uninstalling-unity-playerprefs) to forcibly clear your PlayerPrefs.
+
 ### GNOME/MATE Desktop - whole desktop crashes when game launched
 
 **NOTE 2022-11-13: We have added a workaround in our mod to fix this issue. Let us know if you still have this problem on the latest version of the mod.**

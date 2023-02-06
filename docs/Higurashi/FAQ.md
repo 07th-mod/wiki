@@ -254,11 +254,11 @@ In the folder you'll find:
 
 To clear your save data, make a backup of these files, **disable steam sync**, then delete all of them. **Steam will sync the saves in these folders**, so make sure to disable steam sync temporarily if you want to clear out or modify your saves, otherwise they will just reappear/get overwritten by Steam.
 
-Also see "Registry file location and clearing" below.
+The game also stores some additional settings related to resolution and fullscreen in the PlayerPrefs - see [Uninstalling Unity PlayerPrefs](Uninstall.md#uninstalling-unity-playerprefs) for more details.
 
-## Registry file location and clearing (Windows Only)
+## Player Preferences location and clearing
 
-See [Uninstalling registry entries](Uninstall.md#uninstalling-registry-entries-advanced-windows-only)
+See [Uninstalling Unity PlayerPrefs](Uninstall.md#uninstalling-unity-playerprefs)
 
 ## I have questions about this Miotsukushi console arc
 

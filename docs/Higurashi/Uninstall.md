@@ -48,11 +48,13 @@ You may need to clear or modify these settings to fix certain issues related to 
 
 === "Linux"
 
+    **Proton Users**: We have reports that the Proton version of Higurashi uses the folder "Manga**g**amer", while the native game uses "Manga**G**amer" (note the g/G capitalization). Please check **both** the Manga**G**amer and Manga**g**amer folders if you are using Proton.
+
     Linux playerprefs are stored in the file `~/.config/unity3d/MangaGamer/[GAMENAME]/prefs`.
 
     For example, the Chapter 1 prefs file is at `~/.config/unity3d/MangaGamer/Higurashi When They Cry - Ch.1 Onikakushi/prefs`
 
-    Delete this file to clear Player Preferences.
+    Delete this file or the whole folder to clear Player Preferences.
 
 === "MacOS"
 

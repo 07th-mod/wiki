@@ -232,18 +232,46 @@ This patch was created as more of a side-project to see how the midis in the ori
 
 ## Save file locations
 
-While in-game, press **F10**, then under "Save Files and Log Files" click "Show Saves". If this does not work, or you want to find your save files manually, see below:
+**NOTE:** If you want to clear or modify your save data, **make sure to disable Steam Cloud** as it will attempt to undo any changes you have made.
 
-Here are the save files locations for Higurashi, Chapter 1 (other chapters use the same pattern):
+### Finding Saves Automatically
 
-- Windows: `C:\Users\[YOUR_USERNAME]\AppData\Roaming\MangaGamer\higurashi01`
-    - As a shortcut, paste this into the explorer address bar: `%AppData%/Mangagamer`
-- MacOS: `~/Library/Application Support/unity.MangaGamer.Higurashi When They Cry - Ch.1 Onikakushi/`
-- Linux:
+While in-game, press **F10**, then under "Save Files and Log Files" click "Show Saves".
+
+### Finding Saves Manually
+
+Please choose your OS below to find your saves:
+
+=== "Windows"
+
+    Saves are stored at:
+
+    `C:\Users\[YOUR_USERNAME]\AppData\Roaming\MangaGamer\higurashi01`
+
+    As a shortcut, paste this into the explorer address bar: `%AppData%/Mangagamer`
+
+=== "Linux"
+
     - For Chapters 1-2, save data is split between two adjacent folders:
         - `~/.config/unity3d/MangaGamer/Higurashi When they Cry - Ch.1 Onikakushi`
         - `~/.config/unity3d/Mangagamer/Higurashi When They Cry _ Ch_1 Onikakushi`(note the underscores)
     - For Chapters 3-8, all save data is in one folder: `~/.config/unity3d/MangaGamer/Higurashi When they Cry - Ch.3 Tatarigoroshi`
+
+=== "MacOS"
+
+    Saves are stored at:
+
+    `~/Library/Application Support/unity.MangaGamer.Higurashi When They Cry - Ch.1 Onikakushi/`
+
+=== "Proton / Wine"
+
+    When using Proton, saves are stored inside a Proton "prefix" (a `pfx` folder). Inside the prefix, they are stored at a similar location to Windows (it might use `Mangagamer` with a lowercase 'g')
+
+    The full path to the folder is: `.steam/steam/steamapps/compatdata/[GAME_ID]/pfx/drive_c/users/steamuser/AppData/Roaming/Mangagamer/higurashi[CHAPTER_NUMBER]`.
+
+    The `GAME_ID` can be found by going to the store page for the game, then looking at the URL for a 6 digit number - for example Higurashi Ch.1's ID is `310360`.
+
+    So for Ch.1, the full path is: `.steam/steam/steamapps/compatdata/310360/pfx/drive_c/users/steamuser/AppData/Roaming/Mangagamer/higurashi01`.
 
 In the folder you'll find:
 
@@ -252,7 +280,7 @@ In the folder you'll find:
 - quicksaves like `qsave0.dat`
 - the screenshots associated with each save file like `save000.png` and `qsave0.png`
 
-To clear your save data, make a backup of these files, **disable steam sync**, then delete all of them. **Steam will sync the saves in these folders**, so make sure to disable steam sync temporarily if you want to clear out or modify your saves, otherwise they will just reappear/get overwritten by Steam.
+To clear your save data, make a backup of these files, **disable Steam Cloud**, then delete all of them. **Steam will sync the saves in these folders**, so make sure to disable Steam Cloud temporarily if you want to clear out or modify your saves, otherwise they will just reappear/get overwritten by Steam.
 
 The game also stores some additional settings related to resolution and fullscreen in the PlayerPrefs - see [Uninstalling Unity PlayerPrefs](Uninstall.md#uninstalling-unity-playerprefs) for more details.
 

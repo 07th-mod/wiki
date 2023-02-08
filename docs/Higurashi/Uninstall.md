@@ -19,7 +19,7 @@ We currently don't offer any way to uninstall just the mod by itself - **the bel
 
 ## Uninstalling your saves
 
-1. **Disable Steam Sync/GOG Cloud Saves**. Your save files will magically reappear if you don't do this step.
+1. **Disable Steam Cloud/GOG Cloud Saves**. Your save files will magically reappear if you don't do this step.
 2. Navigate to the game's save folder as described in [the FAQ "Save File Locations"](FAQ.md#save-file-locations)
 3. Delete the whole save folder (you may wish to backup the global.dat file if you are re-installing)
 
@@ -48,7 +48,7 @@ You may need to clear or modify these settings to fix certain issues related to 
 
 === "Linux"
 
-    **Proton Users**: We have reports that the Proton version of Higurashi uses the folder "Manga**g**amer", while the native game uses "Manga**G**amer" (note the g/G capitalization). Please check **both** the Manga**G**amer and Manga**g**amer folders if you are using Proton.
+    **NOTE**: Higurashi might use the folder "Manga**g**amer" (lowercase g), instead of "Manga**G**amer" (uppercase G). Please check **both** the Manga**G**amer and Manga**g**amer folders if you can't find your playerprefs.
 
     Linux playerprefs are stored in the file `~/.config/unity3d/MangaGamer/[GAMENAME]/prefs`.
 
@@ -65,3 +65,15 @@ You may need to clear or modify these settings to fix certain issues related to 
     The name will be something like `unity.Mangagamer.[GAMENAME].plist` for older games or `com.Mangagamer.[GAMENAME].plist` for newer games.
 
     Delete this file to clear Player Preferences.
+
+=== "Proton / Wine"
+
+    **Steam Cloud** - I'm not sure, but PlayerPrefs might be synced under Steam Cloud when using Proton. If you can't get the below instructions to work, try clearing/disabling Steam Cloud.
+
+    When using Proton, playerprefs are stored in a `user.reg` file.
+
+    This file is stored at `.steam/steam/steamapps/compatdata/[GAME_ID]/pfx/user.reg`. The `GAME_ID` can be found by going to the store page for the game, then looking at the URL for a 6 digit number - for example Higurashi Ch.1's ID is `310360`.
+
+    You can also delete the whole prefix to clear your PlayerPrefs, but note this will also delete your saves.
+
+    Note that uninstalling the game via steam deletes the entire prefix.

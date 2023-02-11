@@ -5,6 +5,8 @@
 !!! danger 
     This page is for manual install only. We highly recommend using the automated installer as installing manually can be error prone. Please see the [Cross Platform Installer](Higurashi-Part-1---Voice-and-Graphics-Patch.md), and follow the instructions
 
+--8<-- "higurashi-saves-warning.md"
+
 ----
 
 **Note:** The full patch lets you switch between the Ryukishi (Original), Mangagamer, or PS3 sprites. If you want Ryukishi (Original) or Mangagamer sprites with the new backgrounds, most likely you want the full patch ([Automatic Install](Higurashi-Part-1---Voice-and-Graphics-Patch.md) / [Manual Install](Manual-Installation.md)). After installing the full patch (NOT the "voice only" patch on this page), press the `P` key while not in a menu to toggle between art styles.

@@ -1,5 +1,7 @@
 !!! warning "This page is for manual install only. To install automatically, please go back to the [introduction page](Umineko-Getting-started.md), and follow the instructions"
 
+--8<-- "umineko-saves-warning.md"
+
 ----
 
 **Note:** There are install options for the full patch which overwrite the default PS3 sprites with Ryukishi (Original) or Pachinko sprites. If you want Ryukishi (Original) or Pachinko sprites with the new backgrounds, most likely you want the full patch ([Automatic Install](Umineko-Part-3a-Cross-Platform-Installer.md) / [Manual Install](Umineko-Part-1---Voice-and-Graphics-Patch.md)). Just make sure to select the right option in the installer, or manually install your choice of sprite pack.

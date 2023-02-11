@@ -2,6 +2,8 @@
 
 --8<-- "umineko-project-recommendation.md"
 
+--8<-- "umineko-saves-warning.md"
+
 ----
 
 ## Manual installation (Windows/Linux/Mac)

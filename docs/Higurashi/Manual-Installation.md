@@ -2,6 +2,8 @@
 
 !!! danger "This page is for manual install only. We highly recommend using the automated installer as installing manually can be error prone. Please see the [Cross Platform Installer](Higurashi-Part-1---Voice-and-Graphics-Patch.md), and follow the instructions"
 
+--8<-- "higurashi-saves-warning.md"
+
 ----
 
 ## General Information

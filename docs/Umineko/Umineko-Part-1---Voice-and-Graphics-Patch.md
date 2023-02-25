@@ -21,10 +21,14 @@ Instructions on installing the Answer Arcs ADV Addon are at the bottom of the pa
 
 > **Don't skip any links!** We can only guarantee the patch will work if you download all the parts of the chapter you want to play.
 
+### Question Arcs
+
+- **For the Question Arcs only, you can switch to ADV mode in-game**
+- **If you want to play in Japanese, you MUST select the "Experimental" script**
+
 <table>
 <thead>
 <tr class="header">
-<th>Question Arcs</th>
 <th>Script</th>
 <th>Voices</th>
 <th>Graphics</th>
@@ -35,8 +39,11 @@ Instructions on installing the Answer Arcs ADV Addon are at the bottom of the pa
 </thead>
 <tbody>
 <tr class="even">
-<td>Question Arcs Full</td>
-<td><a href="https://07th-mod.com/download.php?repository=umineko-question&file=master/InDevelopment/ManualUpdates/0.utf">Download 0.u</a></td>
+<td>
+    <a href="https://07th-mod.com/download.php?repository=umineko-question&file=master/InDevelopment/ManualUpdates/0.utf">-Stable 0.u</a><br>
+    or<br>
+    <a href="https://07th-mod.com/download.php?repository=umineko-question&file=fix_clickwait_test_rebase/InDevelopment/ManualUpdates/0.utf">-Experimental 0.u</a>
+</td>
 <td><a href="https://07th-mod.com/Beato/Umineko-Voices-nsa.7z">Download</a></td>
 <td><a href="https://07th-mod.com/Beato/1080p/Umineko-Graphics-1080p-v3.7z">1080p Graphics</a></td>
 <td><a href="https://07th-mod.com/Beato/1080p/Umineko1to4.exe">Windows</a> <br> <a href="https://07th-mod.com/Beato/1080p/Umineko1to4.app.zip">Mac</a> <br> <a href="https://07th-mod.com/Beato/1080p/Umineko1to4">Linux</a></td>
@@ -46,20 +53,25 @@ Instructions on installing the Answer Arcs ADV Addon are at the bottom of the pa
 <a href="https://07th-mod.com/Bern/Umineko-ADV_Mode.7z">-ADV Files</a>
 </td>
 <td>
-Choose <strong>one</strong>:
-    <br> <a href="https://07th-mod.com/Beato/1080p/Umineko-Update-1080p-v3_2019_01_03_WINDOWS.7z">-WINDOWS</a>
-    <br> <a href="https://07th-mod.com/Beato/1080p/Umineko-Update-1080p-v3_2019_01_03_MAC_LINUX.7z">-LINUX/MAC</a>
+    <a href="https://07th-mod.com/Beato/1080p/Umineko-Update-1080p-v3_2019_01_03_WINDOWS.7z">-WINDOWS</a>
+    <br>
+    <a href="https://07th-mod.com/Beato/1080p/Umineko-Update-1080p-v3_2019_01_03_MAC_LINUX.7z">-LINUX/MAC Pt.1</a>
+    <br>
+    <a href="https://07th-mod.com/Beato/linux-libpng-libjpeg.7z">-LINUX/MAC Pt.2</a>
 </td>
 </tr>
 </tbody>
 </table>
 
 
+### Answer Arcs (NVL Mode)
+
+- **For the Answer Arcs, you CANNOT switch to ADV mode in-game. You must decide now and install the correct files, see "ADV Mode Addon" at bottom of page**
+- **If you want to play in Japanese, you MUST select the "Experimental" script**
 
 <table>
 <thead>
 <tr class="header">
-<th>Answer Arcs</th>
 <th>Script</th>
 <th>Voices</th>
 <th>Graphics</th>
@@ -69,25 +81,27 @@ Choose <strong>one</strong>:
 </thead>
 <tbody>
 <tr class="odd">
-<td>Answer Arcs (Ch.5~8)</td>
-<td><a href="https://07th-mod.com/download.php?repository=umineko-answer&file=master/0.utf">Download 0.u</td>
+<td>
+    <a href="https://07th-mod.com/download.php?repository=umineko-answer&file=master/0.utf">-Stable 0.u</a><br>
+    or<br>
+    <a href="https://07th-mod.com/download.php?repository=umineko-answer&file=master_no_clickwait_fix/0.utf">-Experimental 0.u</a>
+</td>
 <td><a href="https://07th-mod.com/Bern/UminekoChiru-Voices-nsa.7z">Download</a></td>
 <td><a href="https://07th-mod.com/Bern/UminekoChiru-Graphics-v2.7z">Download</a></td>
 <td><a href="https://07th-mod.com/Bern/Umineko5to8.exe">Windows</a> <br> <a href="https://07th-mod.com/Bern/Umineko5to8.app.zip">Mac</a> <br> <a href="https://07th-mod.com/Bern/Umineko5to8">Linux</a></td>
-<td><a href="https://07th-mod.com/Bern/Umineko-Answer-Update-Full-Rolling-ALL-OS.7z">Rolling Update</a></td>
-</tr>
-<tr class="even">
-<td>Answer Arcs ADV Mode Addon</td>
-<td>See bottom of page</td>
-<td></td>
-<td></td>
-<td></td>
-<td>See bottom of page</td>
+<td>
+    <a href="https://07th-mod.com/Bern/Umineko-Answer-Update-Full-Rolling-ALL-OS.7z">-Rolling Update</a><br>
+    <a href="https://07th-mod.com/Beato/linux-libpng-libjpeg.7z">-LINUX/MAC Libs</a>
+</td>
 </tr>
 </tbody>
 </table>
 
-**Linux and Mac Only**: [`linux-libpng-libjpeg.7z`](https://07th-mod.com/Beato/linux-libpng-libjpeg.7z)
+
+### Answer Arcs (ADV Mode)
+
+**See "Answer Arc ADV Addon" near bottom of page** for Answer Arcs ADV Mode instructions and downloads!
+
 
 ### Pachinko/Ryukishi Sprite Packs
 
@@ -218,6 +232,8 @@ Ensure that you have your `0.u` or `0.utf` (depending on your platform), and you
 
 ## Answer Arc ADV Addon
 
+- **If you want to play in Japanese, you MUST select the "Experimental" script**
+
 <table>
 <thead>
 <tr class="header">
@@ -229,7 +245,11 @@ Ensure that you have your `0.u` or `0.utf` (depending on your platform), and you
 <tbody>
 <tr>
 <td>ADV Mode Addon</td>
-<td><a href="https://07th-mod.com/download.php?repository=umineko-answer&file=adv_mode/0.utf">0.u Script</td>
+<td>
+    <a href="https://07th-mod.com/download.php?repository=umineko-answer&file=adv_mode/0.utf">-Stable 0.u</a><br>
+    or<br>
+    <a href="https://07th-mod.com/download.php?repository=umineko-answer&file=adv_mode_no_clickwait_fix/0.utf">-Experimental 0.u</a><br>
+</td>
 <td><a href="https://07th-mod.com/Bern/UminekoChiru-ADV_Mode.7z">ADV Assets</a></td>
 </tr>
 </tbody>

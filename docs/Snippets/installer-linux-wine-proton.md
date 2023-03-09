@@ -32,7 +32,8 @@ As some users have issues with the Native Linux version of the game, we recommen
     - If you want to use Native Linux version, choose 'Steam Linux Runtime'
     - If you want to use Proton, choose the latest stable Proton version (you can try 'Proton Experimental' if you have problems with the stable versions)
     ![Steam Switching Between Native and Proton](https://07th-mod.com/wiki/img/steam-compatability.png)
-7. Wait for Steam to finish installing/updating your installation (make sure the game is closed).
+7. **Click "Update"** apply the changes, and wait the update to finish (make sure the game is closed).
+    - ![Steam Update Button](https://07th-mod.com/wiki/img/steam-update-button.png)
 8. If you haven't installed the mod on this game before, proceed to "Starting the Installer"
 9. If you've already installed the mod on this game before:
     - If the mod is already installed, **switching between Native and Proton with Steam will overwrite important mod files**. This usually causes a **crash** or **black screen** on startup

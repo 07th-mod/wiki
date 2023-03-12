@@ -45,72 +45,95 @@ Please do not expect the same mod features as the Higurashi mod, as Umineko runs
 
 A more detailed sprite comparison, with more characters, may be found [here](https://07th-mod.com/wiki/Umineko/img/umineko-sprite-comparison.png).
 
-!!! warning "News: Windows-only installer end-of-life announcement"
-    As of May 2019, we dropped support for the old Windows-only installer. The new installer has much better compatibility, works on Windows, Linux and Mac, and has an entirely new UI.
-
 ## Mod Options for Question Arcs Ch. 1~4
 
-There are two main install options for the question arcs - the full patch, and the voice only patch. We highly recommend using the **installer**, as installing manually is very error-prone.
+There are two main install options for the question arcs - the full patch, and the voice only patch. We highly recommend using the **[Installer](Umineko-Part-3a-Cross-Platform-Installer.md)** for installation, as installing [manually]((Umineko-Part-1.1---Voices-only-Patch.md)) is very error-prone.
 
-#### Question Arcs - Full patch (~5GB Download, ~20GB free space required)
-
-- Has **ADV mode** which can be toggled on or off at any time.
-- Playing with Japanese Text is supported
-- Adds PS3 voices, sprites, CGs (event images), backgrounds, to the base game. DOES NOT add shader effects or lipsync.
-- Install Methods: [Cross Platform Installer](Umineko-Part-3a-Cross-Platform-Installer.md) || [Install Manually](Umineko-Part-1---Voice-and-Graphics-Patch.md)
-- Optional packs if you want Pachinko or Ryukishi sprites - See below.
-
-#### Question Arcs - Voice only (~1.9GB Download, ~5GB free space required)
-
-- Mainly adds voices to the base game
-- Playing with Japanese text is NOT supported
-- Install Methods:  [Cross Platform Installer](Umineko-Part-3a-Cross-Platform-Installer.md) || [Install Manually](Umineko-Part-1.1---Voices-only-Patch.md)
-
-#### CG Options
-
-- Make Jessica British
-    - In one scene, the PS3 game replaces a CG of a Touhou character with another CG for copyright reasons. This option allows you to use the PS3 CG.
-
-#### BGM Options
-
-- Use SuiSui-SWEETS(^-^) BGM
-    - In one scene, the PS3 game replaces the Touhou song "Tsurupettan" with another song for copyright reasons. This option allows you to use the PS3 song.
-- Restore system0 BGM
-    - The unmodded game's "system0" BGM is missing a sample from Star Trek: Nemesis (removed for copyright reasons) - this option restores the missing sample.
-
-----
+<table>
+    <thead>
+        <tr>
+            <th>Patch Type</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Full Patch</td>
+            <td>
+                <ul>
+                    <li>Has <strong>ADV mode</strong> which can be toggled on or off at any time.</li>
+                    <li>Playing with <strong>Japanese</strong> Text is supported <strong>ONLY IN NVL MODE</strong>. ADV mode + Japanese text is NOT supported.</li>
+                    <li>Adds PS3 voices, sprites, CGs (event images), backgrounds, to the base game. DOES NOT add shader effects or lipsync.</li>
+                    <li>Optional packs if you want Pachinko or Ryukishi sprites - See below.</li>
+                    <li>5GB Download, 20GB free space required</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Voice-only</td>
+            <td>
+                <ul>
+                    <li>Adds voices to the base game (no other major changes)</li>
+                    <li>Note that the voice-only Answer arcs do not support <strong>Japanese</strong> Text. Technically the voice-only Question arcs do support Japanese text, but you won't be able to play the same way when you get to the Answer arcs, so <strong>it is not recommended.</strong></li>
+                    <li>1.9GB Download, 5GB free space required</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ## Mod Options for Answer Arcs Ch. 5~8
 
-There are two main install options for the question arcs - the full patch, and the voice only patch. There is also an addon to the full patch, which adds ADV mode.
+There are three install options for the question arcs - NVL (full patch), ADV, and voice-only.
 
-#### Answer Arcs - Full Patch (~8GB Download, ~30GB free space required)
+<table>
+    <thead>
+        <tr>
+            <th>Patch Type</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>NVL/Full Patch</td>
+            <td>
+                <ul>
+                    <li>Playing with <strong>Japanese</strong> Text is supported</li>
+                    <li><strong>No ADV mode built in</strong>, unlike the Question Arcs! You must install "ADV Mode" for ADV mode.</li>
+                    <li>Adds PS3 voices, sprites, CGs (event images), backgrounds, to the base game. DOES NOT add shader effects or lipsync.</li>
+                    <li>Optional packs if you want Pachinko or Ryukishi sprites - See below.</li>
+                    <li>8GB Download, 30GB free space required</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>ADV Addon</td>
+            <td>
+                <ul>
+                    <li>This is an add on to the full patch which adds ADV mode (but in the installer, you just select "ADV Mode")</li>
+                    <li><strong>No option to toggle ADV mode</strong>, unlike the Question Arcs! If you want NOVEL mode, you must install the "Full Patch" option.</li>
+                    <li>Playing with <strong>Japanese</strong> Text is NOT supported</li>
+                    <li>Optional packs if you want Pachinko or Ryukishi sprites - See below.</li>
+                    <li>50MB add-on download</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Voice-only</td>
+            <td>
+                <ul>
+                    <li>Adds voices to the base game (no other major changes)</li>
+                    <li>Playing with <strong>Japanese</strong> Text is NOT supported</strong></li>
+                    <li>1.5GB Download, 5GB free space required</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-- Playing with Japanese Text is supported
-- **No ADV mode built in**, unlike the Question Arcs! You must install "ADV Mode" for ADV mode.
-- Adds PS3 voices, sprites, CGs (event images), backgrounds, to the base game. DOES NOT add shader effects or lipsync.
-- Install Methods:  [Cross Platform Installer](Umineko-Part-3a-Cross-Platform-Installer.md) || [Install Manually](Umineko-Part-1---Voice-and-Graphics-Patch.md)
-- Optional packs if you want Pachinko or Ryukishi sprites - See below.
+## Other installer-only options
 
-#### Answer Arcs - ADV Mode (~8GB Download, ~30GB free space required)
-
-- This is an add on to the full patch which adds ADV mode (but in the installer, you just select "ADV Mode")
-- **No option to toggle ADV mode**, unlike the Question Arcs! If you want NOVEL mode, you must install the "Full Patch" option.
-- Playing with Japanese Text is NOT supported
-- Install Methods:  [Cross Platform Installer](Umineko-Part-3a-Cross-Platform-Installer.md) || [Install Manually](Umineko-Part-1---Voice-and-Graphics-Patch.md)
-- Optional packs if you want Pachinko or Ryukishi sprites - See below.
-
-#### Answer Arcs - Voice only (~1.5GB Download, ~5GB free space required)
-
-- Mainly adds voices to the base game
-- Playing with Japanese text is NOT supported
-- Install Methods:  [Cross Platform Installer](Umineko-Part-3a-Cross-Platform-Installer.md) || [Install Manually](Umineko-Part-1.1---Voices-only-Patch.md)
-
-#### BGM Options
-
-- Restore and Repair BGM
-    - The unmodded game's "system0" BGM is missing a sample from Star Trek: Nemesis (removed for copyright reasons) - this option restores the missing sample.
-    - The unmodded game's "kuina.ogg" was slightly corrupted at the 53 second mark - this option repairs the corruption.
+There are some additional options you can choose, but they are only available in the installer. You can read the description of these options in the installer itself.
 
 ----
 

@@ -47,7 +47,7 @@ A more detailed sprite comparison, with more characters, may be found [here](htt
 
 ## Mod Options for Question Arcs Ch. 1~4
 
-There are two main install options for the question arcs - the full patch, and the voice only patch. We highly recommend using the **[Installer](Umineko-Part-3a-Cross-Platform-Installer.md)** for installation, as installing [manually]((Umineko-Part-1.1---Voices-only-Patch.md)) is very error-prone.
+There are two main install options for the question arcs - the full patch, and the voice only patch. We highly recommend using the **[Installer](Umineko-Part-3a-Cross-Platform-Installer.md)** for installation, as installing [manually](Umineko-Part-1.1---Voices-only-Patch.md) is very error-prone.
 
 <table>
     <thead>

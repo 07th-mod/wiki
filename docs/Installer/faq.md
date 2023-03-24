@@ -12,6 +12,26 @@ Please proceed to [How to get support](../Installer/support.md).
 
 ## Connection Troubleshooting
 
+### Workaround for "Download and Verify tage failed" error
+
+We've added a workaround for "Download and Verify" problems. This option lets you download the files yourself, aided by the installer. Then the installer will handle all mod steps after that automatically.
+
+Follow these steps to use the workaround:
+
+1. Open the installer, and select the game to be modded.
+2. Choose your mod options.
+3. Tick the "Download Manually" option (under "Common Options").
+4. Scroll down to near the end of the page, to the section with yellow highlights.
+5. Below "Please put downloaded files in:", click the link to open the download folder. You will put downloaded files in that folder.
+6. Then, download each file in yellow highlight
+    - Make sure to save it to the previously shown download folder (or move the file in there after download has finished).
+    - Make sure the name matches exactly (the download may get renamed with a "(1)" at the end if you downloaded it twice).
+    - Make sure the file fully finishes downloading without error.
+    - After the installer detects the file, the row should turn green.
+7. Once no more yellow highlights remain, and you are sure all files are fully downloaded, click the "Start Install" button at the bottom of the page.
+
+### General Connection Troubleshooting
+
 First, double check you can access BOTH the following websites in your browser without error:
 
 1. [https://07th-mod.com/](https://07th-mod.com/)

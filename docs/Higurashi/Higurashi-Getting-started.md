@@ -4,63 +4,62 @@
     The buttons below will take you to the section [**2a. Installer**](Higurashi-Part-1---Voice-and-Graphics-Patch.md). This is currently the best method to install the patch in any operating system.<br></br>
     However, if you prefer to install the patch manually, go to section [**2b. Manual Installation**](Manual-Installation.md) instead.
 
-This patch modifies the newest release of Higurashi by MangaGamer, attempting to replicate the Nintendo Switch version of the game. It is compatible with both the [Steam](https://store.steampowered.com/bundle/709/) and any [DRM-free](https://www.mangagamer.com/product_list.php?opt=search&keyword=Higurashi) versions (including GOG) of the game. 
+This patch modifies the newest release of Higurashi by MangaGamer, attempting to replicate the Nintendo Switch version of the game. It is compatible with both the [Steam](https://store.steampowered.com/bundle/709/) and any [DRM-free](https://www.mangagamer.com/product_list.php?opt=search&keyword=Higurashi) versions (including GOG) of the game.
 
 **This patch is not compatible with the old/original Japanese release of the game.**
 
 ## Patch features
 
-??? info "Click here to see screenshots of the patch"
+### Sprite Screenshots (from Onikakushi Mod v7.0.0)
 
-    These screenshots were taken in-game from the patch version 7.0.0 of Onikakushi. Click to expand in a new tab.
+=== "Console Graphics set"
 
-    === "Console Graphics set"
+    <a href="../img/console.webp" target="_blank"><img src="../img/console.webp"></img></a>
 
-        <a href="../img/console.webp" target="_blank"><img src="../img/console.webp"></img></a>
+=== "Steam Graphics set"
 
-    === "Steam Graphics set"
+    <a href="../img/console-mg.webp" target="_blank"><img src="../img/console-mg.webp"></img></a>
 
-        <a href="../img/console-mg.webp" target="_blank"><img src="../img/console-mg.webp"></img></a>
+=== "Vanilla Graphics set"
 
-    === "Vanilla Graphics set"
+    <a href="../img/vanilla.webp" target="_blank"><img src="../img/vanilla.webp"></img></a>
 
-        <a href="../img/vanilla.webp" target="_blank"><img src="../img/vanilla.webp"></img></a>
+### Background Screenshots (from Onikakushi Mod v7.0.0)
 
-    ---
+=== "Supported sprite sets"
 
-    === "Supported sprite sets"
+    <a href="../img/sprite-comparison.webp" target="_blank"><img src="../img/sprite-comparison.webp"></img></a>
 
-        <a href="../img/sprite-comparison.webp" target="_blank"><img src="../img/sprite-comparison.webp"></img></a>
+=== "Supported background sets"
 
-    === "Supported background sets"
+    <a href="../img/background-comparison.webp" target="_blank"><img src="../img/background-comparison.webp"></img></a>
 
-        <a href="../img/background-comparison.webp" target="_blank"><img src="../img/background-comparison.webp"></img></a>
+### Feature List
+
+The following features are available for most chapters:
 
 * Full voiceover
-* Lipsync support (only in Console sprites)
+* Lipsync support (when using PS3 sprites)
 * Sprites and backgrounds in 16:9, 1080p and 1440p combined assets
+    * Sprite Options: PS3, Mangagamer, or Original Japanese
+    * Graphics Options: PS3 or Original Japanese
 * Exclusive console content (such as bad endings)
-* Upgraded user interface 
+* Upgraded user interface
 * ADV (textbox at bottom) and NVL (text covering the whole screen) support
 * Opening videos from the console release
 * Option to bring the BGM/SE closer to the Pre-April Update/Original JP Release.
     * See the [BGM / SE FAQ](BGM-SE-FAQ.md) for more details.
-* **(NEW!)** Play with the original PC graphics
-* Third-Party French and Italian Language Patches (see below for chapter support)
+* Various Third-Party Language Patches (see below for chapter support)
+
+----
+
+<center>[Install the patch](Higurashi-Part-1---Voice-and-Graphics-Patch.md){: .md-button }</center>
+
+----
 
 ## Third-Party Language Support
 
 --8<-- "third-party-features.md"
-
-## Main story arcs
-
-There are two patch variants for the main story arcs:
-
-* The "Full Patch", with all the features described above
-* The "Voices-Only" patch, **which is deprecated**
-    * The Voices-Only patch is part of the initial development of the Full Patch. After the Full Patch is fully released, the Voices-Only patch is superseded by it.
-
-<center>[Install the patch](Higurashi-Part-1---Voice-and-Graphics-Patch.md){: .md-button }</center>
 
 ## Console Arcs (extra chapters)
 
@@ -74,3 +73,15 @@ The Console Arcs patch is fully ported and translated by the 07th-Mod staff them
 Here's a [walkthrough](img/walk-yoig.webp) for anyone who wants to know which choices in Yoigoshi lead to which endings. And here's a [walkthrough](img/walk-omot.webp) for Miotsukushi Omote.
 
 ![Higurashi Arcs Flowchart](img/flow.webp)
+
+## Full Patch vs Voices-Only Patch
+
+Normally, you always want to install the "Full Patch". But there are actually two patch variants for the main story arcs:
+
+* The "Full Patch", with all the features described above
+* The "Voices-Only" patch, **which is deprecated**
+    * The Voices-Only patch is part of the initial development of the Full Patch. After the Full Patch is fully released, there isn't any reason to use the Voices-Only patch.
+
+## Next Steps
+
+Continue to the [Installer Page](Higurashi-Part-1---Voice-and-Graphics-Patch.md) to download and run the mod installer.

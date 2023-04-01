@@ -12,7 +12,7 @@ Please proceed to [How to get support](../Installer/support.md).
 
 ## Connection Troubleshooting
 
-### Workaround for "Download and Verify tage failed" error
+### Workaround for "Download and Verify stage failed" error
 
 We've added a workaround for "Download and Verify" problems. This option lets you download the files yourself, aided by the installer. Then the installer will handle all mod steps after that automatically.
 

@@ -10,27 +10,27 @@ This patch modifies the newest release of Higurashi by MangaGamer, attempting to
 
 ## Patch features
 
-### Sprite Screenshots (from Onikakushi Mod v7.0.0)
+### Screenshots (from Onikakushi Mod v7.0.0)
 
-=== "Console Graphics set"
+=== "Console Preset"
 
     <a href="../img/console.webp" target="_blank"><img src="../img/console.webp"></img></a>
 
-=== "Steam Graphics set"
+=== "Steam Preset"
 
     <a href="../img/console-mg.webp" target="_blank"><img src="../img/console-mg.webp"></img></a>
 
-=== "Vanilla Graphics set"
+=== "Vanilla Preset"
 
     <a href="../img/vanilla.webp" target="_blank"><img src="../img/vanilla.webp"></img></a>
 
-### Background Screenshots (from Onikakushi Mod v7.0.0)
-
-=== "Supported sprite sets"
+=== "Sprite Options"
 
     <a href="../img/sprite-comparison.webp" target="_blank"><img src="../img/sprite-comparison.webp"></img></a>
 
-=== "Supported background sets"
+=== "Background Options"
+
+    <span>Left: Console</span><span style="float: right">Right: Vanilla</span>
 
     <a href="../img/background-comparison.webp" target="_blank"><img src="../img/background-comparison.webp"></img></a>
 

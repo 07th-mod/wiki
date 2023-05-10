@@ -48,6 +48,7 @@ nav:
         - Game Scripting:
             - Scripting Tutorial: developer/scripting/on-scripting.md
             - Mod Syntax Reference: developer/scripting/syntax.md
+            - BGM & SE Scripting: developer/scripting/bgm-se-scripting.md
         - Translation Work:
             - Other Languages: developer/translation/other-languages.md
             - Resources and Guidelines: developer/translation/resources-and-guidelines.md

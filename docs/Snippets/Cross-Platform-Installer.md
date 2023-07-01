@@ -80,6 +80,14 @@
 
     --8<-- "installer-proton-instructions.md"
 
+    ## [Wine Higurashi Users Only] No Text On Startup - Missing corefonts
+
+    Some users have reported an issue on Higurashi where there is no text when they first boot the game - see below screenshot:
+
+    ![Wine No Text](https://07th-mod.com/wiki/img/wine-no-text.png)
+
+    If you have this issue, you will need to install corefonts. Installing corefonts can differ on each system, but some instructions are provided at this FAQ ["No Text On Startup - Missing corefonts"](../Higurashi/FAQ.md#wine-users-only-no-text-on-startup-missing-corefonts)
+
     ## Downloading and Starting the installer
 
     1. Install the following using your distribution's package manager:

@@ -219,6 +219,24 @@ If the game lags or freezes every now and then, you may want to investigate thes
 - Restart your computer
 - While Higurashi isn't that demanding, very old computers/software may not be able to play with good performance. Please keep in mind that this is a Unity game, so some level of performance/modern hardware is required.
 
+## Known Issues - Linux
+
+### [Wine Users Only] No Text On Startup - Missing corefonts
+
+Some users have reported an issue on Higurashi where there is no text when they first boot the game - see below screenshot:
+
+![Wine No Text](https://07th-mod.com/wiki/img/wine-no-text.png)
+
+This doesn't actually prevent you playing the game, but all mod menus (eg the F10 menu) will have no text displayed.
+
+To fix this issue you will need to install `corefonts` font package into your wineprefix. Installing `corefonts` can differ on each system, so you will need to look that up yourself, but some screenshots are provided below to guide you.
+
+![Wine No Text Fix 1](https://07th-mod.com/wiki/img/wine-no-text-fix-1.png)
+
+![Wine No Text Fix 2](https://07th-mod.com/wiki/img/wine-no-text-fix-2.png)
+
+![Wine No Text Fix 3](https://07th-mod.com/wiki/img/wine-no-text-fix-3.png)
+
 ## Misc Questions
 
 ### Are there voices only patches (without the PS3 graphics)?

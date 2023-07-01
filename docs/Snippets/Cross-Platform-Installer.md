@@ -80,9 +80,9 @@
 
     ----
 
-    ### [Wine Higurashi Users Only] No Text On Startup - Missing corefonts
+    ### [Wine Higurashi Users Only] No Text On Startup Problem - Missing corefonts
 
-    Some users have reported an issue on Higurashi where there is no text when they first boot the game - see below screenshot:
+    Some Wine users have reported an issue on Higurashi where there is no text when they first boot the game - see below screenshot:
 
     ![Wine No Text](https://07th-mod.com/wiki/img/wine-no-text.png)
 

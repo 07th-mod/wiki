@@ -6,7 +6,7 @@
 In April 2019, all the Higurashi games received a major update. This update changed the Background Music (BGM) and sound effects (SE). The changes made were:
 
 - Some BGM/SE were replaced with completely different or new BGM/SE
-  - In some cases, duplicates replaced existing BGM, resulting in less variation of BGM tracks
+    - In some cases, duplicates replaced existing BGM, resulting in less variation of BGM tracks
 - Some BGM/SE are modified or re-recorded versions of the same BGM/SE
 - Some BGM had their audio clipping and distortion fixed - but at the same time different sounding instruments or samples may have been used in the new version.
 - The game script was modified in some places to play different songs. Since the mod uses it's own script, we are unaffected by this.
@@ -95,7 +95,7 @@ For this reason, the question arcs BGM timing does not fully match the original 
 
 The Answer arcs have been fixed by both file replacement and adjusting the BGM timing
 
-This is because major changes were found which couldn't be fixed any other way, even though doing so was time consuming 
+This is because major changes were found which couldn't be fixed any other way, even though doing so was time consuming
 
 ### Why are the Sound Effects taken from the Pre-April Update and not the original JP release?
 
@@ -121,3 +121,43 @@ The "click" sound (`wa_037.ogg`) and the "children laughing sound" (`wa_038.ogg`
 The title screen background sound (sound of cicadas) is different between the Question  and Answer arcs (`lsys11.ogg`/`higurashi.ogg`)
 
 - This is probably because the Question arcs use the pre-april update Mangagamer BGM, while the Answer arcs use the BGM from the original Japanese game.
+
+## Other Links
+
+- The [BGM & SE Issues Index](https://github.com/07th-mod/higurashi-patch-compiler/issues/64) lists github issues which related to the BGM and SE.
+    - If you're looking for open issues related to BGM/SE, or want to check the history of why something was changed, this might be a good place to start.
+
+## Other BGM options
+
+### Hou+ Demo BGM (Added 2023/06/24)
+
+This option replaces 16 BGM with BGM from the Higurashi Hou+ Demo. It uses the same tracks from nerve as the New MangaGamer BGM, but the AI-D-IA tracks are different.
+
+Some are remastered versions of MangaGamer's replacements, while others were newly composed by xaki.
+
+This option is not available for Chapters 5-8 and Rei because most of their music isn't in the Hou+ demo.
+
+All other tracks will use the New Mangagamer BGM and GIN's/Original SE.
+
+### Remake BGM
+
+This option replaces nine BGM with handmade remakes of nine tracks from the original release (pre-2019).
+
+You can listen to these tracks [on Radiata Alice's "Hinamizawa Syndrome Vol​.​1" BandCamp page](https://radiataalice.bandcamp.com/album/hinamizawa-syndrome-vol-1).
+
+All other tracks will use the GIN's/OG BGM BGM/SE.
+
+The following tracks are replaced:
+
+- Tell a thing (piano solo ver.)
+- Snow #3 'First snow'
+- Days of Children #3
+- Rainy Days
+- Fascism
+- Sunrise
+- Gear
+- Theme of Owner
+- Dawn
+
+This option is not available for Onikakushi Ch.1, as the chapter does not use any of these tracks.
+This option is not available for Chapters 5-8 as an OST remake for those chapters hasn't been created.

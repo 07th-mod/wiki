@@ -74,7 +74,11 @@
 
     !!! warning "If you're using a Steam Deck, please click the 'Steam Deck' tab above!"
 
-    --8<-- "installer-linux-wine-proton.md"
+    ## Important Pre-installation steps (Wine/Proton Setup)
+
+    --8<-- "installer-linux-wine.md"
+
+    --8<-- "installer-proton-instructions.md"
 
     ## Downloading and Starting the installer
 
@@ -113,7 +117,11 @@
         2. If you want to use another browser, you will need to manually copy the installer URL that is printed in the Konsole terminal. Instructions to do this are listed in "Downloading and Starting the installer" below.
     3. We **highly recommend** plugging in a mouse and keyboard into the Steam Deck to make using the installer easier.
 
-    --8<-- "installer-linux-wine-proton.md"
+    ## Important Pre-installation steps (Wine/Proton Setup)
+
+    --8<-- "installer-linux-wine.md"
+
+    --8<-- "installer-proton-instructions.md"
 
     ## Downloading and Starting the installer
 

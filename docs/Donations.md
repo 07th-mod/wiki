@@ -38,11 +38,11 @@ Donors should also not get any special Discord perks, but this is up for discuss
 
 In this section we have a small summary of the total donations received, but in the end, it is all about how much you trust us.
 
-> **Last donation: May 10, 2023**
+> **Last donation: July 06, 2023**
 
-> **Last update: May 21, 2023**
+> **Last update: July 07, 2023**
 
-> **Donations total (2023)**: **$272.03** (after Paypal donations tax) <br>
+> **Donations total (2023)**: **$355.58** (after Paypal donations tax) <br>
 
 ## What if you get way over your goal?
 
@@ -59,4 +59,8 @@ Click on the image below to donate:
 [![Donate!](https://user-images.githubusercontent.com/4702556/42401332-8e49fd8c-814b-11e8-9a83-b52285cf1051.png
 )](https://www.paypal.com/donate?hosted_button_id=C978TUSYHZU2Q)
 
-[You can also click here](https://www.paypal.com/donate?hosted_button_id=C978TUSYHZU2Q) to be redirected to our Paypal page.
+[You can also click here](https://www.paypal.com/donate/?hosted_button_id=C978TUSYHZU2Q) to be redirected to our Paypal page.
+
+In case you prefer to donate in EUR, [you can use this link instead](https://www.paypal.com/donate/?hosted_button_id=KBM6B4AZH4EUN).
+
+**Disclaimer**: since we're not registered as a non-profit on Paypal, donations go directly to the server admin's Paypal. Donations are then sent straight to our ISP and kept as account balance, and finally deducted as invoices are generated. This disclaimer was only added for transparency, this is how donations have worked since we started taking them.

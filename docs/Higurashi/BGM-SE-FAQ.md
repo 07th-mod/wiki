@@ -10,6 +10,7 @@ In April 2019, all the Higurashi games received a major update. This update chan
 - Some BGM/SE are modified or re-recorded versions of the same BGM/SE
 - Some BGM had their audio clipping and distortion fixed - but at the same time different sounding instruments or samples may have been used in the new version.
 - The game script was modified in some places to play different songs. Since the mod uses it's own script, we are unaffected by this.
+- Mangagamer forgot to update the game for some store + chapter combinations (such as GOG's Tsumihoroboshi Ch.6). So just because you downloaded the game recently, it doesn't mean you have the April 2019 update.
 
 For more detailed information:
 
@@ -121,6 +122,15 @@ The "click" sound (`wa_037.ogg`) and the "children laughing sound" (`wa_038.ogg`
 The title screen background sound (sound of cicadas) is different between the Question  and Answer arcs (`lsys11.ogg`/`higurashi.ogg`)
 
 - This is probably because the Question arcs use the pre-april update Mangagamer BGM, while the Answer arcs use the BGM from the original Japanese game.
+
+### How do I check if the unmodded game has the Pre or Post April update BGM
+
+The below checks (as far as we know) will tell you if you have the Pre or Post april update BGM
+
+- For the Unmodded Question Arcs, you have the Post-april update BGM if the file `StreamingAssets/SE/wa_003.ogg` has CRC32 `0F8F4B01` (7zip can calculate CRC32's by right-clicking). Otherwise you have the Pre-April update BGM.
+- For the Unmodded Answer Arcs, you have the Post-april update BGM if the file `StreamingAssets/BGM/bellflower.ogg` exists. Otherwise you have the Pre-April update BGM.
+
+The GOG version of Ch.6 Tsumihoroboshi still has the Pre-April Update BGM as of 15/07/20203. This implies they forgot to update the game for some stores (eg. Mangagamer, GOG). So just because you have the latest install of the game, it doesn't mean you have the April Update BGM.
 
 ## Other Links
 

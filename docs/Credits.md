@@ -122,3 +122,7 @@ This page is dedicated to credit all collaborators who helped us along the way. 
 ### Overg
 
 * Provided initial version of Original JP Release BGM/SE for Higurashi Rei
+
+### [Apollo](https://github.com/ApolloEM)
+
+* Mapping/Fixing/Testing Ryukishi/OG Sprites from Higurashi Hou+ so they could be added to the mod

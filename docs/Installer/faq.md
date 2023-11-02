@@ -177,3 +177,13 @@ If you manage to resolve this issue, **please let us know what method worked** o
 ### The "Updated Steamgrid Icons" option does not work
 
 Try restarting your computer to refresh the steamgrid art.
+
+### Extracted Windows installer contains suspicious file named "Cryptomining"
+
+On some Windows systems, you may notice a file called `Cryptomining` at `07th-mod_installer\webview\EBWebView\Trust Protection Lists\1.0.0.25\Sigma`. On some other systems, this folder may not exist (the whole `Trust Protection Lists` will be blank).
+
+This folder is part of the Microsoft Edge WebView2 we use for our GUI, which at its core is basically a browser. These "trust protection lists" are intended to block/limit websites with certain dangerous content on them. People have asked similar questions [on Microsoft's own Github issues for WebView2](https://github.com/MicrosoftEdge/WebView2Feedback/issues/2167), giving the answer "this feature is actually about blocking cryptomining sites from tracking users".
+
+This folder is just populated from your own system files. You'll find the exact same file here: `C:\Program Files (x86)\Microsoft\Edge\Application\118.0.2088.76\Trust Protection Lists\Sigma` (the version number in that path might vary depending on how up-to-date your system is).
+
+If you are still worried, feel free to use the "07th-Mod.Installer.Windows.NoLauncher.zip" launcher, which uses your default web browser instead of the Microsoft Edge WebView2 we provide.

@@ -187,3 +187,13 @@ This folder is part of the Microsoft Edge WebView2 we use for our GUI, which at 
 This folder is just populated from your own system files. You'll find the exact same file here: `C:\Program Files (x86)\Microsoft\Edge\Application\118.0.2088.76\Trust Protection Lists\Sigma` (the version number in that path might vary depending on how up-to-date your system is).
 
 If you are still worried, feel free to use the "07th-Mod.Installer.Windows.NoLauncher.zip" launcher, which uses your default web browser instead of the Microsoft Edge WebView2 we provide.
+
+### Web UI does not appear and "Python Installer Failed" or no error message printed
+
+If you find the installer launcher appears, but states "Python Installer Failed" without anything appearing, the Python part of the installer is not working correctly.
+
+This can be caused by antivirus software such as SmadAV, which blocks the Python part of the installer from running.
+
+You can temporarily disable your antivirus, or add an exception for the Python bundled with the installer.
+
+See [this git issue for details](https://github.com/07th-mod/python-patcher/issues/221)

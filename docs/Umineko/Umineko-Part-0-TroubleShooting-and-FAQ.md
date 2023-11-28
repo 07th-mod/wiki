@@ -256,7 +256,10 @@ There is also one achievement for the Question Arcs which is difficult to unlock
 
 #### No sound on Linux (game doesn't even show up in mixer)
 
-On Linux, if Umineko doesn't show up in your audio mixer at all, try following this [gamingonlinux tutorial](https://www.gamingonlinux.com/articles/steam-for-linux-can-now-run-games-in-a-special-container.15384) to run Umineko using the Steam Linux Runtime compatability tool.
+- On Linux, if Umineko doesn't show up in your audio mixer at all, try following this [gamingonlinux tutorial](https://www.gamingonlinux.com/articles/steam-for-linux-can-now-run-games-in-a-special-container.15384) to run Umineko using the Steam Linux Runtime compatability tool.
+
+- One user reported that the Steam Deck + GOG version of the game had no sound, even on the unmodded game. This was fixed by going into the "lib64" folder and deleting every file except for "libsteam_api.so".
+
 
 #### The episode credits just display a black screen
 

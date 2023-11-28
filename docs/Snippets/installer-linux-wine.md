@@ -19,6 +19,8 @@ As some users have issues with the Native Linux version of the game, we recommen
 
 #### Umineko Mods
 
+- One user reported that the Steam Deck + GOG version of the game had no sound, even on the unmodded game. This was fixed by going into the "lib64" folder and deleting every file except for "libsteam_api.so".
+
 - We haven't done much testing of using Wine/Proton for Umineko. Try the native version (or on Steam, whatever Steam recommends), then if you have problems, you can try the Wine/Proton version.
 
 !!! info "If you're not sure if you installed Native Linux or Wine/Proton, the installer will tell you after you've selected the game to be modded."

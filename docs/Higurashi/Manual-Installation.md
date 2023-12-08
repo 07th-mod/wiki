@@ -418,3 +418,9 @@ Please select a tab below to access the downloads that you require.
 
 
     --8<-- "third-party-features.md"
+
+## Optional Steps After Install
+
+## Console Arcs Only
+
+To make the Console Arcs appear in Steam with the correct logos and name, please follow these instructions: [Console Arcs Steam Library Tutorial](steam-add-console-arcs/steam-add-console-arcs.md)

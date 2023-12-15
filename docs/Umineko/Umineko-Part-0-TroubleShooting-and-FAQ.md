@@ -260,6 +260,7 @@ There is also one achievement for the Question Arcs which is difficult to unlock
 
 Steam Deck Users have reported the following:
 
+- See the [Higurashi FAQ regarding Steam Deck Sound Issues](../Higurashi/FAQ-linux-steam-deck.md/#steam-deck-no-audio-at-all)
 - One user reported that doing a clean install fixed the "no audio" issue. Follow the instructions here to fully uninstall the game and mod: [Uninstalling Umineko and the Mod](Uninstall.md)
 - One user reported that the Steam Deck + GOG version of the game had no sound, even on the unmodded game. This was fixed by going into the "lib64" folder and deleting every file except for "libsteam_api.so".
 

@@ -44,9 +44,9 @@ If you want exactly the same BGM/SE as the original Japanese release, we would s
 <thead>
   <tr>
     <th class="tg-0lax"></th>
-    <th class="tg-0lax">Question Arcs</th>
-    <th class="tg-0lax">Answer Arcs</th>
-    <th class="tg-0lax">Rei</th>
+    <th class="tg-0lax">Question Arcs (Ch. 1-4)</th>
+    <th class="tg-0lax">Answer Arcs (Ch. 5-8)</th>
+    <th class="tg-0lax">Rei (Ch. 9)</th>
   </tr>
 </thead>
 <tbody>
@@ -115,13 +115,75 @@ This section explains some unexpected behavior you might encounter when using GI
 
 ### GIN BGM/SE Oddities
 
+#### Click Sound
+
 The "click" sound (`wa_037.ogg`) and the "children laughing sound" (`wa_038.ogg`) are different between the Question and Answer arcs
 
 - The pre-april update unmodded game had this same behavior. Because GIN's BGM/SE copies the SE from the pre-april update unmodded game, it has the same behavior for these two sound effects.
 
+#### Title Screen Sound
+
 The title screen background sound (sound of cicadas) is different between the Question  and Answer arcs (`lsys11.ogg`/`higurashi.ogg`)
 
 - This is probably because the Question arcs use the pre-april update Mangagamer BGM, while the Answer arcs use the BGM from the original Japanese game.
+
+#### Answer Arcs - GIN's BGM option sometimes plays BGM from the unmodded BGM folder
+
+For the Answer Arcs, GIN's BGM does not override every single BGM (unlike the Question Arcs).
+
+This means some BGM will be taken from the 'unmodded' BGM folder (`BGM`), and some BGM will be taken from the GIN BGM folder (`OGBGM`), even if you have GIN's BGM option selected.
+
+For example:
+
+ - In the April Update (`BGM` folder), `1.ogg` and `cafe.ogg` are the same BGM, "Boy in the Windmill".
+ - But in GIN's BGM (`OGBGM` folder), `1.ogg` is "Afternoon in Paris", and `cafe.ogg` is missing (so `cafe.ogg` falls back to the April Update version "Boy in the Windmill").
+    - In the right-click menu, it will state `BGM/cafe.ogg` is playing, even when GIN's BGM is selected
+
+In this example, I think Mangagamer replaced `1.ogg` with `cafe.ogg` in the April Update, so to fix this change, only `1.ogg` needed to be overriden.
+
+The following tracks are not overriden when using GIN's BGM option:
+
+| **Chapter 5-8**      | **Chapter 5-8 (cont.)** | **Chapter 9**         |
+|----------------------|-------------------------|-----------------------|
+| 03_cele              | keihou                  | 03_cele               |
+| air_pizz_ver2        | liberating              | amber                 |
+| amber                | livescene               | as_time_goes_by       |
+| as_time_goes_by      | live_2                  | attack_2dj-san_t      |
+| b08_izyou            | maturi_01_ver2          | bellflower            |
+| b10_giwaku2          | mienai                  | bigbear               |
+| bellflower           | msys044                 | birth_and_death       |
+| birth_and_death      | nazo                    | cafe                  |
+| b_dive               | omake2                  | cradle_song           |
+| cafe                 | omake_01                | demo_48khz            |
+| cradle_song          | pros                    | depressive_paranoia   |
+| deadend              | samayoi                 | er_ver3               |
+| demo_48khz           | search_and              | fearlessnessl_e       |
+| demo_long            | sheep counts            | gray_2                |
+| depressive paranoia  | sora-yume-              | hgrs01                |
+| door                 | sora_no_mukou           | hgrs_03               |
+| er_ver3              | sora_v2_nonloop         | hidebu14              |
+| fearlessnessl_e      | soul_scour              | hidebu17              |
+| feel                 | t1                      | hidebu20              |
+| getting_mad          | t1_requiem              | hidebu22              |
+| gray_2               | t2                      | hidebu23              |
+| g_operation          | testament               | hidebu25              |
+| g_tactics            | tuika01_ver3            | hitoe_2               |
+| hgrs01               | typewriter              | iru                   |
+| higurashi_soundscape | utage_sample            | liberating            |
+| higurashi_utu        | years_ver2              | live_2                |
+| hig_sample_kyouki    | you                     | live_scene            |
+| hitoe_2              | you_nonloop             | omake2                |
+| instict              | z01_iwakan              | pros                  |
+| instict2             | z02_kyousou             | search_and_destroy    |
+| iru                  | z2_hig1                 | sora_no_mukou_201ver2 |
+| it_move2             | z2_hig2                 | suzu                  |
+| it_moves             | z2_hig3                 | t1                    |
+|                      | zero(nonloop)           | t2                    |
+|                      |                         | tsutaetaikoto_loop    |
+|                      |                         | u2_2                  |
+|                      |                         | u2_3                  |
+|                      |                         | u2_rika               |
+|                      |                         | z2_hig2               |
 
 ### How do I check if the unmodded game has the Pre or Post April update BGM
 

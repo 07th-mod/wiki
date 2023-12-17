@@ -50,7 +50,7 @@ nav:
             - Mod Syntax Reference: developer/scripting/syntax.md
             - BGM & SE Scripting: developer/scripting/bgm-se-scripting.md
         - Translation Work:
-            - Other Languages: developer/translation/other-languages.md
+            - Introduction: developer/translation/introduction.md
             - Resources and Guidelines: developer/translation/resources-and-guidelines.md
             - Console Exclusive Content: developer/translation/console-exclusive-content.md
             - Censorship / Script Changes: developer/translation/censorship-script-changes.md

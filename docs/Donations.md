@@ -38,11 +38,11 @@ Donors should also not get any special Discord perks, but this is up for discuss
 
 In this section we have a small summary of the total donations received, but in the end, it is all about how much you trust us.
 
-> **Last donation: November 23, 2023**
+> **Last donation: none yet! (2024)**
 
-> **Last update: November 24, 2023**
+> **Last update: January 02, 2024**
 
-> **Donations total (2023)**: **$449.14** (after Paypal donations tax) <br>
+> **Donations total (2023)**: **$0** (after Paypal donations tax) <br>
 
 ## What if you get way over your goal?
 

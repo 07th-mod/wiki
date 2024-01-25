@@ -8,13 +8,20 @@ There is also another [tool](https://github.com/07th-mod/ui-editing-scripts/blob
 
 # Installation
 
-Before using these scripts, run the following command to install the dependencies. If you run into an issue with `decrunch` then read bellow.
+!!! info "build.py users"
+    If using the `build.py`, dependencies will be installed automatically. Use a virtual environment if you do not want packages installed globally.
+
+Before using these scripts, run the following command to install the dependencies.
 
 ```bash
-pip install numpy Pillow unitypack
+pip install -r requirements.txt
 ```
 
-UnityPack has dependency on something called `decrunch` which requires Visual C++ Build Tools 14.0 (on Windows) but can still fail to install even if you have them. We're not using the part that needs `decrunch` (it's only used to decompress certain formats of image assets) anyway so if you run into these issues, simply download [this fork](https://github.com/tellowkrinkle/unitypack) of unitypack where the dependency is removed and install if with `python setup.py install` from within its folder.
+## Installation - `decrunch` error
+
+This should no longer occur if you use the above `requirements.txt` to install dependencies, but I've kept the old text below for reference.
+
+UnityPack has dependency on something called `decrunch` which requires Visual C++ Build Tools 14.0 (on Windows) but can still fail to install even if you have them. We're not using the part that needs `decrunch` (it's only used to decompress certain formats of image assets) anyway so if you run into these issues, simply download [this fork](https://github.com/drojf/UnityPack) of unitypack where the dependency is removed and install if with `python setup.py install` from within its folder.
 
 # UnityTextModifier
 

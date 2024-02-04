@@ -155,12 +155,22 @@ Also, these instructions roughly [follow this guide in Korean](https://snowyegre
 
 ## Creating the font
 
-1. Install the version of Unity matching the game (roughly). For example, Rei is currently either verison `2019.4.36f1` or version `2019.4.40f1`, so we install version 2019.4.36 (generally the font generated on 2019.4.36 should work for all 2019.4.* versions)
+1. Install the version of Unity matching the game (roughly). For example, Rei is currently either verison `2019.4.36f1` or version `2019.4.40f1`, so we install version 2019.4.36 (generally the font generated on 2019.4.36 should work for all 2019.4.* versions). You can download them from the [Unity Download Archive](https://unity.com/releases/editor/archive).
 2. Create a new project
-3. Add a text object
-4. Click Window->TextMeshPro->Font Asset Creator
-5. Follow the existing instructions above to make a new font asset (starting from "Preparing the character list" up to and including "Generating the SDF font"), but **DO NOT run TMPAssetConverter**
+3. Click Window->TextMeshPro->Font Asset Creator
+4. Follow the above "Adding Font Support for a New Language (Chapters 1-8 ONLY)" instructions to make a new font asset (starting from "Preparing the character list" up to and including "Generating the SDF font"), but **DO NOT run TMPAssetConverter**. As a summary:
+    * Select the font file to use (In the UI repo, use `ui-editing-scripts/assets/fonts/DejaVuSans+MS-PGothic.ttf`)
+    * Set Atlas Resolution to 2048 * 2048
+    * Copy our character list [msgothic_2_charset_OtherLang.txt](https://github.com/07th-mod/ui-editing-scripts/blob/master/scripts/CharacterInfoExtraction/msgothic_2_charset_OtherLang.txt), and check whether it    contains the characters you need. If not, put in the characters you need.
+    * Set Character Set to "Custom Characters", then paste in the character list you generated or copied earlier.
+    * Click "Generate Font Atlas"
+    * Check if all the characters were included (for example it will say "Characters Included: 1975/1977"). Read the text output to see why the characters are missing (missing from font, or doesn't fit in atlas)
     * If you're not sure, also refer to the [translated Korean instructions](https://discord.com/channels/384426173821616128/750313515482480699/1013705389205897236)
+5. Click Top Menu Bar "GameObject" -> UI -> Text - TextMeshPro
+6. On this created text object, change the font to the one you just generated. This makes sure the font is included in the final project, and also lets you preview how it looks.
+7. Optional: If it looks OK, regenerate the font with "Render Mode" set to SDF32 to improve the quality (note that this will take a long time)
+8. If the font ends up too big or too small, you can adjust the scaling by editing the `m_Scale` (part of the FaceInfo section), without regenerating the font. The easiest way to tweak this is to produce a proper sharedassets0 (name it differently from the mod sharedassets though), then edit it directly using UABE using the 'View Data' button. Then click File->Apply and Save All and overwrite the mod's sharedassets0. This is necessary for Hou+ as some of the UI buttons have a font size which I don't know how to change. For example, I have used a scaling factor of 0.85 to match the vanilla font. 
+
 
 ## Extracting fonts from the built game
 
@@ -168,7 +178,7 @@ Also, these instructions roughly [follow this guide in Korean](https://snowyegre
 
 1. Build/export the project to a known location
 2. Install the latest version of UABE [from the UABE repository](https://github.com/SeriousCache/UABE)
-3. Open the .sharedassets from the built game using UABE
+3. Open ALL files (both the no extension and extension versions) of `globalgamemanagers`, `level0`, `resources`, and `sharedassets0` from the built game using UABE
     * **Open it straight from the game directory! don't copy it somewhere else, as UABE will read some information from the game I think**
 4. If a popup appears, select the closest unity version to the version you just exported the dummy game with
 
@@ -182,9 +192,13 @@ Also, these instructions roughly [follow this guide in Korean](https://snowyegre
 ### Getting the monobehavior
 
 1. Repeat the above, but find the file called "MonoBehaviour [FONT NAME] SDF"
-2. Click "Export Dump"
-3. If a popup appears asking to 'extract extra information', **click Yes**. If another popup appears asking to select a file, **click cancel**. For some reason, even if you click cancel, you'll get the detailed dump.
-4. Save the text file with a memorable name like `FONT_NAME_monobehavior_sdf.txt`
+2. Click "View Info"
+3. You should get a popup saying that you need to extract class information, say yes.
+4. A popup will apepar asking for a `UnityEngine.TestRunner.dll`, but you can ignore it, just press 'Cancel'
+5. Click "Export Dump"->Dump as text file
+6. If a popup appears asking to 'extract extra information', **click Yes**. If another popup appears asking to select a file, **click cancel**. For some reason, even if you click cancel, you'll get the detailed dump.
+7. Save the text file with a memorable name like `FONT_NAME_monobehavior_sdf.txt`
+    - NOTE: if you only get a small 1kb file with no data, likely UABE did not extract extra info from the game. Make sure you loaded ALL files earlier and also clicked "View Info" earlier before exporting dump.
 
 ## Merging Monobehaviors
 

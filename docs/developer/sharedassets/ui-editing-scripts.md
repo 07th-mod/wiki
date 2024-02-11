@@ -159,18 +159,67 @@ Also, these instructions roughly [follow this guide in Korean](https://snowyegre
 2. Create a new project
 3. Click Window->TextMeshPro->Font Asset Creator
 4. Follow the above "Adding Font Support for a New Language (Chapters 1-8 ONLY)" instructions to make a new font asset (starting from "Preparing the character list" up to and including "Generating the SDF font"), but **DO NOT run TMPAssetConverter**. As a summary:
-    * Select the font file to use (In the UI repo, use `ui-editing-scripts/assets/fonts/DejaVuSans+MS-PGothic.ttf`)
-    * Set Atlas Resolution to 2048 * 2048
-    * Copy our character list [msgothic_2_charset_OtherLang.txt](https://github.com/07th-mod/ui-editing-scripts/blob/master/scripts/CharacterInfoExtraction/msgothic_2_charset_OtherLang.txt), and check whether it    contains the characters you need. If not, put in the characters you need.
-    * Set Character Set to "Custom Characters", then paste in the character list you generated or copied earlier.
-    * Click "Generate Font Atlas"
-    * Check if all the characters were included (for example it will say "Characters Included: 1975/1977"). Read the text output to see why the characters are missing (missing from font, or doesn't fit in atlas)
-    * If you're not sure, also refer to the [translated Korean instructions](https://discord.com/channels/384426173821616128/750313515482480699/1013705389205897236)
+	* Select the font file to use (In the UI repo, use `ui-editing-scripts/assets/fonts/DejaVuSans+MS-PGothic.ttf`)
+	* Set Atlas Resolution to:
+		* For Rei (Ch.9), either use 2048 x 2048 (less sharp), or **use 4096 x 4096 and also fix the font weight/outline** (see below section)
+		* For Hou (Ch.10), use 4096 x 4096. No font weight/outline adjustment necessary
+	* Copy our character list [msgothic_2_charset_OtherLang.txt](https://github.com/07th-mod/ui-editing-scripts/blob/master/scripts/CharacterInfoExtraction/msgothic_2_charset_OtherLang.txt), and check whether it contains the characters you need. If not, put in the characters you need.
+		* NOTE: Since Hou uses only one font for both languages, if you wish to support Japanese, you must also add Japanese to your charset!
+	* Set Character Set to "Custom Characters", then paste in the character list you generated or copied earlier.
+	* Click "Generate Font Atlas"
+	* Check if all the characters were included (for example it will say "Characters Included: 1975/1977"). Read the text output to see why the characters are missing (missing from font, or doesn't fit in atlas)
+	* If you're not sure, also refer to the [translated Korean instructions](https://discord.com/channels/384426173821616128/750313515482480699/1013705389205897236)
 5. Click Top Menu Bar "GameObject" -> UI -> Text - TextMeshPro
 6. On this created text object, change the font to the one you just generated. This makes sure the font is included in the final project, and also lets you preview how it looks.
 7. Optional: If it looks OK, regenerate the font with "Render Mode" set to SDF32 to improve the quality (note that this will take a long time)
-8. If the font ends up too big or too small, you can adjust the scaling by editing the `m_Scale` (part of the FaceInfo section), without regenerating the font. The easiest way to tweak this is to produce a proper sharedassets0 (name it differently from the mod sharedassets though), then edit it directly using UABE using the 'View Data' button. Then click File->Apply and Save All and overwrite the mod's sharedassets0. This is necessary for Hou+ as some of the UI buttons have a font size which I don't know how to change. For example, I have used a scaling factor of 0.85 to match the vanilla font. 
+8. If the font ends up too big or too small, you can adjust the scaling by editing the `m_Scale` (on the font's MonoBehavior object, it is part of the FaceInfo section), without regenerating the font. The easiest way to tweak this is to produce a proper sharedassets0 (name it differently from the mod sharedassets though), then edit it directly using UABE using the 'View Data' button. Then click File->Apply and Save All and overwrite the mod's sharedassets0. This is necessary for Hou+ as some of the UI buttons have a font size which I don't know how to change. For example, I have used a scaling factor of **0.85** to match the vanilla font. 
+9. If the font ends up with too thin outline / the font weight is too small, see below section on fixing the font weight/outline (for Rei).
 
+### Fixing font weight / outline
+
+I found that when editing the fonts for Rei, which use 2048x2048 texture size in the vanilla game, if you use 4096x4096 texture size, it would cause fonts to be very thin.
+
+It may be possible to fix these issues via the DLL in the future, but I'm recording how I fixed it by editing the font material, as this works for now.
+
+It looks like you can work around these issues by modifying the material used for the fonts.
+
+#### Use already fixed material
+
+Firstly, just try using this already fixed material for Rei:
+
+<Insert material used for font >
+
+#### Modify the 'normal' font weight
+
+If the font is too thin, you can manually change the 'default' font weight by editing the "_WeightNormal" parameter. This defaults to 0, but you can change it to .75 to make it thicker:
+
+```
+// In the font's material when dumped as .txt:
+
+[50]
+	0 pair data
+	1 string first = "_WeightNormal"
+	0 float second = 0.75
+```
+
+#### Modify the outline (not working?)
+
+I'm not sure if the engine modifies this value. Some more testing needed. But you can try to modify the outline width by changing the "_OutlineWidth" parameter:
+
+```
+// In the font's material when dumped as .txt:
+
+[25]
+	0 pair data
+	1 string first = "_OutlineWidth"
+	0 float second = 0.200000003
+```
+
+This directly corresponds to the "Thickness" slider in the "Outline" section, when you're changing the settings for some text in Unity.
+
+#### Hou Plus Note
+
+Hou Plus already uses 4096x4096, so you don't need to make the above changes, assuming you generated your font with atlas resolution 4096 x 4096 earlier.
 
 ## Extracting fonts from the built game
 

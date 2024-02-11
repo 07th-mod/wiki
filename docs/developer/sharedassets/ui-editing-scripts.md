@@ -1,5 +1,9 @@
 Written by [@tellowkrinkle](https://github.com/tellowkrinkle/).
 
+!!! warning "Warning: Old Information on this page"
+	We used to have lots of different scripts you would setup and run to update the `sharedasssets0.assets`. Now we have a monolithic `build.py` script which does everything at once - you just have to edit the various files in the `assets` folder before you run it. Please keep that in mind when reading this page as this wiki may not have been fully updated yet.
+
+
 These [scripts](https://github.com/07th-mod/ui-editing-scripts/tree/master/scripts) can be used to easily update the `sharedassets0.assets` file in Higurashi games. This can save a lot of clicking in UABE and string edits were not even possible without these scripts.
 
 Note: All scripts require Python 3, you may need to replace calls to `pip` and `python` with `pip3` and `python3` if that's what they are on your computer.
@@ -9,7 +13,7 @@ There is also another [tool](https://github.com/07th-mod/ui-editing-scripts/blob
 # Installation
 
 !!! info "build.py users"
-    If using the `build.py`, dependencies will be installed automatically. Use a virtual environment if you do not want packages installed globally.
+	If using the `build.py`, dependencies will be installed automatically. Use a virtual environment if you do not want packages installed globally.
 
 Before using these scripts, run the following command to install the dependencies.
 
@@ -24,6 +28,9 @@ This should no longer occur if you use the above `requirements.txt` to install d
 UnityPack has dependency on something called `decrunch` which requires Visual C++ Build Tools 14.0 (on Windows) but can still fail to install even if you have them. We're not using the part that needs `decrunch` (it's only used to decompress certain formats of image assets) anyway so if you run into these issues, simply download [this fork](https://github.com/drojf/UnityPack) of unitypack where the dependency is removed and install if with `python setup.py install` from within its folder.
 
 # UnityTextModifier
+
+!!! info "build.py users"
+	This will be run automatically when `build.py` is run. Just make sure you've edited the `ui-editing-scripts\assets\text-edits.json`file.
 
 This script will allow you to edit text files embedded in the asset files of games. This includes most UI elements.
 
@@ -75,6 +82,9 @@ The program will then output one ###.dat file per change into the specified outp
 
 # EMIPGenerator
 
+!!! info "build.py users"
+	This will be run automatically when `build.py` is run. Just make sure you've edited/added files to the `ui-editing-scripts\assets` folder.
+
 This script will allow you to collect large numbers of asset bundle modifications into one large file that can be applied in one step using UABE.
 
 EMIPGenerator requires three arguments, the `.assets` file that you want to edit, a directory of edits to make, and the name of the output file (should have the extension `.emip` or UABE won't let you load it).
@@ -100,6 +110,9 @@ Save the new bundle
 
 # TMPAssetConverter
 
+!!! info "Rei and Hou Plus"
+	This method does not work for Rei (Ch.9) or Hou Plus (Ch.10). See below section on "Adding Font Support for a New Language" below.
+
 This script converts assets outputted by the current version of TextMeshPro into ones that can be read by the version used by the games.  Note that if TextMeshPro updates it may stop working.  
 
 To use this, you will first need to generate a text atlas using TextMeshPro.  Newer versions of Unity will output assets in a different format, so you will need an older one.  `5.5.5` is known to work, while `2018.2` is known to not work.  Due the python library having issues reading the assets outputted by TextMeshPro, you will need to then use UABE to extract the Atlas (Texture2D) and MonoBehaviour files from the asset, using the `Export Raw` button.  If your version of Unity was too new, you'll find out here as UABE will fail to open the asset file.
@@ -111,6 +124,9 @@ You'll also need the MonoBehaviour file that you're trying to replace extracted 
 Then, run `python TMPAssetConverter.py newAtlas.dat newMonoBehaviour.dat oldMonoBehaviour.dat outputFolder` and the converter will create two files in the output folder with the same name as the two input files.  These can be substituted back into the asset bundle.  The atlas file can be left out if you don't need to convert it (if you already have a converted copy)
 
 # Getting character lists for font files
+
+!!! info "If you don't want to install Swift"
+	I've added a Python script in the `ui-editing-scripts\scripts\CharacterInfoExtraction\PythonTextExtractor\extract.py` which performs the same job, but I haven't tested it extensively, just used it once.
 
 To make sure that the character sets you use have all the characters used by the games, use scripts in the [CharacterInfoExtraction](https://github.com/07th-mod/ui-editing-scripts/tree/master/scripts/CharacterInfoExtraction) subfolder.
 

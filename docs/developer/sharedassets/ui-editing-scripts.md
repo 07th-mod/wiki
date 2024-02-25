@@ -185,11 +185,21 @@ Also, these instructions roughly [follow this guide in Korean](https://snowyegre
 	* Click "Generate Font Atlas"
 	* Check if all the characters were included (for example it will say "Characters Included: 1975/1977"). Read the text output to see why the characters are missing (missing from font, or doesn't fit in atlas)
 	* If you're not sure, also refer to the [translated Korean instructions](https://discord.com/channels/384426173821616128/750313515482480699/1013705389205897236)
+	* MAKE SURE TO CHECK the SP/PD Ratio is about 10%, see "Square artifacting around characters" section below and https://dev.to/clpsplug/beware-of-padding-in-textmeshpro-8ae
 5. Click Top Menu Bar "GameObject" -> UI -> Text - TextMeshPro
 6. On this created text object, change the font to the one you just generated. This makes sure the font is included in the final project, and also lets you preview how it looks.
 7. Optional: If it looks OK, regenerate the font with "Render Mode" set to SDF32 to improve the quality (note that this will take a long time)
 8. If the font ends up too big or too small, you can adjust the scaling by editing the `m_Scale` (on the font's MonoBehavior object, it is part of the FaceInfo section), without regenerating the font. The easiest way to tweak this is to produce a proper sharedassets0 (name it differently from the mod sharedassets though), then edit it directly using UABE using the 'View Data' button. Then click File->Apply and Save All and overwrite the mod's sharedassets0. This is necessary for Hou+ as some of the UI buttons have a font size which I don't know how to change. For example, I have used a scaling factor of **0.85** to match the vanilla font. 
 9. If the font ends up with too thin outline / the font weight is too small, see below section on fixing the font weight/outline (for Rei).
+
+### Square artifacting around characters if glyphs are too high resolution
+
+You might see a grey box around letters (perhaps only when the font weight or outline is adjusted).
+
+See this aricle: https://dev.to/clpsplug/beware-of-padding-in-textmeshpro-8ae (https://web.archive.org/web/20231203120842/https://dev.to/clpsplug/beware-of-padding-in-textmeshpro-8ae)
+
+This might also be unnoticeable using the normal font settings, but become a problem when you try to adjust the outline/font weight in-game.
+
 
 ### Fixing font weight / outline
 

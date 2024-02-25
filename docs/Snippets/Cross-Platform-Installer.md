@@ -123,6 +123,16 @@
 
     !!! warning "The Steam Deck is new, so these instructions may become out of date quickly. Please let us know if these instructions don't work or need updating"
 
+    ## Higurashi Save Problems on Ch.6 and above
+
+    It was [reported on Steam Forums on the vanilla game that you couldn't save on Ch.6](https://steamcommunity.com/app/668350/discussions/0/3414307711406705613/?tscn=1708592529) (and possibly later chapters), even though Ch.1-5 work fine on the Steam Deck.
+
+    The solution was to:
+
+       - If using Proton, force Proton 7 under Compatability options (see below section)
+       - Also, using Native ("Steam Linux Runtime") might work too.
+
+
     ## Steam Deck REQUIRED Initial Setup
 
     1. You MUST enable Desktop Mode from the STEAM menu, by selecting "Power", then "Switch to Desktop".

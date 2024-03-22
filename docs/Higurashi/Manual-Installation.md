@@ -262,28 +262,34 @@ Please select a tab below to access the downloads that you require.
     <tr class="header">
     <th style="text-align: center;">〜☆</th>
     <th style="text-align: center;">Ch.9 Rei</th>
+    <th style="text-align: center;">Ch.10 Hou+</th>
     </tr>
     </thead>
     <tbody>
     <tr class="odd">
     <td style="text-align: center;">Patch</td>
     <td style="text-align: center;"><a href="https://github.com/07th-mod/higurashi-rei/releases/latest">Download👀</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/hou-plus/releases/latest">Patch Download👀</a></td>
     </tr>
     <tr class="even">
     <td style="text-align: center;">Graphics patch</td>
     <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Rei-Graphics-V2.7z">1440p</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Hou-Plus-Graphics.7z">Graphics Download</a></td>
     </tr>
     <tr class="even">
     <td style="text-align: center;">Voices</td>
     <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voice/Rei-Voices.7z">Download</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voice/Hou-Plus-Voices.7z">Voices Download</a></td>
     </tr>
     <tr class="even">
     <td style="text-align: center;">BGM & SE</td>
     <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Rei-BGM-SE.7z">Download</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Hou-Plus-BGM-SE.7z">BGM & SE Download</a></td>
     </tr>
     <tr class="odd">
     <td style="text-align: center;">Movies</td>
     <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/video/Rei-Movie.7z">Windows</a><br><a href="https://07th-mod.com/rikachama/video/Rei-Movie_UNIX.7z">Mac/Linux</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/video/Hou-Plus-Movie.7z">Movies Download</a></td>
     </tr>
     <tr class="even">
     <td style="text-align: center;">UI Mod (Windows)</td>
@@ -291,7 +297,11 @@ Please select a tab below to access the downloads that you require.
         <a href="https://07th-mod.com/ui.php?chapter=rei&os=win&unity=2019.4.3">Steam</a><br>
         <a href="https://07th-mod.com/ui.php?chapter=rei&os=win&unity=2019.4.4">MangaGamer</a><br>
         <a href="https://07th-mod.com/ui.php?chapter=rei&os=win&unity=2019.4.3">MangaGamer Old⚠️</a><br>
-        <a href="https://07th-mod.com/ui.php?chapter=rei&os=win&unity=2019.4.3">GOG</a></td>
+        <a href="https://07th-mod.com/ui.php?chapter=rei&os=win&unity=2019.4.3">GOG</a>
+    </td>
+    <td style="text-align: center;">
+        <a href="https://07th-mod.com/rikachama/ui/Hou-Plus-UI_2019.4.4_win.7z">Windows UI Download</a><br>
+    </td>
     </tr>
     <tr class="odd">
     <td style="text-align: center;">UI Mod (Mac/Linux)</td>
@@ -299,22 +309,23 @@ Please select a tab below to access the downloads that you require.
         <a href="https://07th-mod.com/ui.php?chapter=rei&os=unix&unity=2019.4.3">Steam</a><br>
         <a href="https://07th-mod.com/ui.php?chapter=rei&os=unix&unity=2019.4.4">MangaGamer</a><br>
         <a href="https://07th-mod.com/ui.php?chapter=rei&os=unix&unity=2019.4.3">MangaGamer Old⚠️</a><br>
-        <a href="https://07th-mod.com/ui.php?chapter=rei&os=unix&unity=2019.4.3">GOG</a></td>
-    </tr>
-    <tr class="odd">
-    <td style="text-align: center;">Compatibility packs</td>
-    <td style="text-align: center;">None</td>
+        <a href="https://07th-mod.com/ui.php?chapter=rei&os=unix&unity=2019.4.3">GOG</a>
+    </td>
+    <td style="text-align: center;">
+        <a href="https://07th-mod.com/rikachama/ui/Hou-Plus-UI_2019.4.4_unix.7z">Mac/Linux UI Download</a><br>
+    </td>
     </tr>
     <tr class="even">
     <td style="text-align: center;">Update</td>
     <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/og-dll-asset-update/rei-og-dll-asset-update.7z">Download👀</a></td>
+    <td style="text-align: center;">None</td>
     </tr>
     </tbody>
     </table>
 
     👀 Extract the `Patch` and `Update` archives LAST, after all other files (should combine with the existing `HigurashiEp0X_Data` folder). Overwrite any files if asked.
 
-    ⚠️ We recommend you re-download the latest installer from Mangagamer and re-install, rather than using this file
+    ⚠️ We recommend you re-download the latest unmodded game installer from Mangagamer and re-install, rather than using this file.
 
 === "Optional Packs"
 

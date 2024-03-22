@@ -47,6 +47,7 @@ If you want exactly the same BGM/SE as the original Japanese release, we would s
     <th class="tg-0lax">Question Arcs (Ch. 1-4)</th>
     <th class="tg-0lax">Answer Arcs (Ch. 5-8)</th>
     <th class="tg-0lax">Rei (Ch. 9)</th>
+    <th class="tg-0lax">Hou+ (Ch. 10)</th>
   </tr>
 </thead>
 <tbody>
@@ -55,22 +56,26 @@ If you want exactly the same BGM/SE as the original Japanese release, we would s
     <td class="tg-0lax">BGM files have been replaced with the <strong>pre-april update BGM†</strong>, which is mostly equivalent to the <strong>original Japanese Game</strong>.</td>
     <td class="tg-0lax">BGM files have been replaced with the ones from the <strong>original Japanese game</strong></td>
     <td class="tg-0lax">Differing BGM files have been replaced with the ones from the <strong>original Japanese game.</strong></td>
+    <td class="tg-0lax">Differing BGM files have been replaced with the ones from the <strong>original Japanese game (the non-plus version of Hou)</strong></td>
   </tr>
   <tr>
     <td class="tg-bold">GIN BGM Timing<br></td>
     <td class="tg-y6fn">No Change - will play with Console timings</td>
     <td class="tg-0lax">BGM will play at times matching the <strong>original Japanese Game<strong></td>
     <td class="tg-y6fn">The original Japanese Game and our mod have the same timings, so <strong>no changes necessary.</strong></td>
+    <td class="tg-y6fn">† No Change - will play with Console timings</td>
   </tr>
   <tr>
     <td class="tg-bold">GIN SE</td>
     <td class="tg-0lax" colspan="2">SE have been replaced with the <strong>pre-april update SE</strong></td>
     <td class="tg-0lax">Differing SE files have been replaced with the ones from the <strong>original Japanese game</strong></td>
+    <td class="tg-0lax">Differing SE files have been replaced with the ones from the <strong>original Japanese game (the non-plus version of Hou)</strong></td>
   </tr>
   <tr>
     <td class="tg-bold">GIN SE Timing</td>
     <td class="tg-y6fn" colspan="2">No Change - will play with Console timings</td>
     <td class="tg-y6fn">The original Japanese Game and our mod have the same timings, so <strong>no changes necessary.</strong></td>
+    <td class="tg-y6fn">† No Change - will play with Console timings</strong></td>
   </tr>
   <tr>
     <td class="tg-bold">Details</td>
@@ -78,6 +83,7 @@ If you want exactly the same BGM/SE as the original Japanese release, we would s
       † If the BGM or Sound Effect suffers from severe audio issues, and the new file is roughly the same minus the issues, we use the new version.</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax">For the Rei BGM, only three 'musical' BGM differ - most of the differences are in background ambience or short sound effects</td>
+    <td class="tg-0lax">† We have not reviewed if there are any timing differences between our mod and the original Japanese game (the non-plus version of Hou), so no changes have been made.</td>
   </tr>
 </tbody>
 </table>

@@ -300,7 +300,7 @@ Please select a tab below to access the downloads that you require.
         <a href="https://07th-mod.com/ui.php?chapter=rei&os=win&unity=2019.4.3">GOG</a>
     </td>
     <td style="text-align: center;">
-        <a href="https://07th-mod.com/rikachama/ui/Hou-Plus-UI_2019.4.4_win.7z">Windows UI Download</a><br>
+        <a href="https://github.com/07th-mod/ui-editing-scripts/releases/download/v1.0.6_hou-plus/Hou-Plus-UI_2019.4.4_win.7z">Windows UI Download</a><br>
     </td>
     </tr>
     <tr class="odd">
@@ -312,7 +312,7 @@ Please select a tab below to access the downloads that you require.
         <a href="https://07th-mod.com/ui.php?chapter=rei&os=unix&unity=2019.4.3">GOG</a>
     </td>
     <td style="text-align: center;">
-        <a href="https://07th-mod.com/rikachama/ui/Hou-Plus-UI_2019.4.4_unix.7z">Mac/Linux UI Download</a><br>
+        <a href="https://github.com/07th-mod/ui-editing-scripts/releases/download/v1.0.6_hou-plus/Hou-Plus-UI_2019.4.4_unix.7z">Mac/Linux UI Download</a><br>
     </td>
     </tr>
     <tr class="even">

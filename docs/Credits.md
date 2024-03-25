@@ -122,6 +122,12 @@ This page is dedicated to credit all collaborators who helped us along the way. 
 ### Overg
 
 * Provided initial version of Original JP Release BGM/SE for Higurashi Rei
+* Provided Hou Compilation BGM/SE files for GIN's BGM option/Hou (2014) BGM option in our Hou+ Mod
+
+### Kilicool64
+
+* Provided Hou+ Demo BGM Option
+* Provided general help/advice regarding Higurashi BGM/SE
 
 ### [Apollo](https://github.com/ApolloEM)
 

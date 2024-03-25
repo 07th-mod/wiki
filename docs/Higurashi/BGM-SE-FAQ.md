@@ -115,6 +115,37 @@ The two main reasons it's difficult to fix this are:
 
 For these reasons, we have decided to leave the SE as the Pre-April Update versions.
 
+### Higurashi BGM History
+
+Because there are so many versions of Higurashi with different sets of BGM, I've decided to list them here in chronological order:
+
+#### Original JP Higurashi Release (~2002) / Mangagamer EN Higurashi Question Arcs (Before April 2019)
+
+When 07th Expansion originally released the question arcs, they had music from two different sources: AI-D-IA and Nerve. Nerve's tracks were released as MIDI files, which needed to be converted to wav files so they could be played in game. It's generally accepted that this conversion was not very good.
+
+Before the April 2019 Update, Mangagamer releases also used this music for the Question arcs.
+
+#### JP Higurashi Hou Compilation (2014)
+
+The Japanese version of Hou still uses the AI-D-IA tracks, but Nerve's tracks were newly converted, apparently with his involvement.
+
+See here for other info about the Hou compilation: <https://07th-expansion.fandom.com/wiki/Higurashi_no_Naku_Koro_ni_Hou>
+
+#### Mangagamer EN Higurashi Question (After April 2019 Update)
+
+In April 2019, MG updated all their releases on request from 07th Expansion. I can't tell you what changed in the answer arcs, but the question arcs now had all of their AI-D-IA tracks replaced with new stuff. Some of these tracks never appeared anywhere else. Furthermore, they now used the Hou versions of Nerve's tracks.
+
+#### JP Hou+ Demo (2023?)
+
+When 07th Expansion released the Hou+ demo, they also replaced all of the AI-D-IA tracks. Some of them with somewhat different versions of the tracks from MG's update, but many others with entirely new tracks.
+
+#### JP Hou+ Compilation (2022) / Mangagamer EN Hou+ Compilation (2023)
+
+When 07th Expansion released the full version of Hou+, some of these replacement tracks saw slight alterations. And while most of Nerve's tracks stayed the way they've been since Hou, "Lie Lies-Lies Lie" and "Facism" were replaced with a new conversion for some reason. 
+
+See here for more info on the JP/EN Hou+ compilations: <https://07th-expansion.fandom.com/wiki/Higurashi_no_Naku_Koro_ni_Hou%2B>
+
+
 ## List of BGM/SE Oddities
 
 This section explains some unexpected behavior you might encounter when using GIN's BGM/SE.
@@ -207,7 +238,7 @@ The GOG version of Ch.6 Tsumihoroboshi still has the Pre-April Update BGM as of 
 
 ## Other BGM options
 
-### Hou+ Demo BGM (Added 2023/06/24)
+### Hou+ Demo BGM (by Kilicool64 - Added 2023/06/24)
 
 This option replaces 16 BGM with BGM from the Higurashi Hou+ Demo. It uses the same tracks from nerve as the New MangaGamer BGM, but the AI-D-IA tracks are different.
 

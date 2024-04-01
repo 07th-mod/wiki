@@ -53,10 +53,10 @@ If you want exactly the same BGM/SE as the original Japanese release, we would s
 <tbody>
   <tr>
     <td class="tg-bold">GIN BGM</td>
-    <td class="tg-0lax">BGM files have been replaced with the <strong>pre-april update BGM†</strong>, which is mostly equivalent to the <strong>original Japanese Game</strong>.</td>
+    <td class="tg-0lax">BGM files have been replaced with the <strong>pre-april update BGM†</strong>, which is mostly equivalent to the <strong>original Japanese Game (Hou 2014)</strong>.</td>
     <td class="tg-0lax">BGM files have been replaced with the ones from the <strong>original Japanese game</strong></td>
-    <td class="tg-0lax">Differing BGM files have been replaced with the ones from the <strong>original Japanese game.</strong></td>
-    <td class="tg-0lax">Differing BGM files have been replaced with the ones from the <strong>original Japanese game (the non-plus version of Hou)</strong></td>
+    <td class="tg-0lax">Differing BGM files have been replaced with the ones from the <strong>original Japanese game (Rei 2006)</strong></td>
+    <td class="tg-0lax">Differing BGM files have been replaced with the ones from the <strong>original Japanese game (Hou 2014)</strong></td>
   </tr>
   <tr>
     <td class="tg-bold">GIN BGM Timing<br></td>
@@ -68,8 +68,8 @@ If you want exactly the same BGM/SE as the original Japanese release, we would s
   <tr>
     <td class="tg-bold">GIN SE</td>
     <td class="tg-0lax" colspan="2">SE have been replaced with the <strong>pre-april update SE</strong></td>
-    <td class="tg-0lax">Differing SE files have been replaced with the ones from the <strong>original Japanese game</strong></td>
-    <td class="tg-0lax">Differing SE files have been replaced with the ones from the <strong>original Japanese game (the non-plus version of Hou)</strong></td>
+    <td class="tg-0lax">Differing SE files have been replaced with the ones from the <strong>original Japanese game (Rei 2006)</strong></td>
+    <td class="tg-0lax">Differing SE files have been replaced with the ones from the <strong>original Japanese game (Hou 2014)</strong></td>
   </tr>
   <tr>
     <td class="tg-bold">GIN SE Timing</td>
@@ -83,7 +83,7 @@ If you want exactly the same BGM/SE as the original Japanese release, we would s
       † If the BGM or Sound Effect suffers from severe audio issues, and the new file is roughly the same minus the issues, we use the new version.</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax">For the Rei BGM, only three 'musical' BGM differ - most of the differences are in background ambience or short sound effects</td>
-    <td class="tg-0lax">† We have not reviewed if there are any timing differences between our mod and the original Japanese game (the non-plus version of Hou), so no changes have been made.</td>
+    <td class="tg-0lax">† We have not reviewed if there are any timing differences between our mod and the original Japanese game (Hou 2014), so no changes have been made.</td>
   </tr>
 </tbody>
 </table>

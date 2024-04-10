@@ -9,7 +9,7 @@
 
 ----
 
-**Note:** The full patch lets you switch between the Ryukishi (Original), Mangagamer, or PS3 sprites. If you want Ryukishi (Original) or Mangagamer sprites with the new backgrounds, most likely you want the full patch ([Automatic Install](Higurashi-Part-1---Voice-and-Graphics-Patch.md) / [Manual Install](Manual-Installation.md)). After installing the full patch (NOT the "voice only" patch on this page), press the `P` key while not in a menu to toggle between art styles.
+**Note:** The full patch lets you switch between the Ryukishi (Original), MangaGamer, or PS3 sprites. If you want Ryukishi (Original) or MangaGamer sprites with the new backgrounds, most likely you want the full patch ([Automatic Install](Higurashi-Part-1---Voice-and-Graphics-Patch.md) / [Manual Install](Manual-Installation.md)). After installing the full patch (NOT the "voice only" patch on this page), press the `P` key while not in a menu to toggle between art styles.
 
 We currently do not support toggling background style with the full patch, so if you must have the Ryukishi (Original) style backgrounds, you must use this voice-only patch.
 

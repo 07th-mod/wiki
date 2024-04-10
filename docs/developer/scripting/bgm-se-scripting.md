@@ -2,7 +2,7 @@
 
 ## General Overview
 
-Mangagamer's Higurashi engine contains a number of audio features, which are described on this page:
+MangaGamer's Higurashi engine contains a number of audio features, which are described on this page:
 
 - You can play one-off sounds (usually sound effects) using `PlaySE()`
 - You can play looping sounds (usually repeating background music, or background sound effects likethe sound of rain) using `PlayBGM()`

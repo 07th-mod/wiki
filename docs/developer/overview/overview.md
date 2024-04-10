@@ -39,7 +39,7 @@ This step mainly involves updating the `installData.json` and `versionData.json`
 2. Look through all values the values and update the chapter number to match the new chapter
 3. Update the files to be downloaded for the patch
 4. Update identifiers field for MacOS - [detailed explanation here](../installer/install-data-json.md#identifiers-field).
-    1. Download the MacOS game from Mangagamer (download link #2). You can do this on any OS.
+    1. Download the MacOS game from MangaGamer (download link #2). You can do this on any OS.
     2. Extract the game somewhere, producing a `.app` folder
     3. Open the file at `Contents\Info.plist`, an `xml` file
     4. Look for the `key` called `CFBundleExecutable`, then directly afterwards copy the `string`. For chapters 1-8 this was something like `HigurashiEp01`, but for Rei this was something like `Higurashi When They Cry Rei`

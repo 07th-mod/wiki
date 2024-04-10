@@ -224,7 +224,7 @@ Please select a tab below to access the downloads that you require.
     <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=meakashi&os=unix&unity=5.5.3p3">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=meakashi&os=unix&unity=5.5.3p3">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=meakashi&os=unix&unity=5.5.3p1">GOG §</a><br><a href="https://07th-mod.com/ui.php?chapter=meakashi&os=unix&unity=5.5.3p3">GOG (old)†</a></td>
     <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=tsumihoroboshi&os=unix&unity=5.5.3p3">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=tsumihoroboshi&os=unix&unity=5.5.3p3">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=tsumihoroboshi&os=unix&unity=5.5.3p3">GOG</a></td>
     <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=minagoroshi&os=unix&unity=5.6.7f1">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=minagoroshi&os=unix&unity=5.6.7f1">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=minagoroshi&os=unix&unity=5.6.7f1">GOG</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=matsuribayashi&os=unix&unity=2017.2.5">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=matsuribayashi&os=unix&unity=2017.2.5">MangaGamer/GOG(MacOS)</a><br><a href="https://07th-mod.com/rikachama/ui/Matsuribayashi-UI_2017.2.5_unix_gog_mg.7z">Mangagamer/GOG(Linux)</a><br><br><a href="https://07th-mod.com/ui.php?chapter=matsuribayashi&os=unix&unity=2017.2.5">MangaGamer/GOG<br>(Linux Old)</a><br></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=matsuribayashi&os=unix&unity=2017.2.5">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=matsuribayashi&os=unix&unity=2017.2.5">MangaGamer/GOG(MacOS)</a><br><a href="https://07th-mod.com/rikachama/ui/Matsuribayashi-UI_2017.2.5_unix_gog_mg.7z">MangaGamer/GOG(Linux)</a><br><br><a href="https://07th-mod.com/ui.php?chapter=matsuribayashi&os=unix&unity=2017.2.5">MangaGamer/GOG<br>(Linux Old)</a><br></td>
     </tr>
     <tr class="odd">
     <td style="text-align: center;">Compatibility packs</td>
@@ -325,7 +325,7 @@ Please select a tab below to access the downloads that you require.
 
     👀 Extract the `Patch` and `Update` archives LAST, after all other files (should combine with the existing `HigurashiEp0X_Data` folder). Overwrite any files if asked.
 
-    ⚠️ We recommend you re-download the latest unmodded game installer from Mangagamer and re-install, rather than using this file.
+    ⚠️ We recommend you re-download the latest unmodded game installer from MangaGamer and re-install, rather than using this file.
 
 === "Optional Packs"
 

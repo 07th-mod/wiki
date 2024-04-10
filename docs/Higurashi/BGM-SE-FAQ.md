@@ -10,7 +10,7 @@ In April 2019, all the Higurashi games received a major update. This update chan
 - Some BGM/SE are modified or re-recorded versions of the same BGM/SE
 - Some BGM had their audio clipping and distortion fixed - but at the same time different sounding instruments or samples may have been used in the new version.
 - The game script was modified in some places to play different songs. Since the mod uses it's own script, we are unaffected by this.
-- Mangagamer forgot to update the game for some store + chapter combinations (such as GOG's Tsumihoroboshi Ch.6). So just because you downloaded the game recently, it doesn't mean you have the April 2019 update.
+- MangaGamer forgot to update the game for some store + chapter combinations (such as GOG's Tsumihoroboshi Ch.6). So just because you downloaded the game recently, it doesn't mean you have the April 2019 update.
 
 For more detailed information:
 
@@ -119,11 +119,11 @@ For these reasons, we have decided to leave the SE as the Pre-April Update versi
 
 Because there are so many versions of Higurashi with different sets of BGM, I've decided to list them here in chronological order:
 
-#### Original JP Higurashi Release (~2002) / Mangagamer EN Higurashi Question Arcs (Before April 2019)
+#### Original JP Higurashi Release (~2002) / MangaGamer EN Higurashi Question Arcs (Before April 2019)
 
 When 07th Expansion originally released the question arcs, they had music from two different sources: AI-D-IA and Nerve. Nerve's tracks were released as MIDI files, which needed to be converted to wav files so they could be played in game. It's generally accepted that this conversion was not very good.
 
-Before the April 2019 Update, Mangagamer releases also used this music for the Question arcs.
+Before the April 2019 Update, MangaGamer releases also used this music for the Question arcs.
 
 #### JP Higurashi Hou Compilation (2014)
 
@@ -131,7 +131,7 @@ The Japanese version of Hou still uses the AI-D-IA tracks, but Nerve's tracks we
 
 More info on the Hou compilation: [Fandom "Higurashi no Naku Koro ni Hou"](https://07th-expansion.fandom.com/wiki/Higurashi_no_Naku_Koro_ni_Hou)
 
-#### Mangagamer EN Higurashi Question (After April 2019 Update)
+#### MangaGamer EN Higurashi Question (After April 2019 Update)
 
 In April 2019, MG updated all their releases on request from 07th Expansion. I can't tell you what changed in the answer arcs, but the question arcs now had all of their AI-D-IA tracks replaced with new stuff. Some of these tracks never appeared anywhere else. Furthermore, they now used the Hou versions of Nerve's tracks.
 
@@ -141,7 +141,7 @@ When 07th Expansion released the Hou+ demo, they also replaced all of the AI-D-I
 
 Some info on the Hou Demo here: [Fandom "Higurashi no Naku Koro ni Hou+"](https://07th-expansion.fandom.com/wiki/Higurashi_no_Naku_Koro_ni_Hou%2B>)
 
-#### JP Hou+ Compilation (2022) / Mangagamer EN Hou+ Compilation (2023)
+#### JP Hou+ Compilation (2022) / MangaGamer EN Hou+ Compilation (2023)
 
 When 07th Expansion released the full version of Hou+, some of these replacement tracks saw slight alterations. And while most of Nerve's tracks stayed the way they've been since Hou, "Lie Lies-Lies Lie" and "Facism" were replaced with a new conversion for some reason. 
 
@@ -163,7 +163,7 @@ The "click" sound (`wa_037.ogg`) and the "children laughing sound" (`wa_038.ogg`
 
 The title screen background sound (sound of cicadas) is different between the Question  and Answer arcs (`lsys11.ogg`/`higurashi.ogg`)
 
-- This is probably because the Question arcs use the pre-april update Mangagamer BGM, while the Answer arcs use the BGM from the original Japanese game.
+- This is probably because the Question arcs use the pre-april update MangaGamer BGM, while the Answer arcs use the BGM from the original Japanese game.
 
 #### Answer Arcs - GIN's BGM option sometimes plays BGM from the unmodded BGM folder
 
@@ -177,7 +177,7 @@ For example:
  - But in GIN's BGM (`OGBGM` folder), `1.ogg` is "Afternoon in Paris", and `cafe.ogg` is missing (so `cafe.ogg` falls back to the April Update version "Boy in the Windmill").
     - In the right-click menu, it will state `BGM/cafe.ogg` is playing, even when GIN's BGM is selected
 
-In this example, I think Mangagamer replaced `1.ogg` with `cafe.ogg` in the April Update, so to fix this change, only `1.ogg` needed to be overriden.
+In this example, I think MangaGamer replaced `1.ogg` with `cafe.ogg` in the April Update, so to fix this change, only `1.ogg` needed to be overriden.
 
 The following tracks are not overriden when using GIN's BGM option:
 
@@ -230,7 +230,7 @@ The below checks (as far as we know) will tell you if you have the Pre or Post a
 - For the Unmodded Question Arcs, you have the Post-april update BGM if the file `StreamingAssets/SE/wa_003.ogg` has CRC32 `0F8F4B01` (7zip can calculate CRC32's by right-clicking). Otherwise you have the Pre-April update BGM.
 - For the Unmodded Answer Arcs, you have the Post-april update BGM if the file `StreamingAssets/BGM/bellflower.ogg` exists. Otherwise you have the Pre-April update BGM.
 
-The GOG version of Ch.6 Tsumihoroboshi still has the Pre-April Update BGM as of 15/07/20203. This implies they forgot to update the game for some stores (eg. Mangagamer, GOG). So just because you have the latest install of the game, it doesn't mean you have the April Update BGM.
+The GOG version of Ch.6 Tsumihoroboshi still has the Pre-April Update BGM as of 15/07/20203. This implies they forgot to update the game for some stores (eg. MangaGamer, GOG). So just because you have the latest install of the game, it doesn't mean you have the April Update BGM.
 
 ### `heigen2gm` by ReNji
 
@@ -251,7 +251,7 @@ Some are remastered versions of MangaGamer's replacements, while others were new
 
 This option is not available for Chapters 5-8 and Rei because most of their music isn't in the Hou+ demo.
 
-All other tracks will use the New Mangagamer BGM and GIN's/Original SE.
+All other tracks will use the New MangaGamer BGM and GIN's/Original SE.
 
 ### Remake BGM
 

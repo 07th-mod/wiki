@@ -29,7 +29,7 @@ Please do not expect the same mod features as the Higurashi mod, as Umineko runs
     <thead>
         <tr>
             <th>Alchemist/PS3 sprites</th>
-            <th>Mangagamer/Pachinko sprites</th>
+            <th>MangaGamer/Pachinko sprites</th>
             <th>Ryukishi sprites</th>
         </tr>
     </thead>

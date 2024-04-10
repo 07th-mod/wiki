@@ -20,7 +20,7 @@ If you can't find your saves, see this FAQ, ["My save files have disappeared or 
         4. Click the "Browse Local Files..." button. This will open the game folder.
     2. GOG and MangaGamer Users
         1. You'll need to know where you installed the game, or use the game shortcut to find where it was installed
-2. Uninstall the game normally using Steam/GOG/Mangagamer launcher or add/remove programs
+2. Uninstall the game normally using Steam/GOG/MangaGamer launcher or add/remove programs
 3. Manually delete the game folder you found earlier. This will ensure the mod files are fully removed.
 
 --8<-- "uninstall-steamgrid.md"

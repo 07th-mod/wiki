@@ -41,7 +41,7 @@ The following features are available for most chapters:
 * Full voiceover
 * Lipsync support (when using PS3 sprites)
 * Sprites and backgrounds in 16:9, 1080p and 1440p combined assets
-    * Sprite Options: PS3, Mangagamer, or Original Japanese
+    * Sprite Options: PS3, MangaGamer, or Original Japanese
     * Graphics Options: PS3 or Original Japanese
 * Exclusive console content (such as bad endings)
 * Upgraded user interface

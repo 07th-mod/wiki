@@ -37,7 +37,7 @@ The game: [Higurashi Ch.3]
 
 The mod variant: [Full/Voice Only/ADV]
 
-I bought the game at: [Steam/Mangagamer/GOG]
+I bought the game at: [Steam/MangaGamer/GOG]
 
 My operating system is: [Windows/MacOS/Linux]
 

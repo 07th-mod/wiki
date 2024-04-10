@@ -144,9 +144,9 @@ The alternative way to fix this issue is to make sure Steam is installed, then r
 
 You may need to do `chmod +x Umineko1to4` or `chmod +x Umineko5to8` to give execute permissions if your executable doesn't launch.
 
-#### Mangagamer + MacOS - I get a "Missing Game Data: No game script found..." error (Even on the base game)
+#### MangaGamer + MacOS - I get a "Missing Game Data: No game script found..." error (Even on the base game)
 
-Mangagamer's MacOS version of the game is packaged as a zip file. On MacOS, if you unzip the game and run it where you unzipped it, MacOS will run the application in a sandbox, and in the sandbox it can't find the game script (the `0.utf` (stock) or `0.u` (modded) script file). This results in the `No game script found` error.
+MangaGamer's MacOS version of the game is packaged as a zip file. On MacOS, if you unzip the game and run it where you unzipped it, MacOS will run the application in a sandbox, and in the sandbox it can't find the game script (the `0.utf` (stock) or `0.u` (modded) script file). This results in the `No game script found` error.
 
 To fix this issue with the stock game:
 
@@ -242,7 +242,7 @@ If you have the Steam version of Umineko, and you move or copy the game outside 
 - If **steam is not running**, the (modded) game will use the `mysav` folder next to the game executable
 - If **steam is running**, and maybe only for the Answer arcs, the (modded) game will use the `mysav` folder **located wherever steam thinks it's installed**. Probably this is your `Steam/steamapps/common/[Umineko/Umineko Chiru]/mysav` folder
 
-Please be aware of this if you want to move the game. Steamless/Mangagamer versions of the game probably are unaffected by this.
+Please be aware of this if you want to move the game. Steamless/MangaGamer versions of the game probably are unaffected by this.
 
 Also to note is that the base game will save to the `saves` folder, and the modded game will save to the `mysav` folder. But please note that **the base and modded game saves are not compatible!**
 

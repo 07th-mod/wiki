@@ -129,22 +129,23 @@ Before the April 2019 Update, Mangagamer releases also used this music for the Q
 
 The Japanese version of Hou still uses the AI-D-IA tracks, but Nerve's tracks were newly converted, apparently with his involvement.
 
-See here for other info about the Hou compilation: <https://07th-expansion.fandom.com/wiki/Higurashi_no_Naku_Koro_ni_Hou>
+More info on the Hou compilation: [Fandom "Higurashi no Naku Koro ni Hou"](https://07th-expansion.fandom.com/wiki/Higurashi_no_Naku_Koro_ni_Hou)
 
 #### Mangagamer EN Higurashi Question (After April 2019 Update)
 
 In April 2019, MG updated all their releases on request from 07th Expansion. I can't tell you what changed in the answer arcs, but the question arcs now had all of their AI-D-IA tracks replaced with new stuff. Some of these tracks never appeared anywhere else. Furthermore, they now used the Hou versions of Nerve's tracks.
 
-#### JP Hou+ Demo (2023?)
+#### JP Hou+ Demo (2020)
 
 When 07th Expansion released the Hou+ demo, they also replaced all of the AI-D-IA tracks. Some of them with somewhat different versions of the tracks from MG's update, but many others with entirely new tracks.
+
+Some info on the Hou Demo here: [Fandom "Higurashi no Naku Koro ni Hou+"](https://07th-expansion.fandom.com/wiki/Higurashi_no_Naku_Koro_ni_Hou%2B>)
 
 #### JP Hou+ Compilation (2022) / Mangagamer EN Hou+ Compilation (2023)
 
 When 07th Expansion released the full version of Hou+, some of these replacement tracks saw slight alterations. And while most of Nerve's tracks stayed the way they've been since Hou, "Lie Lies-Lies Lie" and "Facism" were replaced with a new conversion for some reason. 
 
-See here for more info on the JP/EN Hou+ compilations: <https://07th-expansion.fandom.com/wiki/Higurashi_no_Naku_Koro_ni_Hou%2B>
-
+More info on the JP/EN Hou+ compilations: [Fandom "Higurashi no Naku Koro ni Hou+"](https://07th-expansion.fandom.com/wiki/Higurashi_no_Naku_Koro_ni_Hou%2B>)
 
 ## List of BGM/SE Oddities
 
@@ -230,6 +231,10 @@ The below checks (as far as we know) will tell you if you have the Pre or Post a
 - For the Unmodded Answer Arcs, you have the Post-april update BGM if the file `StreamingAssets/BGM/bellflower.ogg` exists. Otherwise you have the Pre-April update BGM.
 
 The GOG version of Ch.6 Tsumihoroboshi still has the Pre-April Update BGM as of 15/07/20203. This implies they forgot to update the game for some stores (eg. Mangagamer, GOG). So just because you have the latest install of the game, it doesn't mean you have the April Update BGM.
+
+### `heigen2gm` by ReNji
+
+This track is present in nearly every release of Higurashi unchanged, except for MangaGamer's release of Hou+ and ancient versions of MangaGamer's Higurashi.
 
 ## Other Links
 

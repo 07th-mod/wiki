@@ -232,9 +232,9 @@ The below checks (as far as we know) will tell you if you have the Pre or Post a
 
 The GOG version of Ch.6 Tsumihoroboshi still has the Pre-April Update BGM as of 15/07/20203. This implies they forgot to update the game for some stores (eg. MangaGamer, GOG). So just because you have the latest install of the game, it doesn't mean you have the April Update BGM.
 
-### `heigen2gm` by ReNji
+### `heigen2gm` by KeNji (`msys29.ogg`)
 
-This track is present in nearly every release of Higurashi unchanged, except for MangaGamer's release of Hou+ and ancient versions of MangaGamer's Higurashi.
+`heigen2gm` by KeNji (`msys29.ogg`) is present in nearly every release of Higurashi unchanged, except for MangaGamer's release of Hou+ and ancient versions of MangaGamer's Higurashi.
 
 ## Other Links
 

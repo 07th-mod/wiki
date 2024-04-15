@@ -34,7 +34,7 @@ If you find the problem continues (you can play the game, but no images are disp
 
 #### Reasoning for fixes
 
-There is a known problem where having multiple network adapters can interfere with Unity's resource loading in the Higurashi games. See this issue for more details: [Unity may try to access the wrong network adapter](https://answers.unity.com/questions/623448/www-class-for-loading-local-texture-is-very-slow.html). It may also be possible other networking problems could cause lag.
+There is a known problem where having multiple network adapters can interfere with Unity's resource loading in the Higurashi games. See this issue for more details: [Unity may try to access the wrong network adapter](https://discussions.unity.com/t/www-class-for-loading-local-texture-is-very-slow/93672). It may also be possible other networking problems could cause lag.
 
 As for the HDD issue - a fragmented or very full HDD may be slow to load the assets - hence we recommend installing on an SSD.
 

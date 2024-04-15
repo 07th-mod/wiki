@@ -139,13 +139,13 @@ In April 2019, MG updated all their releases on request from 07th Expansion. I c
 
 When 07th Expansion released the Hou+ demo, they also replaced all of the AI-D-IA tracks. Some of them with somewhat different versions of the tracks from MG's update, but many others with entirely new tracks.
 
-Some info on the Hou Demo here: [Fandom "Higurashi no Naku Koro ni Hou+"](https://07th-expansion.fandom.com/wiki/Higurashi_no_Naku_Koro_ni_Hou%2B>)
+Some info on the Hou Demo here: [Fandom "Higurashi no Naku Koro ni Hou+"](https://07th-expansion.fandom.com/wiki/Higurashi_no_Naku_Koro_ni_Hou%2B)
 
 #### JP Hou+ Compilation (2022) / MangaGamer EN Hou+ Compilation (2023)
 
 When 07th Expansion released the full version of Hou+, some of these replacement tracks saw slight alterations. And while most of Nerve's tracks stayed the way they've been since Hou, "Lie Lies-Lies Lie" and "Facism" were replaced with a new conversion for some reason. 
 
-More info on the JP/EN Hou+ compilations: [Fandom "Higurashi no Naku Koro ni Hou+"](https://07th-expansion.fandom.com/wiki/Higurashi_no_Naku_Koro_ni_Hou%2B>)
+More info on the JP/EN Hou+ compilations: [Fandom "Higurashi no Naku Koro ni Hou+"](https://07th-expansion.fandom.com/wiki/Higurashi_no_Naku_Koro_ni_Hou%2B)
 
 ## List of BGM/SE Oddities
 

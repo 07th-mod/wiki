@@ -118,10 +118,10 @@ Please select a tab below to access the downloads that you require.
     </tr>
     <tr class="even">
     <td style="text-align: center;">BGM & SE</td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Higurashi-OG-BGM-SE.7z">Download ⚠️</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Higurashi-OG-BGM-SE.7z">Download ⚠️</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Higurashi-OG-BGM-SE.7z">Download ⚠️</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Higurashi-OG-BGM-SE.7z">Download ⚠️</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Higurashi-OG-BGM-SE-v1.3.7z">Download ⚠️</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Higurashi-OG-BGM-SE-v1.3.7z">Download ⚠️</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Higurashi-OG-BGM-SE-v1.3.7z">Download ⚠️</a></td>
+    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Higurashi-OG-BGM-SE-v1.3.7z">Download ⚠️</a></td>
     </tr>
     <tr class="odd">
     <td style="text-align: center;">Movies</td>

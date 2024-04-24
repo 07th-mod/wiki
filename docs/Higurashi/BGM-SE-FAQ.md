@@ -275,3 +275,605 @@ The following tracks are replaced:
 
 This option is not available for Onikakushi Ch.1, as the chapter does not use any of these tracks.
 This option is not available for Chapters 5-8 as an OST remake for those chapters hasn't been created.
+
+## Question Arcs BGM Changelog
+
+??? info "Click to Expand Question Arcs BGM Changelog"
+
+    ### Version 1.3 - 2024-04-14 - drojf
+    Various updates from Kilicool64 to ensure BGM consistency and add new BGM options. SE have not been changed.
+
+    #### GIN's BGM / OGBGM
+    - msys30.ogg/Meditation has been normalized to use the Hou Compilation (2014) version instead of the Original JP release/Old Mangagamer BGM version(2002) for consistency (all other tracks are already from the Hou Compilation (2014))
+    - Other BGM have been re-converted at a higher bitrate, but otherwise are the same BGM
+
+    #### April 2019 BGM
+    - Added "April2019BGM" folder containing one BGM file, msys29.ogg / "Heigen wo Iku (Going to the Plains). This file is the same as the one that comes with the unmodded game, but higher quality.
+
+    #### Hou+ Demo BGM
+    - Renamed folder from HouPlusBGM to HouPlusDemoBGM to avoid confusion with Hou+ BGM option. Otherwise unchanged
+
+    #### Hou+ BGM
+    - Add Hou+ BGM (from Kilicool64)
+
+    ### Version 1.2 - 2023-06-24 - drojf
+    - Add Hou Plus Demo BGM
+
+    ### Version 1.1 - 2022-11-05
+    - Add BGM and OGBGM bgmInfo.json folder
+
+    ### Version 1.0
+    - Initial Release - unknown date
+
+## Answer Arcs BGM Changelog
+
+??? info "Click to Expand Answer Arcs BGM Changelog"
+
+    ### Folder Descriptions
+    - ExtraBGM/ExtraSE: This folder contains BGM which does not come with the game. For now, it contains some Question Arcs BGM/SE, and also some Console BGM. If we need to override any BGM in the BGM folder, we can also put those files here.
+    - OGBGM/OGSE: This folder contains BGM/SE which plays when you have the OGBGM/GIN BGM option selected. This will override all the other folders.
+
+    ### Version 1.6 - 2023-04-22
+
+    Add missing BGM/bgmInfo.json file to fix "Unknown BGM" when using Mangagamer/unmodded BGM option
+
+    ### Version 1.5 - 2022-01-06
+
+    Revert the previous change - We already include the April Update BGM/SE in the MangaGamer-Answer-BGM-SE-Restore.7z, and the installer has been updated to make sure it is installed when needed.
+
+    ### Version 1.4 - 2022-01-02
+
+    It was found that the GOG versions of Chapters 5 and 6 have the pre-april update BGM.
+
+    To keep BGM consistent across all versions, the BGM pack now includes the April Update BGM in the BGM folder, which will overwrite whatever existing BGM the game comes with.
+
+    ### Version 1.3 - 2022-12-13
+    - See https://github.com/07th-mod/higurashi-assembly/issues/100
+
+    We had a problem where certain BGM were not playing on Linux - the game expects all assets to be lowercase and the following were not:
+    - primal-beat-of-horrow_T.ogg
+    - BIGBEAR
+
+    I also updated the bgmInfo.json accordingly
+
+    This only affects the answer OGBGM archive.
+
+    ### Version 1.2 - 2022-11-13
+    - See https://github.com/07th-mod/meakashi/issues/80#issuecomment-1312598536
+
+    I just noticed there are the following BGM and SE in the Ch8 Voices archive (previously I thought there were no extra BGM/SE used in ch8):
+
+        SE/wa_003.ogg
+        BGM/msys06.ogg
+        BGM/msys32.ogg
+
+    Unfortunately, msys32 is not included in the BGM archive I updated, so I'll need to update it to add that one.
+
+    ### Version 1.1 - 2022-11-04
+    - See PR https://github.com/07th-mod/meakashi/issues/80
+    - Add 'ExtraBGM' and 'ExtraSE' which mostly consists of BGM from the question arcs, but also a few BGM from the console game. These contain the post-april update BGM and SE of the question arcs tracks.
+    - Add corresponding SE to the 'OGSE' folder to mirror the SE in 'ExtraSE' - these are taken from GIN's BGM
+    - Update OGBGM folder (GIN BGM) msys17, msys23, msys27 to be consistent with question arcs
+        - NOTE: I don't think the question arcs BGM (msysXX) are used if you have the OGBGM enabled, due to GIN's version of the script never using them. But I'm making them consistent anyway.
+        - Previously, the OGBGM Question arcs used the remastered versions of these three songs, and the Answer arcs OGBGM used the original midi Japanese release's version. Now both OGBGM will use the remastered version.
+            - There is an issue related to this: https://github.com/07th-mod/meakashi/issues/49
+    - Add bgmInfo.json for BGM folders
+
+    ### Version 1.0 - 2021-03-20
+    - Merge the BGM and SE packs together
+    - Rename 'BGM' and 'SE' to 'OGBGM' and 'OGSE', so the folders are separate can be switched between with the new DLL
+
+## Hou+ BGM Changelog
+
+??? info "Click to Expand Hou+ BGM Changelog"
+
+    ### Version 1.3 - 2024-04-21
+
+    - Add Post April 2019 BGM (so users who used this option in question arcs can have same BGM)
+    - Add Hou Plus Demo BGM
+    - Update OGBGM
+        - msys30.ogg/Meditation has been normalized to use the Hou Compilation (2014) version instead of the Original JP release/Old Mangagamer BGM version(2002) for consistency (all other tracks are already from the Hou Compilation (2014))
+        - Some BGM have been re-converted at a higher bitrate, but otherwise are the same BGM
+
+    ### Version 1.2 - 2024-03-10
+
+    Add missing SE.
+
+    Copied from Question Arcs BGM
+
+    wa_037
+    wa_038
+    wa_039
+
+    Copied from existing WAV folder to root folder
+
+    a5_13391
+    door
+    down
+    down2
+    down3
+    finish
+    kira
+    kyupirn
+    pou
+    se051
+    se137
+    suzu_1
+    tataku
+    thisikuki
+
+    Note: cracker3 (sound of firecracker) has no non-hou version, since it is only used in mehagashi which is exclusive to Hou+
+    Note2: The following not added despite being referenced in the engine, since I can't find them in the SE folder
+    sysse04
+    sysse02
+    sysse01
+    sysse05
+
+
+    ### Version 1.1 - 2024-02-18
+
+    Add Hou (non-plus) OGSE
+
+    The OGSE does not cover all sound effects.
+
+    Also, many of the SE are the same between non-plus and plus versions
+
+    ### Version 1.0 - 2024-01-30
+
+    Initial Release
+
+    > ok I've created an OGBGM pack here, complete with bgmInfo (bgm names) for both the original BGM and the Mangagamer BGM:
+
+    See https://github.com/07th-mod/hou-plus/issues/2
+
+### Note on used/unused Hou+ SE
+
+The below expandable section lists which SE are used/are not used in the game (listed in the game script)
+
+Please note that are a few `wa_XXX` SE which are used in the engine which are NOT listed below, and these must be considered when making SE packs.
+
+??? info "Click to Expand Hou+ BGM Statistics"
+
+
+        Used SE:
+        02se_umi
+        03se_umi
+        05_se_umi
+        a1_07130
+        a1_07131
+        a1_07132
+        a1_16258
+        a1_17270
+        a5_01023
+        a5_01026
+        a5_04105
+        a5_04107
+        a5_07201
+        a5_07202
+        a5_08263
+        a5_10315
+        a5_10316
+        a5_10317
+        a5_13391
+        a6_24636
+        ahaha
+        ahaha_hi_delay
+        b1
+        b5
+        b7_04050
+        bb
+        boyon
+        chi4
+        chime2
+        cracker3
+        daidageki-kai2
+        danmaku
+        denwa_juwaki_age
+        doon1
+        door
+        down
+        down2
+        down3
+        enrai2
+        finish
+        goriri3
+        heavy1
+        heavy2
+        heavy3
+        heavydoor_close2
+        horror
+        ju-
+        kagitaba2
+        kassai1
+        kira
+        kyupirn
+        min_garagara
+        pou
+        raihuru3d
+        rakurai3
+        reload_fast
+        reload_late
+        rena-swing
+        se051
+        se137
+        se_101
+        se_201
+        se_2105
+        se_5001
+        se_5402
+        se_5403
+        se_5406
+        se_5408
+        se_5502
+        se_5610
+        se_5613
+        se_5614
+        se_5615
+        se_5801
+        se_5802
+        se_5807
+        se_dageki_01
+        se_dageki_02
+        se_dageki_03
+        se_dageki_05
+        se_dageki_07
+        se_zangeki_01
+        se_zangeki_02
+        se_zangeki_03
+        searchlight
+        shatta_toji_zan1
+        suzu_1
+        sys_se/page
+        sys_se/zs1
+        tataku
+        telepo
+        thisikuki
+        wav/a5_07205
+        wav/bell
+        wav/boyon
+        wav/dageki
+        wav/daidageki
+        wav/door
+        wav/down
+        wav/down2
+        wav/down3
+        wav/finish
+        wav/fly
+        wav/furu
+        wav/garasu
+        wav/hikaru
+        wav/iwakannnohatuga
+        wav/jikuunosakeme
+        wav/kamera
+        wav/kami
+        wav/kaminari2
+        wav/kan
+        wav/kaze
+        wav/kira
+        wav/kirinomeikyuu
+        wav/koruku
+        wav/kyupirn
+        wav/lf164
+        wav/lf226
+        wav/mc071
+        wav/metal41
+        wav/metal43
+        wav/nageru
+        wav/pou
+        wav/se194
+        wav/sinzouappaku
+        wav/sword
+        wav/taitoru
+        wav/tatakiwaru
+        wav/tataku
+        wav/thisikuki
+        z1
+
+
+        Unused SE:
+        01se_umi
+        04_se_umi
+        07_se_umi
+        24chime
+        _se068
+        a1_07133
+        a1_21333
+        a5_02047
+        a5_04138
+        a5_06196
+        a5_07205
+        a5_07212
+        a5_08234
+        a5_14445
+        a6
+        a6_14395
+        anahori
+        autorock5
+        b4
+        b_long
+        barrier_02
+        barrier_03
+        bell
+        bell1
+        boyoon
+        car_stop
+        chaimu
+        clash
+        clock_grand_fathers3
+        dageki
+        daidageki
+        daiken_zangeki_01
+        daiken_zangeki_02
+        daiken_zangeki_03
+        densya
+        denwa_toru
+        doa_s1
+        doon3
+        enrai
+        final
+        fly
+        furu
+        gakuen_bell
+        garasu
+        gun-2
+        gun_zan2
+        hakushu
+        heri1
+        heri2
+        hikaru
+        himeraretakyousou
+        hit_s08_d
+        houseki1
+        houseki5
+        interfon
+        iwakannnohatuga
+        jakinimititahaikyo
+        jikuunosakeme
+        kamera
+        kamera1
+        kami
+        kaminari1
+        kaminari2
+        kaze
+        kinzokupaipu
+        kinzokupaipub
+        kinzokupaipuc
+        kirinomeikyuu
+        kiteki
+        knock2
+        koruku
+        kusari
+        lf164
+        lf226
+        lowclick
+        mc071
+        metal41
+        metal43
+        min_asioto
+        nageru
+        nata_otosi
+        nokku
+        patipati
+        rakurai
+        riv_castanets_rythm
+        se068
+        se149
+        se194
+        se4
+        se_102
+        se_103
+        se_104
+        se_105
+        se_106
+        se_107
+        se_108
+        se_109
+        se_2001
+        se_2002
+        se_2003
+        se_2004
+        se_2005
+        se_2006
+        se_2007
+        se_202
+        se_203
+        se_204
+        se_205
+        se_206
+        se_207
+        se_208
+        se_2101
+        se_2102
+        se_2103
+        se_2104
+        se_2106
+        se_2107
+        se_2108
+        se_2201
+        se_2202
+        se_2401
+        se_2402
+        se_2403
+        se_301
+        se_302
+        se_401
+        se_402
+        se_403
+        se_404
+        se_5101
+        se_5102
+        se_5103
+        se_5301
+        se_5302
+        se_5303
+        se_5401
+        se_5404
+        se_5405
+        se_5407
+        se_5409
+        se_5410
+        se_5411
+        se_5412
+        se_5413
+        se_5501
+        se_5503
+        se_5504
+        se_5601
+        se_5602
+        se_5603
+        se_5604
+        se_5605
+        se_5606
+        se_5607
+        se_5608
+        se_5609
+        se_5611
+        se_5612
+        se_5701
+        se_5702
+        se_5703
+        se_5803
+        se_5804
+        se_5805
+        se_5806
+        se_5901
+        se_5902
+        se_5903
+        se_5904
+        se_5905
+        se_5906
+        se_5907
+        se_5908
+        se_5909
+        se_5910
+        se_6001
+        se_6002
+        se_6003
+        se_6004
+        se_6005
+        se_6006
+        se_6007
+        se_6008
+        se_6009
+        se_601
+        se_6010
+        se_602
+        se_603
+        se_604
+        se_605
+        se_606
+        se_801
+        se_802
+        se_803
+        se_804
+        se_805
+        se_806
+        se_901
+        se_902
+        se_903
+        se_904
+        se_905
+        se_dageki_04
+        se_dageki_06
+        se_dageki_08
+        se_gun01
+        se_gun02
+        se_gun03
+        se_gun04
+        se_gun05
+        se_gun06
+        se_gun07
+        se_gun08
+        se_gun09
+        se_gun10
+        se_gun11
+        se_gun12
+        se_gun13
+        se_zangeki_04
+        se_zangeki_05
+        se_zangeki_06
+        se_zangeki_07
+        se_zangeki_08
+        se_zangeki_kazekiri_01
+        se_zangeki_kazekiri_02
+        se_zangeki_kazekiri_03
+        se_zangeki_kazekiri_04
+        se_zangeki_kazekiri_05
+        se_zangeki_kazekiri_06
+        se_zangeki_kazekiri_07
+        se_zangeki_kazekiri_08
+        shatta_ake_zan1
+        shatter
+        shogeki
+        sinzouappaku
+        siren
+        sizuku
+        suzume
+        sword
+        sys_se/2
+        sys_se/clock_grand_fathers2
+        sys_se/clock_ticking
+        sys_se/da_kane
+        sys_se/da_kane2
+        sys_se/kamera
+        sys_se/kt1
+        sys_se/mizu_d
+        sys_se/mizu_d2
+        sys_se/mizu_ijou
+        sys_se/one_re
+        sys_se/web_minpoke_knock
+        sys_se/z2
+        sys_se/zs2
+        sys_se/zs3
+        sys_se/zs4
+        sys_se/zs5
+        sys_se/zs6
+        sys_se/zyosys1
+        sys_se/zyosys3
+        sys_se/zyosys7
+        sys_se/ネジ
+        sys_se/柱時計の鐘
+        sys_se/柱時計の鐘2
+        system2
+        system3
+        syunkan06
+        taitoru
+        tatakiwaru
+        tr018b
+        tubazeri
+        wa_037
+        wa_038
+        wa_040
+        warai_wet2
+        waru
+        wav/_se068
+        wav/a5_07212
+        wav/a5_13391
+        wav/a6
+        wav/anahori
+        wav/bb
+        wav/boyoon
+        wav/chaimu
+        wav/densya
+        wav/final
+        wav/himeraretakyousou
+        wav/hit_s08_d
+        wav/interfon
+        wav/jakinimititahaikyo
+        wav/kaminari1
+        wav/lf257
+        wav/se051
+        wav/se068
+        wav/se137
+        wav/se149
+        wav/sizuku
+        wav/suzu_1
+        wav/suzume
+        wav/tr018b
+        wav/waru
+        zippo
+
+
+        Stats:
+        Used:132/433
+        Unused:301/433

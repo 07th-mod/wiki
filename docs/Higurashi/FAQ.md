@@ -219,6 +219,14 @@ If the game lags or freezes every now and then, you may want to investigate thes
 - Restart your computer
 - While Higurashi isn't that demanding, very old computers/software may not be able to play with good performance. Please keep in mind that this is a Unity game, so some level of performance/modern hardware is required.
 
+### (Windows?) Script Recompile even when using pre-compiled scripts from the server
+
+I noticed that when you copy the game scripts using Windows built-in tool for .zip files, it will set the "Date modified" as the current time. This causes the game to re-compile scripts depending on if the "CompiledUpdateScripts" or "Update" folder was extracted first.
+
+To avoid this issue, you can use our installer, or use 7-Zip, which will preserve the "Date modified" and not cause a script-recompile.
+
+There is no actual issue using scripts compiled on your own machine, but you will have to wait for script compilation (only once) before you can play.
+
 ## Known Issues - Linux
 
 ### [Wine Users Only] No Text On Startup - Missing corefonts

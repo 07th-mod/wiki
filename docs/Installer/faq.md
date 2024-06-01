@@ -126,13 +126,29 @@ NOTE: you may want to remove it after the install finishes, incase it causes iss
 
 > For those who this problem persists: - Python 3.6 (some other versions too?) on MacOS comes with its own private copy of OpenSSL. That means the trust certificates in the system are no longer used as defaults by the Python ssl module. To fix that, you need to install a certifi package in your system.
 
-#### Option 1: Use `pip` to upgrade certificates
+#### Option 1: Use Finder to find and run the `Install Certificates.command` file
+
+1: Open Finder, then search for the file `Install Certificates.command`
+
+![finder search for Install Certificates.command](https://07th-mod.com/wiki/Installer/img/macos-cert-fix-1.png)
+
+2: Click "Get Info"
+
+![Click get info](https://07th-mod.com/wiki/Installer/img/macos-cert-fix-1.png)
+
+3: Under "Open with:" select "iTerm.app"
+
+![under open with select iterm.app](https://07th-mod.com/wiki/Installer/img/macos-cert-fix-1.png)
+
+Then restart your computer.
+
+#### Option 2: Use `pip` to upgrade certificates
 
 Run `pip install --upgrade certifi`
 
 Then restart your computer.
 
-#### Option 2: Run command manually
+#### Option 3: Run command manually
 
 **NOTE:** In the following command, **replace '3.12' with the python version you have installed**.
 

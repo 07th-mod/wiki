@@ -120,6 +120,26 @@ We're not sure how to properly fix this issue, but users have reported the follo
 
 NOTE: you may want to remove it after the install finishes, incase it causes issues with other programs. If you know how to fix this issue 'properly' please help us by commenting on this [GitHub issue](https://github.com/07th-mod/python-patcher/issues/80)
 
+### MacOS - ssl.SSLCertVerificationError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)
+
+[This stackoverflow answer](https://stackoverflow.com/a/62374703/848627) shows two possible fixes for this issue
+
+> For those who this problem persists: - Python 3.6 (some other versions too?) on MacOS comes with its own private copy of OpenSSL. That means the trust certificates in the system are no longer used as defaults by the Python ssl module. To fix that, you need to install a certifi package in your system.
+
+#### Option 1: Use `pip` to upgrade certificates
+
+Run `pip install --upgrade certifi`
+
+Then restart your computer.
+
+#### Option 2: Run command manually
+
+**NOTE:** In the following command, **replace '3.12' with the python version you have installed**.
+
+ - Run `open /Applications/Python\ 3.12/Install\ Certificates.command` (remember to replace '3.12' with your python version)
+
+Then restart your computer.
+
 ### Other SSL/Certificate Errors
 
 - During download of a file from Github: `SSL/TLS handshake failure: Error: The certificate chain was issued by an authority that is not trusted.`

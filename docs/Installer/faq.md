@@ -134,11 +134,11 @@ NOTE: you may want to remove it after the install finishes, incase it causes iss
 
 2: Click "Get Info"
 
-![Click get info](https://07th-mod.com/wiki/Installer/img/macos-cert-fix-1.png)
+![Click get info](https://07th-mod.com/wiki/Installer/img/macos-cert-fix-2.png)
 
 3: Under "Open with:" select "iTerm.app"
 
-![under open with select iterm.app](https://07th-mod.com/wiki/Installer/img/macos-cert-fix-1.png)
+![under open with select iterm.app](https://07th-mod.com/wiki/Installer/img/macos-cert-fix-3.png)
 
 Then restart your computer.
 

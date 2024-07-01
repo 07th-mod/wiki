@@ -8,16 +8,6 @@
 
 ***
 
-!!! note "Help us stay online!"
-
-    We really need your help to keep our servers running. If you want to know more about donations, [click here](https://07th-mod.com/wiki/Donations).
-
-
-    This year's progress:<br>
-    <progress value="0" max="100" data-months-remaining="12"></progress>
-
-***
-
 !!! info "Discord Server"
     <a href=https://discord.gg/pf5VhF9><img style="float: left" src="img/Discord-Logo-Color.png" width="100" height="100"/></a>
 

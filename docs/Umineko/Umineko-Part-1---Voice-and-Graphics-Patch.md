@@ -38,9 +38,9 @@ Instructions on installing the Answer Arcs ADV Addon are at the bottom of the pa
 <tbody>
 <tr class="even">
 <td>
-    <a href="https://07th-mod.com/download.php?repository=umineko-question&file=master/InDevelopment/ManualUpdates/0.utf">-Stable 0.u</a><br>
+    <a href="https://github.com/07th-mod/umineko-question/releases/latest/download/script-full.7z">-Stable 0.u</a><br>
     or<br>
-    <a href="https://07th-mod.com/download.php?repository=umineko-question&file=fix_clickwait_test_rebase/InDevelopment/ManualUpdates/0.utf">-Experimental 0.u</a>
+    <a href="https://github.com/07th-mod/umineko-question/raw/fix_clickwait_test_rebase/InDevelopment/ManualUpdates/0.utf?filename=0.u">-Experimental<br>(Right-click, Save-As<br>then rename as 0.u)</a>
 </td>
 <td>
     <a href="https://github.com/07th-mod/patch-releases/releases/download/umineko-question-v1.0/umineko-question-base-full.7z.001">Base Part 1/3</a><br>
@@ -74,9 +74,9 @@ Instructions on installing the Answer Arcs ADV Addon are at the bottom of the pa
 <tbody>
 <tr class="odd">
 <td>
-    <a href="https://07th-mod.com/download.php?repository=umineko-answer&file=master/0.utf">-Stable 0.u</a><br>
+    <a href="https://github.com/07th-mod/umineko-answer/releases/latest/download/script-full.7z">-Stable 0.u</a><br>
     or<br>
-    <a href="https://07th-mod.com/download.php?repository=umineko-answer&file=master_no_clickwait_fix/0.utf">-Experimental 0.u</a>
+    <a href="https://github.com/07th-mod/umineko-answer/raw/master_no_clickwait_fix/0.utf" download>-Experimental<br>(Right-click, Save-As<br>then rename as 0.u)</a>
 </td>
 <td>
     <a href="https://github.com/07th-mod/patch-releases/releases/download/umineko-answer-v1.0/umineko-answer-base-nvl.7z.001">Base Part 1/4</a><br>
@@ -132,7 +132,8 @@ Common steps are the same for all platforms. The remaining steps are **different
 
 4. Rename the file ``0.utf`` inside your Umineko folder to ``0_old.utf`` (Backup the original script)
 
-5. Put the patched ``0.u`` file inside the game folder.
+5. Put the patched ``0.u`` file inside the game folder
+    - **If you have a ``0.utf`` file, rename it as ``0.u`` before putting it in the game folder!!**
 
 6.  **SEE STEPS BELOW SPECIFIC TO YOUR PLATFORM!**
 
@@ -219,9 +220,9 @@ Ensure that you have your `0.u` or `0.utf` (depending on your platform), and you
 <tr>
 <td>ADV Mode Addon</td>
 <td>
-    <a href="https://07th-mod.com/download.php?repository=umineko-answer&file=adv_mode/0.utf">-Stable 0.u</a><br>
+    <a href="https://github.com/07th-mod/umineko-answer/releases/latest/download/script-adv-mode.7z">-Stable 0.u</a><br>
     or<br>
-    <a href="https://07th-mod.com/download.php?repository=umineko-answer&file=adv_mode_no_clickwait_fix/0.utf">-Experimental 0.u</a><br>
+    <a href="https://github.com/07th-mod/umineko-answer/raw/adv_mode_no_clickwait_fix/0.utf" download>-Experimental<br>(Right-click, Save-As<br>then rename as 0.u)</a><br>
 </td>
 <td><a href="https://github.com/07th-mod/patch-releases/releases/download/umineko-answer-v1.0/UminekoChiru-ADV_Mode.7z">ADV Assets</a></td>
 </tr>
@@ -242,8 +243,12 @@ Normally, there is no reason to install the legacy version of the Question Arcs.
 
 Installation Instructions:
 
-1. Extract the graphics archive: [Legacy Question Arcs Graphics](https://07th-mod.com/Beato/legacy/Umineko-Graphics-Legacy-2018.7z)
-2. Extract the voice archives which should generate a `arc4.nsa` and `arc5.nsa` file: [Normal Question Voices](https://07th-mod.com/Beato/Umineko-Voices-nsa.7z). **Please check your arc.nsa files are sequential**:
+1. Extract the base archives below:
+    - [Base Part 1/4](https://github.com/07th-mod/patch-releases/releases/download/umineko-legacy-v1.0/umineko-legacy-1707x1280.7z.001)
+    - [Base Part 2/4](https://github.com/07th-mod/patch-releases/releases/download/umineko-legacy-v1.0/umineko-legacy-1707x1280.7z.002)
+    - [Base Part 3/4](https://github.com/07th-mod/patch-releases/releases/download/umineko-legacy-v1.0/umineko-legacy-1707x1280.7z.003)
+    - [Base Part 4/4](https://github.com/07th-mod/patch-releases/releases/download/umineko-legacy-v1.0/umineko-legacy-1707x1280.7z.004)
+2. **Ensure your your arc.nsa files are sequential**:
     - If you have 5 `.nsa` files [`arc1.nsa`, `arc2.nsa`, `arc3.nsa`, `arc4.nsa`, `arc5.nsa`]
         - No extra steps are required
     - If you have 3 `.nsa` files [`arc.nsa`, `arc4.nsa`, `arc5.nsa`]
@@ -252,7 +257,6 @@ Installation Instructions:
     - If you have 2 `.nsa` files [`arc4.nsa`, `arc5.nsa`]
         - Rename `arc4.nsa` -> `arc.nsa`
         - Rename `arc5.nsa` -> `arc1.nsa`
+3. Install the "script" file from your legacy translation (You should rename it as either `0.u` or `0.utf`, whichever one works).
+    - NOTE: the game will NOT work without a "script" file installed.
 
-3. Extract the Exe: [Legacy Question Arcs Exe](https://07th-mod.com/Beato/legacy/Umineko-Question-Exes-legacy-1707x1280.7z)
-4. Extract the Update: [Legacy Question Update](https://07th-mod.com/Beato/legacy/Umineko-Update-legacy-v5_2018_07_15.7z)
-5. **Linux Mac Only** Extract the archive [`linux-libpng-libjpeg.7z`](https://07th-mod.com/Beato/linux-libpng-libjpeg.7z) to the game folder. Overwrite if asked. Both arcs use the same archive.

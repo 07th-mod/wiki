@@ -257,7 +257,7 @@ There is also one achievement for the Question Arcs which is difficult to unlock
 #### No sound on Linux (game doesn't even show up in mixer)
 
 - Firstly, check if you pressed the 'm' key (or 'Select' key on controller), which mutes the game. Deleting your save files also disables muting, see [Uninstalling Umineko and the Mod](Uninstall.md)
-- On Linux, if Umineko doesn't show up in your audio mixer at all, try following this [gamingonlinux tutorial](https://www.gamingonlinux.com/articles/steam-for-linux-can-now-run-games-in-a-special-container.15384) to run Umineko using the Steam Linux Runtime compatability tool.
+- On Linux, if Umineko doesn't show up in your audio mixer at all, try following this [gamingonlinux tutorial](https://web.archive.org/web/20240604000502/https://www.gamingonlinux.com/articles/steam-for-linux-can-now-run-games-in-a-special-container.15384/) to run Umineko using the Steam Linux Runtime compatability tool.
 
 Steam Deck Users have reported the following:
 

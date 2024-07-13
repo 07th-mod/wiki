@@ -89,13 +89,13 @@ Archives were updated 12-04-2020. **If the instructions don't seem to match the 
 <tr class="odd">
 <td style="text-align: center;">Ch.7 - Minagoroshi</td>
 <td style="text-align: center;"><a href="https://github.com/07th-mod/minagoroshi/releases/tag/v0.0.2">Download</a></td>
-<td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/higurashi-voice-only-v1.0/voices-only/Minagoroshi-Voices.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/higurashi-voice-only-v1.0/Minagoroshi-Voices.7z">Download</a></td>
 <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/higurashi-voice-only-v1.0/Minagoroshi-HD.7z">Download</a></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;">Ch.8 - Matsuribayashi</td>
 <td style="text-align: center;"><a href="https://github.com/07th-mod/matsuribayashi/releases/tag/v0.0.1">Download</a></td>
-<td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/higurashi-voice-only-v1.0/voices-only/Matsuribayashi-Voices.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/higurashi-voice-only-v1.0/Matsuribayashi-Voices.7z">Download</a></td>
 <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/higurashi-voice-only-v1.0/Matsuribayashi-HD.7z">Download</a></td>
 </tr>
 </tbody>

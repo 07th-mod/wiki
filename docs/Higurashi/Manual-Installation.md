@@ -104,10 +104,10 @@ Please select a tab below to access the downloads that you require.
     </tr>
     <tr class="even">
     <td style="text-align: center;">All assets</td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/onikakushi-v1.0/Onikakushi-Assets.7z">Download</a></td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/watanagashi-v1.0/Watanagashi-Assets.7z">Download</a></td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/tatarigoroshi-v1.0/Tatarigoroshi-Assets.7z">Download</a></td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/himatsubushi-v1.0/Himatsubushi-Assets.7z">Download</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/onikakushi-v1.0/onikakushi-base.7z">Download</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/watanagashi-v1.0/watanagashi-base.7z">Download</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/tatarigoroshi-v1.0/tatarigoroshi-base.7z">Download</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/himatsubushi-v1.0/himatsubushi-base.7z">Download</a></td>
     </tr>
     <tr class="even">
     <td style="text-align: center;">UI Mod (Windows)</td>
@@ -158,10 +158,10 @@ Please select a tab below to access the downloads that you require.
     </tr>
     <tr class="even">
     <td style="text-align: center;">All assets</td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/meakashi-v1.0/Meakashi-Assets.7z">Download</a></td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/tsumihoroboshi-v1.0/Tsumihoroboshi-Assets.7z">Download</a></td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/minagoroshi-v1.0/Minagoroshi-Assets.7z">Download</a></td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/matsuribayashi-v1.0/Matsuribayashi-Assets.7z">Download</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/meakashi-v1.0/meakashi-base.7z">Download</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/tsumihoroboshi-v1.0/tsumihoroboshi-base.7z">Download</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/minagoroshi-v1.0/minagoroshi-base.7z">Download</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/matsuribayashi-v1.0/matsuribayashi-base.7z">Download</a></td>
     </tr>
     <tr class="even">
     <td style="text-align: center;">UI Mod (Windows)</td>
@@ -217,8 +217,8 @@ Please select a tab below to access the downloads that you require.
     </tr>
     <tr class="even">
     <td style="text-align: center;">All assets</td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/rei-v1.0/Rei-Assets.7z">Download</a></td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/hou-plus-v1.0/HouPlus-Assets.7z">Download</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/rei-v1.0/rei-base.7z">Download</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/hou-plus-v1.0/hou-base.7z">Download</a></td>
     </tr>
     <tr class="even">
     <td style="text-align: center;">UI Mod (Windows)</td>
@@ -308,9 +308,9 @@ Please select a tab below to access the downloads that you require.
     </tr>
     <tr class="even">
     <td>Assets</td>
-    <td><a href="https://github.com/07th-mod/patch-releases/releases/download/console-arcs-v1.0/ConsoleArcs-Assets.7z.001">Part 1</a><br>
-    <a href="https://github.com/07th-mod/patch-releases/releases/download/console-arcs-v1.0/ConsoleArcs-Assets.7z.002">Part 2</a><br>
-    <a href="https://github.com/07th-mod/patch-releases/releases/download/console-arcs-v1.0/ConsoleArcs-Assets.7z.003">Part 3</a></td>
+    <td><a href="https://github.com/07th-mod/patch-releases/releases/download/console-arcs-v1.0/console-base.7z.001">Part 1</a><br>
+    <a href="https://github.com/07th-mod/patch-releases/releases/download/console-arcs-v1.0/console-base.7z.002">Part 2</a><br>
+    <a href="https://github.com/07th-mod/patch-releases/releases/download/console-arcs-v1.0/console-base.7z.003">Part 3</a></td>
     </tr>
     <tr class="odd">
     <td>System files</td>

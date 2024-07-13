@@ -30,11 +30,9 @@ Instructions on installing the Answer Arcs ADV Addon are at the bottom of the pa
 <thead>
 <tr class="header">
 <th>Script</th>
-<th>Voices</th>
-<th>Graphics</th>
-<th>Executable</th>
-<th>Updates (DL all)</th>
-<th>Update (OS Specific)</th>
+<th>Base</th>
+<th>Movie (Linux Only)</th>
+<th>Executable (Optional)</th>
 </tr>
 </thead>
 <tbody>
@@ -44,20 +42,16 @@ Instructions on installing the Answer Arcs ADV Addon are at the bottom of the pa
     or<br>
     <a href="https://07th-mod.com/download.php?repository=umineko-question&file=fix_clickwait_test_rebase/InDevelopment/ManualUpdates/0.utf">-Experimental 0.u</a>
 </td>
-<td><a href="https://07th-mod.com/Beato/Umineko-Voices-nsa.7z">Download</a></td>
-<td><a href="https://07th-mod.com/Beato/1080p/Umineko-Graphics-1080p-v3.7z">1080p Graphics</a></td>
-<td><a href="https://07th-mod.com/Beato/1080p/Umineko1to4.exe">Windows</a> <br> <a href="https://07th-mod.com/Beato/1080p/Umineko1to4.app.zip">Mac</a> <br> <a href="https://07th-mod.com/Beato/1080p/Umineko1to4">Linux</a></td>
 <td>
-<a href="https://07th-mod.com/Beato/1080p/Umineko-Update-1080p-Rolling-ALL-OS.7z">-1080p Rolling Update</a>
-<br>
-<a href="https://07th-mod.com/Bern/Umineko-ADV_Mode.7z">-ADV Files</a>
+    <a href="https://github.com/07th-mod/patch-releases/releases/download/umineko-question-v1.0/umineko-question-base-full.7z.001">Base Part 1/3</a><br>
+    <a href="https://github.com/07th-mod/patch-releases/releases/download/umineko-question-v1.0/umineko-question-base-full.7z.002">Base Part 2/3</a><br>
+    <a href="https://github.com/07th-mod/patch-releases/releases/download/umineko-question-v1.0/umineko-question-base-full.7z.003">Base Part 3/3</a>
 </td>
 <td>
-    <a href="https://07th-mod.com/Beato/1080p/Umineko-Update-1080p-v3_2019_01_03_WINDOWS.7z">-WINDOWS</a>
-    <br>
-    <a href="https://07th-mod.com/Beato/1080p/Umineko-Update-1080p-v3_2019_01_03_MAC_LINUX.7z">-LINUX/MAC Pt.1</a>
-    <br>
-    <a href="https://07th-mod.com/Beato/linux-libpng-libjpeg.7z">-LINUX/MAC Pt.2</a>
+    <a href="https://github.com/07th-mod/patch-releases/releases/download/umineko-question-v1.0/Umineko-Update-1080p-v3_2019_01_03_MAC_LINUX.7z">Linux/MacOS Movie</a><br>
+</td>
+<td>
+    <a href="https://github.com/07th-mod/patch-releases/releases/download/umineko-question-v1.0/umineko-question-full-exe.7z">Executable (For Repair)</a> <br>
 </td>
 </tr>
 </tbody>
@@ -73,10 +67,8 @@ Instructions on installing the Answer Arcs ADV Addon are at the bottom of the pa
 <thead>
 <tr class="header">
 <th>Script</th>
-<th>Voices</th>
-<th>Graphics</th>
+<th>Base</th>
 <th>Executable</th>
-<th>Updates</th>
 </tr>
 </thead>
 <tbody>
@@ -86,13 +78,14 @@ Instructions on installing the Answer Arcs ADV Addon are at the bottom of the pa
     or<br>
     <a href="https://07th-mod.com/download.php?repository=umineko-answer&file=master_no_clickwait_fix/0.utf">-Experimental 0.u</a>
 </td>
-<td><a href="https://07th-mod.com/Bern/UminekoChiru-Voices-nsa.7z">Download</a></td>
-<td><a href="https://07th-mod.com/Bern/UminekoChiru-Graphics-v2.7z">Download</a></td>
-<td><a href="https://07th-mod.com/Bern/Umineko5to8.exe">Windows</a> <br> <a href="https://07th-mod.com/Bern/Umineko5to8.app.zip">Mac</a> <br> <a href="https://07th-mod.com/Bern/Umineko5to8">Linux</a></td>
 <td>
-    <a href="https://07th-mod.com/Bern/Umineko-Answer-Update-Full-Rolling-ALL-OS.7z">-Rolling Update</a><br>
-    <a href="https://07th-mod.com/Beato/linux-libpng-libjpeg.7z">-LINUX/MAC Libs</a>
+    <a href="https://github.com/07th-mod/patch-releases/releases/download/umineko-answer-v1.0/umineko-answer-base-nvl.7z.001">Base Part 1/4</a><br>
+    <a href="https://github.com/07th-mod/patch-releases/releases/download/umineko-answer-v1.0/umineko-answer-base-nvl.7z.002">Base Part 2/4</a><br>
+    <a href="https://github.com/07th-mod/patch-releases/releases/download/umineko-answer-v1.0/umineko-answer-base-nvl.7z.003">Base Part 3/4</a><br>
+    <a href="https://github.com/07th-mod/patch-releases/releases/download/umineko-answer-v1.0/umineko-answer-base-nvl.7z.004">Base Part 4/4</a><br>
 </td>
+<td>
+    <a href="https://github.com/07th-mod/patch-releases/releases/download/umineko-answer-v1.0/umineko-answer-nvl-exe.7z">Executable (For Repair)</a> <br>
 </tr>
 </tbody>
 </table>
@@ -107,11 +100,11 @@ Instructions on installing the Answer Arcs ADV Addon are at the bottom of the pa
 
 Extract these packs to the root of the game directory, AFTER applying all other archives (extracting should overwrite many files).
 
-- [Pachinko Question Arcs Sprites Pack](https://07th-mod.com/Beato/Umineko-Upscaled-Pachinko.7z)
-- [Pachinko Answer Arcs NVL/ADV Sprites Pack](https://07th-mod.com/Bern/UminekoChiru-Upscaled-Pachinko.7z)
+- [Pachinko Question Arcs Sprites Pack](https://github.com/07th-mod/patch-releases/releases/download/umineko-question-v1.0/Umineko-Upscaled-Pachinko.7z)
+- [Pachinko Answer Arcs NVL/ADV Sprites Pack](https://github.com/07th-mod/patch-releases/releases/download/umineko-answer-v1.0/UminekoChiru-Upscaled-Pachinko.7z)
 
-- [Ryukishi (Potato) Question Arcs Sprites Pack](https://07th-mod.com/Beato/Umineko-Upscaled-Potato-v3.7z)
-- [Ryukishi (Potato) Answer Arcs NVL/ADV Sprites Pack](https://07th-mod.com/Bern/UminekoChiru-Upscaled-Potato-v4.7z)
+- [Ryukishi (Potato) Question Arcs Sprites Pack](https://github.com/07th-mod/patch-releases/releases/download/umineko-question-v1.0/Umineko-Upscaled-Potato-v3.7z)
+- [Ryukishi (Potato) Answer Arcs NVL/ADV Sprites Pack](https://github.com/07th-mod/patch-releases/releases/download/umineko-answer-v1.0/UminekoChiru-Upscaled-Potato-v4.7z)
 
 ### How to install the patch manually 
 
@@ -123,19 +116,10 @@ Common steps are the same for all platforms. The remaining steps are **different
 
 1. Download and extract these archives to the game folder:
 
-     - The Voices archive
-     - The Graphics archive
+     - The "base" archive
+     - For Linux or Mac users on the Question Arcs, the "movie" archive
 
-2. Then, download and extract these archives to the game folder, overwriting existing files:
-
-    - For the Question arcs:
-         - the OS Specific update (choose the correct one for your operating system)
-         - the ADV files
-         - the Rolling update
-    - For the Answer arcs
-         - the Rolling Update
-
-3. When you extracted the voice archive, it should have generated an `arc4.nsa` and `arc5.nsa` file. After that, **please check your arc.nsa files are sequential**:
+2. When you extracted the voice archive, it should have generated an `arc4.nsa` and `arc5.nsa` file. After that, **please check your arc.nsa files are sequential**:
 
     - If you have 5 `.nsa` files [`arc1.nsa`, `arc2.nsa`, `arc3.nsa`, `arc4.nsa`, `arc5.nsa`]
         - No extra steps are required
@@ -154,26 +138,17 @@ Common steps are the same for all platforms. The remaining steps are **different
 
 ### Windows
 
-7 . Backup the old .exe. For the **Question Arcs**, rename `Umineko1to4.exe` to `Umineko1to4_old.exe`. For the **Answer Arcs**, rename `Umineko5to8.exe` to `Umineko5to8_old.exe`.
-
-8 . Install the new .exe (the one you downloaded from this page). For the **Question arcs**, put the patched `Umineko1to4.exe` in the game folder. For the **Answer Arcs**, put the patched `Umineko5to8.exe` inside the folder.
-
+7 . No extra steps required
 
 ### Linux
 
-7 . Backup the old .exe. For the **Question Arcs**, rename `Umineko1to4` to `Umineko1to4_old`. For the **Answer Arcs**, rename `Umineko5to8` to `Umineko5to8_old`.
-
-8 . Install the new .exe (the one you downloaded from this page). For the **Question arcs**, put the patched `Umineko1to4` in the game folder. For the **Answer Arcs**, put the patched `Umineko5to8` inside the folder.
-
-9 . You might have to set the .exe to have executable permissions so you can run it.
-
-10 . Extract the archive `linux-libpng-libjpeg.7z` to the game folder. Overwrite if asked. Both arcs use the same archive.
+7 . You might have to set the .exe (`Umineko1to4` or `Umineko5to8`) to have executable permissions so you can run it.
 
 ### Mac
 
-7 . Backup the old .exe. This is the file with a character image on it (.app file), but the `.app` part may be hidden. For the **Question Arcs**, rename `Umineko1to4.app` to `Umineko1to4_old.app`. For the **Answer Arcs**, rename `Umineko5to8.app` to `Umineko5to8_old.app`.
+7 . MacOS users might need to apply the "Executable" manually. If the game does not run properlty, download and extract the "Executable" archive to a temporary folder, then read the below.
 
-8 . **IMPORTANT**: MacOSX will try to prevent you from extracting the new, patched `.app` into the game folder! To get around this, you must extract it **outside the game folder** (preferably to your desktop or another personal folder). After you have extracted the .app file, you can then copy it to the root of the game folder (where the old one used to be). Extract  ``Umineko1to4.app.zip`` for the **Question Arcs** and ``Umineko5to8.app.zip`` for the **Answer Arcs**. 
+8 . **IMPORTANT**: MacOSX will try to prevent you from extracting the new, patched `.app` into the game folder! To get around this, you must extract it **outside the game folder** (preferably to your desktop or another personal folder). After you have extracted the .app file, you can then copy it to the root of the game folder (where the old one used to be). The app folders are called  ``Umineko1to4.app`` for the **Question Arcs** and ``Umineko5to8.app`` for the **Answer Arcs**. 
 
 9 . If you fail to do step 8 this correctly, you will get this error:
 
@@ -182,8 +157,6 @@ Common steps are the same for all platforms. The remaining steps are **different
 >Error (07th mod): The script file '0.utf' is missing from the game directory. https://discord.gg/acSbBtD.
 
 Try step 8 again if you get this error.
-
-10 . Extract the archive `linux-libpng-libjpeg.7z` to the game folder. Overwrite if asked. Both arcs use the same archive.
 
 ----
 
@@ -250,7 +223,7 @@ Ensure that you have your `0.u` or `0.utf` (depending on your platform), and you
     or<br>
     <a href="https://07th-mod.com/download.php?repository=umineko-answer&file=adv_mode_no_clickwait_fix/0.utf">-Experimental 0.u</a><br>
 </td>
-<td><a href="https://07th-mod.com/Bern/UminekoChiru-ADV_Mode.7z">ADV Assets</a></td>
+<td><a href="https://github.com/07th-mod/patch-releases/releases/download/umineko-answer-v1.0/UminekoChiru-ADV_Mode.7z">ADV Assets</a></td>
 </tr>
 </tbody>
 </table>

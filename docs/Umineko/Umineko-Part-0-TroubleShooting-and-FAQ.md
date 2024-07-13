@@ -136,7 +136,7 @@ See the [Mod Options](Umineko-Mod-Options.md) page.
 
 This problem happens even on the base game when you launch the game without Steam. Note that launching the game through Steam (if you have the Steam version) might fix this issue, as Steam will provide the missing libraries.
 
-To fix this issue, download and extract this archive to the game directory (it should overwrite the `lib64` folder): [https://07th-mod.com/Beato/linux-libpng-libjpeg.7z](https://07th-mod.com/Beato/linux-libpng-libjpeg.7z)
+To fix this issue, download and extract this archive to the game directory (it should overwrite the `lib64` folder): [https://github.com/07th-mod/patch-releases/releases/download/umineko-question-v1.0/linux-libpng-libjpeg.7z](https://github.com/07th-mod/patch-releases/releases/download/umineko-question-v1.0/linux-libpng-libjpeg.7z)
 
 The alternative way to fix this issue is to make sure Steam is installed, then run the game through Steam (not by clicking on the .exe).
 

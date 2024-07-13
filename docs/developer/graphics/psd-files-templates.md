@@ -16,7 +16,7 @@ NOTE: **Please read the `Readme` / `Changelog` contained in each archive** (if i
 <tr>
     <td>Misc Graphics</td>
     <td>2022-12-17</td>
-    <td><a href="https://07th-mod.com/archive/Higurashi-MixedFiles-PSD.7z">Higurashi-MixedFiles-PSD.7z</a></td>
+    <td><a href="https://github.com/07th-mod/patch-releases/releases/download/developer-v1.0/Higurashi-MixedFiles-PSD.7z">Higurashi-MixedFiles-PSD.7z</a></td>
     <td>Contains Fonts, Logos, UI, Text Images, Sprite Edits, Photoshop Filters, and other misc files.
     </td>
 </tr>

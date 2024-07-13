@@ -136,7 +136,7 @@ See the [Mod Options](Umineko-Mod-Options.md) page.
 
 This problem happens even on the base game when you launch the game without Steam. Note that launching the game through Steam (if you have the Steam version) might fix this issue, as Steam will provide the missing libraries.
 
-To fix this issue, download and extract this archive to the game directory (it should overwrite the `lib64` folder): [https://07th-mod.com/Beato/linux-libpng-libjpeg.7z](https://07th-mod.com/Beato/linux-libpng-libjpeg.7z)
+To fix this issue, download and extract this archive to the game directory (it should overwrite the `lib64` folder): [https://github.com/07th-mod/patch-releases/releases/download/umineko-question-v1.0/linux-libpng-libjpeg.7z](https://github.com/07th-mod/patch-releases/releases/download/umineko-question-v1.0/linux-libpng-libjpeg.7z)
 
 The alternative way to fix this issue is to make sure Steam is installed, then run the game through Steam (not by clicking on the .exe).
 
@@ -257,7 +257,7 @@ There is also one achievement for the Question Arcs which is difficult to unlock
 #### No sound on Linux (game doesn't even show up in mixer)
 
 - Firstly, check if you pressed the 'm' key (or 'Select' key on controller), which mutes the game. Deleting your save files also disables muting, see [Uninstalling Umineko and the Mod](Uninstall.md)
-- On Linux, if Umineko doesn't show up in your audio mixer at all, try following this [gamingonlinux tutorial](https://www.gamingonlinux.com/articles/steam-for-linux-can-now-run-games-in-a-special-container.15384) to run Umineko using the Steam Linux Runtime compatability tool.
+- On Linux, if Umineko doesn't show up in your audio mixer at all, try following this [gamingonlinux tutorial](https://web.archive.org/web/20240604000502/https://www.gamingonlinux.com/articles/steam-for-linux-can-now-run-games-in-a-special-container.15384/) to run Umineko using the Steam Linux Runtime compatability tool.
 
 Steam Deck Users have reported the following:
 

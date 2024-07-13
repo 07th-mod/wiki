@@ -32,13 +32,10 @@ Please select a tab below depending on your operating system.
         * On Steam: open your Steam library, choose the game from the list, right click on it and click on ``Properties``. Switch to the ``LOCAL FILES`` tab and click on ``Browse local files...``)
     2. In the below "Downloads" table, download **one file of each type**. That is, you'll need the following archives:
           * Patch
-          * Graphics patch
-          * Voices
-          * BGM & SE
-          * Movies (choose ONE according to your operating system)
+          * Base Assets
           * UI Mod (choose ONE according to your operating system and game version)
-          * Update
-          * Console Arcs Only: System Files (choose ONE according to your operating system)
+          * System Files/Compatability Pack (if available/necessary)
+          * For Chapters 2,3,4, you can install "Optional Packs" if desired
     3. Navigate inside ``HigurashiEp0X_Data/StreamingAssets`` (where ``X`` is the chapter number) and **delete** the folders ``CG`` and ``CGAlt``
         * This is not a requirement but we recommend to delete the mentioned folders to save disk space and avoid any random issues
     4. Now, extract the archives as follows:
@@ -56,13 +53,10 @@ Please select a tab below depending on your operating system.
         * The game folder (called ``Contents``) should contain some folders like ``Resources``, ``MacOS``, ``Plugins``, ``Frameworks``, and others - we will only be modifying the ``Resources`` folder
     2. In the below "Downloads" table, download **one file of each type**. That is, you'll need the following archives:
           * Patch
-          * Graphics patch
-          * Voices
-          * BGM & SE
-          * Movies (choose ONE according to your operating system)
+          * Base Assets
           * UI Mod (choose ONE according to your operating system and game version)
-          * Update
-          * Console Arcs Only: System Files (choose ONE according to your operating system)
+          * System Files/Compatability Pack (if available/necessary)
+          * Optionally install "Optional Packs" (only for Chapters 2,3,4)
     3. Navigate inside ``Resources/Data/StreamingAssets`` and **delete** the folders ``CG`` and ``CGAlt``
         * This is not a requirement but we recommend to delete the mentioned folders to save disk space and avoid any random issues
     4. Now, extract the archives as follows:
@@ -72,7 +66,6 @@ Please select a tab below depending on your operating system.
     6. Open a **terminal window** in the ``Resources/Data`` folder. [Follow these steps if you don't know how to do it](https://stackoverflow.com/a/7054045)
         1. In the terminal window, type: ``rsync -avP HigurashiEp*/* .`` and hit enter (type the ``*`` literally)
         2. Wait until the files are copied to the right place
-    7. Extract the BGM & SE archive inside the ``Resources/Data/StreamingAssets`` folder
     8. Delete all the downloaded files and any leftover ``HigurashiEp0X_Data`` folders (where ``X`` is the chapter number) after ensuring the game is working as expected
 
 ***
@@ -97,68 +90,42 @@ Please select a tab below to access the downloads that you require.
     <tbody>
     <tr class="odd">
     <td style="text-align: center;">Patch</td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/onikakushi/releases/latest">Download👀</a></td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/watanagashi/releases/latest">Download👀</a></td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/tatarigoroshi/releases/latest">Download👀</a></td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/himatsubushi/releases/latest">Download👀</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/onikakushi/releases/latest">Ch.1 Patch 👀</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/watanagashi/releases/latest">Ch.2 Patch 👀</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/tatarigoroshi/releases/latest">Ch.3 Patch 👀</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/himatsubushi/releases/latest">Ch.4 Patch 👀</a></td>
     </tr>
     <tr class="even">
-    <td style="text-align: center;">Graphics patch</td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Onikakushi-Graphics.7z">1440p</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Watanagashi-Graphics.7z">1440p</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Tatarigoroshi-Graphics.7z">1440p</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Himatsubushi-Graphics.7z">1440p</a></td>
-    </tr>
-    <tr class="even">
-    <td style="text-align: center;">Voices</td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voice/Onikakushi-Voices.7z">Download</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voice/Watanagashi-Voices.7z">Download</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voice/Tatarigoroshi-Voices.7z">Download</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voice/Himatsubushi-Voices.7z">Download</a></td>
-    </tr>
-    <tr class="even">
-    <td style="text-align: center;">BGM & SE</td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Higurashi-OG-BGM-SE-v1.3.7z">Download ⚠️</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Higurashi-OG-BGM-SE-v1.3.7z">Download ⚠️</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Higurashi-OG-BGM-SE-v1.3.7z">Download ⚠️</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Higurashi-OG-BGM-SE-v1.3.7z">Download ⚠️</a></td>
-    </tr>
-    <tr class="odd">
-    <td style="text-align: center;">Movies</td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/video/Onikakushi-Movie.7z">Windows</a><br><a href="https://07th-mod.com/rikachama/video/Onikakushi-Movie_UNIX.7z">Mac/Linux</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/video/Watanagashi-Movie.7z">Windows</a><br><a href="https://07th-mod.com/rikachama/video/Watanagashi-Movie_UNIX.7z">Mac/Linux</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/video/Tatarigoroshi-Movie.7z">Windows</a><br><a href="https://07th-mod.com/rikachama/video/Tatarigoroshi-Movie_UNIX.7z">Mac/Linux</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/video/Himatsubushi-Movie.7z">Windows</a><br><a href="https://07th-mod.com/rikachama/video/Himatsubushi-Movie_UNIX.7z">Mac/Linux</a></td>
+    <td style="text-align: center;">Base Assets</td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/onikakushi-v1.0/onikakushi-base.7z">Ch.1 Base</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/watanagashi-v1.0/watanagashi-base.7z">Ch.2 Base</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/tatarigoroshi-v1.0/tatarigoroshi-base.7z">Ch.3 Base</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/himatsubushi-v1.0/himatsubushi-base.7z">Ch.4 Base</a></td>
     </tr>
     <tr class="even">
     <td style="text-align: center;">UI Mod (Windows)</td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=onikakushi&os=win&unity=5.2.2f1">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=onikakushi&os=win&unity=5.2.2f1">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=onikakushi&os=win&unity=5.2.2f1">GOG</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=watanagashi&os=win&unity=5.2.2f1">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=watanagashi&os=win&unity=5.2.2f1">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=watanagashi&os=win&unity=5.2.2f1">GOG</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=tatarigoroshi&os=win&unity=5.4.0f1">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=tatarigoroshi&os=win&unity=5.3.5f1">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=tatarigoroshi&os=win&unity=5.4.0f1">GOG</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=himatsubushi&os=win&unity=5.4.1f1">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=himatsubushi&os=win&unity=5.4.1f1">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=himatsubushi&os=win&unity=5.4.1f1">GOG</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/onikakushi-v1.0/Onikakushi-UI_5.2.2f1_win.7z">Ch.1 Win UI</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/watanagashi-v1.0/Watanagashi-UI_5.2.2f1_win.7z">Ch.2 Win UI</a></td>
+    <td style="text-align: center;">
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/tatarigoroshi-v1.0/Tatarigoroshi-UI_5.4.0f1_win.7z">Steam and GOG UI</a><br>
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/tatarigoroshi-v1.0/Tatarigoroshi-UI_5.3.5f1_win.7z">MangaGamer UI</a>
+    </td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/himatsubushi-v1.0/Himatsubushi-UI_5.4.1f1_win.7z">Ch.4 Win UI</td>
     </tr>
     <tr class="odd">
     <td style="text-align: center;">UI Mod (Mac/Linux)</td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=onikakushi&os=unix&unity=5.2.2f1">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=onikakushi&os=unix&unity=5.2.2f1">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=onikakushi&os=unix&unity=5.2.2f1">GOG</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=watanagashi&os=unix&unity=5.2.2f1">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=watanagashi&os=unix&unity=5.2.2f1">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=watanagashi&os=unix&unity=5.2.2f1">GOG</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=tatarigoroshi&os=unix&unity=5.4.0f1">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=tatarigoroshi&os=unix&unity=5.3.4p1">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=tatarigoroshi&os=unix&unity=5.4.0f1">GOG</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=himatsubushi&os=unix&unity=5.4.1f1">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=himatsubushi&os=unix&unity=5.4.1f1">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=himatsubushi&os=unix&unity=5.4.1f1">GOG</a></td>
-    </tr>
-    <tr class="even">
-    <td style="text-align: center;">Update</td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/og-dll-asset-update/onikakushi-og-dll-asset-update.7z">Download👀</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/og-dll-asset-update/watanagashi-og-dll-asset-update.7z">Download👀</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/og-dll-asset-update/tatarigoroshi-og-dll-asset-update.7z">Download👀</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/og-dll-asset-update/himatsubushi-og-dll-asset-update.7z">Download👀</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/onikakushi-v1.0/Onikakushi-UI_5.2.2f1_unix.7z">Ch.1 Mac/Linux</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/watanagashi-v1.0/Watanagashi-UI_5.2.2f1_unix.7z">Ch.2 Mac/Linux</a></td>
+    <td style="text-align: center;">
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/tatarigoroshi-v1.0/Tatarigoroshi-UI_5.4.0f1_win.7z">Steam and GOG UI</a><br>
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/tatarigoroshi-v1.0/Tatarigoroshi-UI_5.3.4p1_unix.7z">MangaGamer UI</a>
+    </td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/himatsubushi-v1.0/Himatsubushi-UI_5.4.1f1_unix.7z">Ch.4 Mac/Linux</a></td>
     </tr>
     </tbody>
     </table>
-    
-    **Please see [this FAQ](FAQ.md#higurashi-music-and-sound-effects-changes-april-update) to understand what the BGM/SE Fixes do.** In summary, they partially revert the BGM/SE changes made in the April Higurashi update.
 
     👀 Extract the `Patch` and `Update` archives LAST, after all other files (should combine with the existing `HigurashiEp0X_Data` folder). Overwrite any files if asked.
-
-    ⚠️ Unlike all the other archives, the BGM/SE archive should be extracted to the ``HigurashiEp0X_Data/StreamingAssets`` folder (MacOS users should extract this archive second last).
 
 === "Answer Arcs"
 
@@ -179,79 +146,54 @@ Please select a tab below to access the downloads that you require.
     <tbody>
     <tr class="odd">
     <td style="text-align: center;">Patch</td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/meakashi/releases/latest">Download👀</a></td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/tsumihoroboshi/releases/latest">Download👀</a></td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/minagoroshi/releases/latest">Download👀</a></td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/matsuribayashi/releases/latest">Download👀</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/meakashi/releases/latest">Ch.5 Patch👀</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/tsumihoroboshi/releases/latest">Ch.6 Patch👀</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/minagoroshi/releases/latest">Ch.7 Patch👀</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/matsuribayashi/releases/latest">Ch.8 Patch👀</a></td>
     </tr>
     <tr class="even">
-    <td style="text-align: center;">Graphics patch</td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Meakashi-Graphics.7z">1440p</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Tsumihoroboshi-Graphics.7z">1440p</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Minagoroshi-Graphics.7z">1440p</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Matsuribayashi-Graphics.7z">1440p</a></td>
-    </tr>
-    <tr class="even">
-    <td style="text-align: center;">Voices</td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voice/Meakashi-Voices.7z">Download</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voice/Tsumihoroboshi-Voices.7z">Download</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voice/Minagoroshi-Voices.7z">Download</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voice/Matsuribayashi-Voices.7z">Download</a></td>
-    </tr>
-    <tr class="even">
-    <td style="text-align: center;">BGM & SE</td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/HigurashiKai-OG-BGM-SE.7z">Download ⚠️</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/HigurashiKai-OG-BGM-SE.7z">Download ⚠️</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/HigurashiKai-OG-BGM-SE.7z">Download ⚠️</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/HigurashiKai-OG-BGM-SE.7z">Download ⚠️</a></td>
-    </tr>
-    <tr class="odd">
-    <td style="text-align: center;">Movies</td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/video/Meakashi-Movie.7z">Windows</a><br><a href="https://07th-mod.com/rikachama/video/Meakashi-Movie_UNIX.7z">Mac/Linux</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/video/Tsumihoroboshi-Movie.7z">Windows</a><br><a href="https://07th-mod.com/rikachama/video/Tsumihoroboshi-Movie_UNIX.7z">Mac/Linux</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/video/Minagoroshi-Movie.7z">Windows</a><br><a href="https://07th-mod.com/rikachama/video/Minagoroshi-Movie_UNIX.7z">Mac/Linux</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/video/Matsuribayashi-Movie.7z">Windows</a><br><a href="https://07th-mod.com/rikachama/video/Matsuribayashi-Movie_UNIX.7z">Mac/Linux</a></td>
+    <td style="text-align: center;">Base Assets</td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/meakashi-v1.0/meakashi-base.7z">Ch.5 Base</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/tsumihoroboshi-v1.0/tsumihoroboshi-base.7z">Ch.6 Base</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/minagoroshi-v1.0/minagoroshi-base.7z">Ch.7 Base</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/matsuribayashi-v1.0/matsuribayashi-base.7z">Ch.8 Base</a></td>
     </tr>
     <tr class="even">
     <td style="text-align: center;">UI Mod (Windows)</td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=meakashi&os=win&unity=5.5.3p3">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=meakashi&os=win&unity=5.5.3p3">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=meakashi&os=win&unity=5.5.3p1">GOG §</a><br><a href="https://07th-mod.com/ui.php?chapter=meakashi&os=win&unity=5.5.3p3">GOG (old)†</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=tsumihoroboshi&os=win&unity=5.5.3p3">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=tsumihoroboshi&os=win&unity=5.5.3p3">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=tsumihoroboshi&os=win&unity=5.5.3p3">GOG</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=minagoroshi&os=win&unity=5.6.7f1">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=minagoroshi&os=win&unity=5.6.7f1">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=minagoroshi&os=win&unity=5.6.7f1">GOG</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=matsuribayashi&os=win&unity=2017.2.5">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=matsuribayashi&os=win&unity=2017.2.5">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=matsuribayashi&os=win&unity=2017.2.5">GOG</a><br></td>
+    <td style="text-align: center;">
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/meakashi-v1.0/Meakashi-UI_5.5.3p3_win.7z">Win Default</a><br>
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/meakashi-v1.0/Meakashi-UI_5.5.3p1_win.7z">Win GOG†</a>
+    </td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/tsumihoroboshi-v1.0/Tsumihoroboshi-UI_5.5.3p3_win.7z">Ch.6 Win UI</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/minagoroshi-v1.0/Minagoroshi-UI_5.6.7f1_win.7z">Ch.7 Win UI</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/matsuribayashi-v1.0/Matsuribayashi-UI_2017.2.5_win.7z">Ch.8 Win UI</a></td>
     </tr>
     <tr class="odd">
     <td style="text-align: center;">UI Mod (Mac/Linux)</td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=meakashi&os=unix&unity=5.5.3p3">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=meakashi&os=unix&unity=5.5.3p3">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=meakashi&os=unix&unity=5.5.3p1">GOG §</a><br><a href="https://07th-mod.com/ui.php?chapter=meakashi&os=unix&unity=5.5.3p3">GOG (old)†</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=tsumihoroboshi&os=unix&unity=5.5.3p3">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=tsumihoroboshi&os=unix&unity=5.5.3p3">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=tsumihoroboshi&os=unix&unity=5.5.3p3">GOG</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=minagoroshi&os=unix&unity=5.6.7f1">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=minagoroshi&os=unix&unity=5.6.7f1">MangaGamer</a><br><a href="https://07th-mod.com/ui.php?chapter=minagoroshi&os=unix&unity=5.6.7f1">GOG</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/ui.php?chapter=matsuribayashi&os=unix&unity=2017.2.5">Steam</a><br><a href="https://07th-mod.com/ui.php?chapter=matsuribayashi&os=unix&unity=2017.2.5">MangaGamer/GOG(MacOS)</a><br><a href="https://07th-mod.com/rikachama/ui/Matsuribayashi-UI_2017.2.5_unix_gog_mg.7z">MangaGamer/GOG(Linux)</a><br><br><a href="https://07th-mod.com/ui.php?chapter=matsuribayashi&os=unix&unity=2017.2.5">MangaGamer/GOG<br>(Linux Old)</a><br></td>
+    <td style="text-align: center;">
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/meakashi-v1.0/Meakashi-UI_5.5.3p3_unix.7z">Default</a><br>
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/meakashi-v1.0/Meakashi-UI_5.5.3p1_unix.7z">GOG†</a>
+    </td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/tsumihoroboshi-v1.0/Tsumihoroboshi-UI_5.5.3p3_unix.7z">Ch.6 Mac/Linux</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/minagoroshi-v1.0/Minagoroshi-UI_5.6.7f1_unix.7z">Ch.7 Mac/Linux</a></td>
+    <td style="text-align: center;">
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/matsuribayashi-v1.0/Matsuribayashi-UI_2017.2.5_unix.7z">Default</a><br>
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/matsuribayashi-v1.0/Matsuribayashi-UI_2017.2.5_unix_gog_mg.7z">MG/GOG (alt)</a>
+    </td>
     </tr>
     <tr class="odd">
     <td style="text-align: center;">Compatibility packs</td>
     <td style="text-align: center;">None</td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/matsuri-system/Matsuribayashi-System.7z">Windows (MangaGamer Answer Arcs Bundle only)</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/tsumihoroboshi-v1.0/Tsumihoroboshi-System.7z">Windows<br>(MangaGamer Answer<br>Arcs Bundle only)</a></td>
     <td style="text-align: center;">None</td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/matsuri-system/Matsuribayashi-System.7z">Windows (GOG only)</a><br><a href="https://07th-mod.com/rikachama/matsuri-system/Matsuribayashi-System_unix.7z">Linux (GOG only)</a></td>
-    </tr>
-    <tr class="even">
-    <td style="text-align: center;">Update</td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/og-dll-asset-update/meakashi-og-dll-asset-update.7z">Download👀</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/og-dll-asset-update/tsumihoroboshi-og-dll-asset-update.7z">Download👀</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/og-dll-asset-update/minagoroshi-og-dll-asset-update.7z">Download👀</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/og-dll-asset-update/matsuribayashi-og-dll-asset-update.7z">Download👀</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/matsuribayashi-v1.0/Matsuribayashi-System.7z">Windows (GOG only)</a><br><a href="https://github.com/07th-mod/patch-releases/releases/download/matsuribayashi-v1.0/Matsuribayashi-System_unix.7z">Linux (GOG only)</a></td>
     </tr>
     </tbody>
     </table>
-    
-    **Please see [this FAQ](FAQ.md#higurashi-music-and-sound-effects-changes-april-update) to understand what the BGM/SE Fixes do.** In summary, they partially revert the BGM/SE changes made in the April Higurashi update.
 
     👀 Extract the `Patch` and `Update` archives LAST, after all other files (should combine with the existing `HigurashiEp0X_Data` folder). Overwrite any files if asked.
 
-    ⚠️ Unlike all the other archives, the BGM/SE archive should be extracted to the ``HigurashiEp0X_Data/StreamingAssets`` folder (MacOS users should extract this archive second last).
-
-    § Use this pack with the new (since the 2019 april BGM update) setup files called something like `setup_higurashi_when_they_cry_hou_-_ch.5_meakashi_1.0_bgm__sfx_update_(28574).exe`
-
-    † If the regular "GOG" UI file does not work, try the "old" version (compatible with an older GOG release of the game).
+    † If the regular "GOG" UI file does not work, try the "Default" version (compatible with an older GOG release of the game).
 
 === "Extra Arcs"
 
@@ -268,64 +210,42 @@ Please select a tab below to access the downloads that you require.
     <tbody>
     <tr class="odd">
     <td style="text-align: center;">Patch</td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/higurashi-rei/releases/latest">Download👀</a></td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/hou-plus/releases/latest">Patch Download👀</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/higurashi-rei/releases/latest">Ch.9 Patch 👀</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/hou-plus/releases/latest">Ch.10 Patch 👀</a></td>
     </tr>
     <tr class="even">
-    <td style="text-align: center;">Graphics patch</td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Rei-Graphics-V2.7z">1440p</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/graphics/Hou-Plus-Graphics.7z">Graphics Download</a></td>
-    </tr>
-    <tr class="even">
-    <td style="text-align: center;">Voices</td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voice/Rei-Voices.7z">Download</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voice/Hou-Plus-Voices.7z">Voices Download</a></td>
-    </tr>
-    <tr class="even">
-    <td style="text-align: center;">BGM & SE</td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Rei-BGM-SE.7z">Download</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/audio/Hou-Plus-BGM-SE-v1.3.7z">BGM & SE Download</a></td>
-    </tr>
-    <tr class="odd">
-    <td style="text-align: center;">Movies</td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/video/Rei-Movie.7z">Windows</a><br><a href="https://07th-mod.com/rikachama/video/Rei-Movie_UNIX.7z">Mac/Linux</a></td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/video/Hou-Plus-Movie.7z">Movies Download</a></td>
+    <td style="text-align: center;">Base Assets</td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/rei-v1.0/rei-base.7z">Ch.9 Base</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/hou-plus-v1.0/hou-base.7z">Ch.10 Base</a></td>
     </tr>
     <tr class="even">
     <td style="text-align: center;">UI Mod (Windows)</td>
     <td style="text-align: center;">
-        <a href="https://07th-mod.com/ui.php?chapter=rei&os=win&unity=2019.4.3">Steam</a><br>
-        <a href="https://07th-mod.com/ui.php?chapter=rei&os=win&unity=2019.4.4">MangaGamer</a><br>
-        <a href="https://07th-mod.com/ui.php?chapter=rei&os=win&unity=2019.4.3">MangaGamer Old⚠️</a><br>
-        <a href="https://07th-mod.com/ui.php?chapter=rei&os=win&unity=2019.4.3">GOG</a>
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/rei-v1.0/Rei-UI_2019.4.3_win.7z">Steam and GOG</a><br>
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/rei-v1.0/Rei-UI_2019.4.4_win.7z">MangaGamer</a><br>
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/rei-v1.0/Rei-UI_2019.4.3_win.7z">MangaGamer Old⚠️</a><br>
     </td>
     <td style="text-align: center;">
-        <a href="https://github.com/07th-mod/ui-editing-scripts/releases/download/v1.0.6_hou-plus/Hou-Plus-UI_2019.4.4_win.7z">Windows UI Download</a><br>
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/hou-plus-v1.0/Hou-Plus-UI_2019.4.4_win.7z">Ch.10 Win UI</a><br>
     </td>
     </tr>
     <tr class="odd">
     <td style="text-align: center;">UI Mod (Mac/Linux)</td>
     <td style="text-align: center;">
-        <a href="https://07th-mod.com/ui.php?chapter=rei&os=unix&unity=2019.4.3">Steam</a><br>
-        <a href="https://07th-mod.com/ui.php?chapter=rei&os=unix&unity=2019.4.4">MangaGamer</a><br>
-        <a href="https://07th-mod.com/ui.php?chapter=rei&os=unix&unity=2019.4.3">MangaGamer Old⚠️</a><br>
-        <a href="https://07th-mod.com/ui.php?chapter=rei&os=unix&unity=2019.4.3">GOG</a>
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/rei-v1.0/Rei-UI_2019.4.3_unix.7z">Steam and GOG</a><br>
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/rei-v1.0/Rei-UI_2019.4.4_unix.7z">MangaGamer</a><br>
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/rei-v1.0/Rei-UI_2019.4.3_unix.7z">MangaGamer Old⚠️</a><br>
     </td>
     <td style="text-align: center;">
-        <a href="https://github.com/07th-mod/ui-editing-scripts/releases/download/v1.0.6_hou-plus/Hou-Plus-UI_2019.4.4_unix.7z">Mac/Linux UI Download</a><br>
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/hou-plus-v1.0/Hou-Plus-UI_2019.4.4_unix.7z">Ch.10 UI Mac/Linux</a><br>
     </td>
-    </tr>
-    <tr class="even">
-    <td style="text-align: center;">Update</td>
-    <td style="text-align: center;"><a href="https://07th-mod.com/rikachama/og-dll-asset-update/rei-og-dll-asset-update.7z">Download👀</a></td>
-    <td style="text-align: center;">None</td>
     </tr>
     </tbody>
     </table>
 
     👀 Extract the `Patch` and `Update` archives LAST, after all other files (should combine with the existing `HigurashiEp0X_Data` folder). Overwrite any files if asked.
 
-    ⚠️ We recommend you re-download the latest unmodded game installer from MangaGamer and re-install, rather than using this file.
+    ⚠️ You only need this if you downloaded the unmodded game installer an extremly long time ago. We recommend you re-download the latest unmodded game installer from MangaGamer and re-install, rather than using this file.
 
 === "Optional Packs"
 
@@ -353,7 +273,7 @@ Please select a tab below to access the downloads that you require.
     <tr class="odd">
     <td style="text-align: center;">Question Arcs Chapters 2,3,4</td>
     <td style="text-align: center;">
-        <a href="https://07th-mod.com/rikachama/audio/Higurashi-Remake-BGM.7z">OST Remake</a><br>
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/untagged-82a3feaa6fe760c53703/Higurashi-Remake-BGM.7z">OST Remake</a><br>
         <strong>NOTE:</strong> Extract to the <code>HigurashiEp0X_Data/StreamingAssets</code> folder, producing a <code>RemakeBGM</code> folder.<br><br>
         Handmade remakes of nerve's music <a href="https://radiataalice.bandcamp.com/album/hinamizawa-syndrome-vol-1">(listen online)</a><br>
         Installing this will enable the option in the Mod Menu
@@ -382,46 +302,33 @@ Please select a tab below to access the downloads that you require.
     <tbody>
     <tr class="odd">
     <td>Patch</td>
-    <td><a href="https://github.com/07th-mod/higurashi-console-arcs/releases/latest">Download👀</a></td>
+    <td><a href="https://github.com/07th-mod/higurashi-console-arcs/releases/latest">Patch 👀</a></td>
     </tr>
     <tr class="even">
-    <td>Graphics patch</td>
-    <td><a href="https://07th-mod.com/rikachama/graphics/ConsoleArcs-Graphics.7z">1440p</a></td>
-    </tr>
-    <tr class="odd">
-    <td>Voices</td>
-    <td><a href="https://07th-mod.com/rikachama/voice/ConsoleArcs-Voices.7z">Download</a></td>
-    </tr>
-    <tr class="even">
-    <td>Sound effects</td>
-    <td><a href="https://07th-mod.com/rikachama/audio/ConsoleArcs-SE.7z">Download🚩</a></td>
-    </tr>
-    <tr class="odd">
-    <td>BGM</td>
-    <td><a href="https://07th-mod.com/rikachama/audio/ConsoleArcs-BGM.7z">Download🚩</a></td>
-    </tr>
-    <tr class="even">
-    <td>Movies</td>
-    <td><a href="https://07th-mod.com/rikachama/video/ConsoleArcs-Movie.7z">Windows</a><br><a href="https://07th-mod.com/rikachama/video/ConsoleArcs-Movie_UNIX.7z">Mac/Linux</a></td>
+    <td>Base Assets</td>
+    <td><a href="https://github.com/07th-mod/patch-releases/releases/download/console-arcs-v1.0/console-base.7z.001">Base Part 1/3</a><br>
+    <a href="https://github.com/07th-mod/patch-releases/releases/download/console-arcs-v1.0/console-base.7z.002">Base Part 2/3</a><br>
+    <a href="https://github.com/07th-mod/patch-releases/releases/download/console-arcs-v1.0/console-base.7z.003">Base Part 3/3</a></td>
     </tr>
     <tr class="odd">
     <td>System files</td>
-    <td><a href="https://07th-mod.com/rikachama/misc/ConsoleArcs-System_win.7z">Windows</a><br><a href="https://07th-mod.com/rikachama/misc/ConsoleArcs-System_linux.7z">Linux</a><br><a href="https://07th-mod.com/rikachama/misc/ConsoleArcs-System_mac.7z">Mac🎮</a></td>
+    <td>
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/console-arcs-v1.0/ConsoleArcs-System_win.7z">Windows System</a><br>
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/console-arcs-v1.0/ConsoleArcs-System_linux.7z">Linux System</a><br>
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/console-arcs-v1.0/ConsoleArcs-System_mac.7z">Mac System🎮</a></td>
     </tr>
     <tr class="even">
     <td>UI Mod</td>
-    <td><a href="https://07th-mod.com/ui.php?chapter=himatsubushi&os=win&unity=5.4.1f1">Windows</a><br><a href="https://07th-mod.com/ui.php?chapter=himatsubushi&os=unix&unity=5.4.1f1">Mac/Linux</a></td>
+    <td>
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/console-arcs-v1.0/ConsoleArcs-UI_5.4.1f1_win.7z">Windows UI</a><br>
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/console-arcs-v1.0/ConsoleArcs-UI_5.4.1f1_unix.7z">Mac/Linux UI</a>
+    </td>
     </tr>
     <tr class="odd">
-    <td>Update</td>
-    <td><a href="https://07th-mod.com/rikachama/og-dll-asset-update/console-og-dll-asset-update.7z">Download</a></td>
-    </tr>
     </tbody>
     </table>
 
     👀 Extract the `Patch` archive LAST, after all other files (should combine with the existing `HigurashiEp04_Data` folder). Overwrite any files if asked.
-
-    🚩 Extract these files normally (should combine with the existing `HigurashiEp04_Data` folder). No special handling is required.
 
     🎮 On MacOS extract this file to where the `Contents` folder is located.
 
@@ -432,6 +339,6 @@ Please select a tab below to access the downloads that you require.
 
 ## Optional Steps After Install
 
-## Console Arcs Only
+### Console Arcs Only
 
 To make the Console Arcs appear in Steam with the correct logos and name, please follow these instructions: [Console Arcs Steam Library Tutorial](steam-add-console-arcs/steam-add-console-arcs.md)

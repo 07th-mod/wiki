@@ -1,6 +1,6 @@
 # Console Arcs Steam Library Tutorial - Windows
 ## Prepare Game Art
-* Download and unzip [**this archive**](https://07th-mod.com/installer/steamgrid/console-arcs-steamgrid.zip) before getting started.
+* Download and unzip [**this archive**](https://github.com/07th-mod/patch-releases/releases/download/mod-common-v1.0/console-arcs-steamgrid.zip) before getting started.
 ## Add Console Arcs to Steam
 First things first - let's add the Console Arcs to your Steam library.
 

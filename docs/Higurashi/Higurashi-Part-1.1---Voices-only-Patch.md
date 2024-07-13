@@ -53,50 +53,50 @@ Archives were updated 12-04-2020. **If the instructions don't seem to match the 
 <tr class="odd">
 <td style="text-align: center;">Ch.1 - Onikakushi</td>
 <td style="text-align: center;"><a href="https://github.com/07th-mod/onikakushi/releases/tag/v0.9.0">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/nipah/Onikakushi-Voices.7z">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/nipah/Onikakushi-HD.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/higurashi-voice-only-v1.0/Onikakushi-Voices.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/higurashi-voice-only-v1.0/Onikakushi-HD.7z">Download</a></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;">Ch.2 - Watanagashi</td>
 <td style="text-align: center;"><a href="https://github.com/07th-mod/watanagashi/releases/tag/v1.5.1">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/nipah/Watanagashi-Voices.7z">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/nipah/Watanagashi-HD.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/higurashi-voice-only-v1.0/Watanagashi-Voices.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/higurashi-voice-only-v1.0/Watanagashi-HD.7z">Download</a></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;">Ch.3 - Tatarigoroshi</td>
 <td style="text-align: center;"><a href="https://github.com/07th-mod/tatarigoroshi/releases/tag/v0.5.2">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/nipah/Tatarigoroshi-Voices.7z">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/nipah/Tatarigoroshi-HD.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/higurashi-voice-only-v1.0/Tatarigoroshi-Voices.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/higurashi-voice-only-v1.0/Tatarigoroshi-HD.7z">Download</a></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;">Ch.4 - Himatsubushi</td>
 <td style="text-align: center;"><a href="https://github.com/07th-mod/himatsubushi/releases/tag/v0.5.1">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/nipah/Himatsubushi-Voices.7z">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/nipah/Himatsubushi-HD.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/higurashi-voice-only-v1.0/Himatsubushi-Voices.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/higurashi-voice-only-v1.0/Himatsubushi-HD.7z">Download</a></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;">Ch.5 - Meakashi</td>
 <td style="text-align: center;"><a href="https://github.com/07th-mod/meakashi/releases/tag/v0.5.0">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/nipah/Meakashi-Voices.7z">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/nipah/Meakashi-HD.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/higurashi-voice-only-v1.0/Meakashi-Voices.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/higurashi-voice-only-v1.0/Meakashi-HD.7z">Download</a></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;">Ch.6 - Tsumihoroboshi</td>
 <td style="text-align: center;"><a href="https://github.com/07th-mod/tsumihoroboshi/releases/tag/v0.1.0">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/nipah/Tsumihoroboshi-Voices.7z">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/nipah/Tsumihoroboshi-HD.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/higurashi-voice-only-v1.0/Tsumihoroboshi-Voices.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/higurashi-voice-only-v1.0/Tsumihoroboshi-HD.7z">Download</a></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;">Ch.7 - Minagoroshi</td>
 <td style="text-align: center;"><a href="https://github.com/07th-mod/minagoroshi/releases/tag/v0.0.2">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voices-only/Minagoroshi-Voices.7z">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/nipah/Minagoroshi-HD.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/higurashi-voice-only-v1.0/Minagoroshi-Voices.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/higurashi-voice-only-v1.0/Minagoroshi-HD.7z">Download</a></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;">Ch.8 - Matsuribayashi</td>
 <td style="text-align: center;"><a href="https://github.com/07th-mod/matsuribayashi/releases/tag/v0.0.1">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/rikachama/voices-only/Matsuribayashi-Voices.7z">Download</a></td>
-<td style="text-align: center;"><a href="https://07th-mod.com/nipah/Matsuribayashi-HD.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/higurashi-voice-only-v1.0/Matsuribayashi-Voices.7z">Download</a></td>
+<td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/higurashi-voice-only-v1.0/Matsuribayashi-HD.7z">Download</a></td>
 </tr>
 </tbody>
 </table>

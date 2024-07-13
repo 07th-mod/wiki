@@ -90,31 +90,37 @@ Please select a tab below to access the downloads that you require.
     <tbody>
     <tr class="odd">
     <td style="text-align: center;">Patch</td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/onikakushi/releases/latest">Download👀</a></td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/watanagashi/releases/latest">Download👀</a></td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/tatarigoroshi/releases/latest">Download👀</a></td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/himatsubushi/releases/latest">Download👀</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/onikakushi/releases/latest">Ch.1 Patch 👀</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/watanagashi/releases/latest">Ch.2 Patch 👀</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/tatarigoroshi/releases/latest">Ch.3 Patch 👀</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/himatsubushi/releases/latest">Ch.4 Patch 👀</a></td>
     </tr>
     <tr class="even">
     <td style="text-align: center;">Base Assets</td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/onikakushi-v1.0/onikakushi-base.7z">Download</a></td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/watanagashi-v1.0/watanagashi-base.7z">Download</a></td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/tatarigoroshi-v1.0/tatarigoroshi-base.7z">Download</a></td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/himatsubushi-v1.0/himatsubushi-base.7z">Download</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/onikakushi-v1.0/onikakushi-base.7z">Ch.1 Base</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/watanagashi-v1.0/watanagashi-base.7z">Ch.2 Base</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/tatarigoroshi-v1.0/tatarigoroshi-base.7z">Ch.3 Base</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/himatsubushi-v1.0/himatsubushi-base.7z">Ch.4 Base</a></td>
     </tr>
     <tr class="even">
     <td style="text-align: center;">UI Mod (Windows)</td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/onikakushi-v1.0/Onikakushi-UI_5.2.2f1_win.7z">All versions</a>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/watanagashi-v1.0/Watanagashi-UI_5.2.2f1_win.7z">All versions</a>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/tatarigoroshi-v1.0/Tatarigoroshi-UI_5.4.0f1_win.7z">Steam and GOG</a><br><a href="https://github.com/07th-mod/patch-releases/releases/download/tatarigoroshi-v1.0/Tatarigoroshi-UI_5.3.5f1_win.7z">MangaGamer</a>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/himatsubushi-v1.0/Himatsubushi-UI_5.4.1f1_win.7z">All versions</td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/onikakushi-v1.0/Onikakushi-UI_5.2.2f1_win.7z">Ch.1 Win UI</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/watanagashi-v1.0/Watanagashi-UI_5.2.2f1_win.7z">Ch.2 Win UI</a></td>
+    <td style="text-align: center;">
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/tatarigoroshi-v1.0/Tatarigoroshi-UI_5.4.0f1_win.7z">Steam and GOG UI</a><br>
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/tatarigoroshi-v1.0/Tatarigoroshi-UI_5.3.5f1_win.7z">MangaGamer UI</a>
+    </td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/himatsubushi-v1.0/Himatsubushi-UI_5.4.1f1_win.7z">Ch.4 Win UI</td>
     </tr>
     <tr class="odd">
     <td style="text-align: center;">UI Mod (Mac/Linux)</td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/onikakushi-v1.0/Onikakushi-UI_5.2.2f1_unix.7z">All versions</a>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/watanagashi-v1.0/Watanagashi-UI_5.2.2f1_unix.7z">All versions</a>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/tatarigoroshi-v1.0/Tatarigoroshi-UI_5.4.0f1_win.7z">Steam and GOG</a><br><a href="https://github.com/07th-mod/patch-releases/releases/download/tatarigoroshi-v1.0/Tatarigoroshi-UI_5.3.4p1_unix.7z">MangaGamer</a>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/himatsubushi-v1.0/Himatsubushi-UI_5.4.1f1_unix.7z">All versions</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/onikakushi-v1.0/Onikakushi-UI_5.2.2f1_unix.7z">Ch.1 Mac/Linux</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/watanagashi-v1.0/Watanagashi-UI_5.2.2f1_unix.7z">Ch.2 Mac/Linux</a></td>
+    <td style="text-align: center;">
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/tatarigoroshi-v1.0/Tatarigoroshi-UI_5.4.0f1_win.7z">Steam and GOG UI</a><br>
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/tatarigoroshi-v1.0/Tatarigoroshi-UI_5.3.4p1_unix.7z">MangaGamer UI</a>
+    </td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/himatsubushi-v1.0/Himatsubushi-UI_5.4.1f1_unix.7z">Ch.4 Mac/Linux</a></td>
     </tr>
     </tbody>
     </table>
@@ -140,36 +146,45 @@ Please select a tab below to access the downloads that you require.
     <tbody>
     <tr class="odd">
     <td style="text-align: center;">Patch</td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/meakashi/releases/latest">Download👀</a></td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/tsumihoroboshi/releases/latest">Download👀</a></td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/minagoroshi/releases/latest">Download👀</a></td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/matsuribayashi/releases/latest">Download👀</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/meakashi/releases/latest">Ch.5 Patch👀</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/tsumihoroboshi/releases/latest">Ch.6 Patch👀</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/minagoroshi/releases/latest">Ch.7 Patch👀</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/matsuribayashi/releases/latest">Ch.8 Patch👀</a></td>
     </tr>
     <tr class="even">
     <td style="text-align: center;">Base Assets</td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/meakashi-v1.0/meakashi-base.7z">Download</a></td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/tsumihoroboshi-v1.0/tsumihoroboshi-base.7z">Download</a></td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/minagoroshi-v1.0/minagoroshi-base.7z">Download</a></td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/matsuribayashi-v1.0/matsuribayashi-base.7z">Download</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/meakashi-v1.0/meakashi-base.7z">Ch.5 Base</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/tsumihoroboshi-v1.0/tsumihoroboshi-base.7z">Ch.6 Base</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/minagoroshi-v1.0/minagoroshi-base.7z">Ch.7 Base</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/matsuribayashi-v1.0/matsuribayashi-base.7z">Ch.8 Base</a></td>
     </tr>
     <tr class="even">
     <td style="text-align: center;">UI Mod (Windows)</td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/meakashi-v1.0/Meakashi-UI_5.5.3p3_win.7z">All versions</a><br><a href="https://github.com/07th-mod/patch-releases/releases/download/meakashi-v1.0/Meakashi-UI_5.5.3p1_win.7z">GOG (alternative)†</a></td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/tsumihoroboshi-v1.0/Tsumihoroboshi-UI_5.5.3p3_win.7z">All versions</a></td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/minagoroshi-v1.0/Minagoroshi-UI_5.6.7f1_win.7z">All versions</a></td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/matsuribayashi-v1.0/Matsuribayashi-UI_2017.2.5_win.7z">All versions</a></td>
+    <td style="text-align: center;">
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/meakashi-v1.0/Meakashi-UI_5.5.3p3_win.7z">Win Default</a><br>
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/meakashi-v1.0/Meakashi-UI_5.5.3p1_win.7z">Win GOG†</a>
+    </td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/tsumihoroboshi-v1.0/Tsumihoroboshi-UI_5.5.3p3_win.7z">Ch.6 Win UI</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/minagoroshi-v1.0/Minagoroshi-UI_5.6.7f1_win.7z">Ch.7 Win UI</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/matsuribayashi-v1.0/Matsuribayashi-UI_2017.2.5_win.7z">Ch.8 Win UI</a></td>
     </tr>
     <tr class="odd">
     <td style="text-align: center;">UI Mod (Mac/Linux)</td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/meakashi-v1.0/Meakashi-UI_5.5.3p3_unix.7z">All versions</a><br><a href="https://github.com/07th-mod/patch-releases/releases/download/meakashi-v1.0/Meakashi-UI_5.5.3p1_unix.7z">GOG (alternative)†</a></td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/tsumihoroboshi-v1.0/Tsumihoroboshi-UI_5.5.3p3_unix.7z">All versions</a></td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/minagoroshi-v1.0/Minagoroshi-UI_5.6.7f1_unix.7z">All versions</a></td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/matsuribayashi-v1.0/Matsuribayashi-UI_2017.2.5_unix.7z">All versions</a><br><a href="https://github.com/07th-mod/patch-releases/releases/download/matsuribayashi-v1.0/Matsuribayashi-UI_2017.2.5_unix_gog_mg.7z">MangaGamer/GOG(alternative)</a></td>
+    <td style="text-align: center;">
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/meakashi-v1.0/Meakashi-UI_5.5.3p3_unix.7z">Default</a><br>
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/meakashi-v1.0/Meakashi-UI_5.5.3p1_unix.7z">GOG†</a>
+    </td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/tsumihoroboshi-v1.0/Tsumihoroboshi-UI_5.5.3p3_unix.7z">Ch.6 Mac/Linux</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/minagoroshi-v1.0/Minagoroshi-UI_5.6.7f1_unix.7z">Ch.7 Mac/Linux</a></td>
+    <td style="text-align: center;">
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/matsuribayashi-v1.0/Matsuribayashi-UI_2017.2.5_unix.7z">Default</a><br>
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/matsuribayashi-v1.0/Matsuribayashi-UI_2017.2.5_unix_gog_mg.7z">MG/GOG (alt)</a>
+    </td>
     </tr>
     <tr class="odd">
     <td style="text-align: center;">Compatibility packs</td>
     <td style="text-align: center;">None</td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/tsumihoroboshi-v1.0/Tsumihoroboshi-System.7z">Windows (MangaGamer Answer Arcs Bundle only)</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/tsumihoroboshi-v1.0/Tsumihoroboshi-System.7z">Windows<br>(MangaGamer Answer<br>Arcs Bundle only)</a></td>
     <td style="text-align: center;">None</td>
     <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/matsuribayashi-v1.0/Matsuribayashi-System.7z">Windows (GOG only)</a><br><a href="https://github.com/07th-mod/patch-releases/releases/download/matsuribayashi-v1.0/Matsuribayashi-System_unix.7z">Linux (GOG only)</a></td>
     </tr>
@@ -178,9 +193,7 @@ Please select a tab below to access the downloads that you require.
 
     👀 Extract the `Patch` and `Update` archives LAST, after all other files (should combine with the existing `HigurashiEp0X_Data` folder). Overwrite any files if asked.
 
-    § Use this pack with the new (since the 2019 april BGM update) setup files called something like `setup_higurashi_when_they_cry_hou_-_ch.5_meakashi_1.0_bgm__sfx_update_(28574).exe`
-
-    † If the regular "GOG" UI file does not work, try the "old" version (compatible with an older GOG release of the game).
+    † If the regular "GOG" UI file does not work, try the "Default" version (compatible with an older GOG release of the game).
 
 === "Extra Arcs"
 
@@ -197,13 +210,13 @@ Please select a tab below to access the downloads that you require.
     <tbody>
     <tr class="odd">
     <td style="text-align: center;">Patch</td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/higurashi-rei/releases/latest">Download👀</a></td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/hou-plus/releases/latest">Patch Download👀</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/higurashi-rei/releases/latest">Ch.9 Patch 👀</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/hou-plus/releases/latest">Ch.10 Patch 👀</a></td>
     </tr>
     <tr class="even">
     <td style="text-align: center;">Base Assets</td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/rei-v1.0/rei-base.7z">Download</a></td>
-    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/hou-plus-v1.0/hou-base.7z">Download</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/rei-v1.0/rei-base.7z">Ch.9 Base</a></td>
+    <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/hou-plus-v1.0/hou-base.7z">Ch.10 Base</a></td>
     </tr>
     <tr class="even">
     <td style="text-align: center;">UI Mod (Windows)</td>
@@ -213,7 +226,7 @@ Please select a tab below to access the downloads that you require.
         <a href="https://github.com/07th-mod/patch-releases/releases/download/rei-v1.0/Rei-UI_2019.4.3_win.7z">MangaGamer Old⚠️</a><br>
     </td>
     <td style="text-align: center;">
-        <a href="https://github.com/07th-mod/patch-releases/releases/download/hou-plus-v1.0/Hou-Plus-UI_2019.4.4_win.7z">All versions</a><br>
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/hou-plus-v1.0/Hou-Plus-UI_2019.4.4_win.7z">Ch.10 Win UI</a><br>
     </td>
     </tr>
     <tr class="odd">
@@ -224,7 +237,7 @@ Please select a tab below to access the downloads that you require.
         <a href="https://github.com/07th-mod/patch-releases/releases/download/rei-v1.0/Rei-UI_2019.4.3_unix.7z">MangaGamer Old⚠️</a><br>
     </td>
     <td style="text-align: center;">
-        <a href="https://github.com/07th-mod/patch-releases/releases/download/hou-plus-v1.0/Hou-Plus-UI_2019.4.4_unix.7z">All versions</a><br>
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/hou-plus-v1.0/Hou-Plus-UI_2019.4.4_unix.7z">Ch.10 UI Mac/Linux</a><br>
     </td>
     </tr>
     </tbody>
@@ -289,21 +302,27 @@ Please select a tab below to access the downloads that you require.
     <tbody>
     <tr class="odd">
     <td>Patch</td>
-    <td><a href="https://github.com/07th-mod/higurashi-console-arcs/releases/latest">Download 👀</a></td>
+    <td><a href="https://github.com/07th-mod/higurashi-console-arcs/releases/latest">Patch 👀</a></td>
     </tr>
     <tr class="even">
-    <td>Assets</td>
-    <td><a href="https://github.com/07th-mod/patch-releases/releases/download/console-arcs-v1.0/console-base.7z.001">Part 1</a><br>
-    <a href="https://github.com/07th-mod/patch-releases/releases/download/console-arcs-v1.0/console-base.7z.002">Part 2</a><br>
-    <a href="https://github.com/07th-mod/patch-releases/releases/download/console-arcs-v1.0/console-base.7z.003">Part 3</a></td>
+    <td>Base Assets</td>
+    <td><a href="https://github.com/07th-mod/patch-releases/releases/download/console-arcs-v1.0/console-base.7z.001">Base Part 1/3</a><br>
+    <a href="https://github.com/07th-mod/patch-releases/releases/download/console-arcs-v1.0/console-base.7z.002">Base Part 2/3</a><br>
+    <a href="https://github.com/07th-mod/patch-releases/releases/download/console-arcs-v1.0/console-base.7z.003">Base Part 3/3</a></td>
     </tr>
     <tr class="odd">
     <td>System files</td>
-    <td><a href="https://github.com/07th-mod/patch-releases/releases/download/console-arcs-v1.0/ConsoleArcs-System_win.7z">Windows</a><br><a href="https://github.com/07th-mod/patch-releases/releases/download/console-arcs-v1.0/ConsoleArcs-System_linux.7z">Linux</a><br><a href="https://github.com/07th-mod/patch-releases/releases/download/console-arcs-v1.0/ConsoleArcs-System_mac.7z">Mac🎮</a></td>
+    <td>
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/console-arcs-v1.0/ConsoleArcs-System_win.7z">Windows System</a><br>
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/console-arcs-v1.0/ConsoleArcs-System_linux.7z">Linux System</a><br>
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/console-arcs-v1.0/ConsoleArcs-System_mac.7z">Mac System🎮</a></td>
     </tr>
     <tr class="even">
     <td>UI Mod</td>
-    <td><a href="https://github.com/07th-mod/patch-releases/releases/download/console-arcs-v1.0/ConsoleArcs-UI_5.4.1f1_win.7z">Windows</a><br><a href="https://github.com/07th-mod/patch-releases/releases/download/console-arcs-v1.0/ConsoleArcs-UI_5.4.1f1_unix.7z">Mac/Linux</a></td>
+    <td>
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/console-arcs-v1.0/ConsoleArcs-UI_5.4.1f1_win.7z">Windows UI</a><br>
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/console-arcs-v1.0/ConsoleArcs-UI_5.4.1f1_unix.7z">Mac/Linux UI</a>
+    </td>
     </tr>
     <tr class="odd">
     </tbody>

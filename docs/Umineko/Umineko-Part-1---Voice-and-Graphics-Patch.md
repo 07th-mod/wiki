@@ -30,7 +30,7 @@ Instructions on installing the Answer Arcs ADV Addon are at the bottom of the pa
 <thead>
 <tr class="header">
 <th>Script</th>
-<th>Base</th>
+<th>Base Assets</th>
 <th>Movie (Linux Only)</th>
 <th>Executable (Optional)</th>
 </tr>
@@ -43,9 +43,9 @@ Instructions on installing the Answer Arcs ADV Addon are at the bottom of the pa
     <a href="https://github.com/07th-mod/umineko-question/raw/fix_clickwait_test_rebase/InDevelopment/ManualUpdates/0.utf?filename=0.u">-Experimental<br>(Right-click, Save-As<br>then rename as 0.u)</a>
 </td>
 <td>
-    <a href="https://github.com/07th-mod/patch-releases/releases/download/umineko-question-v1.0/umineko-question-base-full.7z.001">Base Part 1/3</a><br>
-    <a href="https://github.com/07th-mod/patch-releases/releases/download/umineko-question-v1.0/umineko-question-base-full.7z.002">Base Part 2/3</a><br>
-    <a href="https://github.com/07th-mod/patch-releases/releases/download/umineko-question-v1.0/umineko-question-base-full.7z.003">Base Part 3/3</a>
+    <a href="https://github.com/07th-mod/patch-releases/releases/download/umineko-question-v1.0/umineko-question-base-full.7z.001">Base Assets Part 1/3</a><br>
+    <a href="https://github.com/07th-mod/patch-releases/releases/download/umineko-question-v1.0/umineko-question-base-full.7z.002">Base Assets Part 2/3</a><br>
+    <a href="https://github.com/07th-mod/patch-releases/releases/download/umineko-question-v1.0/umineko-question-base-full.7z.003">Base Assets Part 3/3</a>
 </td>
 <td>
     <a href="https://github.com/07th-mod/patch-releases/releases/download/umineko-question-v1.0/Umineko-Update-1080p-v3_2019_01_03_MAC_LINUX.7z">Linux/MacOS Movie</a><br>
@@ -67,7 +67,7 @@ Instructions on installing the Answer Arcs ADV Addon are at the bottom of the pa
 <thead>
 <tr class="header">
 <th>Script</th>
-<th>Base</th>
+<th>Base Assets</th>
 <th>Executable</th>
 </tr>
 </thead>
@@ -79,10 +79,10 @@ Instructions on installing the Answer Arcs ADV Addon are at the bottom of the pa
     <a href="https://github.com/07th-mod/umineko-answer/raw/master_no_clickwait_fix/0.utf" download>-Experimental<br>(Right-click, Save-As<br>then rename as 0.u)</a>
 </td>
 <td>
-    <a href="https://github.com/07th-mod/patch-releases/releases/download/umineko-answer-v1.0/umineko-answer-base-nvl.7z.001">Base Part 1/4</a><br>
-    <a href="https://github.com/07th-mod/patch-releases/releases/download/umineko-answer-v1.0/umineko-answer-base-nvl.7z.002">Base Part 2/4</a><br>
-    <a href="https://github.com/07th-mod/patch-releases/releases/download/umineko-answer-v1.0/umineko-answer-base-nvl.7z.003">Base Part 3/4</a><br>
-    <a href="https://github.com/07th-mod/patch-releases/releases/download/umineko-answer-v1.0/umineko-answer-base-nvl.7z.004">Base Part 4/4</a><br>
+    <a href="https://github.com/07th-mod/patch-releases/releases/download/umineko-answer-v1.0/umineko-answer-base-nvl.7z.001">Base Assets Part 1/4</a><br>
+    <a href="https://github.com/07th-mod/patch-releases/releases/download/umineko-answer-v1.0/umineko-answer-base-nvl.7z.002">Base Assets Part 2/4</a><br>
+    <a href="https://github.com/07th-mod/patch-releases/releases/download/umineko-answer-v1.0/umineko-answer-base-nvl.7z.003">Base Assets Part 3/4</a><br>
+    <a href="https://github.com/07th-mod/patch-releases/releases/download/umineko-answer-v1.0/umineko-answer-base-nvl.7z.004">Base Assets Part 4/4</a><br>
 </td>
 <td>
     <a href="https://github.com/07th-mod/patch-releases/releases/download/umineko-answer-v1.0/umineko-answer-nvl-exe.7z">Executable (For Repair)</a> <br>
@@ -116,7 +116,7 @@ Common steps are the same for all platforms. The remaining steps are **different
 
 1. Download and extract these archives to the game folder:
 
-     - The "base" archive
+     - The Base Assets (`base`) archive
      - For Linux or Mac users on the Question Arcs, the "movie" archive
 
 2. When you extracted the voice archive, it should have generated an `arc4.nsa` and `arc5.nsa` file. After that, **please check your arc.nsa files are sequential**:
@@ -158,6 +158,15 @@ Common steps are the same for all platforms. The remaining steps are **different
 >Error (07th mod): The script file '0.utf' is missing from the game directory. https://discord.gg/acSbBtD.
 
 Try step 8 again if you get this error.
+
+### Repairing the patch
+
+If you think your previously modded executable was overwritten by Steam (due to an Update or similar), try the following:
+
+- Download and extract the "script" file/archive
+- Download adn extract the "executable" archive
+
+If the mod is still not repaired or not behaving correctly, try repeating a normal install.
 
 ----
 
@@ -244,9 +253,9 @@ Normally, there is no reason to install the legacy version of the Question Arcs.
 Installation Instructions:
 
 1. Extract the base archives below:
-    - [Base Part 1/3](https://github.com/07th-mod/patch-releases/releases/download/umineko-legacy-v1.0/umineko-legacy-1707x1280.7z.001)
-    - [Base Part 2/3](https://github.com/07th-mod/patch-releases/releases/download/umineko-legacy-v1.0/umineko-legacy-1707x1280.7z.002)
-    - [Base Part 3/3](https://github.com/07th-mod/patch-releases/releases/download/umineko-legacy-v1.0/umineko-legacy-1707x1280.7z.003)
+    - [Base Assets Part 1/3](https://github.com/07th-mod/patch-releases/releases/download/umineko-legacy-v1.0/umineko-legacy-1707x1280.7z.001)
+    - [Base Assets Part 2/3](https://github.com/07th-mod/patch-releases/releases/download/umineko-legacy-v1.0/umineko-legacy-1707x1280.7z.002)
+    - [Base Assets Part 3/3](https://github.com/07th-mod/patch-releases/releases/download/umineko-legacy-v1.0/umineko-legacy-1707x1280.7z.003)
 2. **Ensure your your arc.nsa files are sequential**:
     - If you have 5 `.nsa` files [`arc1.nsa`, `arc2.nsa`, `arc3.nsa`, `arc4.nsa`, `arc5.nsa`]
         - No extra steps are required

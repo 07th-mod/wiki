@@ -32,13 +32,10 @@ Please select a tab below depending on your operating system.
         * On Steam: open your Steam library, choose the game from the list, right click on it and click on ``Properties``. Switch to the ``LOCAL FILES`` tab and click on ``Browse local files...``)
     2. In the below "Downloads" table, download **one file of each type**. That is, you'll need the following archives:
           * Patch
-          * Graphics patch
-          * Voices
-          * BGM & SE
-          * Movies (choose ONE according to your operating system)
+          * Base Assets
           * UI Mod (choose ONE according to your operating system and game version)
-          * Update
-          * Console Arcs Only: System Files (choose ONE according to your operating system)
+          * System Files/Compatability Pack (if available/necessary)
+          * For Chapters 2,3,4, you can install "Optional Packs" if desired
     3. Navigate inside ``HigurashiEp0X_Data/StreamingAssets`` (where ``X`` is the chapter number) and **delete** the folders ``CG`` and ``CGAlt``
         * This is not a requirement but we recommend to delete the mentioned folders to save disk space and avoid any random issues
     4. Now, extract the archives as follows:
@@ -56,13 +53,10 @@ Please select a tab below depending on your operating system.
         * The game folder (called ``Contents``) should contain some folders like ``Resources``, ``MacOS``, ``Plugins``, ``Frameworks``, and others - we will only be modifying the ``Resources`` folder
     2. In the below "Downloads" table, download **one file of each type**. That is, you'll need the following archives:
           * Patch
-          * Graphics patch
-          * Voices
-          * BGM & SE
-          * Movies (choose ONE according to your operating system)
+          * Base Assets
           * UI Mod (choose ONE according to your operating system and game version)
-          * Update
-          * Console Arcs Only: System Files (choose ONE according to your operating system)
+          * System Files/Compatability Pack (if available/necessary)
+          * Optionally install "Optional Packs" (only for Chapters 2,3,4)
     3. Navigate inside ``Resources/Data/StreamingAssets`` and **delete** the folders ``CG`` and ``CGAlt``
         * This is not a requirement but we recommend to delete the mentioned folders to save disk space and avoid any random issues
     4. Now, extract the archives as follows:
@@ -72,7 +66,6 @@ Please select a tab below depending on your operating system.
     6. Open a **terminal window** in the ``Resources/Data`` folder. [Follow these steps if you don't know how to do it](https://stackoverflow.com/a/7054045)
         1. In the terminal window, type: ``rsync -avP HigurashiEp*/* .`` and hit enter (type the ``*`` literally)
         2. Wait until the files are copied to the right place
-    7. Extract the BGM & SE archive inside the ``Resources/Data/StreamingAssets`` folder
     8. Delete all the downloaded files and any leftover ``HigurashiEp0X_Data`` folders (where ``X`` is the chapter number) after ensuring the game is working as expected
 
 ***
@@ -103,7 +96,7 @@ Please select a tab below to access the downloads that you require.
     <td style="text-align: center;"><a href="https://github.com/07th-mod/himatsubushi/releases/latest">Download👀</a></td>
     </tr>
     <tr class="even">
-    <td style="text-align: center;">All assets</td>
+    <td style="text-align: center;">Base Assets</td>
     <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/onikakushi-v1.0/onikakushi-base.7z">Download</a></td>
     <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/watanagashi-v1.0/watanagashi-base.7z">Download</a></td>
     <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/tatarigoroshi-v1.0/tatarigoroshi-base.7z">Download</a></td>
@@ -125,12 +118,8 @@ Please select a tab below to access the downloads that you require.
     </tr>
     </tbody>
     </table>
-    
-    **Please see [this FAQ](FAQ.md#higurashi-music-and-sound-effects-changes-april-update) to understand what the BGM/SE Fixes do.** In summary, they partially revert the BGM/SE changes made in the April Higurashi update.
 
     👀 Extract the `Patch` and `Update` archives LAST, after all other files (should combine with the existing `HigurashiEp0X_Data` folder). Overwrite any files if asked.
-
-    ⚠️ Unlike all the other archives, the BGM/SE archive should be extracted to the ``HigurashiEp0X_Data/StreamingAssets`` folder (MacOS users should extract this archive second last).
 
 === "Answer Arcs"
 
@@ -157,7 +146,7 @@ Please select a tab below to access the downloads that you require.
     <td style="text-align: center;"><a href="https://github.com/07th-mod/matsuribayashi/releases/latest">Download👀</a></td>
     </tr>
     <tr class="even">
-    <td style="text-align: center;">All assets</td>
+    <td style="text-align: center;">Base Assets</td>
     <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/meakashi-v1.0/meakashi-base.7z">Download</a></td>
     <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/tsumihoroboshi-v1.0/tsumihoroboshi-base.7z">Download</a></td>
     <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/minagoroshi-v1.0/minagoroshi-base.7z">Download</a></td>
@@ -186,12 +175,8 @@ Please select a tab below to access the downloads that you require.
     </tr>
     </tbody>
     </table>
-    
-    **Please see [this FAQ](FAQ.md#higurashi-music-and-sound-effects-changes-april-update) to understand what the BGM/SE Fixes do.** In summary, they partially revert the BGM/SE changes made in the April Higurashi update.
 
     👀 Extract the `Patch` and `Update` archives LAST, after all other files (should combine with the existing `HigurashiEp0X_Data` folder). Overwrite any files if asked.
-
-    ⚠️ Unlike all the other archives, the BGM/SE archive should be extracted to the ``HigurashiEp0X_Data/StreamingAssets`` folder (MacOS users should extract this archive second last).
 
     § Use this pack with the new (since the 2019 april BGM update) setup files called something like `setup_higurashi_when_they_cry_hou_-_ch.5_meakashi_1.0_bgm__sfx_update_(28574).exe`
 
@@ -216,7 +201,7 @@ Please select a tab below to access the downloads that you require.
     <td style="text-align: center;"><a href="https://github.com/07th-mod/hou-plus/releases/latest">Patch Download👀</a></td>
     </tr>
     <tr class="even">
-    <td style="text-align: center;">All assets</td>
+    <td style="text-align: center;">Base Assets</td>
     <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/rei-v1.0/rei-base.7z">Download</a></td>
     <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/hou-plus-v1.0/hou-base.7z">Download</a></td>
     </tr>
@@ -247,7 +232,7 @@ Please select a tab below to access the downloads that you require.
 
     👀 Extract the `Patch` and `Update` archives LAST, after all other files (should combine with the existing `HigurashiEp0X_Data` folder). Overwrite any files if asked.
 
-    ⚠️ We recommend you re-download the latest unmodded game installer from MangaGamer and re-install, rather than using this file.
+    ⚠️ You only need this if you downloaded the unmodded game installer an extremly long time ago. We recommend you re-download the latest unmodded game installer from MangaGamer and re-install, rather than using this file.
 
 === "Optional Packs"
 
@@ -304,7 +289,7 @@ Please select a tab below to access the downloads that you require.
     <tbody>
     <tr class="odd">
     <td>Patch</td>
-    <td><a href="https://github.com/07th-mod/higurashi-console-arcs/releases/latest">Download</a></td>
+    <td><a href="https://github.com/07th-mod/higurashi-console-arcs/releases/latest">Download 👀</a></td>
     </tr>
     <tr class="even">
     <td>Assets</td>
@@ -326,8 +311,6 @@ Please select a tab below to access the downloads that you require.
 
     👀 Extract the `Patch` archive LAST, after all other files (should combine with the existing `HigurashiEp04_Data` folder). Overwrite any files if asked.
 
-    🚩 Extract these files normally (should combine with the existing `HigurashiEp04_Data` folder). No special handling is required.
-
     🎮 On MacOS extract this file to where the `Contents` folder is located.
 
 === "Language Patches"
@@ -337,6 +320,6 @@ Please select a tab below to access the downloads that you require.
 
 ## Optional Steps After Install
 
-## Console Arcs Only
+### Console Arcs Only
 
 To make the Console Arcs appear in Steam with the correct logos and name, please follow these instructions: [Console Arcs Steam Library Tutorial](steam-add-console-arcs/steam-add-console-arcs.md)

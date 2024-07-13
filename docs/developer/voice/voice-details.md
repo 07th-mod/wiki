@@ -7,15 +7,8 @@ The first step for every patch is to make the voice patch. It all starts from th
 
 To make these patches, of course, we need some resources. In the list below you can find the links to every resource available in our project:
 
-* [Higurashi-Spectrum.zip](https://07th-mod.com/higurashi_resources/Higurashi-Spectrum.tar.bz2) - Spectrum files used to make lipsync more realistic. Check [Lipsync and Voice Analysis](https://github.com/07th-mod/higurashi-dev-guides/wiki/Lipsync-and-Voice-Analysis) for more information.
-* [HigurashiPS3-Script.zip](https://07th-mod.com/archive/HigurashiPS3-Script.zip) - Full transcript of every voice in the game. Directly taken from the PS3 script, it's a requirement to use this file while doing manual work. See [Manual work details](https://github.com/07th-mod/resources/releases/download/Nipah/Manual-work-details).
-* [HigurashiPS3-Voices01.zip](https://07th-mod.com/archive/HigurashiPS3-Voices01.zip) - Full set of voice files from the PS3 game. 1/4.
-* [HigurashiPS3-Voices02.zip](https://07th-mod.com/archive/HigurashiPS3-Voices02.zip) - Full set of voice files from the PS3 game. 2/4.
-* [HigurashiPS3-Voices03.zip](https://07th-mod.com/archive/HigurashiPS3-Voices03.zip) - Full set of voice files from the PS3 game. 3/4.
-* [HigurashiPS3-Voices04.zip](https://07th-mod.com/archive/HigurashiPS3-Voices04.zip) - Full set of voice files from the PS3 game. 4/4.
-* [HigurashiPS2-Voices01.zip](https://07th-mod.com/archive/HigurashiPS2-Voices01.zip) - Full set of voice files from the PS2 game. 1/2.
-* [HigurashiPS2-Voices02.zip](https://07th-mod.com/archive/HigurashiPS2-Voices02.zip) - Full set of voice files from the PS2 game. 2/2.
-
+* HigurashiPS3 Script: TODO - ask mod team if you need this - Full transcript of every voice in the game. Directly taken from the PS3 script, it's a requirement to use this file while doing manual work. See [Manual work details](https://github.com/07th-mod/resources/releases/download/Nipah/Manual-work-details).
+* Higruashi Voices: TODO - ask mod team if you need these
 
 ## PlaySE
 

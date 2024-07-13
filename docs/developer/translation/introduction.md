@@ -10,7 +10,7 @@ I'm sure you know what to do with scripts so I'll focus on things like UI that a
 
 In the UI some texts are embedded in images, some are not. But everything is in the `sharedassets0.asset` file.
 
-For editing the UI images you will need our [PSDs](https://07th-mod.com/misc/translation_psds.7z) and translate all texts you can find there.
+For editing the UI images you will need our [PSDs](https://github.com/07th-mod/patch-releases/releases/download/developer-v1.0/translation_psds.7z) and translate all texts you can find there.
 
 Then you will need to use our [python scripts](https://github.com/07th-mod/ui-editing-scripts) + [UABE](https://7daystodie.com/forums/showthread.php?22675-Unity-Assets-Bundle-Extractor) to change the texts that don't appear in the images and to import everything back into the asset file. This [documentation](https://github.com/07th-mod/ui-editing-scripts) should guide you through the process.
 

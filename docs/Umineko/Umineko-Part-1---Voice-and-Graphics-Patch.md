@@ -244,10 +244,9 @@ Normally, there is no reason to install the legacy version of the Question Arcs.
 Installation Instructions:
 
 1. Extract the base archives below:
-    - [Base Part 1/4](https://github.com/07th-mod/patch-releases/releases/download/umineko-legacy-v1.0/umineko-legacy-1707x1280.7z.001)
-    - [Base Part 2/4](https://github.com/07th-mod/patch-releases/releases/download/umineko-legacy-v1.0/umineko-legacy-1707x1280.7z.002)
-    - [Base Part 3/4](https://github.com/07th-mod/patch-releases/releases/download/umineko-legacy-v1.0/umineko-legacy-1707x1280.7z.003)
-    - [Base Part 4/4](https://github.com/07th-mod/patch-releases/releases/download/umineko-legacy-v1.0/umineko-legacy-1707x1280.7z.004)
+    - [Base Part 1/3](https://github.com/07th-mod/patch-releases/releases/download/umineko-legacy-v1.0/umineko-legacy-1707x1280.7z.001)
+    - [Base Part 2/3](https://github.com/07th-mod/patch-releases/releases/download/umineko-legacy-v1.0/umineko-legacy-1707x1280.7z.002)
+    - [Base Part 3/3](https://github.com/07th-mod/patch-releases/releases/download/umineko-legacy-v1.0/umineko-legacy-1707x1280.7z.003)
 2. **Ensure your your arc.nsa files are sequential**:
     - If you have 5 `.nsa` files [`arc1.nsa`, `arc2.nsa`, `arc3.nsa`, `arc4.nsa`, `arc5.nsa`]
         - No extra steps are required

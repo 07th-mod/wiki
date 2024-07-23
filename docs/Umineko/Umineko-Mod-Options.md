@@ -74,7 +74,7 @@ There are two main install options for the question arcs - the full patch, and t
             <td>
                 <ul>
                     <li>Adds voices to the base game (no other major changes)</li>
-                    <li>Note that the voice-only Answer arcs do not support <strong>Japanese</strong> Text. Technically the voice-only Question arcs do support Japanese text, but you won't be able to play the same way when you get to the Answer arcs, so <strong>it is not recommended.</strong></li>
+                    <li>Note that the <strong>voice-only Answer arcs do not support Japanese</strong> Text. Technically the voice-only Question arcs do support Japanese text, but you won't be able to play the same way when you get to the Answer arcs, so <strong>if you want to play in Japanese, we do not recommended playing the voice-only mod</strong></li>
                     <li>1.9GB Download, 5GB free space required</li>
                 </ul>
             </td>

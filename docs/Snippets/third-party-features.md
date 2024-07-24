@@ -32,9 +32,9 @@ These features can be installed as an installer option (or manually), but please
         * [Ch.1 Onikakushi Info/Manual Downloads](https://github.com/Xorboth/onikakushi-ita/releases/latest) and [Issues Page](https://github.com/Xorboth/onikakushi-ita/issues)
         * [Ch.2 Watanagashi Info/Manual Downloads](https://github.com/Xorboth/watanagashi-ita/releases/latest) and [Issues Page](https://github.com/Xorboth/watanagashi-ita/issues)
 
-??? info "Simplified Chinese Language Patch (简体中文汉化补丁)"
+??? info "Chinese Language Patch (中文汉化补丁)"
 
-    An addon which provides a conversion of Ch.1 and Ch.6 (so far) to Simplified Chinese. [More details in Simplified Chinese here](https://higurashi.ycx-studios.site).
+    An addon which provides a conversion of Ch.1 to Ch.6 (so far) to Chinese. [More details in Chinese here](https://higurashi.ycx-studios.site).
 
     Please note:
 
@@ -42,10 +42,11 @@ These features can be installed as an installer option (or manually), but please
 
         * Visit the [patch list page](https://higurashi.ycx-studios.site/patch/list/) for all available patches
         * Contact them directly on [their website](https://higurashi.ycx-studios.site/about/)
-        * A version in Simplified Chinese of the [install guide](https://higurashi.ycx-studios.site/guide/07th-mod/main/) is available in their website
+        * A version in Chinese of the [install guide](https://higurashi.ycx-studios.site/guide/07th-mod/main/) is available in their website
+        * A high-speed download services for 07th-mod files self-hosted located in the mainland of China
         * Check out [their website](https://www.chinalcmod.com)
         
-    非官方简体中文汉化补丁, 目前仅提供第一章与第六章的版本. [更多信息请点这里](https://higurashi.ycx-studios.site).
+    非官方汉化补丁, 目前仅提供第一章到第六章的版本. [更多信息请点这里](https://higurashi.ycx-studios.site).
     
     请注意:
     
@@ -53,5 +54,6 @@ These features can be installed as an installer option (or manually), but please
     
         * 访问[汉化补丁列表](https://higurashi.ycx-studios.site/patch/list/)查看所有可用的补丁
         * 直接在[补丁发布页面](https://higurashi.ycx-studios.site/about/)联系我们
-        * 另外我们也提供[07th-mod 使用指南](https://higurashi.ycx-studios.site/guide/07th-mod/main/)的简体中文翻译版本
+        * 我们提供[07th-mod 使用指南](https://higurashi.ycx-studios.site/guide/07th-mod/main/)的中文翻译版本
+        * 我们提供位于中国大陆地区 07th-mod 所需文件自托管的高速下载服务
         * 访问[我们的网站](https://www.chinalcmod.com)

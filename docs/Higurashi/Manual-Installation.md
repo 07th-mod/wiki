@@ -117,7 +117,7 @@ Please select a tab below to access the downloads that you require.
     <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/onikakushi-v1.0/Onikakushi-UI_5.2.2f1_unix.7z">Ch.1 Mac/Linux</a></td>
     <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/watanagashi-v1.0/Watanagashi-UI_5.2.2f1_unix.7z">Ch.2 Mac/Linux</a></td>
     <td style="text-align: center;">
-        <a href="https://github.com/07th-mod/patch-releases/releases/download/tatarigoroshi-v1.0/Tatarigoroshi-UI_5.4.0f1_win.7z">Steam and GOG UI</a><br>
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/tatarigoroshi-v1.0/Tatarigoroshi-UI_5.4.0f1_unix.7z">Steam and GOG UI</a><br>
         <a href="https://github.com/07th-mod/patch-releases/releases/download/tatarigoroshi-v1.0/Tatarigoroshi-UI_5.3.4p1_unix.7z">MangaGamer UI</a>
     </td>
     <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/himatsubushi-v1.0/Himatsubushi-UI_5.4.1f1_unix.7z">Ch.4 Mac/Linux</a></td>

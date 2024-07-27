@@ -137,7 +137,9 @@ For English, you'll need to collect a few more files, since the font behind `msg
 
 # Adding Font Support for a New Language (Chapters 1-8 ONLY)
 
-The first thing you'll need is a [copy of Unity 5](https://unity3d.com/get-unity/download/archive) (I used 5.5.5 but I would expect newer versions of Unity 5 to work as well).  Once you have that, create a new project, go to the Asset Store, and search for and download TextMeshPro.
+To generate fonts for Chapters 1-8, you need a copy of Unity 5 with the Text Mesh Pro plugin installed.
+
+**As Unity 5 and the Text Mesh Pro Plugin can't be easily downloaded anymore, I've saved a copy of the Unity 5 installer and the Text Mesh Pro Plugin here: [Unity and Text Mesh Pro Mirror (Onedrive Link)](https://1drv.ms/f/s!Ar-lAVeetlqhhf01Us28Zbo3TNvdow?e=2rWbiE)**. I would recommend you save and backup a copy of these files.
 
 ### Preparing the character list
 
@@ -171,7 +173,9 @@ Also, these instructions roughly [follow this guide in Korean](https://snowyegre
 
 ## Creating the font
 
-1. Install the version of Unity matching the game (roughly). For example, Rei is currently either verison `2019.4.36f1` or version `2019.4.40f1`, so we install version 2019.4.36 (generally the font generated on 2019.4.36 should work for all 2019.4.* versions). You can download them from the [Unity Download Archive](https://unity.com/releases/editor/archive).
+1. Install the version of Unity matching the game (roughly). For example, Rei is currently either verison `2019.4.36f1` or version `2019.4.40f1`, so we install version 2019.4.36 (generally the font generated on 2019.4.36 should work for all 2019.4.* versions). You can download them from the:
+	* [Unity Download Archive](https://unity.com/releases/editor/archive)
+	* [Unity and Text Mesh Pro Mirror (Onedrive Link)](https://1drv.ms/f/s!Ar-lAVeetlqhhf01Us28Zbo3TNvdow?e=2rWbiE).
 2. Create a new project
 3. Click Window->TextMeshPro->Font Asset Creator
 4. Follow the above "Adding Font Support for a New Language (Chapters 1-8 ONLY)" instructions to make a new font asset (starting from "Preparing the character list" up to and including "Generating the SDF font"), but **DO NOT run TMPAssetConverter**. As a summary:
@@ -196,7 +200,7 @@ Also, these instructions roughly [follow this guide in Korean](https://snowyegre
 
 You might see a grey box around letters (perhaps only when the font weight or outline is adjusted).
 
-See this aricle: https://dev.to/clpsplug/beware-of-padding-in-textmeshpro-8ae (https://web.archive.org/web/20231203120842/https://dev.to/clpsplug/beware-of-padding-in-textmeshpro-8ae)
+See this article: [Beware of padding in Text Mesh Pro](https://web.archive.org/web/20231203120842/https://dev.to/clpsplug/beware-of-padding-in-textmeshpro-8ae)
 
 This might also be unnoticeable using the normal font settings, but become a problem when you try to adjust the outline/font weight in-game.
 

@@ -7,7 +7,7 @@ The first step for every patch is to make the voice patch. It all starts from th
 
 To make these patches, of course, we need some resources. In the list below you can find the links to every resource available in our project:
 
-* HigurashiPS3 Script: TODO - ask mod team if you need this - Full transcript of every voice in the game. Directly taken from the PS3 script, it's a requirement to use this file while doing manual work. See [Manual work details](https://github.com/07th-mod/resources/releases/download/Nipah/Manual-work-details).
+* HigurashiPS3 Script: TODO - ask mod team if you need this - Full transcript of every voice in the game. Directly taken from the PS3 script, it's a requirement to use this file while doing manual work. See [Manual work details](manual-work-details.md).
 * Higruashi Voices: TODO - ask mod team if you need these
 
 ## PlaySE

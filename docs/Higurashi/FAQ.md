@@ -160,12 +160,6 @@ Windows has a feature which lets you set volumes for individual apps, which coul
 - Click on "App volume and device preferences"
 - Check if the game is muted (open the game now if it's not already open)
 
-### Matsuribayashi Ch. 8 - Fatal error in gc: get thread context failed
-
-If you get a `Fatal error in gc: get thread context failed` error, you may need to either uninstall your third-party (non-Windows/non-Microsoft) antivirus software, or unblock the game from your Antivirus Software.
-
-AVG antivirus in particular is known to cause this issue.
-
 ### Text Log or other user interfaces (UI) stuck on screen
 
 Even on the base game, it is sometimes possible to have various UI bugs, like pop-up menus or windows that you are unable to close.
@@ -193,6 +187,35 @@ This error occurs if you are using a USB to HDMI adapter with a driver provided 
 To fix this error, you need to disable (or uninstall?) the driver in Device Manager, at Device Manager > System Devices > FrescoLogic Proxy Display Adapter, as shown in the below screenshot:
 
 ![Fresco Logic Device Manager Screenshot](img/device-manager-frescologic-driver.png)
+
+## Known Issues - Chapter or Version Specific
+
+Record any known issues specific to a game here (for example, only Ch. 5, or only Mangagamer's Unix release).
+
+### Matsuribayashi Ch. 8
+
+#### Extras menu locks itself after reading the final tip
+
+Matsuribayashi Ch. 8 has a longstanding bug (since 2020) where completing the final tip of the game causes both "Staff Room" and "Tips" to disappear from the "Extras" menu.
+
+There are two workarounds for this issue:
+
+- **Option 1**: Force a game clear using the F10 menu (confirmed working as of 2024-01-11)
+    1. Press F10
+    2. Go to the "Troubleshooting" Tab
+    3. At the top under "Experimental Gameplay Tools" click "Force Game Clear" 3 times. It should now say the game is cleared.
+    4. Restart the game
+
+- **Option 2**: Use the chapter select to jump to the last part of the game, then CTRL-skip through it to unlock it again.
+
+
+If you want to report more information or see progress on this issue, see Github issue ["Extras menu locking itself after completion (#26)"](https://github.com/07th-mod/matsuribayashi/issues/26).
+
+#### Fatal error in gc: get thread context failed
+
+If you get a `Fatal error in gc: get thread context failed` error, you may need to either uninstall your third-party (non-Windows/non-Microsoft) antivirus software, or unblock the game from your Antivirus Software.
+
+AVG antivirus in particular is known to cause this issue.
 
 ## Known Issues - Manual Install
 

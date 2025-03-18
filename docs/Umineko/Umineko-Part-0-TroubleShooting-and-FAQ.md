@@ -34,7 +34,13 @@ These crashes can happen on the unmodded game too, but it's possible the increas
     - This issue happens on some Nvidia systems
     - The stuttering happens **when you move the mouse**
     - The stuttering issue happens even even on the base game
-- To solve this issue (as a workaround) use just the keyboard or a controller to play the game, rather than your mouse
+- To **solve** or **workaround** this issue:
+    - **WORKAROUND**: use just the keyboard or a controller to play the game, rather than your mouse
+    - **FIX**: The "Experimental Engine/Executable" option in the installer contains a fix for this issue. However:
+        - Some users report crashes when playing through Umineko when using the experimental engine.
+        - Saves might not be compatible between the Experimental Engine and the Stock Engine, so reverting back stock may be difficult
+        - For this reason, we only recommend this method if you don't mind the risk and don't mind messing around.
+        - If you try this method, please give feedback to us if it worked or not. [Refer to this github issue](https://github.com/07th-mod/umineko-question/issues/181) or open a new issue/message us on Discord.
 
 - We've also had a report that having a PS4 controller plugged in can cause this issue - try unplugging any controllers you have and see if it fixes the issue.
 

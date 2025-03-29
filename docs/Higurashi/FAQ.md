@@ -98,7 +98,7 @@ For details on save file locations, see "Save file locations" near the bottom of
 When debugging this issue, it's worth testing and reporting these things
 
 1. Check the in-game settings to see if the Voice, Music, or Sound Effects volume have been set to zero
-2. Disable / Uninstall / Kill the proccesses associated with ANY "extra" audio related software or drivers installed on your computer!
+2. **Disable / Uninstall / Kill the proccesses associated with ANY "extra" audio related software or drivers installed on your computer!**
     1. The following software (related to audio devices) may interfere with the voice/audio playback of the game, even if you're not using the device associated with them!
         - Razer Synapse
             - Specifically, the old version with the cloud icon. There may be multiple processes running, make sure to close them all/uninstall/disable all of them. Supposedly the new version does not cause   problems, but it's worth closing both
@@ -111,11 +111,21 @@ When debugging this issue, it's worth testing and reporting these things
               - Bluetooth headset software
               - Any third-party software which is related to audio on your computer
     2. Please try disabling/uninstalling/killing the processes associated with the above software (check task manager to make sure the program(s) are completely closed!)
-3. Try closing every program, and then using task manager to kill all processes on your computer (which Windows lets you kill). Then try running the game, to see if one of the processes was interfering.
-4. Check if other chapters of the game have this issue, or it's just this chapter
+    3. Try closing every program, and then using task manager to kill all processes on your computer (which Windows lets you kill). Then try running the game, to see if one of the processes was interfering.
+3. Having **certain characters in your game path** (where the game is on your computer) can cause the game to not be able to read audio files, but still play the opening video just fine:
+    - To test if this is the problem, move your game to a simple path as below. **Please do this even if you think your path is OK, to rule this problem out**.
+        - On Linux or MacOS, try moving the game to `/home/your_username/higurashi`
+        - On Windows, try moving the game to `c:/temp/higurashi`
+    - On Linux:
+        - on certain chapters (e.g Ch.9), it was reported that even having spaces (` `) in your path cause this problem, so please try to eliminate as many special characters as possible (alphanumeric and underscores only) - see this [Higurashi Ch.9 Issue on Github](https://github.com/07th-mod/higurashi-rei/issues/27#issuecomment-2760403144)
+    - On Windows, spaces and dot (`.`) should be OK, but check for
+        - special characters like the number sign (`#`), plus (`+`) etc.
+        - non-english characters (like 木)
+        - or any other strange special characters anywhere in your game path.
+4. Check if other chapters of the game have this issue, or it's just this chapter. The following chapter specific issues are known:
+    - **[Linux - Chapter 9]** Spaces (and possibly other special characters) in the game path breaks all audio, except during opening video
 5. Check if restarting your computer fixes the issue
 6. Try another audio device (for example, your speakers instead of USB/Bluetooth headphones)
-7. Check if you have the number sign (`#`), or any other strange special characters anywhere in your game path. This will cause you to only have sound during the opening video.
 
 Try the above first, and if you still can't fix it, see the below for more help on specific cases:
 

@@ -112,7 +112,7 @@ When debugging this issue, it's worth testing and reporting these things
               - Any third-party software which is related to audio on your computer
     2. Please try disabling/uninstalling/killing the processes associated with the above software (check task manager to make sure the program(s) are completely closed!)
     3. Try closing every program, and then using task manager to kill all processes on your computer (which Windows lets you kill). Then try running the game, to see if one of the processes was interfering.
-3. Having **certain characters in your game path** (where the game is on your computer) can cause the game to not be able to read audio files, but still play the opening video just fine:
+3. **Having special characters in your game path** (where the game is on your computer) can cause the game to not be able to read audio files, but still play the opening video just fine:
     - To test if this is the problem, move your game to a simple path as below. **Please do this even if you think your path is OK, to rule this problem out**.
         - On Linux or MacOS, try moving the game to `/home/your_username/higurashi`
         - On Windows, try moving the game to `c:/temp/higurashi`
@@ -122,6 +122,7 @@ When debugging this issue, it's worth testing and reporting these things
         - special characters like the number sign (`#`), plus (`+`) etc.
         - non-english characters (like 木)
         - or any other strange special characters anywhere in your game path.
+    - If you need to move or change your Steam game install location, follow the instructions here: [https://support.steampowered.com/kb_article.php?ref=7418-YUBN-8129](https://support.steampowered.com/kb_article.php?ref=7418-YUBN-8129)
 4. Check if other chapters of the game have this issue, or it's just this chapter. The following chapter specific issues are known:
     - **[Linux - Chapter 9]** Spaces (and possibly other special characters) in the game path breaks all audio, except during opening video
 5. Check if restarting your computer fixes the issue
@@ -149,12 +150,9 @@ If voices are still not playing, press the **F10** button twice while not in a g
 
     - We had one user report this issue does not affect Chapters 1 and 2, but does affect Chapter 3.
 
-    - If you have `Error: Cannot create FMOD::Sound instance for resource �t�, (Operation could not be performed because specified sound/DSP connection is not ready. )` on your game log, you probably have this issue.
+    - If you have `Error: Cannot create FMOD::Sound instance for resource "", (Operation could not be performed because specified sound/DSP connection is not ready. )` on your game log, you probably have this issue, **specifically you have a special character in your game path!** See **"Special characters"** below.
 
-2. We also had a user had the number sign (`#`) in their game path. This definitely causes all sound to stop working except for the opening movie. Make sure you don't have any special characters in your game path.
-
-    - If you need to move or change your Steam game install location, follow the instructions here: [https://support.steampowered.com/kb_article.php?ref=7418-YUBN-8129](https://support.steampowered.com/kb_article.php?ref=7418-YUBN-8129)
-
+2. Special characters (even **spaces (` `)**) can cause all sound to stop working except for the opening movie. Please see above item **3. "Having special characters in your game path"** under ["There is no sound/audio/BGM/voices"](#there-is-no-soundaudiobgmvoices)
 3. We have also had the below reports, but they may be only coincidental:
 
     - One user fixed it by clearing the registry files for that chapter - but please only do this as a last resort. See "Registry file location and clearing" at the bottom of this page for how to do this.

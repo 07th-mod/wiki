@@ -217,8 +217,9 @@ Please select a tab below to access the downloads that you require.
     <td style="text-align: center;">Base Assets</td>
     <td style="text-align: center;"><a href="https://github.com/07th-mod/patch-releases/releases/download/rei-v1.0/rei-base.7z">Ch.9 Base</a></td>
     <td style="text-align: center;">
-        <a href="https://github.com/07th-mod/patch-releases/releases/download/hou-plus-v1.0/hou-base.7z.001">Base Part 1/2</a><br>
-        <a href="https://github.com/07th-mod/patch-releases/releases/download/hou-plus-v1.0/hou-base.7z.002">Base Part 2/2</a>
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/hou-plus-v1.0/hou-base.7z.001">Base Part 1/3</a><br>
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/hou-plus-v1.0/hou-base.7z.002">Base Part 2/3</a><br>
+        <a href="https://github.com/07th-mod/patch-releases/releases/download/hou-plus-v1.0/hou-og-sprites-backgrounds-v2.7z">Base OG Assets 3/3</a>
     </td>
     </tr>
     <tr class="even">

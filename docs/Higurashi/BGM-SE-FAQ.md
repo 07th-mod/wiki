@@ -28,7 +28,13 @@ You can switch to this BGM/SE using the F10 mod menu, under the 'Audio' tab.
 
 If you want exactly the same BGM/SE as the original Japanese release, we would suggest you play the original Japanese release, as the mod cannot replicate that BGM/SE exactly.
 
-#### Summary of GIN's BGM/SE changes
+### Can GIN's BGM/SE be installed without 07th-mod?
+
+Yes, please see [GIN BGM and SE Restoration Patch (WITHOUT 07th-mod)](other-mods.md#gin-bgm-and-se-restoration-patch-without-07th-mod).
+
+### Summary of GIN's BGM/SE changes
+
+The following changers are made when you install GIN's BGM/SE (either with or without 07th-mod)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

@@ -4,11 +4,11 @@ This page contains Higurashi mods which are not by the 07th-mod team.
 
 ## GIN BGM and SE Restoration Patch (WITHOUT 07th-mod)
 
-This patch restores the BGM and SE to the pre-april update versions, to be used on the unmodded game (for example, a freshly installed game from Steam which has been run at least once).
+This patch restores the BGM and SE to the original Japanese release and/or Pre April Update versions, to be used on the unmodded game (for example, a freshly installed game from Steam).
 
-It is a standalone version of the option "GIN's BGM/SE" in the main 07th-mod Higurashi mod (this is where this option originally came from).
+It is a standalone version of the "GIN's BGM/SE" option in the main 07th-mod Higurashi mod.
 
-For more details, refer to the [BGM/SE FAQ](https://07th-mod.com/wiki/Higurashi/BGM-SE-FAQ/).
+For details on the exact changes made, refer to the [BGM/SE FAQ](https://07th-mod.com/wiki/Higurashi/BGM-SE-FAQ/).
 
 ### GIN BGM and SE Download Link
 

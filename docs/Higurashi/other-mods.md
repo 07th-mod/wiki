@@ -34,7 +34,8 @@ Full Instructions:
             * If you just see an icon called ``HigurashiEpXX`` (where ``X`` is the chapter number), you may need to right click it, then click "Show Package Contents" to show the ``Contents`` folder
             * The game folder (called ``Contents``) should contain some folders like ``Resources``, ``MacOS``, ``Plugins``, ``Frameworks``, and others - we will only be modifying the ``Resources`` folder
 
-5. Delete the **contents** of the `HigurashiEp01_Data/StreamingAssets/CompiledUpdateScripts` folder (not the folder itself)
+5. **For Chapters 5-8**, delete the **contents** of the `HigurashiEpXX_Data/StreamingAssets/CompiledUpdateScripts` folder (not the folder itself).
+    - This is only necessary on Chapters 5-8, but if you accidentally do it for other chapters, it won't break anything
     - For a fresh install, this folder will only contain a `dummy.mg` file
     ![clear-compiled-scripts](img/other-mods/clear-compiled-scripts.gif)
 6. Inside the game folder, overwrite the `HigurashiEPXX` with the corresponding file in the provided archive.

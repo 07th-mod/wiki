@@ -12,7 +12,7 @@ For details on the exact changes made, refer to the [BGM/SE FAQ](https://07th-mo
 
 ### GIN BGM and SE Download Link
 
-# Sorry, temporary took down download link because I messed up the files. Will have it fixed soon - drojf
+Please download the archive from Github: [GIN BGM-SE for Vanilla Higurashi.7z](https://github.com/07th-mod/patch-releases/releases/download/other-mods-v1.0/Gin.BGM-SE.for.Vanilla.Higurashi.7z)
 
 ### GIN BGM and SE Install Instructions (all platfoms)
 

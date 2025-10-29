@@ -119,7 +119,7 @@ This page is dedicated to credit all collaborators who helped us along the way. 
 * GIN let us use their "Original JP release BGM/SE patch" as an option in our mod
 * Lots of help with BGM/SE stuff in general
 
-### Overg
+### [Overg](https://github.com/Daniel-Geron)
 
 * Provided initial version of Original JP Release BGM/SE for Higurashi Rei
 * Provided Hou Compilation BGM/SE files for GIN's BGM option/Hou (2014) BGM option in our Hou+ Mod

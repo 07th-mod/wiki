@@ -189,7 +189,8 @@ You can try the following solutions. Please try them in order.:
     - In particular, make sure the game (Umineko or Higurashi) are closed, and also the launcher (Steam or GOG Downloader/Galaxy)
 
 3. **Move or copy the game folder out of Program Files so the installer can access it:**
-    - Move or copy the game folder to `Desktop` or `My Documents` - somewhere you know modifying and deleting files is allowed
+    - Move or copy the game folder to `Downloads`- somewhere you know modifying and deleting files is allowed.
+        - Avoid special folders like `Program Files` or cloud storage folders like `Desktop` and `Documents`
     - Retry the install. You can move the game folder back after the install is finished.
 
 4. **Attempt the install as an Administrator user (not a "Standard User")**

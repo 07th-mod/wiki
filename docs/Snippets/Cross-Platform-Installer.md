@@ -5,9 +5,16 @@
 === "Windows"
 
     ## Starting the installer
-    1. Download `07th-Mod.Installer.Windows.exe` to your computer from the [Download Page](https://github.com/07th-mod/python-patcher/releases). **Do not run it directly from your browser** - download it first.
+    1. Download `07th-Mod.Installer.Windows.exe` to your computer from the [Download Page](https://github.com/07th-mod/python-patcher/releases) to your **Downloads** folder.
+        - If possible, **do not run the installer from a temporary folder**.
+            - To do this, ensure you download the installer to your **Downloads** folder.
+        - **DO NOT move the installer `.exe` to a special or cloud storage folder**
+            - We recommend running the installer from your **Downloads** folder to avoid issues with permissions or cloud storage
+            - **DO NOT** move the installer to the game folder. Although some other game patchers work like this, the 07th-mod installer may fail if run from the game folder.
+            - **DO NOT** run the installer from a cloud storage folder like `Desktop`, `Documents` etc.
+                - Windows enables cloud storage for `Desktop` or `Documents` by default - so you may unknowingly have it enabled.
         - If a "Windows SmartScreen" warning appears, click "More info", then choose "Run anyway".
-    2. Run the installer - the installer launcher will appear and extract to `07th-mod_installer`.
+    2. Run the installer from your **Downloads** folder - the installer launcher will appear and extract to `07th-mod_installer`.
         - **Do not close this window** until you are finished using the installer.
     3. When extraction is finished, click "Run Installer".
     4. The installer will open as a web page in your browser. This is the installer's interface.

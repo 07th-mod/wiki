@@ -43,6 +43,7 @@ These crashes can happen on the unmodded game too, but it's possible the increas
         - If you try this method, please give feedback to us if it worked or not. [Refer to this github issue](https://github.com/07th-mod/umineko-question/issues/181) or open a new issue/message us on Discord.
 
 - We've also had a report that having a PS4 controller plugged in can cause this issue - try unplugging any controllers you have and see if it fixes the issue.
+    - A user reported this behavior: "Game freezes when I click inside interact with it (clicking, pressing my keyboard, all of that while the game's window is open "clicked on"), game unfreezes when I click outside of it."
 
 - More generally, if the issue randomly started happening, please try to remember if you installed any drivers, software, or hardware (including USB headphones, input peripherals like controllers, monitors etc.) recently. Try reverting the change you made or removing the devices and see if the issue is fixed.
 

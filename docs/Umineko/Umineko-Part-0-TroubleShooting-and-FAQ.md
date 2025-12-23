@@ -217,9 +217,13 @@ In this game engine, pressing 'm' on your keyboard, or the "Select" equivalent o
 
 This seems to be inherent to the audio files of the PS3 game (either when they were recorded, or during mixdown). However the quality seems to improve as you progress through the game - it's mainly during the start of Episode 1 when it is noticeable.
 
-#### Text advances too slowly/quickly
+#### How do I change the text speed? / Text advances too slowly/quickly
 
-Press the 1 (slow), 2 (normal), or 3 (fast) keys while the game is not animating text to change the text speed. The full list of controls can be viewed by pressing the "Controls" button on the main menu.
+You can press `1` (slow), `2` (normal/default), or `3` (fast) on your keyboard to set the text speed (when the game is not animating the text). However, Umineko may reset your text speed every now and then, in which case you have to press the key again. If you don't mind pressing it every now and then, this method of setting the text speed is OK.
+
+A more permanent solution is to open the game script in the game folder (the `0.u` file), then modify the line `defaultspeed 40,20,0` (which are `(slow, default, fast)` speeds respectively. Each number is the delay between drawing each character, in game ticks.
+
+For example, setting to `defaultspeed 0,0,0` would force the fastest text speed at all times.
 
 #### Sometimes voices don't play
 

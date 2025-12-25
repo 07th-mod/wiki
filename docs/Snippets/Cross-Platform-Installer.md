@@ -163,16 +163,20 @@
     ## Downloading and Starting the installer
 
     1. Download `07th-Mod.Installer.linux.tar.gz` to your computer from the [our Github Releases page](https://github.com/07th-mod/python-patcher/releases) to your `Downloads` folder.
-    2. Right click the archive, then click "Extract" > "Extract archive here", which should create the folder "07th-Mod_Installer_Linux64".
+    2. Right click the archive, then click "Extract" > "Extract archive here"
         ![Extract archive here](https://07th-mod.com/wiki/img/steamdeck-extract-here.png)
-    3. Right click the `setup` file located in the "07th-Mod_Installer_Linux64" folder, then click "Run In Konsole"
+    3. In some cases, you may see a checkbox called "☑ Preserve paths when extracting". **Ensure it is ticked (☑)** or the installer will fail with a 404 error on the loading screen.
+        ![ark preserve paths](https://07th-mod.com/wiki/img/ark-preserve-paths.jpg)
+    4. After extraction is complete, a folder called "07th-Mod_Installer_Linux64" should be created.
+    5. Right click the `setup` file located in the "07th-Mod_Installer_Linux64" folder, then click "Run In Konsole"
         ![Run in Konsole](https://07th-mod.com/wiki/img/steamdeck-run-in-konsole.png)
-    4. After some time, *hopefully* the installer's interface will open as a web page in your browser. If it does not, see instructions below.
+    6. After some time, *hopefully* the installer's interface will open as a web page in your browser. If it does not, see instructions below.
         1. **Most likely you did not install Firefox earlier via Discover**. Install it now, then restart the installer.
         2. As an alternative, you can manually right-click and 'Copy Link Address', then paste the link into your browser. Usually the address will be `http:127.0.0.1:8000/loading_screen.html`.
         ![Copy Link Address](https://07th-mod.com/wiki/img/steamdeck-copy-link-address.png)
         3. If the browser is launched, but the page does not load, try refreshing the page
         4. If you still cannot get the web page to load, run `setup_safe_mode` to use the text-based installer.
+        5. If you get a **404 error** trying to load `loading_screen.html` likely **you did not tick the "☑ Preserve paths when extracting" checkbox** when extracting the installer. Try extracting the installer again with this checkbox ticked.
 
     --8<-- "installer-usage.md"
 

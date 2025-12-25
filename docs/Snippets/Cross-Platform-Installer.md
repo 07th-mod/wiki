@@ -2,7 +2,7 @@
 
 **Please select your operating system from the tabs below**
 
-=== "Windows"
+=== "🪟 Windows"
 
     ## Starting the installer
     1. Download `07th-Mod.Installer.Windows.exe` to your computer from the [Download Page](https://github.com/07th-mod/python-patcher/releases) to your **Downloads** folder.
@@ -28,7 +28,7 @@
     3. If you wish to stop an install that is in progress, you MUST either click the **Quit Installer** button, or close the launcher. If you just close the webpage, the install will still run in the background!
     4. When the install finishes, "The install was successful!" will be displayed. Please carefully read the information that is displayed, which may contain gotchas/extra tasks you may need to do.
 
-=== "Mac"
+=== "🍎 Mac"
 
     ## MacOS 12 (Monterey) and Higher - Installing Python 3
 
@@ -77,7 +77,7 @@
 
         For reference, the default steam folder is `~/Library/Application Support/Steam/steamapps/common/`, but yours may be different.
 
-=== "Linux / Proton / Wine"
+=== "🐧Linux / ⚛ Proton / 🍷 Wine"
 
     !!! warning "If you're using a Steam Deck, please click the 'Steam Deck' tab above!"
 
@@ -126,7 +126,7 @@
 
     --8<-- "installer-usage.md"
 
-=== "Steam Deck"
+=== "◗ Steam Deck"
 
     !!! warning "The Steam Deck is new, so these instructions may become out of date quickly. Please let us know if these instructions don't work or need updating"
 
@@ -176,7 +176,7 @@
 
     --8<-- "installer-usage.md"
 
-=== "Power Users"
+=== "⌨ Power Users"
 
     Power users can try a few different ways of running the installer on [this page](../Installer/power-users.md)
 

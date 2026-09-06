@@ -112,6 +112,18 @@ If this fixes the issue, consider moving the game folder to another place you ha
 
 You might also want to try running the game with steam completely closed, by double clicking on the .exe.
 
+### [Linux][Full Mod] Movie is too big (zoomed in) or too small (only plays in top left corner)
+
+To fix this issue, you most likely need to change the setting in the installer for "Proton / Wine Small Movie Fixes", then press "Update" to install the correct movie file.
+
+We're not sure what is correct, but we think it is:
+- Linux/Steam Deck with Wine/Proton: Choose "Small Movie Fix"
+- Linux Native: Choose "Revert Movie Fix"
+
+### Odd graphical glitches (cut off images, broken transparency) when game is run through Steam
+
+Try running the game without Steam (close steeam and directly run the .exe file). Although, we're not sure what the actual cause of this problem is.
+
 ## Install Problems
 
 #### Steam updated and now my saves are missing! 

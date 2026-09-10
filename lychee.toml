@@ -1,0 +1,16 @@
+# Links to ignore (regexes)
+exclude = [
+    'twitter\.com',
+    'reddit\.com',
+    'bandcamp\.com',
+    'vpngate\.net',
+    'stackoverflow\.com',
+    '1drv\.ms',
+    'https://github.com/signup',
+    'mysql\.com'
+]
+
+# Paths to ignore (regexes)
+exclude_path = [
+    'docs[/\\]developer[/\\]legacy',
+]

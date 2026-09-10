@@ -1,4 +1,5 @@
 # Links to ignore (regexes)
+# Note: Please replace "fandom.com" links with "antifandom.com", rather than adding an exclusion here.
 exclude = [
     'twitter\.com',
     'reddit\.com',

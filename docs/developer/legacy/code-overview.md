@@ -1,3 +1,27 @@
+## **THIS PAGE IS KEPT FOR HISTORCAL PURPOSES ONLY.**
+
+Please use this repo instead: **[https://github.com/07th-mod/python-patcher](https://github.com/07th-mod/python-patcher)**
+
+## **THIS PAGE IS KEPT FOR HISTORCAL PURPOSES ONLY.**
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 > Written by @ItaloKnox
 
 In this article, we are going to make a breakdown of all the installer code, written in Windows batch (``*.bat``). See the previous page for more information on how the patch is installed, the dependencies and file it uses to complete the installation.

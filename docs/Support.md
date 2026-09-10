@@ -13,7 +13,7 @@ If you are a [Discord](https://discordapp.com/) user, we highly recommend [joini
 
 [07th-Mod](https://github.com/07th-mod/) is an open-source group, meaning that our presence is much more meaningful on Github than on Discord. When there are convoluted issues that needs a lot of testing or fixes that are going to be deployed over time, we often recommend people to open an *issue* at a certain repository that relates to it. These issues are not only limited to getting help installing the patch or fixing small mistakes, they contribute a lot to our work because we can reference them and keep an open, static discussion that will not be buried over time.
 
-If you don't know how to open an issue, create an account at Github [here](https://github.com/join) and read [this small guide on how to write issues](https://help.github.com/en/articles/creating-an-issue).
+If you don't know how to open an issue, create an account at Github [here](https://github.com/signup) and read [this small guide on how to write issues](https://help.github.com/en/articles/creating-an-issue).
 
 The bottom of the Support Checklist page contains [a list of repositories](support-checklist.md#submitting-via-github-issues) where you can submit issues.
   

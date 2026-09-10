@@ -251,45 +251,6 @@ Please select a tab below to access the downloads that you require.
 
     ⚠️ You only need this if you downloaded the unmodded game installer an extremly long time ago. We recommend you re-download the latest unmodded game installer from MangaGamer and re-install, rather than using this file.
 
-=== "Optional Packs"
-
-
-    !!! warning "Different BGM and Sound Effects extraction location!"
-        Unlike the other archives, **these files need to be extracted inside the ``StreamingAssets`` folder to work**. Overwrite all files if asked.
-
-
-    <table>
-    <colgroup>
-    <col style="width: 40%" />
-    <col style="width: 60%" />
-    </colgroup>
-    <thead>
-    <tr class="header">
-    <th style="text-align: center;">Chapter</th>
-    <th style="text-align: center;">Extras</th>
-    </tr>
-    </thead>
-    <tbody>
-    <tr class="even">
-    <td style="text-align: center;">Question Arcs Chapter 1</td>
-    <td style="text-align: center;">None</td>
-    </tr>
-    <tr class="odd">
-    <td style="text-align: center;">Question Arcs Chapters 2,3,4</td>
-    <td style="text-align: center;">
-        <a href="https://github.com/07th-mod/patch-releases/releases/download/untagged-82a3feaa6fe760c53703/Higurashi-Remake-BGM.7z">OST Remake</a><br>
-        <strong>NOTE:</strong> Extract to the <code>HigurashiEp0X_Data/StreamingAssets</code> folder, producing a <code>RemakeBGM</code> folder.<br><br>
-        Handmade remakes of nerve's music <a href="https://radiataalice.bandcamp.com/album/hinamizawa-syndrome-vol-1">(listen online)</a><br>
-        Installing this will enable the option in the Mod Menu
-    </td>
-    </tr>
-    <tr class="odd">
-    <td style="text-align: center;">Answer Arcs</td>
-    <td style="text-align: center;">None yet</td>
-    </tr>
-    </tbody>
-    </table>
-
 === "Console Arcs"
 
 
@@ -346,3 +307,11 @@ Please select a tab below to access the downloads that you require.
 ### Console Arcs Only
 
 To make the Console Arcs appear in Steam with the correct logos and name, please follow these instructions: [Console Arcs Steam Library Tutorial](steam-add-console-arcs/steam-add-console-arcs.md)
+
+## The "Optional Packs" have been removed! Where did they go?
+
+The "Optional Packs" are now included in the "Base Assets", so you don't need to install them separately. See below for which packs are included with which chapter:
+
+As of 2026-09-10, the optional packs are:
+
+- "OST Remake" for Chapters 2, 3, and 4: Handmade remakes of nerve's music by Radiata Alice <a href="https://radiataalice.bandcamp.com/album/hinamizawa-syndrome-vol-1">(listen online)</a>

@@ -1,3 +1,28 @@
+## **THIS PAGE IS KEPT FOR HISTORCAL PURPOSES ONLY.**
+
+Please use this repo instead: **[https://github.com/07th-mod/python-patcher](https://github.com/07th-mod/python-patcher)**
+
+## **THIS PAGE IS KEPT FOR HISTORCAL PURPOSES ONLY.**
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 > Written by @ItaloKnox
 
 ![code_2018-02-16_08-25-23](https://user-images.githubusercontent.com/4702556/36303352-0b09818e-12f3-11e8-9acc-49284797c69a.jpg)

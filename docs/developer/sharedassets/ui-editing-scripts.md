@@ -145,7 +145,7 @@ To generate fonts for Chapters 1-8, you need a copy of Unity 5 (we use 5.5.5f1) 
 	- [Windows Direct Link](https://download.unity3d.com/download_unity/d875e6967482/Windows64EditorInstaller/UnitySetup64-5.5.5f1.exe)
 	- Not Recommended: [Mac Direct Link](https://download.unity3d.com/download_unity/d875e6967482/MacEditorInstaller/Unity-5.5.5f1.pkg) (NOTE: We have not tested using MacOS)
 	- NOTE: If Unity removes the download link, let us know as I have archived a copy. It would be best if you also keep a copy.
-- [Text Mesh Pro Plugin Onedrive Link](https://1drv.ms/u/c/a15ab69e5701a5bf/IQDCT7D_Lk3-T56ZBvxtabAvAdiZUK201qdJenRU3OwIkZY?e=KmfDGu) (for Unity 5.5.5f1)
+- [Text Mesh Pro Plugin Onedrive Link](https://1drv.ms/u/c/a15ab69e5701a5bf/IQDCT7D_Lk3-T56ZBvxtabAvAa5GCoYth8O5WBTvUkfLWRQ?e=Vt6R7I) (for Unity 5.5.5f1)
 	- I would recommend you save and backup a copy of the Text Mesh Pro Plugin as it can't be downloaded easily anymore.
 
 ### Preparing the character list

@@ -137,9 +137,14 @@ For English, you'll need to collect a few more files, since the font behind `msg
 
 # Adding Font Support for a New Language (Chapters 1-8 ONLY)
 
-To generate fonts for Chapters 1-8, you need a copy of Unity 5 with the Text Mesh Pro plugin installed.
+To generate fonts for Chapters 1-8, you need a copy of Unity 5 (we use 5.5.5f1) with the Text Mesh Pro plugin installed.
 
-**As Unity 5 and the Text Mesh Pro Plugin can't be easily downloaded anymore, I've saved a copy of the Unity 5 installer and the Text Mesh Pro Plugin here: [Unity and Text Mesh Pro Mirror (Onedrive Link)](https://1drv.ms/f/s!Ar-lAVeetlqhhf01Us28Zbo3TNvdow?e=2rWbiE)**. I would recommend you save and backup a copy of these files.
+- [The Unity 5.5.5f1 Release Page](https://unity.com/releases/editor/whats-new/5.5.5f1)
+	- [Windows Direct Link](https://download.unity3d.com/download_unity/d875e6967482/Windows64EditorInstaller/UnitySetup64-5.5.5f1.exe)
+	- [Mac Direct Link](https://download.unity3d.com/download_unity/d875e6967482/MacEditorInstaller/Unity-5.5.5f1.pkg)
+	- NOTE: If Unity removes the download link, let us know as I have archived a copy. It would be best if you also keep a copy.
+- [Text Mesh Pro Plugin Onedrive Link](https://1drv.ms/u/c/a15ab69e5701a5bf/IQDCT7D_Lk3-T56ZBvxtabAvAdiZUK201qdJenRU3OwIkZY?e=KmfDGu) (for Unity 5.5.5f1)
+	- I would recommend you save and backup a copy of the Text Mesh Pro Plugin as it can't be downloaded easily anymore.
 
 ### Preparing the character list
 
@@ -174,8 +179,12 @@ Also, these instructions roughly [follow this guide in Korean](https://snowyegre
 ## Creating the font
 
 1. Install the version of Unity matching the game (roughly). For example, Rei is currently either verison `2019.4.36f1` or version `2019.4.40f1`, so we install version 2019.4.36 (generally the font generated on 2019.4.36 should work for all 2019.4.* versions). You can download them from the:
-	* [Unity Download Archive](https://unity.com/releases/editor/archive)
-	* [Unity and Text Mesh Pro Mirror (Onedrive Link)](https://1drv.ms/f/s!Ar-lAVeetlqhhf01Us28Zbo3TNvdow?e=2rWbiE).
+	- [Unity Download Archive](https://unity.com/releases/editor/archive)
+	- [The Unity 2019.4.40f1 Release Page](https://unity.com/releases/editor/whats-new/2019.4.40f1)
+		- [Windows Direct Link](https://download.unity3d.com/download_unity/ffc62b691db5/Windows64EditorInstaller/UnitySetup64-2019.4.40f1.exe)
+		- [Mac Direct Link](https://download.unity3d.com/download_unity/ffc62b691db5/MacEditorInstaller/Unity-2019.4.40f1.pkg)
+		- [Linux Direct Link](https://download.unity3d.com/download_unity/ffc62b691db5/LinuxEditorInstaller/Unity-2019.4.40f1.tar.xz)
+	- NOTE: If Unity removes the download link, let us know as I have archived a copy. It would be best if you also keep a copy.
 2. Create a new project
 3. Click Window->TextMeshPro->Font Asset Creator
 4. Follow the above "Adding Font Support for a New Language (Chapters 1-8 ONLY)" instructions to make a new font asset (starting from "Preparing the character list" up to and including "Generating the SDF font"), but **DO NOT run TMPAssetConverter**. As a summary:

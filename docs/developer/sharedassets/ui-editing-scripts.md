@@ -3,6 +3,8 @@ Written by [@tellowkrinkle](https://github.com/tellowkrinkle/).
 !!! warning "Warning: Old Information on this page"
 	We used to have lots of different scripts you would setup and run to update the `sharedasssets0.assets`. Now we have a monolithic `build.py` script which does everything at once - you just have to edit the various files in the `assets` folder before you run it. Please keep that in mind when reading this page as this wiki may not have been fully updated yet.
 
+!!! warning "Warning: MacOS and Linux Support"
+	The below instructions were written based on Windows only. Therefore, we do not recommend using MacOS or Linux as we have never tested any of the below steps on those OS, or the programs required may not be available on MacOS or Linux.
 
 These [scripts](https://github.com/07th-mod/ui-editing-scripts/tree/master/scripts) can be used to easily update the `sharedassets0.assets` file in Higurashi games. This can save a lot of clicking in UABE and string edits were not even possible without these scripts.
 
@@ -141,7 +143,7 @@ To generate fonts for Chapters 1-8, you need a copy of Unity 5 (we use 5.5.5f1) 
 
 - [The Unity 5.5.5f1 Release Page](https://unity.com/releases/editor/whats-new/5.5.5f1)
 	- [Windows Direct Link](https://download.unity3d.com/download_unity/d875e6967482/Windows64EditorInstaller/UnitySetup64-5.5.5f1.exe)
-	- [Mac Direct Link](https://download.unity3d.com/download_unity/d875e6967482/MacEditorInstaller/Unity-5.5.5f1.pkg)
+	- Not Recommended: [Mac Direct Link](https://download.unity3d.com/download_unity/d875e6967482/MacEditorInstaller/Unity-5.5.5f1.pkg) (NOTE: We have not tested using MacOS)
 	- NOTE: If Unity removes the download link, let us know as I have archived a copy. It would be best if you also keep a copy.
 - [Text Mesh Pro Plugin Onedrive Link](https://1drv.ms/u/c/a15ab69e5701a5bf/IQDCT7D_Lk3-T56ZBvxtabAvAdiZUK201qdJenRU3OwIkZY?e=KmfDGu) (for Unity 5.5.5f1)
 	- I would recommend you save and backup a copy of the Text Mesh Pro Plugin as it can't be downloaded easily anymore.
@@ -182,8 +184,8 @@ Also, these instructions roughly [follow this guide in Korean](https://snowyegre
 	- [Unity Download Archive](https://unity.com/releases/editor/archive)
 	- [The Unity 2019.4.40f1 Release Page](https://unity.com/releases/editor/whats-new/2019.4.40f1)
 		- [Windows Direct Link](https://download.unity3d.com/download_unity/ffc62b691db5/Windows64EditorInstaller/UnitySetup64-2019.4.40f1.exe)
-		- [Mac Direct Link](https://download.unity3d.com/download_unity/ffc62b691db5/MacEditorInstaller/Unity-2019.4.40f1.pkg)
-		- [Linux Direct Link](https://download.unity3d.com/download_unity/ffc62b691db5/LinuxEditorInstaller/Unity-2019.4.40f1.tar.xz)
+		- Not Recommended: [Mac Direct Link](https://download.unity3d.com/download_unity/ffc62b691db5/MacEditorInstaller/Unity-2019.4.40f1.pkg) (NOTE: We have not tested using MacOS)
+		- Not Recommended: [Linux Direct Link](https://download.unity3d.com/download_unity/ffc62b691db5/LinuxEditorInstaller/Unity-2019.4.40f1.tar.xz) (NOTE: We have not tested using Linux)
 	- NOTE: If Unity removes the download link, let us know as I have archived a copy. It would be best if you also keep a copy.
 2. Create a new project
 3. Click Window->TextMeshPro->Font Asset Creator

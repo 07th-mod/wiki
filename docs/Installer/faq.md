@@ -32,30 +32,38 @@ Follow these steps to use the workaround:
 
 ### General Connection Troubleshooting
 
-First, double check you can access BOTH the following websites in your browser without error:
+First, try to open this "installer config file" (it should look like a text file/code file).
 
-1. [https://07th-mod.com/](https://07th-mod.com/)
+1. Try Opening This File: [https://raw.githubusercontent.com/07th-mod/python-patcher/master/installData.json](https://raw.githubusercontent.com/07th-mod/python-patcher/master/installData.json)
 
-2. [https://raw.githubusercontent.com/07th-mod/python-patcher/master/installData.json](https://raw.githubusercontent.com/07th-mod/python-patcher/master/installData.json)
+Then, skip to the section below which describes your situation:
 
-If you cannot access these websites on any computer or phone (on local wifi, NOT mobile internet) that you try:
+#### Case A: I cannot see this link on any device (on any computer or phone)
 
-- you may have a government firewall blocking access to the above websites.
-- you might be in Japan (we currently don't allow downloads from Japan for legal reasons).
-- an ISP/company/government firewall blocking access to the above websites.
+If you cannot access these websites on **any computer or phone** (on local wifi, NOT mobile internet) that you try:
 
-To fix these issues, we suggest using a free VPN, such as [https://protonvpn.com/](https://protonvpn.com/) (do not use with P2P software) or [https://www.vpngate.net](https://www.vpngate.net/en/download.aspx) (harder to use). This will bypass any external blocking of the above websites.
+1. You may have a government firewall blocking access to the above websites.
+2. An ISP/company/government firewall blocking access to the above websites.
+
+To fix these issues:
+
+1. Try using a VPN, such as the [free VPN included with firefox](https://support.mozilla.org/en-US/kb/built-in-vpn), or [https://www.vpngate.net](https://www.vpngate.net/en/download.aspx) (harder to use).
+2. If you are unable to use a VPN, there are other methods, but they are beyond the scope of this wiki.
+
+#### Case B: I cannot see this link on my main computer, but it works on my phone or another computer
 
 If you cannot open these websites in your browser on your particular computer, but it works on other connections/other computers, you may have a problem with:
 
-- a local antivirus's firewall blocking access to the above websites. You may need to set an exception for the above websites.
-- a VPN or proxy interfering with access to the above websites (unlikely). You may need to disable the VPN or proxy.
+1. A local antivirus's firewall blocking access to the above websites. You may need to set an exception for the above websites.
+2. A VPN or proxy interfering with access to the above websites (unlikely). You may need to disable the VPN or proxy.
+
+#### Case C: I can see the link in my browser, but the installer still has internet related problems
 
 If you can open these websites in your browser, but the installer has a problem accessing these websites, you may have a problem with:
 
-- an antivirus program blocking our installer specifically (blocking the .exe). You may need to add an exception for our installer.
-- an antivirus or ad-blocker program (or pi-hole) blocking those websites specifically. You may need to add an exception for those websites.
-- your anti-censorship software or VPN software not routing our installer's connection. You may need to enable VPN mode in your software (see below about anti-censorship software).
+1. An antivirus program blocking our installer specifically (blocking the .exe). You may need to add an exception for our installer.
+2. An antivirus or ad-blocker program (or pi-hole) blocking those websites specifically. You may need to add an exception for those websites.
+3. Your anti-censorship software or VPN software not routing our installer's connection. You may need to enable VPN mode in your software (see below about anti-censorship software).
 
 ### Can't launch installer - I get a `http.client.UnknownProtocol: HTTP/2.0` error when using a VPN or proxy
 
